@@ -34,3 +34,7 @@ catalog <- catalog |>
     csv_file_name = str_c(slugify(title), ".csv")
   )
 
+
+# Save the catalog as a backup / change tracker for the future
+catalog |> 
+  write_csv("input/catalog.csv")
