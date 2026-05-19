@@ -1,0 +1,365 @@
+year,region,total_violations,violent_criminal_code_violation,property_crime,other_criminal_code_volations,criminal_code_traffic_violation,federal_statute_violations,data_note,footnotes,data_source
+2023,Beaver Creek,35,6,15,2,6,6,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2023,Carcross,205,34,113,37,18,3,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2023,Carmacks,229,63,79,49,27,11,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2023,Dawson,404,85,208,84,21,6,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2023,Faro,78,23,31,13,7,4,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2023,Haines Junction,260,67,128,35,24,6,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2023,Mayo,300,78,104,56,45,17,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2023,Old Crow,217,36,100,43,31,7,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2023,Pelly Crossing,339,69,167,65,16,22,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2023,Ross River,286,85,129,44,15,13,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2023,Teslin,200,37,98,52,11,2,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2023,Watson Lake,683,167,314,146,46,10,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2023,Whitehorse - City,7829,1511,3625,2090,438,165,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2023,Yukon,11065,2261,5111,2716,705,272,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2022,Beaver Creek,27,4,13,2,0,8,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2022,Carcross,225,58,77,48,21,21,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2022,Carmacks,215,58,86,44,16,11,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2022,Dawson,421,111,186,94,20,10,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2022,Faro,65,17,28,11,7,2,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2022,Haines Junction,168,48,67,32,16,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2022,Mayo,270,61,98,52,39,20,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2022,Old Crow,157,23,67,41,25,1,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2022,Pelly Crossing,271,77,111,45,19,19,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2022,Ross River,406,79,209,91,23,4,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2022,Teslin,217,59,92,48,13,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2022,Watson Lake,604,141,261,155,34,13,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2022,Whitehorse - City,7482,1564,3219,2085,446,168,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2022,Yukon,10528,2300,4514,2748,679,287,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2021,Beaver Creek,54,11,25,8,3,7,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2021,Carcross,209,52,66,51,26,14,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2021,Carmacks,240,79,74,53,28,6,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2021,Dawson,508,117,194,128,42,27,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2021,Faro,77,21,37,11,5,3,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2021,Haines Junction,165,54,58,24,28,1,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2021,Mayo,256,59,112,52,19,14,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2021,Old Crow,158,42,53,34,29,0,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2021,Pelly Crossing,309,84,136,52,26,11,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2021,Ross River,378,64,234,60,18,2,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2021,Teslin,155,36,71,31,15,2,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2021,Watson Lake,784,206,279,230,49,20,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2021,Whitehorse - City,7634,1371,3085,2539,428,211,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2021,Yukon,10927,2196,4424,3273,716,318,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2020,Beaver Creek,54,7,17,14,6,10,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2020,Carcross,234,65,73,50,39,7,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2020,Carmacks,211,46,95,36,31,3,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2020,Dawson,422,70,180,118,27,27,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2020,Faro,81,21,44,12,4,0,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2020,Haines Junction,155,38,50,36,29,2,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2020,Mayo,390,95,164,71,37,23,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2020,Old Crow,145,37,45,34,24,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2020,Pelly Crossing,296,86,127,51,27,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2020,Ross River,344,80,206,26,23,9,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2020,Teslin,171,39,74,41,16,1,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2020,Watson Lake,890,215,322,295,39,19,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2020,Whitehorse - City,7493,1356,3113,2211,576,237,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2020,Yukon,10886,2155,4510,2995,878,348,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2019,Beaver Creek,32,8,19,3,1,1,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2019,Carcross,241,68,69,46,52,6,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2019,Carmacks,243,69,89,48,22,15,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2019,Dawson,479,88,223,129,31,8,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2019,Faro,86,21,37,18,8,2,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2019,Haines Junction,209,46,63,65,30,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2019,Mayo,351,61,158,82,22,28,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2019,Old Crow,156,36,36,40,32,12,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2019,Pelly Crossing,209,49,80,46,30,4,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2019,Ross River,295,64,168,35,27,1,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2019,Teslin,151,28,66,33,21,3,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2019,Watson Lake,841,177,308,284,51,21,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2019,Whitehorse - City,7653,1374,3246,2246,603,184,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2019,Yukon,10946,2089,4562,3075,930,290,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2018,Beaver Creek,40,6,18,13,1,2,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2018,Carcross,212,73,62,51,11,15,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2018,Carmacks,175,46,87,30,9,3,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2018,Dawson,340,74,140,81,32,13,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2018,Faro,43,11,23,4,3,2,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2018,Haines Junction,170,40,68,43,13,6,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2018,Mayo,242,48,111,55,13,15,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2018,Old Crow,120,36,48,26,5,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2018,Pelly Crossing,150,33,77,30,10,0,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2018,Ross River,182,34,88,39,16,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2018,Teslin,143,13,66,49,12,3,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2018,Watson Lake,599,145,215,205,22,12,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2018,Whitehorse - City,6372,1028,2847,1907,465,125,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2018,Yukon,8788,1587,3850,2533,612,206,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2017,Beaver Creek,59,9,36,9,3,2,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2017,Carcross,199,59,72,41,16,11,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2017,Carmacks,150,39,50,39,17,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2017,Dawson,337,65,136,108,22,6,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2017,Faro,46,12,21,7,4,2,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2017,Haines Junction,180,42,72,43,18,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2017,Mayo,256,59,90,59,17,31,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2017,Old Crow,113,25,56,24,3,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2017,Pelly Crossing,204,55,70,53,23,3,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2017,Ross River,213,30,101,60,17,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2017,Teslin,158,28,46,62,13,9,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2017,Watson Lake,546,131,201,184,24,6,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2017,Whitehorse - City,6342,916,2647,2242,382,155,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2017,Yukon,8803,1470,3598,2931,559,245,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2016,Beaver Creek,46,6,31,7,1,1,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2016,Carcross,216,77,67,43,14,15,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2016,Carmacks,192,45,56,57,25,9,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2016,Dawson,376,52,133,145,33,13,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2016,Faro,46,7,20,14,3,2,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2016,Haines Junction,158,38,61,42,10,7,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2016,Mayo,171,40,56,51,16,8,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2016,Old Crow,128,35,51,27,10,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2016,Pelly Crossing,201,38,90,52,16,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2016,Ross River,163,52,62,36,9,4,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2016,Teslin,159,22,76,46,12,3,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2016,Watson Lake,635,127,222,239,33,14,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2016,Whitehorse - City,6584,1008,2534,2680,217,145,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2016,Yukon,9075,1547,3459,3439,399,231,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2015,Beaver Creek,57,9,39,5,3,1,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2015,Carcross,196,53,66,53,12,12,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2015,Carmacks,141,25,46,33,25,12,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2015,Dawson,336,66,141,83,24,22,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2015,Faro,80,15,41,16,8,0,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2015,Haines Junction,152,36,44,45,20,7,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2015,Mayo,227,59,88,56,13,11,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2015,Old Crow,135,36,46,33,18,2,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2015,Pelly Crossing,205,46,71,71,13,4,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2015,Ross River,251,67,120,46,15,3,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2015,Teslin,159,43,77,22,13,4,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2015,Watson Lake,599,120,222,201,34,22,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2015,Whitehorse - City,7184,964,2608,3046,327,239,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2015,Yukon,9722,1539,3609,3710,525,339,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2014,Beaver Creek,33,4,18,3,1,7,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2014,Carcross,255,52,74,63,24,42,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2014,Carmacks,219,65,70,52,24,8,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2014,Dawson,358,69,130,110,31,18,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2014,Faro,44,6,23,9,6,0,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2014,Haines Junction,187,47,82,38,15,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2014,Mayo,234,60,90,52,17,15,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2014,Old Crow,134,34,35,39,18,8,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2014,Pelly Crossing,291,71,122,89,8,1,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2014,Ross River,175,54,70,37,11,3,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2014,Teslin,147,20,82,38,6,1,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2014,Watson Lake,620,109,240,197,35,39,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2014,Whitehorse - City,7034,1072,2380,2934,422,226,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2014,Yukon,9731,1663,3416,3661,618,373,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2013,Beaver Creek,40,12,16,5,1,6,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2013,Carcross,195,53,54,56,15,17,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2013,Carmacks,175,29,62,67,15,2,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2013,Dawson,323,45,158,92,25,3,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2013,Faro,57,15,18,14,8,2,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2013,Haines Junction,184,60,91,22,8,3,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2013,Mayo,256,49,104,61,29,13,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2013,Old Crow,109,36,26,28,11,8,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2013,Pelly Crossing,283,70,107,89,15,2,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2013,Ross River,144,30,68,36,8,2,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2013,Teslin,148,33,83,21,8,3,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2013,Watson Lake,832,178,294,268,62,30,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2013,Whitehorse - City,6746,915,2404,2901,328,198,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2013,Yukon,9492,1525,3485,3660,533,289,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2012,Beaver Creek,43,16,14,7,2,4,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2012,Carcross,141,34,42,46,15,4,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2012,Carmacks,180,33,59,62,23,3,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2012,Dawson,355,59,160,89,36,11,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2012,Faro,46,4,18,17,5,2,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2012,Haines Junction,159,42,81,25,9,2,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2012,Mayo,154,44,49,30,24,7,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2012,Old Crow,91,23,39,25,3,1,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2012,Pelly Crossing,262,49,102,80,27,4,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2012,Ross River,158,35,56,51,7,9,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2012,Teslin,161,37,76,33,9,6,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2012,Watson Lake,749,184,259,240,45,21,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2012,Whitehorse - City,5692,898,2176,2185,273,160,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2012,Yukon,8191,1458,3131,2890,478,234,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2011,Beaver Creek,28,5,16,4,0,3,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2011,Carcross,171,49,40,57,13,12,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2011,Carmacks,205,43,60,75,26,1,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2011,Dawson,330,62,167,61,16,24,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2011,Faro,25,7,8,7,3,0,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2011,Haines Junction,151,40,73,24,12,2,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2011,Mayo,118,40,31,30,11,6,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2011,Old Crow,119,26,50,23,6,14,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2011,Pelly Crossing,359,66,158,101,21,13,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2011,Ross River,177,46,55,63,6,7,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2011,Teslin,128,28,63,28,7,2,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2011,Watson Lake,722,170,259,205,43,45,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2011,Whitehorse - City,5448,888,2209,1950,226,175,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2011,Yukon,7981,1470,3189,2628,390,304,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2010,Beaver Creek,36,4,24,4,2,2,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2010,Carcross,198,50,71,40,32,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2010,Carmacks,145,28,48,49,17,3,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2010,Dawson,307,63,132,75,22,15,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2010,Faro,40,7,22,7,3,1,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2010,Haines Junction,143,45,60,16,18,4,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2010,Mayo,113,27,40,28,11,7,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2010,Old Crow,110,16,49,28,8,9,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2010,Pelly Crossing,368,74,159,113,17,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2010,Ross River,221,59,80,64,7,11,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2010,Teslin,136,28,66,30,9,3,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2010,Watson Lake,877,190,311,291,54,31,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2010,Whitehorse - City,5287,873,2049,1936,275,154,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2010,Yukon,7981,1464,3111,2681,475,250,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2009,Beaver Creek,60,9,25,13,6,7,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2009,Carcross,240,54,81,80,14,11,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2009,Carmacks,174,36,73,38,18,9,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2009,Dawson,326,58,117,100,35,16,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2009,Faro,25,7,8,3,1,6,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2009,Haines Junction,125,19,70,21,7,8,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2009,Mayo,150,22,74,30,12,12,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2009,Old Crow,132,39,50,31,7,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2009,Pelly Crossing,269,45,125,80,14,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2009,Ross River,206,41,89,64,8,4,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2009,Teslin,113,35,49,18,7,4,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2009,Watson Lake,947,192,396,275,54,30,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2009,Whitehorse - City,5788,847,1912,2592,277,160,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2009,Yukon,8555,1404,3069,3345,460,277,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2008,Beaver Creek,40,6,18,7,3,6,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2008,Carcross,188,53,65,45,15,10,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2008,Carmacks,189,45,65,53,21,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2008,Dawson,361,56,165,98,23,19,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2008,Faro,27,9,15,3,0,0,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2008,Haines Junction,177,38,80,35,13,11,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2008,Mayo,183,17,94,54,9,9,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2008,Old Crow,163,21,66,61,11,4,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2008,Pelly Crossing,237,46,94,80,14,3,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2008,Ross River,229,26,134,55,11,3,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2008,Teslin,110,19,54,23,13,1,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2008,Watson Lake,915,177,417,256,44,21,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2008,Whitehorse - City,5196,756,2127,1838,274,201,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2008,Yukon,8015,1269,3394,2608,451,293,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2007,Beaver Creek,34,6,12,4,6,6,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2007,Carcross,158,44,69,28,13,4,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2007,Carmacks,230,59,71,77,17,6,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2007,Dawson,367,55,198,72,20,22,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2007,Faro,26,6,15,3,1,1,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2007,Haines Junction,202,49,74,42,21,16,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2007,Mayo,174,20,67,64,14,9,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2007,Old Crow,148,30,75,37,3,3,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2007,Pelly Crossing,231,40,102,65,18,6,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2007,Ross River,194,34,91,47,14,8,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2007,Teslin,110,23,38,39,6,4,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2007,Watson Lake,1031,230,389,329,57,26,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2007,Whitehorse - City,4580,705,1957,1505,241,172,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2007,Yukon,7485,1301,3158,2312,431,283,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2006,Beaver Creek,58,11,17,15,4,11,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2006,Carcross,138,32,62,22,14,8,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2006,Carmacks,179,39,67,56,13,4,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2006,Dawson,319,68,130,81,14,26,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2006,Faro,21,8,8,3,1,1,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2006,Haines Junction,166,40,78,29,13,6,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2006,Mayo,212,38,88,81,4,1,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2006,Old Crow,156,32,69,38,9,8,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2006,Pelly Crossing,186,32,97,41,12,4,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2006,Ross River,159,36,89,26,5,3,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2006,Teslin,98,17,40,24,13,4,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2006,Watson Lake,890,219,377,255,25,14,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2006,Whitehorse - City,4354,671,2190,1203,192,98,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2006,Yukon,6938,1243,3313,1874,319,189,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2005,Beaver Creek,50,9,21,6,3,11,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2005,Carcross,140,25,65,20,22,8,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2005,Carmacks,229,52,104,50,15,8,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2005,Dawson,377,83,178,77,23,16,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2005,Faro,25,4,13,5,2,1,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2005,Haines Junction,151,23,84,18,18,8,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2005,Mayo,181,33,67,68,7,6,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2005,Old Crow,141,30,73,31,2,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2005,Pelly Crossing,206,32,91,75,7,1,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2005,Ross River,214,58,111,29,11,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2005,Teslin,108,20,54,25,5,4,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2005,Watson Lake,679,175,315,148,32,9,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2005,Whitehorse - City,5148,763,2526,1517,247,95,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2005,Yukon,7651,1307,3703,2069,394,178,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2004,Beaver Creek,49,14,11,9,3,12,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2004,Carcross,159,36,64,36,14,9,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2004,Carmacks,169,34,83,32,14,6,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2004,Dawson,347,71,147,93,26,10,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2004,Faro,15,1,12,1,0,1,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2004,Haines Junction,83,17,50,7,8,1,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2004,Mayo,149,37,71,28,9,4,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2004,Old Crow,140,45,39,43,8,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2004,Pelly Crossing,135,35,59,30,7,4,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2004,Ross River,209,66,91,39,10,3,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2004,Teslin,117,22,57,27,9,2,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2004,Watson Lake,651,154,304,167,17,9,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2004,Whitehorse - City,5690,939,2730,1616,242,163,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2004,Yukon,7914,1471,3719,2128,367,229,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2003,Beaver Creek,91,11,23,27,7,23,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2003,Carcross,171,52,70,25,15,9,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2003,Carmacks,157,43,64,38,7,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2003,Dawson,339,76,129,85,24,25,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2003,Faro,25,5,14,4,1,1,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2003,Haines Junction,190,37,91,29,12,21,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2003,Mayo,157,40,68,38,4,7,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2003,Old Crow,136,34,32,58,10,2,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2003,Pelly Crossing,140,34,71,27,7,1,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2003,Ross River,208,58,114,28,4,4,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2003,Teslin,156,35,75,31,6,9,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2003,Watson Lake,973,175,443,318,18,19,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2003,Whitehorse - City,6102,1110,2952,1525,196,319,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2003,Yukon,8845,1710,4146,2233,311,445,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2002,Beaver Creek,84,14,29,22,5,14,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2002,Carcross,135,34,49,31,8,13,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2002,Carmacks,198,41,90,54,8,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2002,Dawson,324,73,125,82,15,29,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2002,Faro,22,2,16,1,1,2,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2002,Haines Junction,153,29,86,18,11,9,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2002,Mayo,228,50,103,62,8,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2002,Old Crow,148,52,30,47,12,7,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2002,Pelly Crossing,189,65,77,33,11,3,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2002,Ross River,233,70,110,38,10,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2002,Teslin,148,41,61,35,6,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2002,Watson Lake,1163,212,439,438,30,44,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2002,Whitehorse - City,5895,1036,2735,1493,248,383,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2002,Yukon,8920,1719,3950,2354,373,524,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2001,Beaver Creek,73,18,17,25,3,10,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2001,Carcross,166,48,58,29,15,16,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2001,Carmacks,162,40,64,48,5,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2001,Dawson,401,84,185,94,17,21,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2001,Faro,70,21,26,12,4,7,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2001,Haines Junction,169,31,75,30,10,23,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2001,Mayo,165,37,65,52,6,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2001,Old Crow,264,60,75,59,20,50,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2001,Pelly Crossing,165,60,61,27,14,3,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2001,Ross River,253,77,135,34,4,3,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2001,Teslin,159,51,64,16,11,17,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2001,Watson Lake,773,147,268,317,18,23,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2001,Whitehorse - City,5371,1010,2484,1456,217,204,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2001,Yukon,8191,1684,3577,2199,344,387,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2000,Beaver Creek,72,14,24,16,5,13,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2000,Carcross,273,66,129,48,19,11,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2000,Carmacks,218,66,92,48,6,6,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2000,Dawson,450,94,206,109,19,22,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2000,Faro,52,10,24,12,2,4,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2000,Haines Junction,146,44,48,33,17,4,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2000,Mayo,141,24,62,42,8,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2000,Old Crow,194,54,82,39,14,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2000,Pelly Crossing,239,78,80,61,16,4,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2000,Ross River,276,82,133,49,9,3,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2000,Teslin,149,40,61,5,25,18,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2000,Watson Lake,812,248,297,186,46,35,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2000,Whitehorse - City,4943,978,2408,1192,192,173,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+2000,Yukon,7965,1798,3646,1840,378,303,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+1999,Beaver Creek,96,12,21,28,7,28,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+1999,Carcross,273,66,135,33,18,21,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+1999,Carmacks,167,43,73,34,13,4,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+1999,Dawson,382,78,197,59,19,29,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+1999,Faro,65,12,42,7,1,3,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+1999,Haines Junction,117,36,44,15,9,13,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+1999,Mayo,121,22,53,36,2,8,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+1999,Old Crow,109,22,51,29,1,6,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+1999,Pelly Crossing,185,54,59,55,13,4,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+1999,Ross River,202,66,58,65,10,3,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+1999,Teslin,147,44,54,22,23,4,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+1999,Watson Lake,776,303,233,167,35,38,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+1999,Whitehorse - City,4211,991,2026,771,261,162,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+1999,Yukon,6851,1749,3046,1321,412,323,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+1998,Beaver Creek,66,8,14,13,2,29,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+1998,Carcross,247,43,128,55,5,16,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+1998,Carmacks,104,29,39,25,6,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+1998,Dawson,490,67,261,82,35,45,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+1998,Faro,72,14,41,7,5,5,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+1998,Haines Junction,96,24,54,8,9,1,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+1998,Mayo,149,19,57,46,2,25,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+1998,Old Crow,173,41,59,28,3,42,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+1998,Pelly Crossing,156,46,44,49,11,6,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+1998,Ross River,245,76,81,62,20,6,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+1998,Teslin,143,37,62,37,3,4,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+1998,Watson Lake,725,223,192,250,40,20,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+1998,Whitehorse - City,3789,705,1995,724,240,125,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.
+1998,Yukon,6455,1332,3027,1386,381,329,,Based on Royal Canadian Mounted Police detachment areas.,Statistics Canada. Table 35-10-0185-01: Incident-based crime statistics by detailed violations.

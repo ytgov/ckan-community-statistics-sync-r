@@ -1,0 +1,352 @@
+census_year,geo_name,category,subcategory,variable_name,total,male,female,flag_total,flag_male,flag_female,geo_location,data_notes,geo_code
+2011,Yukon,,,Total population 15 years and over by marital status,28035,14040,13995,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001
+2011,Yukon,Total population 15 years and over by marital status,,Married or living with a common-law partner,15260,7620,7645,,,,,,6001
+2011,Yukon,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),10545,5280,5265,,,,,,6001
+2011,Yukon,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,4715,2340,2380,,,,,,6001
+2011,Yukon,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,12775,6420,6350,,,,,,6001
+2011,Yukon,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),8875,4810,4065,,,,,,6001
+2011,Yukon,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,810,385,425,,,,,,6001
+2011,Yukon,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,2080,970,1105,,,,,,6001
+2011,Yukon,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,1010,255,755,,,,,,6001
+2011,Whitehorse - Area,,,Total population 15 years and over by marital status,21435,10605,10835,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,990
+2011,Whitehorse - Area,Total population 15 years and over by marital status,,Married or living with a common-law partner,11740,5845,5890,,,,,,990
+2011,Whitehorse - Area,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),8405,4200,4205,,,,,,990
+2011,Whitehorse - Area,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common-law,3335,1645,1685,,,,,,990
+2011,Whitehorse - Area,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,9700,4760,4940,,,,,,6001
+2011,Whitehorse - Area,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),6720,3585,3135,,,,,,6001
+2011,Whitehorse - Area,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,610,285,330,,,,,,6001
+2011,Whitehorse - Area,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,1650,725,925,,,,,,6001
+2011,Whitehorse - Area,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,720,165,550,,,,,,6001
+2011,Whitehorse - City,,,Total population 15 years and over by marital status,19070,9390,9675,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001009
+2011,Whitehorse - City,Total population 15 years and over by marital status,,Married or living with a common-law partner,10215,5090,5125,,,,,,6001009
+2011,Whitehorse - City,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),7335,3665,3670,,,,,,6001009
+2011,Whitehorse - City,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,2880,1425,1455,,,,,,6001009
+2011,Whitehorse - City,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,8855,4300,4555,,,,,,6001009
+2011,Whitehorse - City,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),6175,3290,2890,,,,,,6001009
+2011,Whitehorse - City,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,560,255,305,,,,,,6001009
+2011,Whitehorse - City,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,1460,610,845,,,,,,6001009
+2011,Whitehorse - City,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,660,145,510,,,,,,6001009
+2011,Beaver Creek,,,Total population 15 years and over by marital status,85,50,40,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,YBS042039049018
+2011,Beaver Creek,Total population 15 years and over by marital status,,Married or living with a common-law partner,40,20,25,,,,,,YBS042039049018
+2011,Beaver Creek,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),25,10,10,,,,,,YBS042039049018
+2011,Beaver Creek,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,15,10,10,,,,,,YBS042039049018
+2011,Beaver Creek,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,45,25,15,,,,,,YBS042039049018
+2011,Beaver Creek,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),30,20,10,,,,,,6001042
+2011,Beaver Creek,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,10,5,5,,,,,,YBS042039049018
+2011,Beaver Creek,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,5,0,5,,,,,,YBS042039049018
+2011,Beaver Creek,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,5,0,0,,,,,,YBS042039049018
+2011,Burwash Landing,,,Total population 15 years and over by marital status,80,45,35,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001039
+2011,Burwash Landing,Total population 15 years and over by marital status,,Married or living with a common-law partner,35,20,15,,,,,,6001039
+2011,Burwash Landing,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),15,10,5,,,,,,6001039
+2011,Burwash Landing,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,20,15,10,,,,,,6001039
+2011,Burwash Landing,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,40,25,20,,,,,,6001039
+2011,Burwash Landing,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),30,20,5,,,,,,6001039
+2011,Burwash Landing,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,5,5,0,,,,,,6001039
+2011,Burwash Landing,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,5,0,0,,,,,,6001039
+2011,Burwash Landing,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,5,0,5,,,,,,6001039
+2011,Carcross,,,Total population 15 years and over by marital status,245,135,105,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001048
+2011,Carcross,Total population 15 years and over by marital status,,Married or living with a common-law partner,130,70,65,,,,,,6001048
+2011,Carcross,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),75,35,35,,,,,,6001048
+2011,Carcross,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,60,30,30,,,,,,6001048
+2011,Carcross,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,115,65,40,,,,,,6001048
+2011,Carcross,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),75,45,25,,,,,,6001048
+2011,Carcross,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,10,5,5,,,,,,6001048
+2011,Carcross,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,15,15,5,,,,,,6001048
+2011,Carcross,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,10,0,10,,,,,,6001048
+2011,Carcross 4,,,Total population 15 years and over by marital status,45,25,20,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,YBS048008
+2011,Carcross 4,Total population 15 years and over by marital status,,Married or living with a common-law partner,30,15,15,,,,,,YBS048008
+2011,Carcross 4,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),20,5,10,,,,,,YBS048008
+2011,Carcross 4,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,10,5,5,,,,,,YBS048008
+2011,Carcross 4,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,15,10,5,,,,,,YBS048008
+2011,Carcross 4,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),15,10,0,,,,,,YBS048008
+2011,Carcross 4,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,0,0,0,,,,,,YBS048008
+2011,Carcross 4,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,0,0,0,,,,,,YBS048008
+2011,Carcross 4,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,5,0,0,,,,,,YBS048008
+2011,Carmacks,,,Total population 15 years and over by marital status,380,185,200,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,YBS048008036
+2011,Carmacks,Total population 15 years and over by marital status,,Married or living with a common-law partner,210,105,105,,,,,,YBS048008036
+2011,Carmacks,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),105,50,50,,,,,,YBS048008036
+2011,Carmacks,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,105,55,50,,,,,,YBS048008036
+2011,Carmacks,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,170,75,100,,,,,,YBS048008036
+2011,Carmacks,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),135,55,75,,,,,,YBS048008036
+2011,Carmacks,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,15,10,5,,,,,,YBS048008036
+2011,Carmacks,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,10,5,5,,,,,,YBS048008036
+2011,Carmacks,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,15,5,10,,,,,,YBS048008036
+2011,Champagne Landing 10,,,Total population 15 years and over by marital status,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001038
+2011,Champagne Landing 10,Total population 15 years and over by marital status,,Married or living with a common-law partner,,,,x,x,x,,,6001038
+2011,Champagne Landing 10,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),,,,x,x,x,,,6001038
+2011,Champagne Landing 10,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,,,,x,x,x,,,6001038
+2011,Champagne Landing 10,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,,,,x,x,x,,,6001038
+2011,Champagne Landing 10,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),,,,x,x,x,,,6001038
+2011,Champagne Landing 10,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,,,,x,x,x,,,6001038
+2011,Champagne Landing 10,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,,,,x,x,x,,,6001038
+2011,Champagne Landing 10,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,,,,x,x,x,,,6001038
+2011,Dawson,,,Total population 15 years and over by marital status,1125,575,550,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001038
+2011,Dawson,Total population 15 years and over by marital status,,Married or living with a common-law partner,510,255,255,,,,,,6001038
+2011,Dawson,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),305,150,155,,,,,,6001038
+2011,Dawson,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,205,105,105,,,,,,6001038
+2011,Dawson,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,615,325,295,,,,,,6001038
+2011,Dawson,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),440,240,205,,,,,,6001038
+2011,Dawson,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,40,15,25,,,,,,6001038
+2011,Dawson,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,95,50,45,,,,,,6001038
+2011,Dawson,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,40,15,30,,,,,,6001038
+2011,Destruction Bay,,,Total population 15 years and over by marital status,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001029
+2011,Destruction Bay,Total population 15 years and over by marital status,,Married or living with a common-law partner,,,,x,x,x,,,6001029
+2011,Destruction Bay,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),,,,x,x,x,,,6001029
+2011,Destruction Bay,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,,,,x,x,x,,,6001029
+2011,Destruction Bay,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,,,,x,x,x,,,6001029
+2011,Destruction Bay,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),,,,x,x,x,,,6001029
+2011,Destruction Bay,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,,,,x,x,x,,,6001029
+2011,Destruction Bay,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,,,,x,x,x,,,6001029
+2011,Destruction Bay,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,,,,x,x,x,,,6001029
+2011,Faro,,,Total population 15 years and over by marital status,295,160,135,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001004
+2011,Faro,Total population 15 years and over by marital status,,Married or living with a common-law partner,175,90,90,,,,,,6001004
+2011,Faro,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),135,65,65,,,,,,6001004
+2011,Faro,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,40,20,20,,,,,,6001004
+2011,Faro,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,115,70,45,,,,,,6001004
+2011,Faro,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),70,40,30,,,,,,6001004
+2011,Faro,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,15,5,5,,,,,,6001004
+2011,Faro,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,20,15,5,,,,,,6001004
+2011,Faro,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,10,10,5,,,,,,6001004
+2011,Haines Junction,,,Total population 15 years and over by marital status,480,225,260,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001004
+2011,Haines Junction,Total population 15 years and over by marital status,,Married or living with a common-law partner,280,140,140,,,,,,6001004
+2011,Haines Junction,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),185,95,90,,,,,,6001004
+2011,Haines Junction,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,95,50,50,,,,,,6001004
+2011,Haines Junction,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,205,85,120,,,,,,6001004
+2011,Haines Junction,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),140,65,75,,,,,,6001004
+2011,Haines Junction,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,15,10,10,,,,,,6001004
+2011,Haines Junction,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,30,15,15,,,,,,6001004
+2011,Haines Junction,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,20,5,20,,,,,,6001004
+2011,Ibex Valley,,,Total population 15 years and over by marital status,295,145,145,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001055
+2011,Ibex Valley,Total population 15 years and over by marital status,,Married or living with a common-law partner,195,100,100,,,,,,6001055
+2011,Ibex Valley,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),125,60,60,,,,,,6001055
+2011,Ibex Valley,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,75,35,35,,,,,,6001055
+2011,Ibex Valley,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,100,50,50,,,,,,6001055
+2011,Ibex Valley,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),70,35,35,,,,,,6001055
+2011,Ibex Valley,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,10,5,0,,,,,,6001055
+2011,Ibex Valley,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,10,5,5,,,,,,6001055
+2011,Ibex Valley,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,5,5,5,,,,,,6001055
+2011,Johnsons Crossing,,,Total population 15 years and over by marital status,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001055
+2011,Johnsons Crossing,Total population 15 years and over by marital status,,Married or living with a common-law partner,,,,x,x,x,,,6001055
+2011,Johnsons Crossing,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),,,,x,x,x,,,6001055
+2011,Johnsons Crossing,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,,,,x,x,x,,,6001055
+2011,Johnsons Crossing,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,,,,x,x,x,,,6001055
+2011,Johnsons Crossing,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),,,,x,x,x,,,6001055
+2011,Johnsons Crossing,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,,,,x,x,x,,,6001055
+2011,Johnsons Crossing,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,,,,x,x,x,,,6001055
+2011,Johnsons Crossing,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,,,,x,x,x,,,6001055
+2011,Keno Hill,,,Total population 15 years and over by marital status,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001052
+2011,Keno Hill,Total population 15 years and over by marital status,,Married or living with a common-law partner,,,,x,x,x,,,6001052
+2011,Keno Hill,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),,,,x,x,x,,,6001052
+2011,Keno Hill,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,,,,x,x,x,,,6001052
+2011,Keno Hill,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,,,,x,x,x,,,6001052
+2011,Keno Hill,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),,,,x,x,x,,,6001052
+2011,Keno Hill,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,,,,x,x,x,,,6001052
+2011,Keno Hill,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,,,,x,x,x,,,6001052
+2011,Keno Hill,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,,,,x,x,x,,,6001052
+2011,Kloo Lake,,,Total population 15 years and over by marital status,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001052
+2011,Kloo Lake,Total population 15 years and over by marital status,,Married or living with a common-law partner,,,,x,x,x,,,6001052
+2011,Kloo Lake,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),,,,x,x,x,,,6001052
+2011,Kloo Lake,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,,,,x,x,x,,,6001052
+2011,Kloo Lake,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,,,,x,x,x,,,6001052
+2011,Kloo Lake,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),,,,x,x,x,,,6001052
+2011,Kloo Lake,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,,,,x,x,x,,,6001052
+2011,Kloo Lake,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,,,,x,x,x,,,6001052
+2011,Kloo Lake,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,,,,x,x,x,,,6001052
+2011,Klukshu,,,Total population 15 years and over by marital status,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001019
+2011,Klukshu,Total population 15 years and over by marital status,,Married or living with a common-law partner,,,,x,x,x,,,6001019
+2011,Klukshu,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),,,,x,x,x,,,6001019
+2011,Klukshu,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,,,,x,x,x,,,6001019
+2011,Klukshu,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,,,,x,x,x,,,6001019
+2011,Klukshu,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),,,,x,x,x,,,6001019
+2011,Klukshu,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,,,,x,x,x,,,6001019
+2011,Klukshu,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,,,,x,x,x,,,6001019
+2011,Klukshu,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,,,,x,x,x,,,6001019
+2011,Lake Laberge 1,,,Total population 15 years and over by marital status,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001010
+2011,Lake Laberge 1,Total population 15 years and over by marital status,,Married or living with a common-law partner,,,,x,x,x,,,6001010
+2011,Lake Laberge 1,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),,,,x,x,x,,,6001010
+2011,Lake Laberge 1,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,,,,x,x,x,,,6001010
+2011,Lake Laberge 1,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,,,,x,x,x,,,6001010
+2011,Lake Laberge 1,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),,,,x,x,x,,,6001010
+2011,Lake Laberge 1,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,,,,x,x,x,,,6001010
+2011,Lake Laberge 1,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,,,,x,x,x,,,6001010
+2011,Lake Laberge 1,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,,,,x,x,x,,,6001010
+2011,Macpherson-Grizzly Valley,,,Total population 15 years and over by marital status,925,470,455,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001059
+2011,Macpherson-Grizzly Valley,Total population 15 years and over by marital status,,Married or living with a common-law partner,575,285,285,,,,,,6001059
+2011,Macpherson-Grizzly Valley,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),410,205,205,,,,,,6001059
+2011,Macpherson-Grizzly Valley,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,165,80,85,,,,,,6001059
+2011,Macpherson-Grizzly Valley,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,350,185,165,,,,,,6001059
+2011,Macpherson-Grizzly Valley,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),235,120,110,,,,,,6001059
+2011,Macpherson-Grizzly Valley,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,20,10,5,,,,,,6001059
+2011,Macpherson-Grizzly Valley,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,75,40,35,,,,,,6001059
+2011,Macpherson-Grizzly Valley,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,25,10,15,,,,,,6001059
+2011,Marsh Lake,,,Total population 15 years and over by marital status,555,290,265,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001058
+2011,Marsh Lake,Total population 15 years and over by marital status,,Married or living with a common-law partner,375,185,185,,,,,,6001058
+2011,Marsh Lake,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),270,135,135,,,,,,6001058
+2011,Marsh Lake,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,100,45,50,,,,,,6001058
+2011,Marsh Lake,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,185,100,85,,,,,,6001058
+2011,Marsh Lake,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),95,55,40,,,,,,6001058
+2011,Marsh Lake,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,10,5,10,,,,,,6001058
+2011,Marsh Lake,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,60,40,25,,,,,,6001058
+2011,Marsh Lake,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,15,5,10,,,,,,6001058
+2011,Mayo,,,Total population 15 years and over by marital status,190,90,100,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001022
+2011,Mayo,Total population 15 years and over by marital status,,Married or living with a common-law partner,85,45,40,,,,,,6001022
+2011,Mayo,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),55,30,25,,,,,,6001058
+2011,Mayo,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,35,15,15,,,,,,6001022
+2011,Mayo,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,105,45,55,,,,,,6001022
+2011,Mayo,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),75,35,40,,,,,,6001058
+2011,Mayo,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,0,0,5,,,,,,6001058
+2011,Mayo,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,10,5,5,,,,,,6001022
+2011,Mayo,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,10,5,10,,,,,,6001022
+2011,Moosehide Creek 2,,,Total population 15 years and over by marital status,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001022
+2011,Moosehide Creek 2,Total population 15 years and over by marital status,,Married or living with a common-law partner,,,,x,x,x,,,6001022
+2011,Moosehide Creek 2,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),,,,x,x,x,,,6001022
+2011,Moosehide Creek 2,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,,,,x,x,x,,,6001022
+2011,Moosehide Creek 2,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,,,,x,x,x,,,6001022
+2011,Moosehide Creek 2,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),,,,x,x,x,,,6001022
+2011,Moosehide Creek 2,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,,,,x,x,x,,,6001022
+2011,Moosehide Creek 2,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,,,,x,x,x,,,6001022
+2011,Moosehide Creek 2,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,,,,x,x,x,,,6001022
+2011,Mt. Lorne,,,Total population 15 years and over by marital status,335,180,160,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001044
+2011,Mt. Lorne,Total population 15 years and over by marital status,,Married or living with a common-law partner,235,115,120,,,,,,6001044
+2011,Mt. Lorne,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),155,80,80,,,,,,6001044
+2011,Mt. Lorne,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,75,40,40,,,,,,6001044
+2011,Mt. Lorne,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,105,60,45,,,,,,6001044
+2011,Mt. Lorne,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),70,40,30,,,,,,6001044
+2011,Mt. Lorne,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,10,5,0,,,,,,6001044
+2011,Mt. Lorne,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,20,15,10,,,,,,6001044
+2011,Mt. Lorne,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,5,0,5,,,,,,6001044
+2011,Old Crow,,,Total population 15 years and over by marital status,190,100,90,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001043
+2011,Old Crow,Total population 15 years and over by marital status,,Married or living with a common-law partner,80,40,40,,,,,,6001043
+2011,Old Crow,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),40,20,20,,,,,,6001043
+2011,Old Crow,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,35,20,15,,,,,,6001043
+2011,Old Crow,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,110,60,55,,,,,,6001043
+2011,Old Crow,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),80,45,35,,,,,,6001043
+2011,Old Crow,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,15,10,10,,,,,,6001043
+2011,Old Crow,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,5,5,5,,,,,,6001043
+2011,Old Crow,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,10,5,5,,,,,,6001043
+2011,Pelly Crossing,,,Total population 15 years and over by marital status,275,140,130,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001041
+2011,Pelly Crossing,Total population 15 years and over by marital status,,Married or living with a common-law partner,125,60,60,,,,,,6001041
+2011,Pelly Crossing,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),45,25,25,,,,,,6001041
+2011,Pelly Crossing,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,80,40,40,,,,,,6001041
+2011,Pelly Crossing,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,150,85,70,,,,,,6001041
+2011,Pelly Crossing,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),125,70,60,,,,,,6001043
+2011,Pelly Crossing,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,5,10,0,,,,,,6001041
+2011,Pelly Crossing,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,5,0,5,,,,,,6001041
+2011,Pelly Crossing,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,10,10,5,,,,,,6001041
+2011,Ross River,,,Total population 15 years and over by marital status,,,,..,..,..,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001041
+2011,Ross River,Total population 15 years and over by marital status,,Married or living with a common-law partner,,,,..,..,..,,,6001037
+2011,Ross River,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),,,,..,..,..,,,6001037
+2011,Ross River,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,,,,..,..,..,,,6001037
+2011,Ross River,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,,,,..,..,..,,,6001037
+2011,Ross River,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),,,,..,..,..,,,6001037
+2011,Ross River,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,,,,..,..,..,,,6001037
+2011,Ross River,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,,,,..,..,..,,,6001037
+2011,Ross River,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,,,,..,..,..,,,6001037
+2011,Stewart Crossing,,,Total population 15 years and over by marital status,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001037
+2011,Stewart Crossing,Total population 15 years and over by marital status,,Married or living with a common-law partner,,,,x,x,x,,,6001037
+2011,Stewart Crossing,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),,,,x,x,x,,,6001037
+2011,Stewart Crossing,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,,,,x,x,x,,,6001037
+2011,Stewart Crossing,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,,,,x,x,x,,,6001037
+2011,Stewart Crossing,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),,,,x,x,x,,,6001037
+2011,Stewart Crossing,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,,,,x,x,x,,,6001037
+2011,Stewart Crossing,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,,,,x,x,x,,,6001037
+2011,Stewart Crossing,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,,,,x,x,x,,,6001037
+2011,Swift River,,,Total population 15 years and over by marital status,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001046
+2011,Swift River,Total population 15 years and over by marital status,,Married or living with a common-law partner,,,,x,x,x,,,6001046
+2011,Swift River,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),,,,x,x,x,,,6001046
+2011,Swift River,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,,,,x,x,x,,,6001050
+2011,Swift River,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,,,,x,x,x,,,6001046
+2011,Swift River,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),,,,x,x,x,,,6001046
+2011,Swift River,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,,,,x,x,x,,,6001046
+2011,Swift River,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,,,,x,x,x,,,6001046
+2011,Swift River,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,,,,x,x,x,,,6001046
+2011,Tagish,,,Total population 15 years and over by marital status,350,170,180,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001046
+2011,Tagish,Total population 15 years and over by marital status,,Married or living with a common-law partner,230,115,115,,,,,,6001046
+2011,Tagish,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),170,85,80,,,,,,6001046
+2011,Tagish,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,65,30,35,,,,,,6001036
+2011,Tagish,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,120,55,65,,,,,,6001036
+2011,Tagish,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),60,35,25,,,,,,6001036
+2011,Tagish,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,0,5,5,,,,,,6001036
+2011,Tagish,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,25,15,10,,,,,,6001036
+2011,Tagish,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,25,0,20,,,,,,6001036
+2011,Teslin,,,Total population 15 years and over by marital status,95,55,40,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001006
+2011,Teslin,Total population 15 years and over by marital status,,Married or living with a common-law partner,55,30,25,,,,,,6001006
+2011,Teslin,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),40,25,20,,,,,,6001006
+2011,Teslin,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,15,5,5,,,,,,6001006
+2011,Teslin,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,35,20,15,,,,,,6001006
+2011,Teslin,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),30,15,10,,,,,,6001006
+2011,Teslin,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,0,0,0,,,,,,6001006
+2011,Teslin,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,5,10,0,,,,,,6001006
+2011,Teslin,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,0,5,0,,,,,,6001006
+2011,Teslin Land,,,Total population 15 years and over by marital status,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001057
+2011,Teslin Land,Total population 15 years and over by marital status,,Married or living with a common-law partner,,,,x,x,x,,,6001057
+2011,Teslin Land,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),,,,x,x,x,,,YBS006057007
+2011,Teslin Land,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,,,,x,x,x,,,6001057
+2011,Teslin Land,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,,,,x,x,x,,,YBS006057007
+2011,Teslin Land,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),,,,x,x,x,,,6001057
+2011,Teslin Land,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,,,,x,x,x,,,6001057
+2011,Teslin Land,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,,,,x,x,x,,,6001057
+2011,Teslin Land,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,,,,x,x,x,,,YBS006057007
+2011,Teslin Post 13,,,Total population 15 years and over by marital status,110,50,60,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001057
+2011,Teslin Post 13,Total population 15 years and over by marital status,,Married or living with a common-law partner,50,25,25,,,,,,6001057
+2011,Teslin Post 13,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),15,10,10,,,,,,6001057
+2011,Teslin Post 13,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,30,15,15,,,,,,6001057
+2011,Teslin Post 13,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,60,25,35,,,,,,6001057
+2011,Teslin Post 13,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),40,20,20,,,,,,6001057
+2011,Teslin Post 13,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,5,5,5,,,,,,6001057
+2011,Teslin Post 13,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,0,0,5,,,,,,6001057
+2011,Teslin Post 13,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,10,0,10,,,,,,6001057
+2011,Two and One-Half Mile Village,,,Total population 15 years and over by marital status,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001034
+2011,Two and One-Half Mile Village,Total population 15 years and over by marital status,,Married or living with a common-law partner,,,,x,x,x,,,6001034
+2011,Two and One-Half Mile Village,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),,,,x,x,x,,,6001034
+2011,Two and One-Half Mile Village,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,,,,x,x,x,,,6001034
+2011,Two and One-Half Mile Village,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,,,,x,x,x,,,6001034
+2011,Two and One-Half Mile Village,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),,,,x,x,x,,,6001034
+2011,Two and One-Half Mile Village,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,,,,x,x,x,,,6001034
+2011,Two and One-Half Mile Village,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,,,,x,x,x,,,6001034
+2011,Two and One-Half Mile Village,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,,,,x,x,x,,,6001034
+2011,Two Mile Village,,,Total population 15 years and over by marital status,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001034
+2011,Two Mile Village,Total population 15 years and over by marital status,,Married or living with a common-law partner,,,,x,x,x,,,6001034
+2011,Two Mile Village,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),,,,x,x,x,,,6001034
+2011,Two Mile Village,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,,,,x,x,x,,,6001034
+2011,Two Mile Village,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,,,,x,x,x,,,6001034
+2011,Two Mile Village,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),,,,x,x,x,,,6001034
+2011,Two Mile Village,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,,,,x,x,x,,,6001033
+2011,Two Mile Village,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,,,,x,x,x,,,6001034
+2011,Two Mile Village,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,,,,x,x,x,,,6001034
+2011,Upper Liard,,,Total population 15 years and over by marital status,120,70,45,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001033
+2011,Upper Liard,Total population 15 years and over by marital status,,Married or living with a common-law partner,60,25,30,,,,,,6001033
+2011,Upper Liard,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),25,15,15,,,,,,6001033
+2011,Upper Liard,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,30,15,20,,,,,,6001032
+2011,Upper Liard,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,60,40,15,,,,,,6001033
+2011,Upper Liard,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),45,35,10,,,,,,6001033
+2011,Upper Liard,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,0,0,0,,,,,,6001033
+2011,Upper Liard,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,5,5,0,,,,,,6001032
+2011,Upper Liard,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,5,5,5,,,,,,6001032
+2011,Watson Lake,,,Total population 15 years and over by marital status,660,330,325,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001003
+2011,Watson Lake,Total population 15 years and over by marital status,,Married or living with a common-law partner,390,200,195,,,,,,6001003
+2011,Watson Lake,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),265,135,125,,,,,,6001003
+2011,Watson Lake,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,125,65,65,,,,,,6001003
+2011,Watson Lake,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,270,135,135,,,,,,6001003
+2011,Watson Lake,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),175,95,75,,,,,,6001003
+2011,Watson Lake,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,15,15,5,,,,,,6001003
+2011,Watson Lake,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,50,15,30,,,,,,6001003
+2011,Watson Lake,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,25,5,20,,,,,,6001003
+2011,Whitehorse; Unorganized,,,Total population 15 years and over by marital status,240,115,120,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001060
+2011,Whitehorse; Unorganized,Total population 15 years and over by marital status,,Married or living with a common-law partner,140,70,70,,,,,,6001060
+2011,Whitehorse; Unorganized,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),105,50,55,,,,,,6001060
+2011,Whitehorse; Unorganized,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,35,15,15,,,,,,6001060
+2011,Whitehorse; Unorganized,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,100,50,45,,,,,,6001060
+2011,Whitehorse; Unorganized,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),65,35,35,,,,,,6001060
+2011,Whitehorse; Unorganized,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,10,5,10,,,,,,6001060
+2011,Whitehorse; Unorganized,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,20,10,5,,,,,,6001060
+2011,Whitehorse; Unorganized,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,0,0,0,,,,,,6001060
+2011,Yukon; Unorganized,,,Total population 15 years and over by marital status,1460,815,645,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census6'>6</a>,6001045
+2011,Yukon; Unorganized,Total population 15 years and over by marital status,,Married or living with a common-law partner,840,425,415,,,,,,6001045
+2011,Yukon; Unorganized,Total population 15 years and over by marital status,Married or living with a common-law partner,Married (and not separated),540,270,265,,,,,,6001045
+2011,Yukon; Unorganized,Total population 15 years and over by marital status,Married or living with a common-law partner,Living common law,300,150,150,,,,,,6001045
+2011,Yukon; Unorganized,Total population 15 years and over by marital status,,Not married and not living with a common-law partner,620,390,230,,,,,,6001045
+2011,Yukon; Unorganized,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Single (never legally married),440,295,140,,,,,,6001045
+2011,Yukon; Unorganized,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Separated,30,15,20,,,,,,6001045
+2011,Yukon; Unorganized,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Divorced,100,65,30,,,,,,6001060
+2011,Yukon; Unorganized,Total population 15 years and over by marital status,Not married and not living with a common-law partner,Widowed,50,15,35,,,,,,6001045

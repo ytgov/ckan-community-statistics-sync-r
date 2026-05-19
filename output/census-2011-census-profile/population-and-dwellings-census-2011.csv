@@ -1,0 +1,274 @@
+census_year,geo_name,category,subcategory,variable_name,total,male,female,flag_total,flag_male,flag_female,geo_location,data_notes,geo_code
+2011,Yukon,,,Population in 2011,33897,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001
+2011,Yukon,,,Population in 2006,30372,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001
+2011,Yukon,,,2006 to 2011 population change (%),11.6,,,,...,...,,,6001
+2011,Yukon,,,Total private dwellings,16259,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001
+2011,Yukon,,,Private dwellings occupied by usual residents,14117,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001
+2011,Yukon,,,Population density per square kilometre,0.1,,,,...,...,,,6001
+2011,Yukon,,,Land area (square km),474712.64,,,,...,...,,,6001
+2011,Whitehorse - Area,,,Population in 2011,26028,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,990
+2011,Whitehorse - Area,,,Population in 2006,22898,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,990
+2011,Whitehorse - Area,,,2006 to 2011 population change (%),13.7,,,,...,...,,,990
+2011,Whitehorse - Area,,,Total private dwellings,11167,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,990
+2011,Whitehorse - Area,,,Private dwellings occupied by usual residents,10525,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,990
+2011,Whitehorse - Area,,,Population density per square kilometre,3.1,,,,...,...,,,990
+2011,Whitehorse - Area,,,Land area (square km),8488.91,,,,...,...,,,990
+2011,Whitehorse - City,,,Population; 2011,23276,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,990
+2011,Whitehorse - City,,,Population; 2006,20461,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,990
+2011,Whitehorse - City,,,Population percentage change; 2006 to 2011,13.8,,,,...,...,,,990
+2011,Whitehorse - City,,,Total private dwellings,9649,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,990
+2011,Whitehorse - City,,,Private dwellings occupied by usual residents,9309,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,990
+2011,Whitehorse - City,,,Population density per square kilometre,55.9,,,,...,...,,,990
+2011,Whitehorse - City,,,Land area in square kilometres,416.54,,,,...,...,,,990
+2011,Beaver Creek,,,Population; 2011,103,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,YBS042039049018
+2011,Beaver Creek,,,Population; 2006,112,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,YBS042039049018
+2011,Beaver Creek,,,Population percentage change; 2006 to 2011,-8,,,,...,...,,,YBS042039049018
+2011,Beaver Creek,,,Total private dwellings,76,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,YBS042039049018
+2011,Beaver Creek,,,Private dwellings occupied by usual residents,52,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,YBS042039049018
+2011,Beaver Creek,,,Population density per square kilometre,3.8,,,,...,...,,,YBS042039049018
+2011,Beaver Creek,,,Land area in square kilometres,27.14,,,,...,...,,,YBS042039049018
+2011,Burwash Landing,,,Population; 2011,95,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001039
+2011,Burwash Landing,,,Population; 2006,73,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001039
+2011,Burwash Landing,,,Population percentage change; 2006 to 2011,30.1,,,,...,...,,,6001039
+2011,Burwash Landing,,,Total private dwellings,73,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001039
+2011,Burwash Landing,,,Private dwellings occupied by usual residents,50,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001039
+2011,Burwash Landing,,,Population density per square kilometre,3.2,,,,...,...,,,6001039
+2011,Burwash Landing,,,Land area in square kilometres,30.09,,,,...,...,,,6001039
+2011,Carcross,,,Population; 2011,289,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001039
+2011,Carcross,,,Population; 2006,280,,,A,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001048
+2011,Carcross,,,Population percentage change; 2006 to 2011,3.2,,,,...,...,,,6001048
+2011,Carcross,,,Total private dwellings,198,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001048
+2011,Carcross,,,Private dwellings occupied by usual residents,143,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001048
+2011,Carcross,,,Population density per square kilometre,17.9,,,,...,...,,,6001048
+2011,Carcross,,,Land area in square kilometres,16.14,,,,...,...,,,6001048
+2011,Carcross 4,,,Population; 2011,53,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,YBS048008
+2011,Carcross 4,,,Population; 2006,51,,,A,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,YBS048008
+2011,Carcross 4,,,Population percentage change; 2006 to 2011,3.9,,,,...,...,,,YBS048008
+2011,Carcross 4,,,Total private dwellings,23,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,YBS048008
+2011,Carcross 4,,,Private dwellings occupied by usual residents,23,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,YBS048008
+2011,Carcross 4,,,Population density per square kilometre,71.7,,,,...,...,,,YBS048008
+2011,Carcross 4,,,Land area in square kilometres,0.74,,,,...,...,,,YBS048008
+2011,Carmacks,,,Population; 2011,503,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,YBS048008036
+2011,Carmacks,,,Population; 2006,425,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,YBS048008036
+2011,Carmacks,,,Population percentage change; 2006 to 2011,18.4,,,,...,...,,,YBS048008036
+2011,Carmacks,,,Total private dwellings,246,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,YBS048008036
+2011,Carmacks,,,Private dwellings occupied by usual residents,196,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,YBS048008036
+2011,Carmacks,,,Population density per square kilometre,13.6,,,,...,...,,,YBS048008036
+2011,Carmacks,,,Land area in square kilometres,36.95,,,,...,...,,,YBS048008036
+2011,Champagne Landing 10,,,Population; 2011,25,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001038
+2011,Champagne Landing 10,,,Population; 2006,24,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001038
+2011,Champagne Landing 10,,,Population percentage change; 2006 to 2011,4.2,,,,...,...,,,6001038
+2011,Champagne Landing 10,,,Total private dwellings,34,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001038
+2011,Champagne Landing 10,,,Private dwellings occupied by usual residents,16,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001038
+2011,Champagne Landing 10,,,Population density per square kilometre,5.5,,,,...,...,,,6001038
+2011,Champagne Landing 10,,,Land area in square kilometres,4.53,,,,...,...,,,6001038
+2011,Dawson,,,Population; 2011,1319,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001029
+2011,Dawson,,,Population; 2006,1327,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001029
+2011,Dawson,,,Population percentage change; 2006 to 2011,-0.6,,,,...,...,,,6001029
+2011,Dawson,,,Total private dwellings,727,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001029
+2011,Dawson,,,Private dwellings occupied by usual residents,629,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001029
+2011,Dawson,,,Population density per square kilometre,40.7,,,,...,...,,,6001029
+2011,Dawson,,,Land area in square kilometres,32.45,,,,...,...,,,6001029
+2011,Destruction Bay,,,Population; 2011,35,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001029
+2011,Destruction Bay,,,Population; 2006,55,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001029
+2011,Destruction Bay,,,Population percentage change; 2006 to 2011,-36.4,,,,...,...,,,6001029
+2011,Destruction Bay,,,Total private dwellings,32,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001029
+2011,Destruction Bay,,,Private dwellings occupied by usual residents,17,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001029
+2011,Destruction Bay,,,Population density per square kilometre,2.6,,,,...,...,,,6001029
+2011,Destruction Bay,,,Land area in square kilometres,13.57,,,,...,...,,,6001029
+2011,Faro,,,Population; 2011,344,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001049
+2011,Faro,,,Population; 2006,341,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001049
+2011,Faro,,,Population percentage change; 2006 to 2011,0.9,,,,...,...,,,6001049
+2011,Faro,,,Total private dwellings,444,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001049
+2011,Faro,,,Private dwellings occupied by usual residents,167,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001049
+2011,Faro,,,Population density per square kilometre,1.7,,,,...,...,,,6001049
+2011,Faro,,,Land area in square kilometres,203.57,,,,...,...,,,6001049
+2011,Haines Junction,,,Population; 2011,593,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001018
+2011,Haines Junction,,,Population; 2006,589,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001018
+2011,Haines Junction,,,Population percentage change; 2006 to 2011,0.7,,,,...,...,,,6001018
+2011,Haines Junction,,,Total private dwellings,301,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001018
+2011,Haines Junction,,,Private dwellings occupied by usual residents,260,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001018
+2011,Haines Junction,,,Population density per square kilometre,17.2,,,,...,...,,,6001018
+2011,Haines Junction,,,Land area in square kilometres,34.49,,,,...,...,,,6001018
+2011,Ibex Valley,,,Population; 2011,346,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001055
+2011,Ibex Valley,,,Population; 2006,376,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001055
+2011,Ibex Valley,,,Population percentage change; 2006 to 2011,-8,,,,...,...,,,6001055
+2011,Ibex Valley,,,Total private dwellings,155,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001055
+2011,Ibex Valley,,,Private dwellings occupied by usual residents,138,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001055
+2011,Ibex Valley,,,Population density per square kilometre,1.7,,,,...,...,,,6001055
+2011,Ibex Valley,,,Land area in square kilometres,209.06,,,,...,...,,,6001055
+2011,Johnsons Crossing,,,Population; 2011,15,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001047
+2011,Johnsons Crossing,,,Population; 2006,15,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001047
+2011,Johnsons Crossing,,,Population percentage change; 2006 to 2011,0,,,,...,...,,,6001047
+2011,Johnsons Crossing,,,Total private dwellings,15,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001047
+2011,Johnsons Crossing,,,Private dwellings occupied by usual residents,9,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001047
+2011,Johnsons Crossing,,,Population density per square kilometre,0.7,,,,...,...,,,6001047
+2011,Johnsons Crossing,,,Land area in square kilometres,21.76,,,,...,...,,,6001047
+2011,Keno Hill,,,Population; 2011,28,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001047
+2011,Keno Hill,,,Population; 2006,15,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001052
+2011,Keno Hill,,,Population percentage change; 2006 to 2011,86.7,,,,...,...,,,6001052
+2011,Keno Hill,,,Total private dwellings,20,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001052
+2011,Keno Hill,,,Private dwellings occupied by usual residents,20,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001047
+2011,Keno Hill,,,Population density per square kilometre,0.5,,,,...,...,,,6001047
+2011,Keno Hill,,,Land area in square kilometres,53.86,,,,...,...,,,6001047
+2011,Kloo Lake,,,Population; 2011,0,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001052
+2011,Kloo Lake,,,Population; 2006,0,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001052
+2011,Kloo Lake,,,Population percentage change; 2006 to 2011,,,,...,...,...,,,6001052
+2011,Kloo Lake,,,Total private dwellings,3,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001052
+2011,Kloo Lake,,,Private dwellings occupied by usual residents,1,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001052
+2011,Kloo Lake,,,Population density per square kilometre,0,,,,...,...,,,6001052
+2011,Kloo Lake,,,Land area in square kilometres,5.68,,,,...,...,,,6001052
+2011,Klukshu,,,Population; 2011,0,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001019
+2011,Klukshu,,,Population; 2006,0,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001019
+2011,Klukshu,,,Population percentage change; 2006 to 2011,,,,...,...,...,,,6001019
+2011,Klukshu,,,Total private dwellings,49,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001019
+2011,Klukshu,,,Private dwellings occupied by usual residents,0,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001019
+2011,Klukshu,,,Population density per square kilometre,0,,,,...,...,,,6001019
+2011,Klukshu,,,Land area in square kilometres,5.04,,,,...,...,,,6001019
+2011,Lake Laberge 1,,,Population; 2011,20,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001010
+2011,Lake Laberge 1,,,Population; 2006,38,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001010
+2011,Lake Laberge 1,,,Population percentage change; 2006 to 2011,-47.4,,,,...,...,,,6001010
+2011,Lake Laberge 1,,,Total private dwellings,16,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001010
+2011,Lake Laberge 1,,,Private dwellings occupied by usual residents,9,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001010
+2011,Lake Laberge 1,,,Population density per square kilometre,14.4,,,,...,...,,,6001010
+2011,Lake Laberge 1,,,Land area in square kilometres,1.39,,,,...,...,,,6001010
+2011,Macpherson-Grizzly Valley,,,Population; 2011,1072,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001059
+2011,Macpherson-Grizzly Valley,,,Population; 2006,851,,,A,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001059
+2011,Macpherson-Grizzly Valley,,,Population percentage change; 2006 to 2011,26,,,,...,...,,,6001059
+2011,Macpherson-Grizzly Valley,,,Total private dwellings,567,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001059
+2011,Macpherson-Grizzly Valley,,,Private dwellings occupied by usual residents,468,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001059
+2011,Macpherson-Grizzly Valley,,,Population density per square kilometre,0.6,,,,...,...,,,6001059
+2011,Macpherson-Grizzly Valley,,,Land area in square kilometres,1833.77,,,,...,...,,,6001059
+2011,Marsh Lake,,,Population; 2011,619,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001059
+2011,Marsh Lake,,,Population; 2006,538,,,A,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001059
+2011,Marsh Lake,,,Population percentage change; 2006 to 2011,15.1,,,,...,...,,,6001059
+2011,Marsh Lake,,,Total private dwellings,438,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001059
+2011,Marsh Lake,,,Private dwellings occupied by usual residents,305,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001059
+2011,Marsh Lake,,,Population density per square kilometre,0.8,,,,...,...,,,6001059
+2011,Marsh Lake,,,Land area in square kilometres,821.23,,,,...,...,,,6001059
+2011,Mayo,,,Population; 2011,226,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001022
+2011,Mayo,,,Population; 2006,248,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001058
+2011,Mayo,,,Population percentage change; 2006 to 2011,-8.9,,,,...,...,,,6001022
+2011,Mayo,,,Total private dwellings,134,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001022
+2011,Mayo,,,Private dwellings occupied by usual residents,115,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001022
+2011,Mayo,,,Population density per square kilometre,213.2,,,,...,...,,,6001022
+2011,Mayo,,,Land area in square kilometres,1.06,,,,...,...,,,6001022
+2011,Moosehide Creek 2,,,Population; 2011,0,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001022
+2011,Moosehide Creek 2,,,Population; 2006,0,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001022
+2011,Moosehide Creek 2,,,Population percentage change; 2006 to 2011,,,,...,...,...,,,6001022
+2011,Moosehide Creek 2,,,Total private dwellings,20,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001022
+2011,Moosehide Creek 2,,,Private dwellings occupied by usual residents,0,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001022
+2011,Moosehide Creek 2,,,Population density per square kilometre,0,,,,...,...,,,6001022
+2011,Moosehide Creek 2,,,Land area in square kilometres,8.71,,,,...,...,,,6001022
+2011,Mt. Lorne,,,Population; 2011,408,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001031
+2011,Mt. Lorne,,,Population; 2006,370,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001031
+2011,Mt. Lorne,,,Population percentage change; 2006 to 2011,10.3,,,,...,...,,,6001031
+2011,Mt. Lorne,,,Total private dwellings,187,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001031
+2011,Mt. Lorne,,,Private dwellings occupied by usual residents,170,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001031
+2011,Mt. Lorne,,,Population density per square kilometre,2.5,,,,...,...,,,6001031
+2011,Mt. Lorne,,,Land area in square kilometres,160.24,,,,...,...,,,6001031
+2011,Old Crow,,,Population; 2011,245,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001043
+2011,Old Crow,,,Population; 2006,253,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001043
+2011,Old Crow,,,Population percentage change; 2006 to 2011,-3.2,,,,...,...,,,6001043
+2011,Old Crow,,,Total private dwellings,162,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001043
+2011,Old Crow,,,Private dwellings occupied by usual residents,109,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001043
+2011,Old Crow,,,Population density per square kilometre,17.3,,,,...,...,,,6001043
+2011,Old Crow,,,Land area in square kilometres,14.17,,,,...,...,,,6001043
+2011,Pelly Crossing,,,Population; 2011,336,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001041
+2011,Pelly Crossing,,,Population; 2006,296,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001041
+2011,Pelly Crossing,,,Population percentage change; 2006 to 2011,13.5,,,,...,...,,,6001041
+2011,Pelly Crossing,,,Total private dwellings,145,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001041
+2011,Pelly Crossing,,,Private dwellings occupied by usual residents,132,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001041
+2011,Pelly Crossing,,,Population density per square kilometre,10.4,,,,...,...,,,6001041
+2011,Pelly Crossing,,,Land area in square kilometres,32.43,,,,...,...,,,6001041
+2011,Ross River,,,Population; 2011,352,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001041
+2011,Ross River,,,Population; 2006,313,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001041
+2011,Ross River,,,Population percentage change; 2006 to 2011,12.5,,,,...,...,,,6001041
+2011,Ross River,,,Total private dwellings,184,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001041
+2011,Ross River,,,Private dwellings occupied by usual residents,150,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001041
+2011,Ross River,,,Population density per square kilometre,17.1,,,,...,...,,,6001041
+2011,Ross River,,,Land area in square kilometres,20.62,,,,...,...,,,6001041
+2011,Stewart Crossing,,,Population; 2011,25,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001050
+2011,Stewart Crossing,,,Population; 2006,35,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001050
+2011,Stewart Crossing,,,Population percentage change; 2006 to 2011,-28.6,,,,...,...,,,6001050
+2011,Stewart Crossing,,,Total private dwellings,18,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001050
+2011,Stewart Crossing,,,Private dwellings occupied by usual residents,14,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001037
+2011,Stewart Crossing,,,Population density per square kilometre,0.9,,,,...,...,,,6001037
+2011,Stewart Crossing,,,Land area in square kilometres,28.75,,,,...,...,,,6001037
+2011,Swift River,,,Population; 2011,0,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001046
+2011,Swift River,,,Population; 2006,10,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001046
+2011,Swift River,,,Population percentage change; 2006 to 2011,-100,,,,...,...,,,6001046
+2011,Swift River,,,Total private dwellings,0,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001046
+2011,Swift River,,,Private dwellings occupied by usual residents,0,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001046
+2011,Swift River,,,Population density per square kilometre,0,,,,...,...,,,6001046
+2011,Swift River,,,Land area in square kilometres,22.71,,,,...,...,,,6001046
+2011,Tagish,,,Population; 2011,391,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001046
+2011,Tagish,,,Population; 2006,222,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001046
+2011,Tagish,,,Population percentage change; 2006 to 2011,76.1,,,,...,...,,,6001046
+2011,Tagish,,,Total private dwellings,432,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001046
+2011,Tagish,,,Private dwellings occupied by usual residents,206,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001046
+2011,Tagish,,,Population density per square kilometre,8.6,,,,...,...,,,6001046
+2011,Tagish,,,Land area in square kilometres,45.59,,,,...,...,,,6001046
+2011,Teslin,,,Population; 2011,122,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001036
+2011,Teslin,,,Population; 2006,141,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001036
+2011,Teslin,,,Population percentage change; 2006 to 2011,-13.5,,,,...,...,,,6001036
+2011,Teslin,,,Total private dwellings,72,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001036
+2011,Teslin,,,Private dwellings occupied by usual residents,50,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001036
+2011,Teslin,,,Population density per square kilometre,63.6,,,,...,...,,,6001036
+2011,Teslin,,,Land area in square kilometres,1.92,,,,...,...,,,6001036
+2011,Teslin Land,,,Population; 2011,0,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,YBS006057007
+2011,Teslin Land,,,Population; 2006,0,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,YBS006057007
+2011,Teslin Land,,,Population percentage change; 2006 to 2011,,,,...,...,...,,,6001057
+2011,Teslin Land,,,Total private dwellings,0,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,YBS006057007
+2011,Teslin Land,,,Private dwellings occupied by usual residents,0,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001057
+2011,Teslin Land,,,Population density per square kilometre,0,,,,...,...,,,YBS006057007
+2011,Teslin Land,,,Land area in square kilometres,25.83,,,,...,...,,,6001057
+2011,Teslin Post 13,,,Population; 2011,138,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001007
+2011,Teslin Post 13,,,Population; 2006,156,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001057
+2011,Teslin Post 13,,,Population percentage change; 2006 to 2011,-11.5,,,,...,...,,,6001057
+2011,Teslin Post 13,,,Total private dwellings,87,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001057
+2011,Teslin Post 13,,,Private dwellings occupied by usual residents,65,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001057
+2011,Teslin Post 13,,,Population density per square kilometre,67.6,,,,...,...,,,6001057
+2011,Teslin Post 13,,,Land area in square kilometres,2.04,,,,...,...,,,6001057
+2011,Two and One-Half Mile Village,,,Population; 2011,0,,,E,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001034
+2011,Two and One-Half Mile Village,,,Population; 2006,95,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001007
+2011,Two and One-Half Mile Village,,,Population percentage change; 2006 to 2011,-100,,,E,...,...,,,6001034
+2011,Two and One-Half Mile Village,,,Total private dwellings,0,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001007
+2011,Two and One-Half Mile Village,,,Private dwellings occupied by usual residents,0,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001034
+2011,Two and One-Half Mile Village,,,Population density per square kilometre,0,,,,...,...,,,6001007
+2011,Two and One-Half Mile Village,,,Land area in square kilometres,5.17,,,,...,...,,,6001034
+2011,Two Mile Village,,,Population; 2011,10,,,E,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001034
+2011,Two Mile Village,,,Population; 2006,88,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001034
+2011,Two Mile Village,,,Population percentage change; 2006 to 2011,-88.6,,,E,...,...,,,6001033
+2011,Two Mile Village,,,Total private dwellings,5,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001034
+2011,Two Mile Village,,,Private dwellings occupied by usual residents,5,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001034
+2011,Two Mile Village,,,Population density per square kilometre,2.8,,,,...,...,,,6001033
+2011,Two Mile Village,,,Land area in square kilometres,3.57,,,,...,...,,,6001033
+2011,Upper Liard,,,Population; 2011,132,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001032
+2011,Upper Liard,,,Population; 2006,178,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001032
+2011,Upper Liard,,,Population percentage change; 2006 to 2011,-25.8,,,,...,...,,,6001032
+2011,Upper Liard,,,Total private dwellings,87,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001032
+2011,Upper Liard,,,Private dwellings occupied by usual residents,65,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001032
+2011,Upper Liard,,,Population density per square kilometre,23,,,,...,...,,,6001032
+2011,Upper Liard,,,Land area in square kilometres,5.74,,,,...,...,,,6001032
+2011,Watson Lake,,,Population; 2011,802,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001003
+2011,Watson Lake,,,Population; 2006,846,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001003
+2011,Watson Lake,,,Population percentage change; 2006 to 2011,-5.2,,,,...,...,,,6001003
+2011,Watson Lake,,,Total private dwellings,417,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001003
+2011,Watson Lake,,,Private dwellings occupied by usual residents,350,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001003
+2011,Watson Lake,,,Population density per square kilometre,131.3,,,,...,...,,,6001003
+2011,Watson Lake,,,Land area in square kilometres,6.11,,,,...,...,,,6001003
+2011,Whitehorse; Unorganized,,,Population; 2011,287,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001060
+2011,Whitehorse; Unorganized,,,Population; 2006,264,,,A,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001060
+2011,Whitehorse; Unorganized,,,Population percentage change; 2006 to 2011,8.7,,,,...,...,,,6001060
+2011,Whitehorse; Unorganized,,,Total private dwellings,155,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001060
+2011,Whitehorse; Unorganized,,,Private dwellings occupied by usual residents,126,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001060
+2011,Whitehorse; Unorganized,,,Population density per square kilometre,0.1,,,,...,...,,,6001060
+2011,Whitehorse; Unorganized,,,Land area in square kilometres,5046.68,,,,...,...,,,6001060
+2011,Yukon; Unorganized,,,Population; 2011,1688,,,E,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001060
+2011,Yukon; Unorganized,,,Population; 2006,1286,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census1'>1</a>,6001060
+2011,Yukon; Unorganized,,,Population percentage change; 2006 to 2011,31.3,,,E,...,...,,,6001060
+2011,Yukon; Unorganized,,,Total private dwellings,1088,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census2'>2</a>,6001060
+2011,Yukon; Unorganized,,,Private dwellings occupied by usual residents,748,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census3'>3</a>,6001060
+2011,Yukon; Unorganized,,,Population density per square kilometre,0,,,,...,...,,,6001060
+2011,Yukon; Unorganized,,,Land area in square kilometres,465513.32,,,,...,...,,,6001060

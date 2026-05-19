@@ -1,0 +1,106 @@
+census_year,geo_name,category,subcategory,variable_name,total,male,female,flag_total,flag_male,flag_female,geo_location,data_notes,geo_code
+2011,Yukon,,,Total employed population aged 15 years and over by place of work status,19165,9680,9485,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs94'>94</a>,6001
+2011,Yukon,Total employed population aged 15 years and over by place of work status,,Worked at home,1105,640,460,,,,,,6001
+2011,Yukon,Total employed population aged 15 years and over by place of work status,,Worked outside Canada,0,0,0,,,,,,6001
+2011,Yukon,Total employed population aged 15 years and over by place of work status,,No fixed workplace address,2525,2035,485,,,,,,6001
+2011,Yukon,Total employed population aged 15 years and over by place of work status,,Worked at usual place,15525,6985,8540,,,,,,6001
+2011,Whitehorse - City,,,Total employed population aged 15 years and over by place of work status,13760,6875,6885,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs94'>94</a>,6001009
+2011,Whitehorse - City,Total employed population aged 15 years and over by place of work status,,Worked at home,640,330,310,,,,,,6001009
+2011,Whitehorse - City,Total employed population aged 15 years and over by place of work status,,Worked outside Canada,0,0,0,,,,,,6001009
+2011,Whitehorse - City,Total employed population aged 15 years and over by place of work status,,No fixed workplace address,1560,1290,275,,,,,,6001009
+2011,Whitehorse - City,Total employed population aged 15 years and over by place of work status,,Worked at usual place,11550,5250,6295,,,,,,6001009
+2011,Alaska Highway North Region,,,Total employed population aged 15 years and over by place of work status,480,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total employed population aged 15 years and over by place of work status,,Worked at home,20,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total employed population aged 15 years and over by place of work status,,Worked outside Canada,0,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total employed population aged 15 years and over by place of work status,,No fixed workplace address,70,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total employed population aged 15 years and over by place of work status,,Worked at usual place,385,,,,,,,,YBS042039049018
+2011,Beaver Creek,,,Total employed population aged 15 years and over by place of work status,70,35,35,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs94'>94</a>,6001042
+2011,Beaver Creek,Total employed population aged 15 years and over by place of work status,,Worked at home,0,0,0,,,,,,6001042
+2011,Beaver Creek,Total employed population aged 15 years and over by place of work status,,Worked outside Canada,0,0,0,,,,,,6001042
+2011,Beaver Creek,Total employed population aged 15 years and over by place of work status,,No fixed workplace address,0,0,0,,,,,,6001042
+2011,Beaver Creek,Total employed population aged 15 years and over by place of work status,,Worked at usual place,65,35,30,,,,,,6001042
+2011,Burwash Landing,,,Total employed population aged 15 years and over by place of work status,40,25,20,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs94'>94</a>,6001039
+2011,Burwash Landing,Total employed population aged 15 years and over by place of work status,,Worked at home,0,0,0,,,,,,6001039
+2011,Burwash Landing,Total employed population aged 15 years and over by place of work status,,Worked outside Canada,0,0,0,,,,,,6001039
+2011,Burwash Landing,Total employed population aged 15 years and over by place of work status,,No fixed workplace address,0,0,0,,,,,,6001039
+2011,Burwash Landing,Total employed population aged 15 years and over by place of work status,,Worked at usual place,40,25,20,,,,,,6001039
+2011,Carcross,,,Total employed population aged 15 years and over by place of work status,125,65,55,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs94'>94</a>,6001048
+2011,Carcross,Total employed population aged 15 years and over by place of work status,,Worked at home,10,10,0,,,,,,6001048
+2011,Carcross,Total employed population aged 15 years and over by place of work status,,Worked outside Canada,0,0,0,,,,,,6001048
+2011,Carcross,Total employed population aged 15 years and over by place of work status,,No fixed workplace address,35,30,10,,,,,,6001048
+2011,Carcross,Total employed population aged 15 years and over by place of work status,,Worked at usual place,85,35,50,,,,,,6001048
+2011,Carcross Region,,,Total employed population aged 15 years and over by place of work status,150,,,,,,,,6001008
+2011,Carcross Region,Total employed population aged 15 years and over by place of work status,,Worked at home,0,,,,,,,,6001008
+2011,Carcross Region,Total employed population aged 15 years and over by place of work status,,Worked outside Canada,0,,,,,,,,6001008
+2011,Carcross Region,Total employed population aged 15 years and over by place of work status,,No fixed workplace address,45,,,,,,,,6001008
+2011,Carcross Region,Total employed population aged 15 years and over by place of work status,,Worked at usual place,100,,,,,,,,6001008
+2011,Carcross 4,,,Total employed population aged 15 years and over by place of work status,20,10,10,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs94'>94</a>,6001008
+2011,Carcross 4,Total employed population aged 15 years and over by place of work status,,Worked at home,0,0,0,,,,,,6001008
+2011,Carcross 4,Total employed population aged 15 years and over by place of work status,,Worked outside Canada,0,0,0,,,,,,6001008
+2011,Carcross 4,Total employed population aged 15 years and over by place of work status,,No fixed workplace address,10,10,0,,,,,,6001008
+2011,Carcross 4,Total employed population aged 15 years and over by place of work status,,Worked at usual place,15,0,10,,,,,,6001008
+2011,Carcross-Tagish Region,,,Total employed population aged 15 years and over by place of work status,310,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total employed population aged 15 years and over by place of work status,,Worked at home,35,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total employed population aged 15 years and over by place of work status,,Worked outside Canada,0,,,,,,,,6001012
+2011,Carcross-Tagish Region,Total employed population aged 15 years and over by place of work status,,No fixed workplace address,70,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total employed population aged 15 years and over by place of work status,,Worked at usual place,200,,,,,,,,YBS048008036
+2011,Dawson,,,Total employed population aged 15 years and over by place of work status,855,445,410,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs94'>94</a>,6001049
+2011,Dawson,Total employed population aged 15 years and over by place of work status,,Worked at home,75,65,0,,,,,,6001049
+2011,Dawson,Total employed population aged 15 years and over by place of work status,,Worked outside Canada,0,0,0,,,,,,6001049
+2011,Dawson,Total employed population aged 15 years and over by place of work status,,No fixed workplace address,195,140,65,,,,,,6001049
+2011,Dawson,Total employed population aged 15 years and over by place of work status,,Worked at usual place,580,240,340,,,,,,6001049
+2011,Faro,,,Total employed population aged 15 years and over by place of work status,160,90,70,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs94'>94</a>,6001004
+2011,Faro,Total employed population aged 15 years and over by place of work status,,Worked at home,0,10,0,,,,,,6001004
+2011,Faro,Total employed population aged 15 years and over by place of work status,,Worked outside Canada,0,0,0,,,,,,6001004
+2011,Faro,Total employed population aged 15 years and over by place of work status,,No fixed workplace address,25,20,10,,,,,,6001004
+2011,Faro,Total employed population aged 15 years and over by place of work status,,Worked at usual place,130,65,60,,,,,,6001004
+2011,Haines Junction,,,Total employed population aged 15 years and over by place of work status,345,165,180,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs94'>94</a>,6001018
+2011,Haines Junction,Total employed population aged 15 years and over by place of work status,,Worked at home,15,10,10,,,,,,6001018
+2011,Haines Junction,Total employed population aged 15 years and over by place of work status,,Worked outside Canada,0,0,0,,,,,,6001018
+2011,Haines Junction,Total employed population aged 15 years and over by place of work status,,No fixed workplace address,65,50,15,,,,,,6001018
+2011,Haines Junction,Total employed population aged 15 years and over by place of work status,,Worked at usual place,265,110,160,,,,,,6001018
+2011,Mt. Lorne,,,Total employed population aged 15 years and over by place of work status,235,120,110,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs94'>94</a>,6001044
+2011,Mt. Lorne,Total employed population aged 15 years and over by place of work status,,Worked at home,0,0,0,,,,,,6001044
+2011,Mt. Lorne,Total employed population aged 15 years and over by place of work status,,Worked outside Canada,0,0,0,,,,,,6001044
+2011,Mt. Lorne,Total employed population aged 15 years and over by place of work status,,No fixed workplace address,15,0,0,,,,,,6001044
+2011,Mt. Lorne,Total employed population aged 15 years and over by place of work status,,Worked at usual place,200,95,105,,,,,,6001044
+2011,Old Crow,,,Total employed population aged 15 years and over by place of work status,115,60,55,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs94'>94</a>,6001043
+2011,Old Crow,Total employed population aged 15 years and over by place of work status,,Worked at home,0,0,0,,,,,,6001043
+2011,Old Crow,Total employed population aged 15 years and over by place of work status,,Worked outside Canada,0,0,0,,,,,,6001043
+2011,Old Crow,Total employed population aged 15 years and over by place of work status,,No fixed workplace address,15,15,0,,,,,,6001043
+2011,Old Crow,Total employed population aged 15 years and over by place of work status,,Worked at usual place,95,45,50,,,,,,6001043
+2011,Pelly Crossing,,,Total employed population aged 15 years and over by place of work status,100,55,45,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs94'>94</a>,6001041
+2011,Pelly Crossing,Total employed population aged 15 years and over by place of work status,,Worked at home,10,0,0,,,,,,6001041
+2011,Pelly Crossing,Total employed population aged 15 years and over by place of work status,,Worked outside Canada,0,0,0,,,,,,6001041
+2011,Pelly Crossing,Total employed population aged 15 years and over by place of work status,,No fixed workplace address,25,15,15,,,,,,6001041
+2011,Pelly Crossing,Total employed population aged 15 years and over by place of work status,,Worked at usual place,70,35,35,,,,,,6001041
+2011,Ross River,,,Total employed population aged 15 years and over by place of work status,145,70,75,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs94'>94</a>,6001037
+2011,Ross River,Total employed population aged 15 years and over by place of work status,,Worked at home,10,0,0,,,,,,6001037
+2011,Ross River,Total employed population aged 15 years and over by place of work status,,Worked outside Canada,0,0,0,,,,,,6001037
+2011,Ross River,Total employed population aged 15 years and over by place of work status,,No fixed workplace address,35,25,10,,,,,,6001037
+2011,Ross River,Total employed population aged 15 years and over by place of work status,,Worked at usual place,100,35,65,,,,,,6001037
+2011,Teslin Region,,,Total employed population aged 15 years and over by place of work status,105,,,,,,,,YBS006057007
+2011,Teslin Region,Total employed population aged 15 years and over by place of work status,,Worked at home,10,,,,,,,,YBS006057007
+2011,Teslin Region,Total employed population aged 15 years and over by place of work status,,Worked outside Canada,0,,,,,,,,YBS006057007
+2011,Teslin Region,Total employed population aged 15 years and over by place of work status,,No fixed workplace address,30,,,,,,,,YBS006057007
+2011,Teslin Region,Total employed population aged 15 years and over by place of work status,,Worked at usual place,65,,,,,,,,YBS006057007
+2011,Teslin Post 13,,,Total employed population aged 15 years and over by place of work status,45,25,20,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs94'>94</a>,6001007
+2011,Teslin Post 13,Total employed population aged 15 years and over by place of work status,,Worked at home,0,0,0,,,,,,6001007
+2011,Teslin Post 13,Total employed population aged 15 years and over by place of work status,,Worked outside Canada,0,0,0,,,,,,6001007
+2011,Teslin Post 13,Total employed population aged 15 years and over by place of work status,,No fixed workplace address,20,15,0,,,,,,6001007
+2011,Teslin Post 13,Total employed population aged 15 years and over by place of work status,,Worked at usual place,25,0,20,,,,,,6001007
+2011,Upper Liard,,,Total employed population aged 15 years and over by place of work status,40,25,15,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs94'>94</a>,6001032
+2011,Upper Liard,Total employed population aged 15 years and over by place of work status,,Worked at home,0,0,0,,,,,,6001032
+2011,Upper Liard,Total employed population aged 15 years and over by place of work status,,Worked outside Canada,0,0,0,,,,,,6001032
+2011,Upper Liard,Total employed population aged 15 years and over by place of work status,,No fixed workplace address,10,10,0,,,,,,6001032
+2011,Upper Liard,Total employed population aged 15 years and over by place of work status,,Worked at usual place,30,15,15,,,,,,6001032
+2011,Watson Lake,,,Total employed population aged 15 years and over by place of work status,465,245,215,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs94'>94</a>,6001003
+2011,Watson Lake,Total employed population aged 15 years and over by place of work status,,Worked at home,25,20,10,,,,,,6001003
+2011,Watson Lake,Total employed population aged 15 years and over by place of work status,,Worked outside Canada,0,0,0,,,,,,6001003
+2011,Watson Lake,Total employed population aged 15 years and over by place of work status,,No fixed workplace address,65,55,10,,,,,,6001003
+2011,Watson Lake,Total employed population aged 15 years and over by place of work status,,Worked at usual place,370,170,195,,,,,,6001003
+2011,Watson Lake Region,,,Total employed population aged 15 years and over by place of work status,545,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total employed population aged 15 years and over by place of work status,,Worked at home,25,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total employed population aged 15 years and over by place of work status,,Worked outside Canada,0,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total employed population aged 15 years and over by place of work status,,No fixed workplace address,80,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total employed population aged 15 years and over by place of work status,,Worked at usual place,435,,,,,,,,YBS003032033034035

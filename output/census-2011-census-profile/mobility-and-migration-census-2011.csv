@@ -1,0 +1,379 @@
+census_year,geo_name,category,subcategory,variable_name,total,male,female,flag_total,flag_male,flag_female,geo_location,data_notes,geo_code
+2011,Yukon,,,Total - Mobility status 1 year ago,32950,16620,16330,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs68'>68</a>,6001
+2011,Yukon,Total - Mobility status 1 year ago,,Non-movers,27610,13960,13645,,,,,,6001
+2011,Yukon,Total - Mobility status 1 year ago,,Movers,5340,2660,2685,,,,,,6001
+2011,Yukon,Total - Mobility status 1 year ago,Movers,Non-migrants,3170,1620,1550,,,,,,6001
+2011,Yukon,Total - Mobility status 1 year ago,Movers,Migrants,2170,1035,1135,,,,,,6001
+2011,Yukon,Total - Mobility status 1 year ago,Movers,Internal migrants,1865,905,965,,,,,,6001
+2011,Yukon,Total - Mobility status 1 year ago,Movers,Intraprovincial migrants,555,315,245,,,,,,6001
+2011,Yukon,Total - Mobility status 1 year ago,Movers,Interprovincial migrants,1305,590,720,,,,,,6001
+2011,Yukon,Total - Mobility status 1 year ago,Movers,External migrants,305,135,170,,,,,,6001
+2011,Yukon,,,Total - Mobility status 5 years ago,31360,15795,15565,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs69'>69</a>,6001
+2011,Yukon,Total - Mobility status 5 years ago,,Non-movers,17105,8750,8355,,,,,,6001
+2011,Yukon,Total - Mobility status 5 years ago,,Movers,14250,7045,7210,,,,,,6001
+2011,Yukon,Total - Mobility status 5 years ago,Movers,Non-migrants,7320,3630,3695,,,,,,6001
+2011,Yukon,Total - Mobility status 5 years ago,Movers,Migrants,6930,3415,3515,,,,,,6001
+2011,Yukon,Total - Mobility status 5 years ago,Movers,Internal migrants,5715,2730,2985,,,,,,6001
+2011,Yukon,Total - Mobility status 5 years ago,Movers,Intraprovincial migrants,1475,735,740,,,,,,6001
+2011,Yukon,Total - Mobility status 5 years ago,Movers,Interprovincial migrants,4240,1995,2250,,,,,,6001
+2011,Yukon,Total - Mobility status 5 years ago,Movers,External migrants,1215,685,530,,,,,,6001
+2011,Whitehorse - City,,,Total - Mobility status 1 year ago,22565,11230,11340,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs68'>68</a>,6001009
+2011,Whitehorse - City,Total - Mobility status 1 year ago,,Non-movers,18605,9240,9365,,,,,,6001009
+2011,Whitehorse - City,Total - Mobility status 1 year ago,,Movers,3965,1985,1975,,,,,,6001009
+2011,Whitehorse - City,Total - Mobility status 1 year ago,Movers,Non-migrants,2525,1300,1225,,,,,,6001009
+2011,Whitehorse - City,Total - Mobility status 1 year ago,Movers,Migrants,1440,690,750,,,,,,6001009
+2011,Whitehorse - City,Total - Mobility status 1 year ago,Movers,Internal migrants,1175,575,600,,,,,,6001009
+2011,Whitehorse - City,Total - Mobility status 1 year ago,Movers,Intraprovincial migrants,200,140,55,,,,,,6001009
+2011,Whitehorse - City,Total - Mobility status 1 year ago,Movers,Interprovincial migrants,970,430,545,,,,,,6001009
+2011,Whitehorse - City,Total - Mobility status 1 year ago,Movers,External migrants,260,110,150,,,,,,6001009
+2011,Whitehorse - City,,,Total - Mobility status 5 years ago,21425,10655,10765,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs69'>69</a>,6001009
+2011,Whitehorse - City,Total - Mobility status 5 years ago,,Non-movers,10855,5405,5450,,,,,,6001009
+2011,Whitehorse - City,Total - Mobility status 5 years ago,,Movers,10570,5255,5315,,,,,,6001009
+2011,Whitehorse - City,Total - Mobility status 5 years ago,Movers,Non-migrants,5845,2915,2930,,,,,,6001009
+2011,Whitehorse - City,Total - Mobility status 5 years ago,Movers,Migrants,4720,2335,2385,,,,,,6001009
+2011,Whitehorse - City,Total - Mobility status 5 years ago,Movers,Internal migrants,3740,1760,1985,,,,,,6001009
+2011,Whitehorse - City,Total - Mobility status 5 years ago,Movers,Intraprovincial migrants,550,290,260,,,,,,6001009
+2011,Whitehorse - City,Total - Mobility status 5 years ago,Movers,Interprovincial migrants,3190,1470,1725,,,,,,6001009
+2011,Whitehorse - City,Total - Mobility status 5 years ago,Movers,External migrants,980,575,400,,,,,,6001009
+2011,Alaska Highway North Region,,,Total - Mobility status 1 year ago,835,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total - Mobility status 1 year ago,,Non-movers,680,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total - Mobility status 1 year ago,,Movers,155,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total - Mobility status 1 year ago,Movers,Non-migrants,35,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total - Mobility status 1 year ago,Movers,Migrants,120,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total - Mobility status 1 year ago,Movers,Internal migrants,105,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total - Mobility status 1 year ago,Movers,Intraprovincial migrants,50,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total - Mobility status 1 year ago,Movers,Interprovincial migrants,55,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total - Mobility status 1 year ago,Movers,External migrants,20,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,,,Total - Mobility status 5 years ago,790,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total - Mobility status 5 years ago,,Non-movers,440,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total - Mobility status 5 years ago,,Movers,350,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total - Mobility status 5 years ago,Movers,Non-migrants,95,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total - Mobility status 5 years ago,Movers,Migrants,250,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total - Mobility status 5 years ago,Movers,Internal migrants,225,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total - Mobility status 5 years ago,Movers,Intraprovincial migrants,120,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total - Mobility status 5 years ago,Movers,Interprovincial migrants,105,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total - Mobility status 5 years ago,Movers,External migrants,25,,,,,,,,YBS042039049018
+2011,Beaver Creek,,,Total - Mobility status 1 year ago,95,50,45,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs68'>68</a>,6001042
+2011,Beaver Creek,Total - Mobility status 1 year ago,,Non-movers,75,40,35,,,,,,6001042
+2011,Beaver Creek,Total - Mobility status 1 year ago,,Movers,20,10,10,,,,,,6001042
+2011,Beaver Creek,Total - Mobility status 1 year ago,Movers,Non-migrants,0,0,0,,,,,,6001042
+2011,Beaver Creek,Total - Mobility status 1 year ago,Movers,Migrants,20,10,10,,,,,,6001042
+2011,Beaver Creek,Total - Mobility status 1 year ago,Movers,Internal migrants,15,10,10,,,,,,6001042
+2011,Beaver Creek,Total - Mobility status 1 year ago,Movers,Intraprovincial migrants,0,0,0,,,,,,6001042
+2011,Beaver Creek,Total - Mobility status 1 year ago,Movers,Interprovincial migrants,15,10,0,,,,,,6001042
+2011,Beaver Creek,Total - Mobility status 1 year ago,Movers,External migrants,0,0,0,,,,,,6001042
+2011,Beaver Creek,,,Total - Mobility status 5 years ago,90,50,45,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs69'>69</a>,6001042
+2011,Beaver Creek,Total - Mobility status 5 years ago,,Non-movers,50,30,20,,,,,,6001042
+2011,Beaver Creek,Total - Mobility status 5 years ago,,Movers,40,25,20,,,,,,6001042
+2011,Beaver Creek,Total - Mobility status 5 years ago,Movers,Non-migrants,0,0,10,,,,,,6001042
+2011,Beaver Creek,Total - Mobility status 5 years ago,Movers,Migrants,30,20,15,,,,,,6001042
+2011,Beaver Creek,Total - Mobility status 5 years ago,Movers,Internal migrants,30,20,10,,,,,,6001042
+2011,Beaver Creek,Total - Mobility status 5 years ago,Movers,Intraprovincial migrants,10,10,10,,,,,,6001042
+2011,Beaver Creek,Total - Mobility status 5 years ago,Movers,Interprovincial migrants,20,15,10,,,,,,6001042
+2011,Beaver Creek,Total - Mobility status 5 years ago,Movers,External migrants,0,0,0,,,,,,6001042
+2011,Burwash Landing,,,Total - Mobility status 1 year ago,95,45,45,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs68'>68</a>,6001039
+2011,Burwash Landing,Total - Mobility status 1 year ago,,Non-movers,55,30,25,,,,,,6001039
+2011,Burwash Landing,Total - Mobility status 1 year ago,,Movers,35,10,20,,,,,,6001039
+2011,Burwash Landing,Total - Mobility status 1 year ago,Movers,Non-migrants,0,0,0,,,,,,6001039
+2011,Burwash Landing,Total - Mobility status 1 year ago,Movers,Migrants,35,15,20,,,,,,6001039
+2011,Burwash Landing,Total - Mobility status 1 year ago,Movers,Internal migrants,35,10,20,,,,,,6001039
+2011,Burwash Landing,Total - Mobility status 1 year ago,Movers,Intraprovincial migrants,15,0,10,,,,,,6001039
+2011,Burwash Landing,Total - Mobility status 1 year ago,Movers,Interprovincial migrants,15,10,10,,,,,,6001039
+2011,Burwash Landing,Total - Mobility status 1 year ago,Movers,External migrants,0,0,0,,,,,,6001039
+2011,Burwash Landing,,,Total - Mobility status 5 years ago,90,45,45,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs69'>69</a>,6001039
+2011,Burwash Landing,Total - Mobility status 5 years ago,,Non-movers,40,25,15,,,,,,6001039
+2011,Burwash Landing,Total - Mobility status 5 years ago,,Movers,45,20,30,,,,,,6001039
+2011,Burwash Landing,Total - Mobility status 5 years ago,Movers,Non-migrants,0,0,0,,,,,,6001039
+2011,Burwash Landing,Total - Mobility status 5 years ago,Movers,Migrants,40,20,20,,,,,,6001039
+2011,Burwash Landing,Total - Mobility status 5 years ago,Movers,Internal migrants,40,20,20,,,,,,6001039
+2011,Burwash Landing,Total - Mobility status 5 years ago,Movers,Intraprovincial migrants,25,10,15,,,,,,6001039
+2011,Burwash Landing,Total - Mobility status 5 years ago,Movers,Interprovincial migrants,15,10,10,,,,,,6001039
+2011,Burwash Landing,Total - Mobility status 5 years ago,Movers,External migrants,0,0,0,,,,,,6001039
+2011,Carcross,,,Total - Mobility status 1 year ago,280,160,120,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs68'>68</a>,6001048
+2011,Carcross,Total - Mobility status 1 year ago,,Non-movers,230,135,95,,,,,,6001048
+2011,Carcross,Total - Mobility status 1 year ago,,Movers,50,25,25,,,,,,6001048
+2011,Carcross,Total - Mobility status 1 year ago,Movers,Non-migrants,20,10,10,,,,,,6001048
+2011,Carcross,Total - Mobility status 1 year ago,Movers,Migrants,30,15,10,,,,,,6001048
+2011,Carcross,Total - Mobility status 1 year ago,Movers,Internal migrants,30,15,10,,,,,,6001048
+2011,Carcross,Total - Mobility status 1 year ago,Movers,Intraprovincial migrants,15,10,10,,,,,,6001048
+2011,Carcross,Total - Mobility status 1 year ago,Movers,Interprovincial migrants,10,0,10,,,,,,6001048
+2011,Carcross,Total - Mobility status 1 year ago,Movers,External migrants,0,0,0,,,,,,6001048
+2011,Carcross,,,Total - Mobility status 5 years ago,265,150,115,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs69'>69</a>,6001048
+2011,Carcross,Total - Mobility status 5 years ago,,Non-movers,170,100,70,,,,,,6001048
+2011,Carcross,Total - Mobility status 5 years ago,,Movers,95,50,45,,,,,,6001048
+2011,Carcross,Total - Mobility status 5 years ago,Movers,Non-migrants,30,20,10,,,,,,6001048
+2011,Carcross,Total - Mobility status 5 years ago,Movers,Migrants,70,35,30,,,,,,6001048
+2011,Carcross,Total - Mobility status 5 years ago,Movers,Internal migrants,65,35,30,,,,,,6001048
+2011,Carcross,Total - Mobility status 5 years ago,Movers,Intraprovincial migrants,30,15,15,,,,,,6001048
+2011,Carcross,Total - Mobility status 5 years ago,Movers,Interprovincial migrants,35,20,20,,,,,,6001048
+2011,Carcross,Total - Mobility status 5 years ago,Movers,External migrants,10,0,0,,,,,,6001048
+2011,Carcross Region,,,Total - Mobility status 1 year ago,335,,,,,,,,YBS048008
+2011,Carcross Region,Total - Mobility status 1 year ago,,Non-movers,285,,,,,,,,YBS048008
+2011,Carcross Region,Total - Mobility status 1 year ago,,Movers,55,,,,,,,,YBS048008
+2011,Carcross Region,Total - Mobility status 1 year ago,Movers,Non-migrants,25,,,,,,,,YBS048008
+2011,Carcross Region,Total - Mobility status 1 year ago,Movers,Migrants,25,,,,,,,,YBS048008
+2011,Carcross Region,Total - Mobility status 1 year ago,Movers,Internal migrants,25,,,,,,,,YBS048008
+2011,Carcross Region,Total - Mobility status 1 year ago,Movers,Intraprovincial migrants,15,,,,,,,,YBS048008
+2011,Carcross Region,Total - Mobility status 1 year ago,Movers,Interprovincial migrants,10,,,,,,,,YBS048008
+2011,Carcross Region,Total - Mobility status 1 year ago,Movers,External migrants,0,,,,,,,,YBS048008
+2011,Carcross Region,,,Total - Mobility status 5 years ago,320,,,,,,,,YBS048008
+2011,Carcross Region,Total - Mobility status 5 years ago,,Non-movers,205,,,,,,,,YBS048008
+2011,Carcross Region,Total - Mobility status 5 years ago,,Movers,110,,,,,,,,YBS048008
+2011,Carcross Region,Total - Mobility status 5 years ago,Movers,Non-migrants,30,,,,,,,,YBS048008
+2011,Carcross Region,Total - Mobility status 5 years ago,Movers,Migrants,80,,,,,,,,YBS048008
+2011,Carcross Region,Total - Mobility status 5 years ago,Movers,Internal migrants,80,,,,,,,,YBS048008
+2011,Carcross Region,Total - Mobility status 5 years ago,Movers,Intraprovincial migrants,40,,,,,,,,YBS048008
+2011,Carcross Region,Total - Mobility status 5 years ago,Movers,Interprovincial migrants,35,,,,,,,,YBS048008
+2011,Carcross Region,Total - Mobility status 5 years ago,Movers,External migrants,0,,,,,,,,YBS048008
+2011,Carcross 4,,,Total - Mobility status 1 year ago,55,30,25,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs68'>68</a>,6001008
+2011,Carcross 4,Total - Mobility status 1 year ago,,Non-movers,50,25,25,,,,,,6001008
+2011,Carcross 4,Total - Mobility status 1 year ago,,Movers,0,0,0,,,,,,6001008
+2011,Carcross 4,Total - Mobility status 1 year ago,Movers,Non-migrants,0,0,0,,,,,,6001008
+2011,Carcross 4,Total - Mobility status 1 year ago,Movers,Migrants,0,0,0,,,,,,6001008
+2011,Carcross 4,Total - Mobility status 1 year ago,Movers,Internal migrants,0,0,0,,,,,,6001008
+2011,Carcross 4,Total - Mobility status 1 year ago,Movers,Intraprovincial migrants,0,0,0,,,,,,6001008
+2011,Carcross 4,Total - Mobility status 1 year ago,Movers,Interprovincial migrants,0,0,0,,,,,,6001008
+2011,Carcross 4,Total - Mobility status 1 year ago,Movers,External migrants,0,0,0,,,,,,6001008
+2011,Carcross 4,,,Total - Mobility status 5 years ago,50,25,25,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs69'>69</a>,6001008
+2011,Carcross 4,Total - Mobility status 5 years ago,,Non-movers,35,20,15,,,,,,6001008
+2011,Carcross 4,Total - Mobility status 5 years ago,,Movers,15,10,10,,,,,,6001008
+2011,Carcross 4,Total - Mobility status 5 years ago,Movers,Non-migrants,0,0,0,,,,,,6001008
+2011,Carcross 4,Total - Mobility status 5 years ago,Movers,Migrants,10,0,10,,,,,,6001008
+2011,Carcross 4,Total - Mobility status 5 years ago,Movers,Internal migrants,10,0,10,,,,,,6001008
+2011,Carcross 4,Total - Mobility status 5 years ago,Movers,Intraprovincial migrants,10,0,0,,,,,,6001008
+2011,Carcross 4,Total - Mobility status 5 years ago,Movers,Interprovincial migrants,0,0,0,,,,,,6001008
+2011,Carcross 4,Total - Mobility status 5 years ago,Movers,External migrants,0,0,0,,,,,,6001008
+2011,Carcross-Tagish Region,,,Total - Mobility status 1 year ago,725,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total - Mobility status 1 year ago,,Non-movers,635,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total - Mobility status 1 year ago,,Movers,90,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total - Mobility status 1 year ago,Movers,Non-migrants,35,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total - Mobility status 1 year ago,Movers,Migrants,55,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total - Mobility status 1 year ago,Movers,Internal migrants,50,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total - Mobility status 1 year ago,Movers,Intraprovincial migrants,35,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total - Mobility status 1 year ago,Movers,Interprovincial migrants,15,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total - Mobility status 1 year ago,Movers,External migrants,0,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,,,Total - Mobility status 5 years ago,705,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total - Mobility status 5 years ago,,Non-movers,460,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total - Mobility status 5 years ago,,Movers,245,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total - Mobility status 5 years ago,Movers,Non-migrants,50,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total - Mobility status 5 years ago,Movers,Migrants,195,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total - Mobility status 5 years ago,Movers,Internal migrants,175,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total - Mobility status 5 years ago,Movers,Intraprovincial migrants,130,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total - Mobility status 5 years ago,Movers,Interprovincial migrants,45,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total - Mobility status 5 years ago,Movers,External migrants,20,,,,,,,,YBS048008036
+2011,Dawson,,,Total - Mobility status 1 year ago,1290,630,655,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs68'>68</a>,6001029
+2011,Dawson,Total - Mobility status 1 year ago,,Non-movers,1020,515,510,,,,,,6001029
+2011,Dawson,Total - Mobility status 1 year ago,,Movers,270,120,145,,,,,,6001029
+2011,Dawson,Total - Mobility status 1 year ago,Movers,Non-migrants,170,70,95,,,,,,6001029
+2011,Dawson,Total - Mobility status 1 year ago,Movers,Migrants,95,50,50,,,,,,6001029
+2011,Dawson,Total - Mobility status 1 year ago,Movers,Internal migrants,95,45,50,,,,,,6001029
+2011,Dawson,Total - Mobility status 1 year ago,Movers,Intraprovincial migrants,20,0,0,,,,,,6001029
+2011,Dawson,Total - Mobility status 1 year ago,Movers,Interprovincial migrants,80,40,45,,,,,,6001029
+2011,Dawson,Total - Mobility status 1 year ago,Movers,External migrants,0,0,0,,,,,,6001029
+2011,Dawson,,,Total - Mobility status 5 years ago,1255,605,645,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs69'>69</a>,6001029
+2011,Dawson,Total - Mobility status 5 years ago,,Non-movers,700,370,330,,,,,,6001029
+2011,Dawson,Total - Mobility status 5 years ago,,Movers,555,235,320,,,,,,6001029
+2011,Dawson,Total - Mobility status 5 years ago,Movers,Non-migrants,220,100,120,,,,,,6001029
+2011,Dawson,Total - Mobility status 5 years ago,Movers,Migrants,335,135,195,,,,,,6001029
+2011,Dawson,Total - Mobility status 5 years ago,Movers,Internal migrants,265,100,165,,,,,,6001029
+2011,Dawson,Total - Mobility status 5 years ago,Movers,Intraprovincial migrants,75,35,40,,,,,,6001029
+2011,Dawson,Total - Mobility status 5 years ago,Movers,Interprovincial migrants,190,65,125,,,,,,6001029
+2011,Dawson,Total - Mobility status 5 years ago,Movers,External migrants,65,35,30,,,,,,6001029
+2011,Faro,,,Total - Mobility status 1 year ago,345,180,160,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs68'>68</a>,6001004
+2011,Faro,Total - Mobility status 1 year ago,,Non-movers,295,160,130,,,,,,6001004
+2011,Faro,Total - Mobility status 1 year ago,,Movers,45,20,30,,,,,,6001004
+2011,Faro,Total - Mobility status 1 year ago,Movers,Non-migrants,15,0,10,,,,,,6001004
+2011,Faro,Total - Mobility status 1 year ago,Movers,Migrants,30,15,20,,,,,,6001004
+2011,Faro,Total - Mobility status 1 year ago,Movers,Internal migrants,30,15,20,,,,,,6001004
+2011,Faro,Total - Mobility status 1 year ago,Movers,Intraprovincial migrants,25,10,15,,,,,,6001004
+2011,Faro,Total - Mobility status 1 year ago,Movers,Interprovincial migrants,10,0,10,,,,,,6001004
+2011,Faro,Total - Mobility status 1 year ago,Movers,External migrants,0,0,0,,,,,,6001004
+2011,Faro,,,Total - Mobility status 5 years ago,320,180,140,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs69'>69</a>,6001004
+2011,Faro,Total - Mobility status 5 years ago,,Non-movers,170,100,70,,,,,,6001004
+2011,Faro,Total - Mobility status 5 years ago,,Movers,150,75,75,,,,,,6001004
+2011,Faro,Total - Mobility status 5 years ago,Movers,Non-migrants,40,20,20,,,,,,6001004
+2011,Faro,Total - Mobility status 5 years ago,Movers,Migrants,110,55,55,,,,,,6001004
+2011,Faro,Total - Mobility status 5 years ago,Movers,Internal migrants,105,55,55,,,,,,6001004
+2011,Faro,Total - Mobility status 5 years ago,Movers,Intraprovincial migrants,40,25,20,,,,,,6001004
+2011,Faro,Total - Mobility status 5 years ago,Movers,Interprovincial migrants,65,30,30,,,,,,6001004
+2011,Faro,Total - Mobility status 5 years ago,Movers,External migrants,0,0,0,,,,,,6001004
+2011,Haines Junction,,,Total - Mobility status 1 year ago,615,290,325,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs68'>68</a>,6001018
+2011,Haines Junction,Total - Mobility status 1 year ago,,Non-movers,525,250,270,,,,,,6001018
+2011,Haines Junction,Total - Mobility status 1 year ago,,Movers,95,40,50,,,,,,6001018
+2011,Haines Junction,Total - Mobility status 1 year ago,Movers,Non-migrants,30,10,20,,,,,,6001018
+2011,Haines Junction,Total - Mobility status 1 year ago,Movers,Migrants,65,30,35,,,,,,6001018
+2011,Haines Junction,Total - Mobility status 1 year ago,Movers,Internal migrants,50,20,30,,,,,,6001018
+2011,Haines Junction,Total - Mobility status 1 year ago,Movers,Intraprovincial migrants,30,10,20,,,,,,6001018
+2011,Haines Junction,Total - Mobility status 1 year ago,Movers,Interprovincial migrants,20,10,0,,,,,,6001018
+2011,Haines Junction,Total - Mobility status 1 year ago,Movers,External migrants,15,0,0,,,,,,6001018
+2011,Haines Junction,,,Total - Mobility status 5 years ago,590,280,310,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs69'>69</a>,6001018
+2011,Haines Junction,Total - Mobility status 5 years ago,,Non-movers,335,150,190,,,,,,6001018
+2011,Haines Junction,Total - Mobility status 5 years ago,,Movers,260,130,125,,,,,,6001018
+2011,Haines Junction,Total - Mobility status 5 years ago,Movers,Non-migrants,85,40,45,,,,,,6001018
+2011,Haines Junction,Total - Mobility status 5 years ago,Movers,Migrants,165,90,80,,,,,,6001018
+2011,Haines Junction,Total - Mobility status 5 years ago,Movers,Internal migrants,150,75,70,,,,,,6001018
+2011,Haines Junction,Total - Mobility status 5 years ago,Movers,Intraprovincial migrants,85,35,50,,,,,,6001018
+2011,Haines Junction,Total - Mobility status 5 years ago,Movers,Interprovincial migrants,65,35,25,,,,,,6001018
+2011,Haines Junction,Total - Mobility status 5 years ago,Movers,External migrants,20,15,0,,,,,,6001018
+2011,Mt. Lorne,,,Total - Mobility status 1 year ago,410,225,185,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs68'>68</a>,6001044
+2011,Mt. Lorne,Total - Mobility status 1 year ago,,Non-movers,325,160,160,,,,,,6001044
+2011,Mt. Lorne,Total - Mobility status 1 year ago,,Movers,80,60,0,,,,,,6001044
+2011,Mt. Lorne,Total - Mobility status 1 year ago,Movers,Non-migrants,60,35,0,,,,,,6001044
+2011,Mt. Lorne,Total - Mobility status 1 year ago,Movers,Migrants,0,0,0,,,,,,6001044
+2011,Mt. Lorne,Total - Mobility status 1 year ago,Movers,Internal migrants,0,0,0,,,,,,6001044
+2011,Mt. Lorne,Total - Mobility status 1 year ago,Movers,Intraprovincial migrants,0,0,0,,,,,,6001044
+2011,Mt. Lorne,Total - Mobility status 1 year ago,Movers,Interprovincial migrants,0,0,0,,,,,,6001044
+2011,Mt. Lorne,Total - Mobility status 1 year ago,Movers,External migrants,0,0,0,,,,,,6001044
+2011,Mt. Lorne,,,Total - Mobility status 5 years ago,375,200,175,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs69'>69</a>,6001044
+2011,Mt. Lorne,Total - Mobility status 5 years ago,,Non-movers,250,125,125,,,,,,6001044
+2011,Mt. Lorne,Total - Mobility status 5 years ago,,Movers,120,70,50,,,,,,6001044
+2011,Mt. Lorne,Total - Mobility status 5 years ago,Movers,Non-migrants,65,40,25,,,,,,6001044
+2011,Mt. Lorne,Total - Mobility status 5 years ago,Movers,Migrants,55,35,0,,,,,,6001044
+2011,Mt. Lorne,Total - Mobility status 5 years ago,Movers,Internal migrants,35,35,0,,,,,,6001044
+2011,Mt. Lorne,Total - Mobility status 5 years ago,Movers,Intraprovincial migrants,0,0,0,,,,,,6001044
+2011,Mt. Lorne,Total - Mobility status 5 years ago,Movers,Interprovincial migrants,40,35,0,,,,,,6001044
+2011,Mt. Lorne,Total - Mobility status 5 years ago,Movers,External migrants,0,0,0,,,,,,6001044
+2011,Old Crow,,,Total - Mobility status 1 year ago,240,130,110,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs68'>68</a>,6001043
+2011,Old Crow,Total - Mobility status 1 year ago,,Non-movers,210,115,95,,,,,,6001043
+2011,Old Crow,Total - Mobility status 1 year ago,,Movers,25,10,20,,,,,,6001043
+2011,Old Crow,Total - Mobility status 1 year ago,Movers,Non-migrants,0,0,0,,,,,,6001043
+2011,Old Crow,Total - Mobility status 1 year ago,Movers,Migrants,25,10,15,,,,,,6001043
+2011,Old Crow,Total - Mobility status 1 year ago,Movers,Internal migrants,20,10,15,,,,,,6001043
+2011,Old Crow,Total - Mobility status 1 year ago,Movers,Intraprovincial migrants,15,0,10,,,,,,6001043
+2011,Old Crow,Total - Mobility status 1 year ago,Movers,Interprovincial migrants,10,0,10,,,,,,6001043
+2011,Old Crow,Total - Mobility status 1 year ago,Movers,External migrants,0,0,0,,,,,,6001043
+2011,Old Crow,,,Total - Mobility status 5 years ago,230,115,105,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs69'>69</a>,6001043
+2011,Old Crow,Total - Mobility status 5 years ago,,Non-movers,145,80,70,,,,,,6001043
+2011,Old Crow,Total - Mobility status 5 years ago,,Movers,80,35,45,,,,,,6001043
+2011,Old Crow,Total - Mobility status 5 years ago,Movers,Non-migrants,20,10,10,,,,,,6001043
+2011,Old Crow,Total - Mobility status 5 years ago,Movers,Migrants,65,30,35,,,,,,6001043
+2011,Old Crow,Total - Mobility status 5 years ago,Movers,Internal migrants,60,30,35,,,,,,6001043
+2011,Old Crow,Total - Mobility status 5 years ago,Movers,Intraprovincial migrants,30,15,15,,,,,,6001043
+2011,Old Crow,Total - Mobility status 5 years ago,Movers,Interprovincial migrants,35,15,20,,,,,,6001043
+2011,Old Crow,Total - Mobility status 5 years ago,Movers,External migrants,0,0,0,,,,,,6001043
+2011,Pelly Crossing,,,Total - Mobility status 1 year ago,330,185,145,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs68'>68</a>,6001041
+2011,Pelly Crossing,Total - Mobility status 1 year ago,,Non-movers,260,145,115,,,,,,6001041
+2011,Pelly Crossing,Total - Mobility status 1 year ago,,Movers,70,40,30,,,,,,6001041
+2011,Pelly Crossing,Total - Mobility status 1 year ago,Movers,Non-migrants,45,25,15,,,,,,6001041
+2011,Pelly Crossing,Total - Mobility status 1 year ago,Movers,Migrants,25,10,15,,,,,,6001041
+2011,Pelly Crossing,Total - Mobility status 1 year ago,Movers,Internal migrants,25,10,10,,,,,,6001041
+2011,Pelly Crossing,Total - Mobility status 1 year ago,Movers,Intraprovincial migrants,25,10,10,,,,,,6001041
+2011,Pelly Crossing,Total - Mobility status 1 year ago,Movers,Interprovincial migrants,0,0,0,,,,,,6001041
+2011,Pelly Crossing,Total - Mobility status 1 year ago,Movers,External migrants,0,0,0,,,,,,6001041
+2011,Pelly Crossing,,,Total - Mobility status 5 years ago,310,175,135,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs69'>69</a>,6001041
+2011,Pelly Crossing,Total - Mobility status 5 years ago,,Non-movers,170,95,70,,,,,,6001041
+2011,Pelly Crossing,Total - Mobility status 5 years ago,,Movers,145,80,65,,,,,,6001041
+2011,Pelly Crossing,Total - Mobility status 5 years ago,Movers,Non-migrants,90,45,40,,,,,,6001041
+2011,Pelly Crossing,Total - Mobility status 5 years ago,Movers,Migrants,55,30,25,,,,,,6001041
+2011,Pelly Crossing,Total - Mobility status 5 years ago,Movers,Internal migrants,60,35,25,,,,,,6001041
+2011,Pelly Crossing,Total - Mobility status 5 years ago,Movers,Intraprovincial migrants,50,30,20,,,,,,6001041
+2011,Pelly Crossing,Total - Mobility status 5 years ago,Movers,Interprovincial migrants,15,0,10,,,,,,6001041
+2011,Pelly Crossing,Total - Mobility status 5 years ago,Movers,External migrants,0,0,0,,,,,,6001041
+2011,Ross River,,,Total - Mobility status 1 year ago,345,190,155,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs68'>68</a>,6001037
+2011,Ross River,Total - Mobility status 1 year ago,,Non-movers,280,150,125,,,,,,6001037
+2011,Ross River,Total - Mobility status 1 year ago,,Movers,65,40,25,,,,,,6001037
+2011,Ross River,Total - Mobility status 1 year ago,Movers,Non-migrants,35,15,20,,,,,,6001037
+2011,Ross River,Total - Mobility status 1 year ago,Movers,Migrants,30,20,10,,,,,,6001037
+2011,Ross River,Total - Mobility status 1 year ago,Movers,Internal migrants,30,20,10,,,,,,6001037
+2011,Ross River,Total - Mobility status 1 year ago,Movers,Intraprovincial migrants,15,10,0,,,,,,6001037
+2011,Ross River,Total - Mobility status 1 year ago,Movers,Interprovincial migrants,20,10,10,,,,,,6001037
+2011,Ross River,Total - Mobility status 1 year ago,Movers,External migrants,0,0,0,,,,,,6001037
+2011,Ross River,,,Total - Mobility status 5 years ago,335,180,155,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs69'>69</a>,6001037
+2011,Ross River,Total - Mobility status 5 years ago,,Non-movers,250,135,115,,,,,,6001037
+2011,Ross River,Total - Mobility status 5 years ago,,Movers,85,45,40,,,,,,6001037
+2011,Ross River,Total - Mobility status 5 years ago,Movers,Non-migrants,30,20,15,,,,,,6001037
+2011,Ross River,Total - Mobility status 5 years ago,Movers,Migrants,55,30,20,,,,,,6001037
+2011,Ross River,Total - Mobility status 5 years ago,Movers,Internal migrants,55,30,20,,,,,,6001037
+2011,Ross River,Total - Mobility status 5 years ago,Movers,Intraprovincial migrants,30,20,0,,,,,,6001037
+2011,Ross River,Total - Mobility status 5 years ago,Movers,Interprovincial migrants,25,10,15,,,,,,6001037
+2011,Ross River,Total - Mobility status 5 years ago,Movers,External migrants,0,0,0,,,,,,6001037
+2011,Teslin Region,,,Total - Mobility status 1 year ago,255,,,,,,,,YBS006057007
+2011,Teslin Region,Total - Mobility status 1 year ago,,Non-movers,200,,,,,,,,YBS006057007
+2011,Teslin Region,Total - Mobility status 1 year ago,,Movers,55,,,,,,,,YBS006057007
+2011,Teslin Region,Total - Mobility status 1 year ago,Movers,Non-migrants,10,,,,,,,,YBS006057007
+2011,Teslin Region,Total - Mobility status 1 year ago,Movers,Migrants,45,,,,,,,,YBS006057007
+2011,Teslin Region,Total - Mobility status 1 year ago,Movers,Internal migrants,30,,,,,,,,YBS006057007
+2011,Teslin Region,Total - Mobility status 1 year ago,Movers,Intraprovincial migrants,20,,,,,,,,YBS006057007
+2011,Teslin Region,Total - Mobility status 1 year ago,Movers,Interprovincial migrants,0,,,,,,,,YBS006057007
+2011,Teslin Region,Total - Mobility status 1 year ago,Movers,External migrants,15,,,,,,,,YBS006057007
+2011,Teslin Region,,,Total - Mobility status 5 years ago,235,,,,,,,,YBS006057007
+2011,Teslin Region,Total - Mobility status 5 years ago,,Non-movers,155,,,,,,,,YBS006057007
+2011,Teslin Region,Total - Mobility status 5 years ago,,Movers,85,,,,,,,,YBS006057007
+2011,Teslin Region,Total - Mobility status 5 years ago,Movers,Non-migrants,10,,,,,,,,YBS006057007
+2011,Teslin Region,Total - Mobility status 5 years ago,Movers,Migrants,75,,,,,,,,YBS006057007
+2011,Teslin Region,Total - Mobility status 5 years ago,Movers,Internal migrants,60,,,,,,,,YBS006057007
+2011,Teslin Region,Total - Mobility status 5 years ago,Movers,Intraprovincial migrants,40,,,,,,,,YBS006057007
+2011,Teslin Region,Total - Mobility status 5 years ago,Movers,Interprovincial migrants,25,,,,,,,,YBS006057007
+2011,Teslin Region,Total - Mobility status 5 years ago,Movers,External migrants,10,,,,,,,,YBS006057007
+2011,Teslin Post 13,,,Total - Mobility status 1 year ago,135,65,70,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs68'>68</a>,6001007
+2011,Teslin Post 13,Total - Mobility status 1 year ago,,Non-movers,125,60,60,,,,,,6001007
+2011,Teslin Post 13,Total - Mobility status 1 year ago,,Movers,15,0,10,,,,,,6001007
+2011,Teslin Post 13,Total - Mobility status 1 year ago,Movers,Non-migrants,10,0,10,,,,,,6001007
+2011,Teslin Post 13,Total - Mobility status 1 year ago,Movers,Migrants,10,0,0,,,,,,6001007
+2011,Teslin Post 13,Total - Mobility status 1 year ago,Movers,Internal migrants,0,0,10,,,,,,6001007
+2011,Teslin Post 13,Total - Mobility status 1 year ago,Movers,Intraprovincial migrants,10,0,0,,,,,,6001007
+2011,Teslin Post 13,Total - Mobility status 1 year ago,Movers,Interprovincial migrants,0,0,0,,,,,,6001007
+2011,Teslin Post 13,Total - Mobility status 1 year ago,Movers,External migrants,0,0,0,,,,,,6001007
+2011,Teslin Post 13,,,Total - Mobility status 5 years ago,135,60,70,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs69'>69</a>,6001007
+2011,Teslin Post 13,Total - Mobility status 5 years ago,,Non-movers,100,50,50,,,,,,6001007
+2011,Teslin Post 13,Total - Mobility status 5 years ago,,Movers,35,15,20,,,,,,6001007
+2011,Teslin Post 13,Total - Mobility status 5 years ago,Movers,Non-migrants,10,0,0,,,,,,6001007
+2011,Teslin Post 13,Total - Mobility status 5 years ago,Movers,Migrants,25,10,15,,,,,,6001007
+2011,Teslin Post 13,Total - Mobility status 5 years ago,Movers,Internal migrants,25,10,20,,,,,,6001007
+2011,Teslin Post 13,Total - Mobility status 5 years ago,Movers,Intraprovincial migrants,25,10,15,,,,,,6001007
+2011,Teslin Post 13,Total - Mobility status 5 years ago,Movers,Interprovincial migrants,0,0,0,,,,,,6001007
+2011,Teslin Post 13,Total - Mobility status 5 years ago,Movers,External migrants,0,0,0,,,,,,6001007
+2011,Upper Liard,,,Total - Mobility status 1 year ago,130,80,50,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs68'>68</a>,6001032
+2011,Upper Liard,Total - Mobility status 1 year ago,,Non-movers,115,75,45,,,,,,6001032
+2011,Upper Liard,Total - Mobility status 1 year ago,,Movers,10,10,10,,,,,,6001032
+2011,Upper Liard,Total - Mobility status 1 year ago,Movers,Non-migrants,0,0,0,,,,,,6001032
+2011,Upper Liard,Total - Mobility status 1 year ago,Movers,Migrants,0,0,0,,,,,,6001032
+2011,Upper Liard,Total - Mobility status 1 year ago,Movers,Internal migrants,10,0,0,,,,,,6001032
+2011,Upper Liard,Total - Mobility status 1 year ago,Movers,Intraprovincial migrants,10,0,0,,,,,,6001032
+2011,Upper Liard,Total - Mobility status 1 year ago,Movers,Interprovincial migrants,0,0,0,,,,,,6001032
+2011,Upper Liard,Total - Mobility status 1 year ago,Movers,External migrants,0,0,0,,,,,,6001032
+2011,Upper Liard,,,Total - Mobility status 5 years ago,130,80,50,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs69'>69</a>,6001032
+2011,Upper Liard,Total - Mobility status 5 years ago,,Non-movers,115,70,45,,,,,,6001032
+2011,Upper Liard,Total - Mobility status 5 years ago,,Movers,15,10,0,,,,,,6001032
+2011,Upper Liard,Total - Mobility status 5 years ago,Movers,Non-migrants,10,0,0,,,,,,6001032
+2011,Upper Liard,Total - Mobility status 5 years ago,Movers,Migrants,10,0,10,,,,,,6001032
+2011,Upper Liard,Total - Mobility status 5 years ago,Movers,Internal migrants,10,0,0,,,,,,6001032
+2011,Upper Liard,Total - Mobility status 5 years ago,Movers,Intraprovincial migrants,10,0,0,,,,,,6001032
+2011,Upper Liard,Total - Mobility status 5 years ago,Movers,Interprovincial migrants,0,0,0,,,,,,6001032
+2011,Upper Liard,Total - Mobility status 5 years ago,Movers,External migrants,0,0,0,,,,,,6001032
+2011,Watson Lake,,,Total - Mobility status 1 year ago,790,400,385,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs68'>68</a>,6001003
+2011,Watson Lake,Total - Mobility status 1 year ago,,Non-movers,685,350,335,,,,,,6001003
+2011,Watson Lake,Total - Mobility status 1 year ago,,Movers,105,55,50,,,,,,6001003
+2011,Watson Lake,Total - Mobility status 1 year ago,Movers,Non-migrants,55,30,25,,,,,,6001003
+2011,Watson Lake,Total - Mobility status 1 year ago,Movers,Migrants,50,25,25,,,,,,6001003
+2011,Watson Lake,Total - Mobility status 1 year ago,Movers,Internal migrants,50,20,25,,,,,,6001003
+2011,Watson Lake,Total - Mobility status 1 year ago,Movers,Intraprovincial migrants,10,0,10,,,,,,6001003
+2011,Watson Lake,Total - Mobility status 1 year ago,Movers,Interprovincial migrants,45,20,20,,,,,,6001003
+2011,Watson Lake,Total - Mobility status 1 year ago,Movers,External migrants,0,0,0,,,,,,6001003
+2011,Watson Lake,,,Total - Mobility status 5 years ago,755,380,370,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs69'>69</a>,6001003
+2011,Watson Lake,Total - Mobility status 5 years ago,,Non-movers,400,210,190,,,,,,6001003
+2011,Watson Lake,Total - Mobility status 5 years ago,,Movers,345,170,180,,,,,,6001003
+2011,Watson Lake,Total - Mobility status 5 years ago,Movers,Non-migrants,180,95,85,,,,,,6001003
+2011,Watson Lake,Total - Mobility status 5 years ago,Movers,Migrants,170,80,90,,,,,,6001003
+2011,Watson Lake,Total - Mobility status 5 years ago,Movers,Internal migrants,150,75,80,,,,,,6001003
+2011,Watson Lake,Total - Mobility status 5 years ago,Movers,Intraprovincial migrants,20,10,10,,,,,,6001003
+2011,Watson Lake,Total - Mobility status 5 years ago,Movers,Interprovincial migrants,135,65,70,,,,,,6001003
+2011,Watson Lake,Total - Mobility status 5 years ago,Movers,External migrants,20,10,10,,,,,,6001003
+2011,Watson Lake Region,,,Total - Mobility status 1 year ago,1055,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total - Mobility status 1 year ago,,Non-movers,935,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total - Mobility status 1 year ago,,Movers,120,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total - Mobility status 1 year ago,Movers,Non-migrants,65,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total - Mobility status 1 year ago,Movers,Migrants,60,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total - Mobility status 1 year ago,Movers,Internal migrants,55,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total - Mobility status 1 year ago,Movers,Intraprovincial migrants,20,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total - Mobility status 1 year ago,Movers,Interprovincial migrants,40,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total - Mobility status 1 year ago,Movers,External migrants,0,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,,,Total - Mobility status 5 years ago,1005,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total - Mobility status 5 years ago,,Non-movers,575,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total - Mobility status 5 years ago,,Movers,430,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total - Mobility status 5 years ago,Movers,Non-migrants,220,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total - Mobility status 5 years ago,Movers,Migrants,210,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total - Mobility status 5 years ago,Movers,Internal migrants,185,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total - Mobility status 5 years ago,Movers,Intraprovincial migrants,50,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total - Mobility status 5 years ago,Movers,Interprovincial migrants,135,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total - Mobility status 5 years ago,Movers,External migrants,20,,,,,,,,YBS003032033034035

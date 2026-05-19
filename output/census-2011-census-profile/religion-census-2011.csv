@@ -1,0 +1,400 @@
+census_year,geo_name,category,subcategory,variable_name,total,male,female,flag_total,flag_male,flag_female,geo_location,data_notes,geo_code
+2011,Yukon,,,Total population in private households by religion,33320,16790,16535,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs55'>55</a>,6001
+2011,Yukon,Total population in private households by religion,,Buddhist,290,145,150,,,,,,6001
+2011,Yukon,Total population in private households by religion,,Christian,15375,7400,7980,,,,,,6001
+2011,Yukon,Total population in private households by religion,Christian,Anglican,2740,1335,1410,,,,,,6001
+2011,Yukon,Total population in private households by religion,Christian,Baptist,765,415,345,,,,,,6001
+2011,Yukon,Total population in private households by religion,Christian,Catholic,6115,2825,3295,,,,,,6001
+2011,Yukon,Total population in private households by religion,Christian,Christian Orthodox,160,115,50,,,,,,6001
+2011,Yukon,Total population in private households by religion,Christian,Lutheran,400,185,220,,,,,,6001
+2011,Yukon,Total population in private households by religion,Christian,Pentecostal,610,305,305,,,,,,6001
+2011,Yukon,Total population in private households by religion,Christian,Presbyterian,180,65,110,,,,,,6001
+2011,Yukon,Total population in private households by religion,Christian,United Church,1470,630,835,,,,,,6001
+2011,Yukon,Total population in private households by religion,Christian,Other Christian,2940,1520,1425,,,,,,6001
+2011,Yukon,Total population in private households by religion,,Hindu,165,80,85,,,,,,6001
+2011,Yukon,Total population in private households by religion,,Jewish,20,10,10,,,,,,6001
+2011,Yukon,Total population in private households by religion,,Muslim,40,15,25,,,,,,6001
+2011,Yukon,Total population in private households by religion,,Sikh,90,50,35,,,,,,6001
+2011,Yukon,Total population in private households by religion,,Traditional (Aboriginal) Spirituality,395,210,190,,,,,,6001
+2011,Yukon,Total population in private households by religion,,Other religions,300,145,155,,,,,,6001
+2011,Yukon,Total population in private households by religion,,No religious affiliation,16635,8725,7905,,,,,,6001
+2011,Whitehorse - City,,,Total population in private households by religion,22810,11345,11460,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs55'>55</a>,6001009
+2011,Whitehorse - City,Total population in private households by religion,,Buddhist,195,95,95,,,,,,6001009
+2011,Whitehorse - City,Total population in private households by religion,,Christian,10325,4790,5540,,,,,,6001009
+2011,Whitehorse - City,Total population in private households by religion,Christian,Anglican,1520,745,775,,,,,,6001009
+2011,Whitehorse - City,Total population in private households by religion,Christian,Baptist,645,350,295,,,,,,6001009
+2011,Whitehorse - City,Total population in private households by religion,Christian,Catholic,4350,1925,2420,,,,,,6001009
+2011,Whitehorse - City,Total population in private households by religion,Christian,Christian Orthodox,105,65,35,,,,,,6001009
+2011,Whitehorse - City,Total population in private households by religion,Christian,Lutheran,265,110,160,,,,,,6001009
+2011,Whitehorse - City,Total population in private households by religion,Christian,Pentecostal,435,225,205,,,,,,6001009
+2011,Whitehorse - City,Total population in private households by religion,Christian,Presbyterian,120,50,75,,,,,,6001009
+2011,Whitehorse - City,Total population in private households by religion,Christian,United Church,1175,495,680,,,,,,6001009
+2011,Whitehorse - City,Total population in private households by religion,Christian,Other Christian,1710,815,890,,,,,,6001009
+2011,Whitehorse - City,Total population in private households by religion,,Hindu,160,80,80,,,,,,6001009
+2011,Whitehorse - City,Total population in private households by religion,,Jewish,10,0,0,,,,,,6001009
+2011,Whitehorse - City,Total population in private households by religion,,Muslim,40,20,20,,,,,,6001009
+2011,Whitehorse - City,Total population in private households by religion,,Sikh,85,50,40,,,,,,6001009
+2011,Whitehorse - City,Total population in private households by religion,,Traditional (Aboriginal) Spirituality,110,50,55,,,,,,6001009
+2011,Whitehorse - City,Total population in private households by religion,,Other religions,160,80,85,,,,,,6001009
+2011,Whitehorse - City,Total population in private households by religion,,No religious affiliation,11725,6180,5545,,,,,,6001009
+2011,Alaska Highway North Region,,,Total population in private households by religion,845,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by religion,,Buddhist,0,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by religion,,Christian,340,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by religion,Christian,Anglican,60,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by religion,Christian,Baptist,10,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by religion,Christian,Catholic,140,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by religion,Christian,Christian Orthodox,0,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by religion,Christian,Lutheran,0,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by religion,Christian,Pentecostal,20,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by religion,Christian,Presbyterian,0,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by religion,Christian,United Church,20,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by religion,Christian,Other Christian,80,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by religion,,Hindu,0,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by religion,,Jewish,0,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by religion,,Muslim,0,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by religion,,Sikh,0,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by religion,,Traditional (Aboriginal) Spirituality,45,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by religion,,Other religions,15,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by religion,,No religious affiliation,445,,,,,,,,YBS042039049018
+2011,Beaver Creek,,,Total population in private households by religion,100,55,45,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs55'>55</a>,6001042
+2011,Beaver Creek,Total population in private households by religion,,Buddhist,0,0,0,,,,,,6001042
+2011,Beaver Creek,Total population in private households by religion,,Christian,45,25,25,,,,,,6001042
+2011,Beaver Creek,Total population in private households by religion,Christian,Anglican,0,0,0,,,,,,6001042
+2011,Beaver Creek,Total population in private households by religion,Christian,Baptist,0,0,0,,,,,,6001042
+2011,Beaver Creek,Total population in private households by religion,Christian,Catholic,25,10,15,,,,,,6001042
+2011,Beaver Creek,Total population in private households by religion,Christian,Christian Orthodox,0,0,0,,,,,,6001042
+2011,Beaver Creek,Total population in private households by religion,Christian,Lutheran,0,0,0,,,,,,6001042
+2011,Beaver Creek,Total population in private households by religion,Christian,Pentecostal,0,0,0,,,,,,6001042
+2011,Beaver Creek,Total population in private households by religion,Christian,Presbyterian,0,0,0,,,,,,6001042
+2011,Beaver Creek,Total population in private households by religion,Christian,United Church,0,0,0,,,,,,6001042
+2011,Beaver Creek,Total population in private households by religion,Christian,Other Christian,20,10,10,,,,,,6001042
+2011,Beaver Creek,Total population in private households by religion,,Hindu,0,0,0,,,,,,6001042
+2011,Beaver Creek,Total population in private households by religion,,Jewish,0,0,0,,,,,,6001042
+2011,Beaver Creek,Total population in private households by religion,,Muslim,0,0,0,,,,,,6001042
+2011,Beaver Creek,Total population in private households by religion,,Sikh,0,0,0,,,,,,6001042
+2011,Beaver Creek,Total population in private households by religion,,Traditional (Aboriginal) Spirituality,0,0,0,,,,,,6001042
+2011,Beaver Creek,Total population in private households by religion,,Other religions,0,0,0,,,,,,6001042
+2011,Beaver Creek,Total population in private households by religion,,No religious affiliation,50,30,20,,,,,,6001042
+2011,Burwash Landing,,,Total population in private households by religion,95,50,45,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs55'>55</a>,6001039
+2011,Burwash Landing,Total population in private households by religion,,Buddhist,0,0,0,,,,,,6001039
+2011,Burwash Landing,Total population in private households by religion,,Christian,45,15,25,,,,,,6001039
+2011,Burwash Landing,Total population in private households by religion,Christian,Anglican,10,0,10,,,,,,6001039
+2011,Burwash Landing,Total population in private households by religion,Christian,Baptist,0,0,0,,,,,,6001039
+2011,Burwash Landing,Total population in private households by religion,Christian,Catholic,20,10,10,,,,,,6001039
+2011,Burwash Landing,Total population in private households by religion,Christian,Christian Orthodox,0,0,0,,,,,,6001039
+2011,Burwash Landing,Total population in private households by religion,Christian,Lutheran,0,0,0,,,,,,6001039
+2011,Burwash Landing,Total population in private households by religion,Christian,Pentecostal,0,0,0,,,,,,6001039
+2011,Burwash Landing,Total population in private households by religion,Christian,Presbyterian,0,0,0,,,,,,6001039
+2011,Burwash Landing,Total population in private households by religion,Christian,United Church,10,0,0,,,,,,6001039
+2011,Burwash Landing,Total population in private households by religion,Christian,Other Christian,0,0,0,,,,,,6001039
+2011,Burwash Landing,Total population in private households by religion,,Hindu,0,0,0,,,,,,6001039
+2011,Burwash Landing,Total population in private households by religion,,Jewish,0,0,0,,,,,,6001039
+2011,Burwash Landing,Total population in private households by religion,,Muslim,0,0,0,,,,,,6001039
+2011,Burwash Landing,Total population in private households by religion,,Sikh,0,0,0,,,,,,6001039
+2011,Burwash Landing,Total population in private households by religion,,Traditional (Aboriginal) Spirituality,10,0,0,,,,,,6001039
+2011,Burwash Landing,Total population in private households by religion,,Other religions,0,0,0,,,,,,6001039
+2011,Burwash Landing,Total population in private households by religion,,No religious affiliation,40,20,15,,,,,,6001039
+2011,Carcross,,,Total population in private households by religion,285,165,120,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs55'>55</a>,6001048
+2011,Carcross,Total population in private households by religion,,Buddhist,0,0,0,,,,,,6001048
+2011,Carcross,Total population in private households by religion,,Christian,125,70,55,,,,,,6001048
+2011,Carcross,Total population in private households by religion,Christian,Anglican,40,20,20,,,,,,6001048
+2011,Carcross,Total population in private households by religion,Christian,Baptist,0,0,0,,,,,,6001048
+2011,Carcross,Total population in private households by religion,Christian,Catholic,45,35,20,,,,,,6001048
+2011,Carcross,Total population in private households by religion,Christian,Christian Orthodox,0,0,0,,,,,,6001048
+2011,Carcross,Total population in private households by religion,Christian,Lutheran,0,0,0,,,,,,6001048
+2011,Carcross,Total population in private households by religion,Christian,Pentecostal,0,0,0,,,,,,6001048
+2011,Carcross,Total population in private households by religion,Christian,Presbyterian,0,0,0,,,,,,6001048
+2011,Carcross,Total population in private households by religion,Christian,United Church,0,0,0,,,,,,6001048
+2011,Carcross,Total population in private households by religion,Christian,Other Christian,25,15,15,,,,,,6001048
+2011,Carcross,Total population in private households by religion,,Hindu,0,0,0,,,,,,6001048
+2011,Carcross,Total population in private households by religion,,Jewish,0,0,0,,,,,,6001048
+2011,Carcross,Total population in private households by religion,,Muslim,0,0,0,,,,,,6001048
+2011,Carcross,Total population in private households by religion,,Sikh,0,0,0,,,,,,6001048
+2011,Carcross,Total population in private households by religion,,Traditional (Aboriginal) Spirituality,50,25,25,,,,,,6001048
+2011,Carcross,Total population in private households by religion,,Other religions,10,0,10,,,,,,6001048
+2011,Carcross,Total population in private households by religion,,No religious affiliation,100,65,35,,,,,,6001048
+2011,Carcross Region,,,Total population in private households by religion,340,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by religion,,Buddhist,0,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by religion,,Christian,130,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by religion,Christian,Anglican,40,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by religion,Christian,Baptist,0,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by religion,Christian,Catholic,55,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by religion,Christian,Christian Orthodox,0,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by religion,Christian,Lutheran,0,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by religion,Christian,Pentecostal,0,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by religion,Christian,Presbyterian,0,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by religion,Christian,United Church,0,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by religion,Christian,Other Christian,30,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by religion,,Hindu,0,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by religion,,Jewish,0,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by religion,,Muslim,0,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by religion,,Sikh,0,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by religion,,Traditional (Aboriginal) Spirituality,70,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by religion,,Other religions,10,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by religion,,No religious affiliation,135,,,,,,,,YBS048008
+2011,Carcross 4,,,Total population in private households by religion,55,25,25,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs55'>55</a>,6001008
+2011,Carcross 4,Total population in private households by religion,,Buddhist,0,0,0,,,,,,6001008
+2011,Carcross 4,Total population in private households by religion,,Christian,10,0,0,,,,,,6001008
+2011,Carcross 4,Total population in private households by religion,Christian,Anglican,0,0,0,,,,,,6001008
+2011,Carcross 4,Total population in private households by religion,Christian,Baptist,0,0,0,,,,,,6001008
+2011,Carcross 4,Total population in private households by religion,Christian,Catholic,0,0,0,,,,,,6001008
+2011,Carcross 4,Total population in private households by religion,Christian,Christian Orthodox,0,0,0,,,,,,6001008
+2011,Carcross 4,Total population in private households by religion,Christian,Lutheran,0,0,0,,,,,,6001008
+2011,Carcross 4,Total population in private households by religion,Christian,Pentecostal,0,0,0,,,,,,6001008
+2011,Carcross 4,Total population in private households by religion,Christian,Presbyterian,0,0,0,,,,,,6001008
+2011,Carcross 4,Total population in private households by religion,Christian,United Church,0,0,0,,,,,,6001008
+2011,Carcross 4,Total population in private households by religion,Christian,Other Christian,0,0,0,,,,,,6001008
+2011,Carcross 4,Total population in private households by religion,,Hindu,0,0,0,,,,,,6001008
+2011,Carcross 4,Total population in private households by religion,,Jewish,0,0,0,,,,,,6001008
+2011,Carcross 4,Total population in private households by religion,,Muslim,0,0,0,,,,,,6001008
+2011,Carcross 4,Total population in private households by religion,,Sikh,0,0,0,,,,,,6001008
+2011,Carcross 4,Total population in private households by religion,,Traditional (Aboriginal) Spirituality,15,0,10,,,,,,6001008
+2011,Carcross 4,Total population in private households by religion,,Other religions,0,0,0,,,,,,6001008
+2011,Carcross 4,Total population in private households by religion,,No religious affiliation,30,20,10,,,,,,6001008
+2011,Carcross-Tagish Region,,,Total population in private households by religion,730,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by religion,,Buddhist,0,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by religion,,Christian,300,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by religion,Christian,Anglican,90,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by religion,Christian,Baptist,0,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by religion,Christian,Catholic,130,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by religion,Christian,Christian Orthodox,0,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by religion,Christian,Lutheran,0,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by religion,Christian,Pentecostal,0,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by religion,Christian,Presbyterian,0,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by religion,Christian,United Church,15,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by religion,Christian,Other Christian,55,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by religion,,Hindu,0,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by religion,,Jewish,0,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by religion,,Muslim,0,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by religion,,Sikh,0,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by religion,,Traditional (Aboriginal) Spirituality,85,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by religion,,Other religions,35,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by religion,,No religious affiliation,310,,,,,,,,YBS048008036
+2011,Dawson,,,Total population in private households by religion,1295,635,660,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs55'>55</a>,6001029
+2011,Dawson,Total population in private households by religion,,Buddhist,0,0,0,,,,,,6001029
+2011,Dawson,Total population in private households by religion,,Christian,550,330,220,,,,,,6001029
+2011,Dawson,Total population in private households by religion,Christian,Anglican,210,120,85,,,,,,6001029
+2011,Dawson,Total population in private households by religion,Christian,Baptist,10,0,10,,,,,,6001029
+2011,Dawson,Total population in private households by religion,Christian,Catholic,155,95,60,,,,,,6001029
+2011,Dawson,Total population in private households by religion,Christian,Christian Orthodox,0,0,0,,,,,,6001029
+2011,Dawson,Total population in private households by religion,Christian,Lutheran,0,0,0,,,,,,6001029
+2011,Dawson,Total population in private households by religion,Christian,Pentecostal,0,0,0,,,,,,6001029
+2011,Dawson,Total population in private households by religion,Christian,Presbyterian,10,0,0,,,,,,6001029
+2011,Dawson,Total population in private households by religion,Christian,United Church,10,0,0,,,,,,6001029
+2011,Dawson,Total population in private households by religion,Christian,Other Christian,110,60,50,,,,,,6001029
+2011,Dawson,Total population in private households by religion,,Hindu,0,0,0,,,,,,6001029
+2011,Dawson,Total population in private households by religion,,Jewish,0,0,0,,,,,,6001029
+2011,Dawson,Total population in private households by religion,,Muslim,0,0,0,,,,,,6001029
+2011,Dawson,Total population in private households by religion,,Sikh,0,0,0,,,,,,6001029
+2011,Dawson,Total population in private households by religion,,Traditional (Aboriginal) Spirituality,0,0,0,,,,,,6001029
+2011,Dawson,Total population in private households by religion,,Other religions,15,0,0,,,,,,6001029
+2011,Dawson,Total population in private households by religion,,No religious affiliation,705,280,425,,,,,,6001029
+2011,Faro,,,Total population in private households by religion,345,185,160,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs55'>55</a>,6001004
+2011,Faro,Total population in private households by religion,,Buddhist,0,0,0,,,,,,6001004
+2011,Faro,Total population in private households by religion,,Christian,205,110,100,,,,,,6001004
+2011,Faro,Total population in private households by religion,Christian,Anglican,35,15,25,,,,,,6001004
+2011,Faro,Total population in private households by religion,Christian,Baptist,0,0,0,,,,,,6001004
+2011,Faro,Total population in private households by religion,Christian,Catholic,90,50,40,,,,,,6001004
+2011,Faro,Total population in private households by religion,Christian,Christian Orthodox,0,0,0,,,,,,6001004
+2011,Faro,Total population in private households by religion,Christian,Lutheran,10,0,0,,,,,,6001004
+2011,Faro,Total population in private households by religion,Christian,Pentecostal,0,0,0,,,,,,6001004
+2011,Faro,Total population in private households by religion,Christian,Presbyterian,0,0,0,,,,,,6001004
+2011,Faro,Total population in private households by religion,Christian,United Church,20,10,10,,,,,,6001004
+2011,Faro,Total population in private households by religion,Christian,Other Christian,50,25,20,,,,,,6001004
+2011,Faro,Total population in private households by religion,,Hindu,0,0,0,,,,,,6001004
+2011,Faro,Total population in private households by religion,,Jewish,0,0,0,,,,,,6001004
+2011,Faro,Total population in private households by religion,,Muslim,0,0,0,,,,,,6001004
+2011,Faro,Total population in private households by religion,,Sikh,0,0,0,,,,,,6001004
+2011,Faro,Total population in private households by religion,,Traditional (Aboriginal) Spirituality,0,0,0,,,,,,6001004
+2011,Faro,Total population in private households by religion,,Other religions,10,0,10,,,,,,6001004
+2011,Faro,Total population in private households by religion,,No religious affiliation,110,70,45,,,,,,6001004
+2011,Haines Junction,,,Total population in private households by religion,625,295,325,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs55'>55</a>,6001018
+2011,Haines Junction,Total population in private households by religion,,Buddhist,0,0,0,,,,,,6001018
+2011,Haines Junction,Total population in private households by religion,,Christian,235,115,125,,,,,,6001018
+2011,Haines Junction,Total population in private households by religion,Christian,Anglican,50,30,20,,,,,,6001018
+2011,Haines Junction,Total population in private households by religion,Christian,Baptist,10,0,0,,,,,,6001018
+2011,Haines Junction,Total population in private households by religion,Christian,Catholic,90,50,45,,,,,,6001018
+2011,Haines Junction,Total population in private households by religion,Christian,Christian Orthodox,0,0,0,,,,,,6001018
+2011,Haines Junction,Total population in private households by religion,Christian,Lutheran,0,0,0,,,,,,6001018
+2011,Haines Junction,Total population in private households by religion,Christian,Pentecostal,10,0,10,,,,,,6001018
+2011,Haines Junction,Total population in private households by religion,Christian,Presbyterian,0,0,0,,,,,,6001018
+2011,Haines Junction,Total population in private households by religion,Christian,United Church,10,0,10,,,,,,6001018
+2011,Haines Junction,Total population in private households by religion,Christian,Other Christian,60,30,35,,,,,,6001018
+2011,Haines Junction,Total population in private households by religion,,Hindu,0,0,0,,,,,,6001018
+2011,Haines Junction,Total population in private households by religion,,Jewish,0,0,0,,,,,,6001018
+2011,Haines Junction,Total population in private households by religion,,Muslim,0,0,0,,,,,,6001018
+2011,Haines Junction,Total population in private households by religion,,Sikh,0,0,0,,,,,,6001018
+2011,Haines Junction,Total population in private households by religion,,Traditional (Aboriginal) Spirituality,35,15,20,,,,,,6001018
+2011,Haines Junction,Total population in private households by religion,,Other religions,10,10,10,,,,,,6001018
+2011,Haines Junction,Total population in private households by religion,,No religious affiliation,340,165,180,,,,,,6001018
+2011,Mt. Lorne,,,Total population in private households by religion,410,225,190,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs55'>55</a>,6001044
+2011,Mt. Lorne,Total population in private households by religion,,Buddhist,0,0,0,,,,,,6001044
+2011,Mt. Lorne,Total population in private households by religion,,Christian,135,65,75,,,,,,6001044
+2011,Mt. Lorne,Total population in private households by religion,Christian,Anglican,0,0,0,,,,,,6001044
+2011,Mt. Lorne,Total population in private households by religion,Christian,Baptist,0,0,0,,,,,,6001044
+2011,Mt. Lorne,Total population in private households by religion,Christian,Catholic,75,50,25,,,,,,6001044
+2011,Mt. Lorne,Total population in private households by religion,Christian,Christian Orthodox,0,0,0,,,,,,6001044
+2011,Mt. Lorne,Total population in private households by religion,Christian,Lutheran,0,0,0,,,,,,6001044
+2011,Mt. Lorne,Total population in private households by religion,Christian,Pentecostal,0,0,0,,,,,,6001044
+2011,Mt. Lorne,Total population in private households by religion,Christian,Presbyterian,0,0,0,,,,,,6001044
+2011,Mt. Lorne,Total population in private households by religion,Christian,United Church,0,0,0,,,,,,6001044
+2011,Mt. Lorne,Total population in private households by religion,Christian,Other Christian,40,0,30,,,,,,6001044
+2011,Mt. Lorne,Total population in private households by religion,,Hindu,0,0,0,,,,,,6001044
+2011,Mt. Lorne,Total population in private households by religion,,Jewish,0,0,0,,,,,,6001044
+2011,Mt. Lorne,Total population in private households by religion,,Muslim,0,0,0,,,,,,6001044
+2011,Mt. Lorne,Total population in private households by religion,,Sikh,0,0,0,,,,,,6001044
+2011,Mt. Lorne,Total population in private households by religion,,Traditional (Aboriginal) Spirituality,0,0,0,,,,,,6001044
+2011,Mt. Lorne,Total population in private households by religion,,Other religions,0,0,0,,,,,,6001044
+2011,Mt. Lorne,Total population in private households by religion,,No religious affiliation,270,155,115,,,,,,6001044
+2011,Old Crow,,,Total population in private households by religion,240,130,115,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs55'>55</a>,6001043
+2011,Old Crow,Total population in private households by religion,,Buddhist,0,0,0,,,,,,6001043
+2011,Old Crow,Total population in private households by religion,,Christian,170,85,80,,,,,,6001043
+2011,Old Crow,Total population in private households by religion,Christian,Anglican,145,75,70,,,,,,6001043
+2011,Old Crow,Total population in private households by religion,Christian,Baptist,0,0,0,,,,,,6001043
+2011,Old Crow,Total population in private households by religion,Christian,Catholic,0,0,0,,,,,,6001043
+2011,Old Crow,Total population in private households by religion,Christian,Christian Orthodox,0,0,0,,,,,,6001043
+2011,Old Crow,Total population in private households by religion,Christian,Lutheran,0,0,0,,,,,,6001043
+2011,Old Crow,Total population in private households by religion,Christian,Pentecostal,0,0,0,,,,,,6001043
+2011,Old Crow,Total population in private households by religion,Christian,Presbyterian,0,0,0,,,,,,6001043
+2011,Old Crow,Total population in private households by religion,Christian,United Church,10,0,0,,,,,,6001043
+2011,Old Crow,Total population in private households by religion,Christian,Other Christian,15,10,0,,,,,,6001043
+2011,Old Crow,Total population in private households by religion,,Hindu,0,0,0,,,,,,6001043
+2011,Old Crow,Total population in private households by religion,,Jewish,0,0,0,,,,,,6001043
+2011,Old Crow,Total population in private households by religion,,Muslim,0,0,0,,,,,,6001043
+2011,Old Crow,Total population in private households by religion,,Sikh,0,0,0,,,,,,6001043
+2011,Old Crow,Total population in private households by religion,,Traditional (Aboriginal) Spirituality,0,0,0,,,,,,6001043
+2011,Old Crow,Total population in private households by religion,,Other religions,0,0,0,,,,,,6001043
+2011,Old Crow,Total population in private households by religion,,No religious affiliation,70,40,25,,,,,,6001043
+2011,Pelly Crossing,,,Total population in private households by religion,340,185,150,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs55'>55</a>,6001041
+2011,Pelly Crossing,Total population in private households by religion,,Buddhist,0,0,0,,,,,,6001041
+2011,Pelly Crossing,Total population in private households by religion,,Christian,185,110,80,,,,,,6001041
+2011,Pelly Crossing,Total population in private households by religion,Christian,Anglican,150,90,60,,,,,,6001041
+2011,Pelly Crossing,Total population in private households by religion,Christian,Baptist,15,10,0,,,,,,6001041
+2011,Pelly Crossing,Total population in private households by religion,Christian,Catholic,0,0,0,,,,,,6001041
+2011,Pelly Crossing,Total population in private households by religion,Christian,Christian Orthodox,0,0,0,,,,,,6001041
+2011,Pelly Crossing,Total population in private households by religion,Christian,Lutheran,0,0,0,,,,,,6001041
+2011,Pelly Crossing,Total population in private households by religion,Christian,Pentecostal,0,0,0,,,,,,6001041
+2011,Pelly Crossing,Total population in private households by religion,Christian,Presbyterian,0,0,0,,,,,,6001041
+2011,Pelly Crossing,Total population in private households by religion,Christian,United Church,10,0,0,,,,,,6001041
+2011,Pelly Crossing,Total population in private households by religion,Christian,Other Christian,10,0,10,,,,,,6001041
+2011,Pelly Crossing,Total population in private households by religion,,Hindu,0,0,0,,,,,,6001041
+2011,Pelly Crossing,Total population in private households by religion,,Jewish,0,0,0,,,,,,6001041
+2011,Pelly Crossing,Total population in private households by religion,,Muslim,0,0,0,,,,,,6001041
+2011,Pelly Crossing,Total population in private households by religion,,Sikh,0,0,0,,,,,,6001041
+2011,Pelly Crossing,Total population in private households by religion,,Traditional (Aboriginal) Spirituality,15,10,10,,,,,,6001041
+2011,Pelly Crossing,Total population in private households by religion,,Other religions,0,0,0,,,,,,6001041
+2011,Pelly Crossing,Total population in private households by religion,,No religious affiliation,130,70,60,,,,,,6001041
+2011,Ross River,,,Total population in private households by religion,355,190,160,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs55'>55</a>,6001037
+2011,Ross River,Total population in private households by religion,,Buddhist,0,0,0,,,,,,6001037
+2011,Ross River,Total population in private households by religion,,Christian,190,100,90,,,,,,6001037
+2011,Ross River,Total population in private households by religion,Christian,Anglican,40,20,20,,,,,,6001037
+2011,Ross River,Total population in private households by religion,Christian,Baptist,20,15,0,,,,,,6001037
+2011,Ross River,Total population in private households by religion,Christian,Catholic,75,40,35,,,,,,6001037
+2011,Ross River,Total population in private households by religion,Christian,Christian Orthodox,0,0,0,,,,,,6001037
+2011,Ross River,Total population in private households by religion,Christian,Lutheran,0,0,0,,,,,,6001037
+2011,Ross River,Total population in private households by religion,Christian,Pentecostal,0,0,0,,,,,,6001037
+2011,Ross River,Total population in private households by religion,Christian,Presbyterian,0,0,0,,,,,,6001037
+2011,Ross River,Total population in private households by religion,Christian,United Church,0,0,0,,,,,,6001037
+2011,Ross River,Total population in private households by religion,Christian,Other Christian,50,25,25,,,,,,6001037
+2011,Ross River,Total population in private households by religion,,Hindu,0,0,0,,,,,,6001037
+2011,Ross River,Total population in private households by religion,,Jewish,0,0,0,,,,,,6001037
+2011,Ross River,Total population in private households by religion,,Muslim,0,0,0,,,,,,6001037
+2011,Ross River,Total population in private households by religion,,Sikh,0,0,0,,,,,,6001037
+2011,Ross River,Total population in private households by religion,,Traditional (Aboriginal) Spirituality,15,10,0,,,,,,6001037
+2011,Ross River,Total population in private households by religion,,Other religions,0,0,0,,,,,,6001037
+2011,Ross River,Total population in private households by religion,,No religious affiliation,150,85,65,,,,,,6001037
+2011,Teslin Region,,,Total population in private households by religion,260,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by religion,,Buddhist,0,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by religion,,Christian,170,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by religion,Christian,Anglican,55,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by religion,Christian,Baptist,15,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by religion,Christian,Catholic,70,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by religion,Christian,Christian Orthodox,0,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by religion,Christian,Lutheran,0,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by religion,Christian,Pentecostal,0,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by religion,Christian,Presbyterian,0,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by religion,Christian,United Church,0,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by religion,Christian,Other Christian,25,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by religion,,Hindu,0,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by religion,,Jewish,0,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by religion,,Muslim,0,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by religion,,Sikh,0,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by religion,,Traditional (Aboriginal) Spirituality,20,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by religion,,Other religions,0,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by religion,,No religious affiliation,65,,,,,,,,YBS006057007
+2011,Teslin Post 13,,,Total population in private households by religion,135,65,75,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs55'>55</a>,6001007
+2011,Teslin Post 13,Total population in private households by religion,,Buddhist,0,0,0,,,,,,6001007
+2011,Teslin Post 13,Total population in private households by religion,,Christian,90,40,50,,,,,,6001007
+2011,Teslin Post 13,Total population in private households by religion,Christian,Anglican,45,10,30,,,,,,6001007
+2011,Teslin Post 13,Total population in private households by religion,Christian,Baptist,0,0,0,,,,,,6001007
+2011,Teslin Post 13,Total population in private households by religion,Christian,Catholic,45,25,20,,,,,,6001007
+2011,Teslin Post 13,Total population in private households by religion,Christian,Christian Orthodox,0,0,0,,,,,,6001007
+2011,Teslin Post 13,Total population in private households by religion,Christian,Lutheran,0,0,0,,,,,,6001007
+2011,Teslin Post 13,Total population in private households by religion,Christian,Pentecostal,0,0,0,,,,,,6001007
+2011,Teslin Post 13,Total population in private households by religion,Christian,Presbyterian,0,0,0,,,,,,6001007
+2011,Teslin Post 13,Total population in private households by religion,Christian,United Church,0,0,0,,,,,,6001007
+2011,Teslin Post 13,Total population in private households by religion,Christian,Other Christian,0,0,0,,,,,,6001007
+2011,Teslin Post 13,Total population in private households by religion,,Hindu,0,0,0,,,,,,6001007
+2011,Teslin Post 13,Total population in private households by religion,,Jewish,0,0,0,,,,,,6001007
+2011,Teslin Post 13,Total population in private households by religion,,Muslim,0,0,0,,,,,,6001007
+2011,Teslin Post 13,Total population in private households by religion,,Sikh,0,0,0,,,,,,6001007
+2011,Teslin Post 13,Total population in private households by religion,,Traditional (Aboriginal) Spirituality,20,10,10,,,,,,6001007
+2011,Teslin Post 13,Total population in private households by religion,,Other religions,0,0,0,,,,,,6001007
+2011,Teslin Post 13,Total population in private households by religion,,No religious affiliation,30,20,10,,,,,,6001007
+2011,Upper Liard,,,Total population in private households by religion,130,80,50,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs55'>55</a>,6001032
+2011,Upper Liard,Total population in private households by religion,,Buddhist,0,0,0,,,,,,6001032
+2011,Upper Liard,Total population in private households by religion,,Christian,75,40,35,,,,,,6001032
+2011,Upper Liard,Total population in private households by religion,Christian,Anglican,0,0,0,,,,,,6001032
+2011,Upper Liard,Total population in private households by religion,Christian,Baptist,0,0,0,,,,,,6001032
+2011,Upper Liard,Total population in private households by religion,Christian,Catholic,55,35,25,,,,,,6001032
+2011,Upper Liard,Total population in private households by religion,Christian,Christian Orthodox,0,0,0,,,,,,6001032
+2011,Upper Liard,Total population in private households by religion,Christian,Lutheran,0,0,0,,,,,,6001032
+2011,Upper Liard,Total population in private households by religion,Christian,Pentecostal,0,0,0,,,,,,6001032
+2011,Upper Liard,Total population in private households by religion,Christian,Presbyterian,0,0,0,,,,,,6001032
+2011,Upper Liard,Total population in private households by religion,Christian,United Church,0,0,0,,,,,,6001032
+2011,Upper Liard,Total population in private households by religion,Christian,Other Christian,10,10,0,,,,,,6001032
+2011,Upper Liard,Total population in private households by religion,,Hindu,0,0,0,,,,,,6001032
+2011,Upper Liard,Total population in private households by religion,,Jewish,0,0,0,,,,,,6001032
+2011,Upper Liard,Total population in private households by religion,,Muslim,0,0,0,,,,,,6001032
+2011,Upper Liard,Total population in private households by religion,,Sikh,0,0,0,,,,,,6001032
+2011,Upper Liard,Total population in private households by religion,,Traditional (Aboriginal) Spirituality,10,10,0,,,,,,6001032
+2011,Upper Liard,Total population in private households by religion,,Other religions,0,0,0,,,,,,6001032
+2011,Upper Liard,Total population in private households by religion,,No religious affiliation,50,35,20,,,,,,6001032
+2011,Watson Lake,,,Total population in private households by religion,800,405,390,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs55'>55</a>,6001003
+2011,Watson Lake,Total population in private households by religion,,Buddhist,0,0,0,,,,,,6001003
+2011,Watson Lake,Total population in private households by religion,,Christian,415,190,225,,,,,,6001003
+2011,Watson Lake,Total population in private households by religion,Christian,Anglican,50,25,25,,,,,,6001003
+2011,Watson Lake,Total population in private households by religion,Christian,Baptist,0,0,0,,,,,,6001003
+2011,Watson Lake,Total population in private households by religion,Christian,Catholic,165,80,85,,,,,,6001003
+2011,Watson Lake,Total population in private households by religion,Christian,Christian Orthodox,0,0,0,,,,,,6001003
+2011,Watson Lake,Total population in private households by religion,Christian,Lutheran,15,10,0,,,,,,6001003
+2011,Watson Lake,Total population in private households by religion,Christian,Pentecostal,50,25,30,,,,,,6001003
+2011,Watson Lake,Total population in private households by religion,Christian,Presbyterian,0,0,0,,,,,,6001003
+2011,Watson Lake,Total population in private households by religion,Christian,United Church,20,0,15,,,,,,6001003
+2011,Watson Lake,Total population in private households by religion,Christian,Other Christian,95,45,50,,,,,,6001003
+2011,Watson Lake,Total population in private households by religion,,Hindu,0,0,0,,,,,,6001003
+2011,Watson Lake,Total population in private households by religion,,Jewish,0,0,0,,,,,,6001003
+2011,Watson Lake,Total population in private households by religion,,Muslim,0,0,0,,,,,,6001003
+2011,Watson Lake,Total population in private households by religion,,Sikh,0,0,0,,,,,,6001003
+2011,Watson Lake,Total population in private households by religion,,Traditional (Aboriginal) Spirituality,15,10,0,,,,,,6001003
+2011,Watson Lake,Total population in private households by religion,,Other religions,0,0,0,,,,,,6001003
+2011,Watson Lake,Total population in private households by religion,,No religious affiliation,375,210,165,,,,,,6001003
+2011,Watson Lake Region,,,Total population in private households by religion,1065,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by religion,,Buddhist,0,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by religion,,Christian,600,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by religion,Christian,Anglican,55,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by religion,Christian,Baptist,10,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by religion,Christian,Catholic,320,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by religion,Christian,Christian Orthodox,10,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by religion,Christian,Lutheran,15,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by religion,Christian,Pentecostal,50,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by religion,Christian,Presbyterian,0,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by religion,Christian,United Church,25,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by religion,Christian,Other Christian,120,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by religion,,Hindu,0,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by religion,,Jewish,0,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by religion,,Muslim,0,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by religion,,Sikh,0,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by religion,,Traditional (Aboriginal) Spirituality,30,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by religion,,Other religions,0,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by religion,,No religious affiliation,435,,,,,,,,YBS003032033034035

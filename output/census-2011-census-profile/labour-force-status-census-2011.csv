@@ -1,0 +1,169 @@
+census_year,geo_name,category,subcategory,variable_name,total,male,female,flag_total,flag_male,flag_female,geo_location,data_notes,geo_code
+2011,Yukon,,,Total population aged 15 years and over by labour force status,27495,13760,13735,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs83'>83</a>,6001
+2011,Yukon,Total population aged 15 years and over by labour force status,,In the labour force,21245,10810,10435,,,,,,6001
+2011,Yukon,Total population aged 15 years and over by labour force status,In the labour force,Employed,19165,9675,9485,,,,,,6001
+2011,Yukon,Total population aged 15 years and over by labour force status,In the labour force,Unemployed,2085,1135,950,,,,,,6001
+2011,Yukon,Total population aged 15 years and over by labour force status,,Not in the labour force,6250,2945,3300,,,,,,6001
+2011,Yukon,,,Participation rate,77.3,78.6,76,,,,,,6001
+2011,Yukon,,,Employment rate,69.7,70.3,69.1,,,,,,6001
+2011,Yukon,,,Unemployment rate,9.8,10.5,9.1,,,,,,6001
+2011,Whitehorse - City,,,Total population aged 15 years and over by labour force status,18630,9185,9445,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs83'>83</a>,6001009
+2011,Whitehorse - City,Total population aged 15 years and over by labour force status,,In the labour force,14895,7490,7400,,,,,,6001009
+2011,Whitehorse - City,Total population aged 15 years and over by labour force status,In the labour force,Employed,13765,6880,6885,,,,,,6001009
+2011,Whitehorse - City,Total population aged 15 years and over by labour force status,In the labour force,Unemployed,1130,610,520,,,,,,6001009
+2011,Whitehorse - City,Total population aged 15 years and over by labour force status,,Not in the labour force,3740,1695,2050,,,,,,6001009
+2011,Whitehorse - City,,,Participation rate,80,81.5,78.3,,,,,,6001009
+2011,Whitehorse - City,,,Employment rate,73.9,74.9,72.9,,,,,,6001009
+2011,Whitehorse - City,,,Unemployment rate,7.6,8.1,7,,,,,,6001009
+2011,Alaska Highway North Region,,,Total population aged 15 years and over by labour force status,715,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population aged 15 years and over by labour force status,,In the labour force,540,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population aged 15 years and over by labour force status,In the labour force,Employed,475,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population aged 15 years and over by labour force status,In the labour force,Unemployed,65,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population aged 15 years and over by labour force status,,Not in the labour force,175,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,,,Participation rate,76,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,,,Employment rate,66,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,,,Unemployment rate,12,,,,,,,,YBS042039049018
+2011,Beaver Creek,,,Total population aged 15 years and over by labour force status,85,50,40,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs83'>83</a>,6001042
+2011,Beaver Creek,Total population aged 15 years and over by labour force status,,In the labour force,80,40,35,,,,,,6001042
+2011,Beaver Creek,Total population aged 15 years and over by labour force status,In the labour force,Employed,70,35,35,,,,,,6001042
+2011,Beaver Creek,Total population aged 15 years and over by labour force status,In the labour force,Unemployed,0,0,0,,,,,,6001042
+2011,Beaver Creek,Total population aged 15 years and over by labour force status,,Not in the labour force,10,0,0,,,,,,6001042
+2011,Beaver Creek,,,Participation rate,94.1,80,87.5,,,,,,6001042
+2011,Beaver Creek,,,Employment rate,82.4,70,87.5,,,,,,6001042
+2011,Beaver Creek,,,Unemployment rate,0,0,0,,,,,,6001042
+2011,Burwash Landing,,,Total population aged 15 years and over by labour force status,80,40,40,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs83'>83</a>,6001039
+2011,Burwash Landing,Total population aged 15 years and over by labour force status,,In the labour force,55,35,25,,,,,,6001039
+2011,Burwash Landing,Total population aged 15 years and over by labour force status,In the labour force,Employed,45,25,20,,,,,,6001039
+2011,Burwash Landing,Total population aged 15 years and over by labour force status,In the labour force,Unemployed,15,10,0,,,,,,6001039
+2011,Burwash Landing,Total population aged 15 years and over by labour force status,,Not in the labour force,25,10,15,,,,,,6001039
+2011,Burwash Landing,,,Participation rate,68.8,87.5,62.5,,,,,,6001039
+2011,Burwash Landing,,,Employment rate,56.2,62.5,50,,,,,,6001039
+2011,Burwash Landing,,,Unemployment rate,27.3,28.6,0,,,,,,6001039
+2011,Carcross,,,Total population aged 15 years and over by labour force status,245,140,105,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs83'>83</a>,6001048
+2011,Carcross,Total population aged 15 years and over by labour force status,,In the labour force,170,95,70,,,,,,6001048
+2011,Carcross,Total population aged 15 years and over by labour force status,In the labour force,Employed,125,70,60,,,,,,6001048
+2011,Carcross,Total population aged 15 years and over by labour force status,In the labour force,Unemployed,45,30,15,,,,,,6001048
+2011,Carcross,Total population aged 15 years and over by labour force status,,Not in the labour force,75,40,30,,,,,,6001048
+2011,Carcross,,,Participation rate,69.4,67.9,66.7,,,,,,6001048
+2011,Carcross,,,Employment rate,51,50,57.1,,,,,,6001048
+2011,Carcross,,,Unemployment rate,26.5,31.6,21.4,,,,,,6001048
+2011,Carcross Region,,,Total population aged 15 years and over by labour force status,290,,,,,,,,YBS048008
+2011,Carcross Region,Total population aged 15 years and over by labour force status,,In the labour force,200,,,,,,,,YBS048008
+2011,Carcross Region,Total population aged 15 years and over by labour force status,In the labour force,Employed,145,,,,,,,,YBS048008
+2011,Carcross Region,Total population aged 15 years and over by labour force status,In the labour force,Unemployed,50,,,,,,,,YBS048008
+2011,Carcross Region,Total population aged 15 years and over by labour force status,,Not in the labour force,90,,,,,,,,YBS048008
+2011,Carcross Region,,,Participation rate,69,,,,,,,,YBS048008
+2011,Carcross Region,,,Employment rate,50,,,,,,,,YBS048008
+2011,Carcross Region,,,Unemployment rate,25,,,,,,,,YBS048008
+2011,Carcross 4,,,Total population aged 15 years and over by labour force status,45,25,15,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs83'>83</a>,6001008
+2011,Carcross 4,Total population aged 15 years and over by labour force status,,In the labour force,30,15,15,,,,,,6001008
+2011,Carcross 4,Total population aged 15 years and over by labour force status,In the labour force,Employed,25,15,10,,,,,,6001008
+2011,Carcross 4,Total population aged 15 years and over by labour force status,In the labour force,Unemployed,0,10,0,,,,,,6001008
+2011,Carcross 4,Total population aged 15 years and over by labour force status,,Not in the labour force,10,10,0,,,,,,6001008
+2011,Carcross 4,,,Participation rate,66.7,60,100,,,,,,6001008
+2011,Carcross 4,,,Employment rate,55.6,60,66.7,,,,,,6001008
+2011,Carcross 4,,,Unemployment rate,0,66.7,0,,,,,,6001008
+2011,Carcross-Tagish Region,,,Total population aged 15 years and over by labour force status,645,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population aged 15 years and over by labour force status,,In the labour force,395,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population aged 15 years and over by labour force status,In the labour force,Employed,310,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population aged 15 years and over by labour force status,In the labour force,Unemployed,80,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population aged 15 years and over by labour force status,,Not in the labour force,255,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,,,Participation rate,61,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,,,Employment rate,48,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,,,Unemployment rate,20,,,,,,,,YBS048008036
+2011,Dawson,,,Total population aged 15 years and over by labour force status,1185,590,600,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs83'>83</a>,6001029
+2011,Dawson,Total population aged 15 years and over by labour force status,,In the labour force,960,485,475,,,,,,6001029
+2011,Dawson,Total population aged 15 years and over by labour force status,In the labour force,Employed,855,445,410,,,,,,6001029
+2011,Dawson,Total population aged 15 years and over by labour force status,In the labour force,Unemployed,105,45,65,,,,,,6001029
+2011,Dawson,Total population aged 15 years and over by labour force status,,Not in the labour force,225,100,125,,,,,,6001029
+2011,Dawson,,,Participation rate,81,82.2,79.2,,,,,,6001029
+2011,Dawson,,,Employment rate,72.2,75.4,68.3,,,,,,6001029
+2011,Dawson,,,Unemployment rate,10.9,9.3,13.7,,,,,,6001029
+2011,Faro,,,Total population aged 15 years and over by labour force status,300,160,140,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs83'>83</a>,6001004
+2011,Faro,Total population aged 15 years and over by labour force status,,In the labour force,195,115,85,,,,,,6001004
+2011,Faro,Total population aged 15 years and over by labour force status,In the labour force,Employed,160,85,75,,,,,,6001004
+2011,Faro,Total population aged 15 years and over by labour force status,In the labour force,Unemployed,35,25,10,,,,,,6001004
+2011,Faro,Total population aged 15 years and over by labour force status,,Not in the labour force,105,50,50,,,,,,6001004
+2011,Faro,,,Participation rate,65,71.9,60.7,,,,,,6001004
+2011,Faro,,,Employment rate,53.3,53.1,53.6,,,,,,6001004
+2011,Faro,,,Unemployment rate,17.9,21.7,11.8,,,,,,6001004
+2011,Haines Junction,,,Total population aged 15 years and over by labour force status,520,250,275,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs83'>83</a>,6001018
+2011,Haines Junction,Total population aged 15 years and over by labour force status,,In the labour force,390,195,205,,,,,,6001018
+2011,Haines Junction,Total population aged 15 years and over by labour force status,In the labour force,Employed,345,165,180,,,,,,6001018
+2011,Haines Junction,Total population aged 15 years and over by labour force status,In the labour force,Unemployed,45,30,20,,,,,,6001018
+2011,Haines Junction,Total population aged 15 years and over by labour force status,,Not in the labour force,125,55,70,,,,,,6001018
+2011,Haines Junction,,,Participation rate,75,78,74.5,,,,,,6001018
+2011,Haines Junction,,,Employment rate,66.3,66,65.5,,,,,,6001018
+2011,Haines Junction,,,Unemployment rate,11.5,15.4,9.8,,,,,,6001018
+2011,Mt. Lorne,,,Total population aged 15 years and over by labour force status,295,155,140,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs83'>83</a>,6001044
+2011,Mt. Lorne,Total population aged 15 years and over by labour force status,,In the labour force,255,140,120,,,,,,6001044
+2011,Mt. Lorne,Total population aged 15 years and over by labour force status,In the labour force,Employed,230,120,115,,,,,,6001044
+2011,Mt. Lorne,Total population aged 15 years and over by labour force status,In the labour force,Unemployed,25,0,0,,,,,,6001044
+2011,Mt. Lorne,Total population aged 15 years and over by labour force status,,Not in the labour force,40,0,30,,,,,,6001044
+2011,Mt. Lorne,,,Participation rate,86.4,90.3,85.7,,,,,,6001044
+2011,Mt. Lorne,,,Employment rate,78,77.4,82.1,,,,,,6001044
+2011,Mt. Lorne,,,Unemployment rate,9.8,0,0,,,,,,6001044
+2011,Old Crow,,,Total population aged 15 years and over by labour force status,190,100,95,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs83'>83</a>,6001043
+2011,Old Crow,Total population aged 15 years and over by labour force status,,In the labour force,140,75,60,,,,,,6001043
+2011,Old Crow,Total population aged 15 years and over by labour force status,In the labour force,Employed,115,60,55,,,,,,6001043
+2011,Old Crow,Total population aged 15 years and over by labour force status,In the labour force,Unemployed,20,15,0,,,,,,6001043
+2011,Old Crow,Total population aged 15 years and over by labour force status,,Not in the labour force,55,25,30,,,,,,6001043
+2011,Old Crow,,,Participation rate,73.7,75,63.2,,,,,,6001043
+2011,Old Crow,,,Employment rate,60.5,60,57.9,,,,,,6001043
+2011,Old Crow,,,Unemployment rate,14.3,20,0,,,,,,6001043
+2011,Pelly Crossing,,,Total population aged 15 years and over by labour force status,290,165,125,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs83'>83</a>,6001041
+2011,Pelly Crossing,Total population aged 15 years and over by labour force status,,In the labour force,185,110,75,,,,,,6001041
+2011,Pelly Crossing,Total population aged 15 years and over by labour force status,In the labour force,Employed,100,55,45,,,,,,6001041
+2011,Pelly Crossing,Total population aged 15 years and over by labour force status,In the labour force,Unemployed,85,55,30,,,,,,6001041
+2011,Pelly Crossing,Total population aged 15 years and over by labour force status,,Not in the labour force,100,50,45,,,,,,6001041
+2011,Pelly Crossing,,,Participation rate,63.8,66.7,60,,,,,,6001041
+2011,Pelly Crossing,,,Employment rate,34.5,33.3,36,,,,,,6001041
+2011,Pelly Crossing,,,Unemployment rate,45.9,50,40,,,,,,6001041
+2011,Ross River,,,Total population aged 15 years and over by labour force status,280,150,135,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs83'>83</a>,6001037
+2011,Ross River,Total population aged 15 years and over by labour force status,,In the labour force,215,115,100,,,,,,6001037
+2011,Ross River,Total population aged 15 years and over by labour force status,In the labour force,Employed,145,70,70,,,,,,6001037
+2011,Ross River,Total population aged 15 years and over by labour force status,In the labour force,Unemployed,65,45,20,,,,,,6001037
+2011,Ross River,Total population aged 15 years and over by labour force status,,Not in the labour force,70,35,35,,,,,,6001037
+2011,Ross River,,,Participation rate,76.8,76.7,74.1,,,,,,6001037
+2011,Ross River,,,Employment rate,51.8,46.7,51.9,,,,,,6001037
+2011,Ross River,,,Unemployment rate,30.2,39.1,20,,,,,,6001037
+2011,Teslin Region,,,Total population aged 15 years and over by labour force status,200,,,,,,,,YBS006057007
+2011,Teslin Region,Total population aged 15 years and over by labour force status,,In the labour force,125,,,,,,,,YBS006057007
+2011,Teslin Region,Total population aged 15 years and over by labour force status,In the labour force,Employed,110,,,,,,,,YBS006057007
+2011,Teslin Region,Total population aged 15 years and over by labour force status,In the labour force,Unemployed,15,,,,,,,,YBS006057007
+2011,Teslin Region,Total population aged 15 years and over by labour force status,,Not in the labour force,80,,,,,,,,YBS006057007
+2011,Teslin Region,,,Participation rate,62,,,,,,,,YBS006057007
+2011,Teslin Region,,,Employment rate,55,,,,,,,,YBS006057007
+2011,Teslin Region,,,Unemployment rate,12,,,,,,,,YBS006057007
+2011,Teslin Post 13,,,Total population aged 15 years and over by labour force status,105,50,60,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs83'>83</a>,6001007
+2011,Teslin Post 13,Total population aged 15 years and over by labour force status,,In the labour force,55,30,25,,,,,,6001007
+2011,Teslin Post 13,Total population aged 15 years and over by labour force status,In the labour force,Employed,50,25,25,,,,,,6001007
+2011,Teslin Post 13,Total population aged 15 years and over by labour force status,In the labour force,Unemployed,10,0,0,,,,,,6001007
+2011,Teslin Post 13,Total population aged 15 years and over by labour force status,,Not in the labour force,55,25,35,,,,,,6001007
+2011,Teslin Post 13,,,Participation rate,52.4,60,41.7,,,,,,6001007
+2011,Teslin Post 13,,,Employment rate,47.6,50,41.7,,,,,,6001007
+2011,Teslin Post 13,,,Unemployment rate,18.2,0,0,,,,,,6001007
+2011,Upper Liard,,,Total population aged 15 years and over by labour force status,115,70,45,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs83'>83</a>,6001032
+2011,Upper Liard,Total population aged 15 years and over by labour force status,,In the labour force,70,45,25,,,,,,6001032
+2011,Upper Liard,Total population aged 15 years and over by labour force status,In the labour force,Employed,40,25,15,,,,,,6001032
+2011,Upper Liard,Total population aged 15 years and over by labour force status,In the labour force,Unemployed,30,20,10,,,,,,6001032
+2011,Upper Liard,Total population aged 15 years and over by labour force status,,Not in the labour force,50,25,20,,,,,,6001032
+2011,Upper Liard,,,Participation rate,60.9,64.3,55.6,,,,,,6001032
+2011,Upper Liard,,,Employment rate,34.8,35.7,33.3,,,,,,6001032
+2011,Upper Liard,,,Unemployment rate,42.9,44.4,40,,,,,,6001032
+2011,Watson Lake,,,Total population aged 15 years and over by labour force status,670,350,320,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs83'>83</a>,6001003
+2011,Watson Lake,Total population aged 15 years and over by labour force status,,In the labour force,510,275,235,,,,,,6001003
+2011,Watson Lake,Total population aged 15 years and over by labour force status,In the labour force,Employed,465,250,215,,,,,,6001003
+2011,Watson Lake,Total population aged 15 years and over by labour force status,In the labour force,Unemployed,45,30,15,,,,,,6001003
+2011,Watson Lake,Total population aged 15 years and over by labour force status,,Not in the labour force,165,75,90,,,,,,6001003
+2011,Watson Lake,,,Participation rate,76.1,78.6,73.4,,,,,,6001003
+2011,Watson Lake,,,Employment rate,69.4,71.4,67.2,,,,,,6001003
+2011,Watson Lake,,,Unemployment rate,8.8,10.9,6.4,,,,,,6001003
+2011,Watson Lake Region,,,Total population aged 15 years and over by labour force status,890,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population aged 15 years and over by labour force status,,In the labour force,630,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population aged 15 years and over by labour force status,In the labour force,Employed,545,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population aged 15 years and over by labour force status,In the labour force,Unemployed,90,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population aged 15 years and over by labour force status,,Not in the labour force,260,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,,,Participation rate,71,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,,,Employment rate,61,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,,,Unemployment rate,14,,,,,,,,YBS003032033034035

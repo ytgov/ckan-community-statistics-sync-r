@@ -1,0 +1,1015 @@
+census_year,geo_name,category,subcategory,variable_name,total,male,female,flag_total,flag_male,flag_female,geo_location,data_notes,geo_code
+2011,Yukon,,,Total population by age groups,33900,17060,16840,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001
+2011,Yukon,Total population by age groups,,0 to 4 years,1975,1020,955,,,,,,6001
+2011,Yukon,Total population by age groups,,5 to 9 years,1900,970,930,,,,,,6001
+2011,Yukon,Total population by age groups,,10 to 14 years,1980,1025,960,,,,,,6001
+2011,Yukon,Total population by age groups,,15 to 19 years,2210,1140,1075,,,,,,6001
+2011,Yukon,Total population by age groups,15 to 19 years,15 years,410,195,210,,,,,,6001
+2011,Yukon,Total population by age groups,15 to 19 years,16 years,425,210,220,,,,,,6001
+2011,Yukon,Total population by age groups,15 to 19 years,17 years,435,235,205,,,,,,6001
+2011,Yukon,Total population by age groups,15 to 19 years,18 years,475,240,235,,,,,,6001
+2011,Yukon,Total population by age groups,15 to 19 years,19 years,455,255,200,,,,,,6001
+2011,Yukon,Total population by age groups,,20 to 24 years,2225,1160,1065,,,,,,6001
+2011,Yukon,Total population by age groups,,25 to 29 years,2375,1180,1195,,,,,,6001
+2011,Yukon,Total population by age groups,,30 to 34 years,2295,1075,1220,,,,,,6001
+2011,Yukon,Total population by age groups,,35 to 39 years,2425,1155,1270,,,,,,6001
+2011,Yukon,Total population by age groups,,40 to 44 years,2440,1175,1265,,,,,,6001
+2011,Yukon,Total population by age groups,,45 to 49 years,2905,1365,1545,,,,,,6001
+2011,Yukon,Total population by age groups,,50 to 54 years,3175,1600,1575,,,,,,6001
+2011,Yukon,Total population by age groups,,55 to 59 years,2775,1435,1340,,,,,,6001
+2011,Yukon,Total population by age groups,,60 to 64 years,2115,1115,1000,,,,,,6001
+2011,Yukon,Total population by age groups,,65 to 69 years,1300,740,560,,,,,,6001
+2011,Yukon,Total population by age groups,,70 to 74 years,755,420,340,,,,,,6001
+2011,Yukon,Total population by age groups,,75 to 79 years,515,240,270,,,,,,6001
+2011,Yukon,Total population by age groups,,80 to 84 years,300,150,150,,,,,,6001
+2011,Yukon,Total population by age groups,,85 years and over,230,95,135,,,,,,6001
+2011,Yukon,,,Median age of the population,39.1,39.2,39.1,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001
+2011,Yukon,,,% of the population aged 15 and over,82.7,82.3,83.1,,,,,,6001
+2011,Whitehorse - Area,,,Total population by age groups,26030,12965,13060,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,990
+2011,Whitehorse - Area,Total population by age groups,,0 to 4 years,1525,785,740,,,,,,990
+2011,Whitehorse - Area,Total population by age groups,,5 to 9 years,1505,780,730,,,,,,990
+2011,Whitehorse - Area,Total population by age groups,,10 to 14 years,1560,800,760,,,,,,990
+2011,Whitehorse - Area,Total population by age groups,,15 to 19 years,1735,910,825,,,,,,990
+2011,Whitehorse - Area,Total population by age groups,15 to 19 years,15 years,330,165,165,,,,,,990
+2011,Whitehorse - Area,Total population by age groups,15 to 19 years,16 years,335,170,165,,,,,,990
+2011,Whitehorse - Area,Total population by age groups,15 to 19 years,17 years,325,175,155,,,,,,990
+2011,Whitehorse - Area,Total population by age groups,15 to 19 years,18 years,360,190,170,,,,,,990
+2011,Whitehorse - Area,Total population by age groups,15 to 19 years,19 years,380,215,165,,,,,,990
+2011,Whitehorse - Area,Total population by age groups,,20 to 24 years,1800,950,850,,,,,,990
+2011,Whitehorse - Area,Total population by age groups,,25 to 29 years,1905,955,950,,,,,,990
+2011,Whitehorse - Area,Total population by age groups,,30 to 34 years,1795,815,975,,,,,,990
+2011,Whitehorse - Area,Total population by age groups,,35 to 39 years,1935,910,1020,,,,,,990
+2011,Whitehorse - Area,Total population by age groups,,40 to 44 years,1900,905,1000,,,,,,990
+2011,Whitehorse - Area,Total population by age groups,,45 to 49 years,2185,1015,1170,,,,,,990
+2011,Whitehorse - Area,Total population by age groups,,50 to 54 years,2365,1145,1220,,,,,,990
+2011,Whitehorse - Area,Total population by age groups,,55 to 59 years,2035,1055,980,,,,,,990
+2011,Whitehorse - Area,Total population by age groups,,60 to 64 years,1605,830,775,,,,,,990
+2011,Whitehorse - Area,Total population by age groups,,65 to 69 years,900,495,400,,,,,,990
+2011,Whitehorse - Area,Total population by age groups,,70 to 74 years,540,290,250,,,,,,990
+2011,Whitehorse - Area,Total population by age groups,,75 to 79 years,365,160,205,,,,,,990
+2011,Whitehorse - Area,Total population by age groups,,80 to 84 years,215,115,105,,,,,,990
+2011,Whitehorse - Area,Total population by age groups,,85 years and over,170,60,110,,,,,,990
+2011,Whitehorse - Area,,,Median age of the population,38.1,37.6,38.6,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,990
+2011,Whitehorse - Area,,,% of the population aged 15 and over,82.4,81.8,82.9,,,,,,990
+2011,Whitehorse - City,,,Total population by age groups,23280,11545,11735,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,990
+2011,Whitehorse - City,Total population by age groups,,0 to 4 years,1405,730,680,,,,,,990
+2011,Whitehorse - City,Total population by age groups,,5 to 9 years,1365,700,670,,,,,,990
+2011,Whitehorse - City,Total population by age groups,,10 to 14 years,1435,720,710,,,,,,990
+2011,Whitehorse - City,Total population by age groups,,15 to 19 years,1600,855,750,,,,,,990
+2011,Whitehorse - City,Total population by age groups,15 to 19 years,15 years,300,150,150,,,,,,990
+2011,Whitehorse - City,Total population by age groups,15 to 19 years,16 years,310,155,155,,,,,,990
+2011,Whitehorse - City,Total population by age groups,15 to 19 years,17 years,305,165,140,,,,,,990
+2011,Whitehorse - City,Total population by age groups,15 to 19 years,18 years,325,180,150,,,,,,990
+2011,Whitehorse - City,Total population by age groups,15 to 19 years,19 years,360,205,160,,,,,,6001009
+2011,Whitehorse - City,Total population by age groups,,20 to 24 years,1680,885,790,,,,,,6001009
+2011,Whitehorse - City,Total population by age groups,,25 to 29 years,1750,875,880,,,,,,6001009
+2011,Whitehorse - City,Total population by age groups,,30 to 34 years,1655,750,905,,,,,,6001009
+2011,Whitehorse - City,Total population by age groups,,35 to 39 years,1750,820,935,,,,,,6001009
+2011,Whitehorse - City,Total population by age groups,,40 to 44 years,1735,825,910,,,,,,6001009
+2011,Whitehorse - City,Total population by age groups,,45 to 49 years,1935,905,1025,,,,,,6001009
+2011,Whitehorse - City,Total population by age groups,,50 to 54 years,2010,975,1035,,,,,,6001009
+2011,Whitehorse - City,Total population by age groups,,55 to 59 years,1695,870,825,,,,,,6001009
+2011,Whitehorse - City,Total population by age groups,,60 to 64 years,1355,685,675,,,,,,6001009
+2011,Whitehorse - City,Total population by age groups,,65 to 69 years,760,410,350,,,,,,6001009
+2011,Whitehorse - City,Total population by age groups,,70 to 74 years,460,245,215,,,,,,6001009
+2011,Whitehorse - City,Total population by age groups,,75 to 79 years,320,135,185,,,,,,6001009
+2011,Whitehorse - City,Total population by age groups,,80 to 84 years,200,105,95,,,,,,6001009
+2011,Whitehorse - City,Total population by age groups,,85 years and over,155,50,105,,,,,,6001009
+2011,Whitehorse - City,,,Median age of the population,37.1,36.4,37.7,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001009
+2011,Whitehorse - City,,,% of the population aged 15 and over,81.9,81.3,82.5,,,,,,6001009
+2011,Beaver Creek,,,Total population by age groups,105,55,45,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,YBS042039049018
+2011,Beaver Creek,Total population by age groups,,0 to 4 years,10,5,5,,,,,,YBS042039049018
+2011,Beaver Creek,Total population by age groups,,5 to 9 years,0,0,0,,,,,,YBS042039049018
+2011,Beaver Creek,Total population by age groups,,10 to 14 years,0,0,5,,,,,,YBS042039049018
+2011,Beaver Creek,Total population by age groups,,15 to 19 years,0,5,0,,,,,,YBS042039049018
+2011,Beaver Creek,Total population by age groups,15 to 19 years,15 years,0,0,0,,,,,,YBS042039049018
+2011,Beaver Creek,Total population by age groups,15 to 19 years,16 years,0,0,0,,,,,,YBS042039049018
+2011,Beaver Creek,Total population by age groups,15 to 19 years,17 years,0,0,0,,,,,,YBS042039049018
+2011,Beaver Creek,Total population by age groups,15 to 19 years,18 years,5,0,0,,,,,,YBS042039049018
+2011,Beaver Creek,Total population by age groups,15 to 19 years,19 years,0,0,0,,,,,,YBS042039049018
+2011,Beaver Creek,Total population by age groups,,20 to 24 years,5,5,5,,,,,,YBS042039049018
+2011,Beaver Creek,Total population by age groups,,25 to 29 years,10,5,0,,,,,,YBS042039049018
+2011,Beaver Creek,Total population by age groups,,30 to 34 years,15,10,5,,,,,,YBS042039049018
+2011,Beaver Creek,Total population by age groups,,35 to 39 years,5,0,5,,,,,,YBS042039049018
+2011,Beaver Creek,Total population by age groups,,40 to 44 years,5,5,0,,,,,,YBS042039049018
+2011,Beaver Creek,Total population by age groups,,45 to 49 years,15,5,10,,,,,,YBS042039049018
+2011,Beaver Creek,Total population by age groups,,50 to 54 years,5,5,0,,,,,,YBS042039049018
+2011,Beaver Creek,Total population by age groups,,55 to 59 years,5,0,5,,,,,,YBS042039049018
+2011,Beaver Creek,Total population by age groups,,60 to 64 years,5,0,5,,,,,,YBS042039049018
+2011,Beaver Creek,Total population by age groups,,65 to 69 years,0,5,0,,,,,,YBS042039049018
+2011,Beaver Creek,Total population by age groups,,70 to 74 years,0,0,0,,,,,,YBS042039049018
+2011,Beaver Creek,Total population by age groups,,75 to 79 years,0,5,0,,,,,,YBS042039049018
+2011,Beaver Creek,Total population by age groups,,80 to 84 years,0,5,0,,,,,,YBS042039049018
+2011,Beaver Creek,Total population by age groups,,85 years and over,5,0,0,,,,,,YBS042039049018
+2011,Beaver Creek,,,Median age of the population,39.8,40.5,39.5,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,YBS042039049018
+2011,Beaver Creek,,,% of the population aged 15 and over,79.5,87.3,79.2,,,,,,YBS042039049018
+2011,Burwash Landing,,,Total population by age groups,95,50,45,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001039
+2011,Burwash Landing,Total population by age groups,,0 to 4 years,5,5,0,,,,,,6001039
+2011,Burwash Landing,Total population by age groups,,5 to 9 years,5,0,0,,,,,,6001039
+2011,Burwash Landing,Total population by age groups,,10 to 14 years,5,0,5,,,,,,6001039
+2011,Burwash Landing,Total population by age groups,,15 to 19 years,10,5,5,,,,,,6001039
+2011,Burwash Landing,Total population by age groups,15 to 19 years,15 years,5,0,0,,,,,,6001039
+2011,Burwash Landing,Total population by age groups,15 to 19 years,16 years,0,0,0,,,,,,6001039
+2011,Burwash Landing,Total population by age groups,15 to 19 years,17 years,5,0,0,,,,,,6001039
+2011,Burwash Landing,Total population by age groups,15 to 19 years,18 years,0,0,0,,,,,,6001039
+2011,Burwash Landing,Total population by age groups,15 to 19 years,19 years,5,0,0,,,,,,6001039
+2011,Burwash Landing,Total population by age groups,,20 to 24 years,5,5,0,,,,,,6001039
+2011,Burwash Landing,Total population by age groups,,25 to 29 years,0,0,0,,,,,,6001039
+2011,Burwash Landing,Total population by age groups,,30 to 34 years,5,0,5,,,,,,6001039
+2011,Burwash Landing,Total population by age groups,,35 to 39 years,5,5,5,,,,,,6001039
+2011,Burwash Landing,Total population by age groups,,40 to 44 years,5,5,0,,,,,,6001042
+2011,Burwash Landing,Total population by age groups,,45 to 49 years,5,0,0,,,,,,6001039
+2011,Burwash Landing,Total population by age groups,,50 to 54 years,15,10,5,,,,,,6001039
+2011,Burwash Landing,Total population by age groups,,55 to 59 years,15,5,5,,,,,,6001039
+2011,Burwash Landing,Total population by age groups,,60 to 64 years,5,5,5,,,,,,6001039
+2011,Burwash Landing,Total population by age groups,,65 to 69 years,5,0,5,,,,,,6001039
+2011,Burwash Landing,Total population by age groups,,70 to 74 years,5,5,5,,,,,,6001039
+2011,Burwash Landing,Total population by age groups,,75 to 79 years,0,5,0,,,,,,6001039
+2011,Burwash Landing,Total population by age groups,,80 to 84 years,0,0,0,,,,,,6001039
+2011,Burwash Landing,Total population by age groups,,85 years and over,0,0,0,,,,,,6001039
+2011,Burwash Landing,,,Median age of the population,41.5,40.8,42.5,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001039
+2011,Burwash Landing,,,% of the population aged 15 and over,85.1,94.9,94.2,,,,,,6001039
+2011,Carcross,,,Total population by age groups,290,165,125,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001048
+2011,Carcross,Total population by age groups,,0 to 4 years,20,15,10,,,,,,6001048
+2011,Carcross,Total population by age groups,,5 to 9 years,15,5,5,,,,,,6001048
+2011,Carcross,Total population by age groups,,10 to 14 years,10,5,5,,,,,,6001048
+2011,Carcross,Total population by age groups,,15 to 19 years,10,0,10,,,,,,6001048
+2011,Carcross,Total population by age groups,15 to 19 years,15 years,5,0,0,,,,,,6001048
+2011,Carcross,Total population by age groups,15 to 19 years,16 years,0,0,0,,,,,,6001048
+2011,Carcross,Total population by age groups,15 to 19 years,17 years,0,0,0,,,,,,6001048
+2011,Carcross,Total population by age groups,15 to 19 years,18 years,5,5,5,,,,,,6001048
+2011,Carcross,Total population by age groups,15 to 19 years,19 years,0,0,0,,,,,,6001048
+2011,Carcross,Total population by age groups,,20 to 24 years,15,5,10,,,,,,6001048
+2011,Carcross,Total population by age groups,,25 to 29 years,20,10,15,,,,,,6001048
+2011,Carcross,Total population by age groups,,30 to 34 years,20,10,5,,,,,,6001048
+2011,Carcross,Total population by age groups,,35 to 39 years,25,10,10,,,,,,6001048
+2011,Carcross,Total population by age groups,,40 to 44 years,15,10,5,,,,,,6001048
+2011,Carcross,Total population by age groups,,45 to 49 years,25,15,10,,,,,,6001048
+2011,Carcross,Total population by age groups,,50 to 54 years,25,15,10,,,,,,6001048
+2011,Carcross,Total population by age groups,,55 to 59 years,30,15,15,,,,,,6001048
+2011,Carcross,Total population by age groups,,60 to 64 years,25,10,10,,,,,,6001048
+2011,Carcross,Total population by age groups,,65 to 69 years,15,5,10,,,,,,6001048
+2011,Carcross,Total population by age groups,,70 to 74 years,10,10,5,,,,,,6001048
+2011,Carcross,Total population by age groups,,75 to 79 years,10,5,5,,,,,,6001048
+2011,Carcross,Total population by age groups,,80 to 84 years,5,0,0,,,,,,6001048
+2011,Carcross,Total population by age groups,,85 years and over,5,0,0,,,,,,6001048
+2011,Carcross,,,Median age of the population,43.2,46,39.6,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001048
+2011,Carcross,,,% of the population aged 15 and over,84.1,84.9,86.4,,,,,,6001048
+2011,Carcross 4,,,Total population by age groups,55,30,25,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,YBS048008
+2011,Carcross 4,Total population by age groups,,0 to 4 years,5,0,5,,,,,,YBS048008
+2011,Carcross 4,Total population by age groups,,5 to 9 years,10,5,5,,,,,,YBS048008
+2011,Carcross 4,Total population by age groups,,10 to 14 years,0,0,0,,,,,,YBS048008
+2011,Carcross 4,Total population by age groups,,15 to 19 years,0,5,0,,,,,,YBS048008
+2011,Carcross 4,Total population by age groups,15 to 19 years,15 years,0,0,0,,,,,,YBS048008
+2011,Carcross 4,Total population by age groups,15 to 19 years,16 years,0,0,0,,,,,,YBS048008
+2011,Carcross 4,Total population by age groups,15 to 19 years,17 years,0,0,0,,,,,,YBS048008
+2011,Carcross 4,Total population by age groups,15 to 19 years,18 years,0,0,0,,,,,,YBS048008
+2011,Carcross 4,Total population by age groups,15 to 19 years,19 years,0,0,0,,,,,,YBS048008
+2011,Carcross 4,Total population by age groups,,20 to 24 years,0,5,0,,,,,,YBS048008
+2011,Carcross 4,Total population by age groups,,25 to 29 years,0,0,0,,,,,,YBS048008
+2011,Carcross 4,Total population by age groups,,30 to 34 years,5,5,0,,,,,,YBS048008
+2011,Carcross 4,Total population by age groups,,35 to 39 years,5,0,10,,,,,,YBS048008
+2011,Carcross 4,Total population by age groups,,40 to 44 years,5,0,5,,,,,,YBS048008
+2011,Carcross 4,Total population by age groups,,45 to 49 years,10,5,5,,,,,,YBS048008
+2011,Carcross 4,Total population by age groups,,50 to 54 years,5,5,0,,,,,,YBS048008
+2011,Carcross 4,Total population by age groups,,55 to 59 years,5,5,0,,,,,,YBS048008
+2011,Carcross 4,Total population by age groups,,60 to 64 years,0,0,0,,,,,,YBS048008
+2011,Carcross 4,Total population by age groups,,65 to 69 years,0,0,0,,,,,,YBS048008
+2011,Carcross 4,Total population by age groups,,70 to 74 years,0,0,0,,,,,,YBS048008
+2011,Carcross 4,Total population by age groups,,75 to 79 years,0,0,0,,,,,,YBS048008
+2011,Carcross 4,Total population by age groups,,80 to 84 years,0,0,0,,,,,,YBS048008
+2011,Carcross 4,Total population by age groups,,85 years and over,0,0,0,,,,,,YBS048008
+2011,Carcross 4,,,Median age of the population,41.7,47.3,38.7,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,YBS048008
+2011,Carcross 4,,,% of the population aged 15 and over,83.3,86.7,79.2,,,,,,YBS048008
+2011,Carmacks,,,Total population by age groups,500,230,270,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,YBS048008036
+2011,Carmacks,Total population by age groups,,0 to 4 years,40,15,25,,,,,,YBS048008036
+2011,Carmacks,Total population by age groups,,5 to 9 years,40,15,25,,,,,,YBS048008036
+2011,Carmacks,Total population by age groups,,10 to 14 years,40,20,20,,,,,,YBS048008036
+2011,Carmacks,Total population by age groups,,15 to 19 years,35,5,25,,,,,,YBS048008036
+2011,Carmacks,Total population by age groups,15 to 19 years,15 years,5,0,5,,,,,,YBS048008036
+2011,Carmacks,Total population by age groups,15 to 19 years,16 years,10,0,5,,,,,,YBS048008036
+2011,Carmacks,Total population by age groups,15 to 19 years,17 years,5,5,5,,,,,,YBS048008036
+2011,Carmacks,Total population by age groups,15 to 19 years,18 years,5,0,5,,,,,,YBS048008036
+2011,Carmacks,Total population by age groups,15 to 19 years,19 years,5,5,0,,,,,,YBS048008036
+2011,Carmacks,Total population by age groups,,20 to 24 years,35,10,20,,,,,,YBS048008036
+2011,Carmacks,Total population by age groups,,25 to 29 years,30,10,15,,,,,,YBS048008036
+2011,Carmacks,Total population by age groups,,30 to 34 years,35,20,20,,,,,,YBS048008036
+2011,Carmacks,Total population by age groups,,35 to 39 years,30,20,15,,,,,,YBS048008036
+2011,Carmacks,Total population by age groups,,40 to 44 years,35,20,20,,,,,,YBS048008036
+2011,Carmacks,Total population by age groups,,45 to 49 years,40,15,20,,,,,,YBS048008036
+2011,Carmacks,Total population by age groups,,50 to 54 years,50,25,25,,,,,,YBS048008036
+2011,Carmacks,Total population by age groups,,55 to 59 years,35,20,15,,,,,,YBS048008036
+2011,Carmacks,Total population by age groups,,60 to 64 years,20,15,10,,,,,,YBS048008036
+2011,Carmacks,Total population by age groups,,65 to 69 years,20,10,5,,,,,,YBS048008036
+2011,Carmacks,Total population by age groups,,70 to 74 years,5,5,5,,,,,,YBS048008036
+2011,Carmacks,Total population by age groups,,75 to 79 years,0,0,0,,,,,,YBS048008036
+2011,Carmacks,Total population by age groups,,80 to 84 years,5,0,5,,,,,,YBS048008036
+2011,Carmacks,Total population by age groups,,85 years and over,5,0,5,,,,,,YBS048008036
+2011,Carmacks,,,Median age of the population,34.3,39.4,29.8,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,YBS048008036
+2011,Carmacks,,,% of the population aged 15 and over,75.9,76.7,73.9,,,,,,YBS048008036
+2011,Champagne Landing 10,,,Total population by age groups,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001038
+2011,Champagne Landing 10,Total population by age groups,,0 to 4 years,,,,x,x,x,,,6001038
+2011,Champagne Landing 10,Total population by age groups,,5 to 9 years,,,,x,x,x,,,6001038
+2011,Champagne Landing 10,Total population by age groups,,10 to 14 years,,,,x,x,x,,,6001038
+2011,Champagne Landing 10,Total population by age groups,,15 to 19 years,,,,x,x,x,,,6001038
+2011,Champagne Landing 10,Total population by age groups,15 to 19 years,15 years,,,,x,x,x,,,6001038
+2011,Champagne Landing 10,Total population by age groups,15 to 19 years,16 years,,,,x,x,x,,,6001038
+2011,Champagne Landing 10,Total population by age groups,15 to 19 years,17 years,,,,x,x,x,,,6001038
+2011,Champagne Landing 10,Total population by age groups,15 to 19 years,18 years,,,,x,x,x,,,6001038
+2011,Champagne Landing 10,Total population by age groups,15 to 19 years,19 years,,,,x,x,x,,,6001038
+2011,Champagne Landing 10,Total population by age groups,,20 to 24 years,,,,x,x,x,,,6001038
+2011,Champagne Landing 10,Total population by age groups,,25 to 29 years,,,,x,x,x,,,6001038
+2011,Champagne Landing 10,Total population by age groups,,30 to 34 years,,,,x,x,x,,,6001038
+2011,Champagne Landing 10,Total population by age groups,,35 to 39 years,,,,x,x,x,,,6001038
+2011,Champagne Landing 10,Total population by age groups,,40 to 44 years,,,,x,x,x,,,6001038
+2011,Champagne Landing 10,Total population by age groups,,45 to 49 years,,,,x,x,x,,,6001038
+2011,Champagne Landing 10,Total population by age groups,,50 to 54 years,,,,x,x,x,,,6001038
+2011,Champagne Landing 10,Total population by age groups,,55 to 59 years,,,,x,x,x,,,6001038
+2011,Champagne Landing 10,Total population by age groups,,60 to 64 years,,,,x,x,x,,,6001038
+2011,Champagne Landing 10,Total population by age groups,,65 to 69 years,,,,x,x,x,,,6001038
+2011,Champagne Landing 10,Total population by age groups,,70 to 74 years,,,,x,x,x,,,6001038
+2011,Champagne Landing 10,Total population by age groups,,75 to 79 years,,,,x,x,x,,,6001038
+2011,Champagne Landing 10,Total population by age groups,,80 to 84 years,,,,x,x,x,,,6001038
+2011,Champagne Landing 10,Total population by age groups,,85 years and over,,,,x,x,x,,,6001038
+2011,Champagne Landing 10,,,Median age of the population,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001038
+2011,Champagne Landing 10,,,% of the population aged 15 and over,,,,x,x,x,,,6001038
+2011,Dawson,,,Total population by age groups,1320,675,645,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001029
+2011,Dawson,Total population by age groups,,0 to 4 years,70,35,30,,,,,,6001029
+2011,Dawson,Total population by age groups,,5 to 9 years,70,30,40,,,,,,6001029
+2011,Dawson,Total population by age groups,,10 to 14 years,55,30,25,,,,,,6001029
+2011,Dawson,Total population by age groups,,15 to 19 years,60,35,25,,,,,,6001029
+2011,Dawson,Total population by age groups,15 to 19 years,15 years,10,0,5,,,,,,6001029
+2011,Dawson,Total population by age groups,15 to 19 years,16 years,10,5,5,,,,,,6001029
+2011,Dawson,Total population by age groups,15 to 19 years,17 years,15,5,5,,,,,,6001029
+2011,Dawson,Total population by age groups,15 to 19 years,18 years,20,10,10,,,,,,6001029
+2011,Dawson,Total population by age groups,15 to 19 years,19 years,15,10,5,,,,,,6001029
+2011,Dawson,Total population by age groups,,20 to 24 years,80,40,40,,,,,,6001029
+2011,Dawson,Total population by age groups,,25 to 29 years,140,65,75,,,,,,6001038
+2011,Dawson,Total population by age groups,,30 to 34 years,110,55,50,,,,,,6001038
+2011,Dawson,Total population by age groups,,35 to 39 years,85,45,40,,,,,,6001038
+2011,Dawson,Total population by age groups,,40 to 44 years,100,50,50,,,,,,6001038
+2011,Dawson,Total population by age groups,,45 to 49 years,130,60,75,,,,,,6001038
+2011,Dawson,Total population by age groups,,50 to 54 years,115,65,50,,,,,,6001038
+2011,Dawson,Total population by age groups,,55 to 59 years,115,50,65,,,,,,6001038
+2011,Dawson,Total population by age groups,,60 to 64 years,70,40,30,,,,,,6001038
+2011,Dawson,Total population by age groups,,65 to 69 years,50,30,15,,,,,,6001038
+2011,Dawson,Total population by age groups,,70 to 74 years,30,15,15,,,,,,6001038
+2011,Dawson,Total population by age groups,,75 to 79 years,10,10,0,,,,,,6001038
+2011,Dawson,Total population by age groups,,80 to 84 years,5,0,5,,,,,,6001038
+2011,Dawson,Total population by age groups,,85 years and over,10,10,0,,,,,,6001038
+2011,Dawson,,,Median age of the population,39.3,39.7,39,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001038
+2011,Dawson,,,% of the population aged 15 and over,85.3,85.3,85.2,,,,,,6001038
+2011,Destruction Bay,,,Total population by age groups,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001029
+2011,Destruction Bay,Total population by age groups,,0 to 4 years,,,,x,x,x,,,6001029
+2011,Destruction Bay,Total population by age groups,,5 to 9 years,,,,x,x,x,,,6001029
+2011,Destruction Bay,Total population by age groups,,10 to 14 years,,,,x,x,x,,,6001029
+2011,Destruction Bay,Total population by age groups,,15 to 19 years,,,,x,x,x,,,6001029
+2011,Destruction Bay,Total population by age groups,15 to 19 years,15 years,,,,x,x,x,,,6001029
+2011,Destruction Bay,Total population by age groups,15 to 19 years,16 years,,,,x,x,x,,,6001029
+2011,Destruction Bay,Total population by age groups,15 to 19 years,17 years,,,,x,x,x,,,6001029
+2011,Destruction Bay,Total population by age groups,15 to 19 years,18 years,,,,x,x,x,,,6001029
+2011,Destruction Bay,Total population by age groups,15 to 19 years,19 years,,,,x,x,x,,,6001029
+2011,Destruction Bay,Total population by age groups,,20 to 24 years,,,,x,x,x,,,6001029
+2011,Destruction Bay,Total population by age groups,,25 to 29 years,,,,x,x,x,,,6001029
+2011,Destruction Bay,Total population by age groups,,30 to 34 years,,,,x,x,x,,,6001029
+2011,Destruction Bay,Total population by age groups,,35 to 39 years,,,,x,x,x,,,6001029
+2011,Destruction Bay,Total population by age groups,,40 to 44 years,,,,x,x,x,,,6001029
+2011,Destruction Bay,Total population by age groups,,45 to 49 years,,,,x,x,x,,,6001029
+2011,Destruction Bay,Total population by age groups,,50 to 54 years,,,,x,x,x,,,6001029
+2011,Destruction Bay,Total population by age groups,,55 to 59 years,,,,x,x,x,,,6001029
+2011,Destruction Bay,Total population by age groups,,60 to 64 years,,,,x,x,x,,,6001029
+2011,Destruction Bay,Total population by age groups,,65 to 69 years,,,,x,x,x,,,6001029
+2011,Destruction Bay,Total population by age groups,,70 to 74 years,,,,x,x,x,,,6001029
+2011,Destruction Bay,Total population by age groups,,75 to 79 years,,,,x,x,x,,,6001029
+2011,Destruction Bay,Total population by age groups,,80 to 84 years,,,,x,x,x,,,6001029
+2011,Destruction Bay,Total population by age groups,,85 years and over,,,,x,x,x,,,6001029
+2011,Destruction Bay,,,Median age of the population,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001029
+2011,Destruction Bay,,,% of the population aged 15 and over,,,,x,x,x,,,6001029
+2011,Faro,,,Total population by age groups,345,185,155,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001049
+2011,Faro,Total population by age groups,,0 to 4 years,20,10,15,,,,,,6001004
+2011,Faro,Total population by age groups,,5 to 9 years,20,10,5,,,,,,6001004
+2011,Faro,Total population by age groups,,10 to 14 years,10,10,5,,,,,,6001004
+2011,Faro,Total population by age groups,,15 to 19 years,20,5,15,,,,,,6001004
+2011,Faro,Total population by age groups,15 to 19 years,15 years,0,0,0,,,,,,6001004
+2011,Faro,Total population by age groups,15 to 19 years,16 years,5,5,0,,,,,,6001004
+2011,Faro,Total population by age groups,15 to 19 years,17 years,10,0,5,,,,,,6001004
+2011,Faro,Total population by age groups,15 to 19 years,18 years,0,0,5,,,,,,6001004
+2011,Faro,Total population by age groups,15 to 19 years,19 years,5,0,0,,,,,,6001004
+2011,Faro,Total population by age groups,,20 to 24 years,15,10,5,,,,,,6001004
+2011,Faro,Total population by age groups,,25 to 29 years,15,10,10,,,,,,6001004
+2011,Faro,Total population by age groups,,30 to 34 years,20,10,10,,,,,,6001004
+2011,Faro,Total population by age groups,,35 to 39 years,10,5,5,,,,,,6001004
+2011,Faro,Total population by age groups,,40 to 44 years,10,10,5,,,,,,6001004
+2011,Faro,Total population by age groups,,45 to 49 years,25,10,15,,,,,,6001004
+2011,Faro,Total population by age groups,,50 to 54 years,60,35,25,,,,,,6001004
+2011,Faro,Total population by age groups,,55 to 59 years,40,25,20,,,,,,6001004
+2011,Faro,Total population by age groups,,60 to 64 years,25,10,10,,,,,,6001004
+2011,Faro,Total population by age groups,,65 to 69 years,15,15,5,,,,,,6001004
+2011,Faro,Total population by age groups,,70 to 74 years,20,20,0,,,,,,6001004
+2011,Faro,Total population by age groups,,75 to 79 years,15,5,10,,,,,,6001004
+2011,Faro,Total population by age groups,,80 to 84 years,0,0,0,,,,,,6001004
+2011,Faro,Total population by age groups,,85 years and over,0,0,0,,,,,,6001004
+2011,Faro,,,Median age of the population,50.2,51.5,47.2,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001004
+2011,Faro,,,% of the population aged 15 and over,85.8,85.1,86.5,,,,,,6001004
+2011,Haines Junction,,,Total population by age groups,595,280,310,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001018
+2011,Haines Junction,Total population by age groups,,0 to 4 years,40,20,20,,,,,,6001018
+2011,Haines Junction,Total population by age groups,,5 to 9 years,35,20,20,,,,,,6001018
+2011,Haines Junction,Total population by age groups,,10 to 14 years,30,15,15,,,,,,6001018
+2011,Haines Junction,Total population by age groups,,15 to 19 years,40,15,30,,,,,,6001018
+2011,Haines Junction,Total population by age groups,15 to 19 years,15 years,10,0,10,,,,,,6001018
+2011,Haines Junction,Total population by age groups,15 to 19 years,16 years,10,5,5,,,,,,6001018
+2011,Haines Junction,Total population by age groups,15 to 19 years,17 years,5,5,5,,,,,,6001018
+2011,Haines Junction,Total population by age groups,15 to 19 years,18 years,10,5,5,,,,,,6001018
+2011,Haines Junction,Total population by age groups,15 to 19 years,19 years,10,5,5,,,,,,6001018
+2011,Haines Junction,Total population by age groups,,20 to 24 years,30,15,15,,,,,,6001004
+2011,Haines Junction,Total population by age groups,,25 to 29 years,20,10,15,,,,,,6001004
+2011,Haines Junction,Total population by age groups,,30 to 34 years,40,15,20,,,,,,6001004
+2011,Haines Junction,Total population by age groups,,35 to 39 years,40,20,20,,,,,,6001004
+2011,Haines Junction,Total population by age groups,,40 to 44 years,50,20,30,,,,,,6001004
+2011,Haines Junction,Total population by age groups,,45 to 49 years,45,20,30,,,,,,6001004
+2011,Haines Junction,Total population by age groups,,50 to 54 years,55,25,30,,,,,,6001004
+2011,Haines Junction,Total population by age groups,,55 to 59 years,45,25,20,,,,,,6001004
+2011,Haines Junction,Total population by age groups,,60 to 64 years,45,20,25,,,,,,6001004
+2011,Haines Junction,Total population by age groups,,65 to 69 years,40,25,15,,,,,,6001004
+2011,Haines Junction,Total population by age groups,,70 to 74 years,15,5,5,,,,,,6001004
+2011,Haines Junction,Total population by age groups,,75 to 79 years,20,15,5,,,,,,6001004
+2011,Haines Junction,Total population by age groups,,80 to 84 years,5,5,5,,,,,,6001004
+2011,Haines Junction,Total population by age groups,,85 years and over,0,0,0,,,,,,6001004
+2011,Haines Junction,,,Median age of the population,41.6,43,40.5,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001004
+2011,Haines Junction,,,% of the population aged 15 and over,81.2,83.1,83.4,,,,,,6001004
+2011,Ibex Valley,,,Total population by age groups,345,170,175,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001055
+2011,Ibex Valley,Total population by age groups,,0 to 4 years,15,10,10,,,,,,6001055
+2011,Ibex Valley,Total population by age groups,,5 to 9 years,25,15,15,,,,,,6001055
+2011,Ibex Valley,Total population by age groups,,10 to 14 years,10,10,5,,,,,,6001055
+2011,Ibex Valley,Total population by age groups,,15 to 19 years,20,10,15,,,,,,6001055
+2011,Ibex Valley,Total population by age groups,15 to 19 years,15 years,5,5,0,,,,,,6001055
+2011,Ibex Valley,Total population by age groups,15 to 19 years,16 years,5,0,5,,,,,,6001055
+2011,Ibex Valley,Total population by age groups,15 to 19 years,17 years,5,0,0,,,,,,6001055
+2011,Ibex Valley,Total population by age groups,15 to 19 years,18 years,5,0,0,,,,,,6001055
+2011,Ibex Valley,Total population by age groups,15 to 19 years,19 years,5,0,5,,,,,,6001055
+2011,Ibex Valley,Total population by age groups,,20 to 24 years,15,5,10,,,,,,6001055
+2011,Ibex Valley,Total population by age groups,,25 to 29 years,25,10,10,,,,,,6001055
+2011,Ibex Valley,Total population by age groups,,30 to 34 years,25,10,10,,,,,,6001055
+2011,Ibex Valley,Total population by age groups,,35 to 39 years,20,10,10,,,,,,6001055
+2011,Ibex Valley,Total population by age groups,,40 to 44 years,20,5,15,,,,,,6001055
+2011,Ibex Valley,Total population by age groups,,45 to 49 years,35,15,20,,,,,,6001055
+2011,Ibex Valley,Total population by age groups,,50 to 54 years,40,20,20,,,,,,6001055
+2011,Ibex Valley,Total population by age groups,,55 to 59 years,40,25,20,,,,,,6001055
+2011,Ibex Valley,Total population by age groups,,60 to 64 years,20,15,10,,,,,,6001055
+2011,Ibex Valley,Total population by age groups,,65 to 69 years,10,10,0,,,,,,6001055
+2011,Ibex Valley,Total population by age groups,,70 to 74 years,10,5,0,,,,,,6001055
+2011,Ibex Valley,Total population by age groups,,75 to 79 years,10,0,5,,,,,,6001055
+2011,Ibex Valley,Total population by age groups,,80 to 84 years,5,5,0,,,,,,6001055
+2011,Ibex Valley,Total population by age groups,,85 years and over,5,0,0,,,,,,6001055
+2011,Ibex Valley,,,Median age of the population,44.4,47,42.3,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001055
+2011,Ibex Valley,,,% of the population aged 15 and over,86.2,83.9,83.6,,,,,,6001055
+2011,Johnsons Crossing,,,Total population by age groups,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001047
+2011,Johnsons Crossing,Total population by age groups,,0 to 4 years,,,,x,x,x,,,6001047
+2011,Johnsons Crossing,Total population by age groups,,5 to 9 years,,,,x,x,x,,,6001047
+2011,Johnsons Crossing,Total population by age groups,,10 to 14 years,,,,x,x,x,,,6001047
+2011,Johnsons Crossing,Total population by age groups,,15 to 19 years,,,,x,x,x,,,6001047
+2011,Johnsons Crossing,Total population by age groups,15 to 19 years,15 years,,,,x,x,x,,,6001047
+2011,Johnsons Crossing,Total population by age groups,15 to 19 years,16 years,,,,x,x,x,,,6001055
+2011,Johnsons Crossing,Total population by age groups,15 to 19 years,17 years,,,,x,x,x,,,6001047
+2011,Johnsons Crossing,Total population by age groups,15 to 19 years,18 years,,,,x,x,x,,,6001047
+2011,Johnsons Crossing,Total population by age groups,15 to 19 years,19 years,,,,x,x,x,,,6001047
+2011,Johnsons Crossing,Total population by age groups,,20 to 24 years,,,,x,x,x,,,6001047
+2011,Johnsons Crossing,Total population by age groups,,25 to 29 years,,,,x,x,x,,,6001047
+2011,Johnsons Crossing,Total population by age groups,,30 to 34 years,,,,x,x,x,,,6001055
+2011,Johnsons Crossing,Total population by age groups,,35 to 39 years,,,,x,x,x,,,6001047
+2011,Johnsons Crossing,Total population by age groups,,40 to 44 years,,,,x,x,x,,,6001047
+2011,Johnsons Crossing,Total population by age groups,,45 to 49 years,,,,x,x,x,,,6001047
+2011,Johnsons Crossing,Total population by age groups,,50 to 54 years,,,,x,x,x,,,6001055
+2011,Johnsons Crossing,Total population by age groups,,55 to 59 years,,,,x,x,x,,,6001047
+2011,Johnsons Crossing,Total population by age groups,,60 to 64 years,,,,x,x,x,,,6001047
+2011,Johnsons Crossing,Total population by age groups,,65 to 69 years,,,,x,x,x,,,6001047
+2011,Johnsons Crossing,Total population by age groups,,70 to 74 years,,,,x,x,x,,,6001055
+2011,Johnsons Crossing,Total population by age groups,,75 to 79 years,,,,x,x,x,,,6001047
+2011,Johnsons Crossing,Total population by age groups,,80 to 84 years,,,,x,x,x,,,6001047
+2011,Johnsons Crossing,Total population by age groups,,85 years and over,,,,x,x,x,,,6001047
+2011,Johnsons Crossing,,,Median age of the population,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001055
+2011,Johnsons Crossing,,,% of the population aged 15 and over,,,,x,x,x,,,6001055
+2011,Keno Hill,,,Total population by age groups,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001047
+2011,Keno Hill,Total population by age groups,,0 to 4 years,,,,x,x,x,,,6001047
+2011,Keno Hill,Total population by age groups,,5 to 9 years,,,,x,x,x,,,6001047
+2011,Keno Hill,Total population by age groups,,10 to 14 years,,,,x,x,x,,,6001047
+2011,Keno Hill,Total population by age groups,,15 to 19 years,,,,x,x,x,,,6001047
+2011,Keno Hill,Total population by age groups,15 to 19 years,15 years,,,,x,x,x,,,6001047
+2011,Keno Hill,Total population by age groups,15 to 19 years,16 years,,,,x,x,x,,,6001047
+2011,Keno Hill,Total population by age groups,15 to 19 years,17 years,,,,x,x,x,,,6001047
+2011,Keno Hill,Total population by age groups,15 to 19 years,18 years,,,,x,x,x,,,6001047
+2011,Keno Hill,Total population by age groups,15 to 19 years,19 years,,,,x,x,x,,,6001047
+2011,Keno Hill,Total population by age groups,,20 to 24 years,,,,x,x,x,,,6001047
+2011,Keno Hill,Total population by age groups,,25 to 29 years,,,,x,x,x,,,6001047
+2011,Keno Hill,Total population by age groups,,30 to 34 years,,,,x,x,x,,,6001047
+2011,Keno Hill,Total population by age groups,,35 to 39 years,,,,x,x,x,,,6001047
+2011,Keno Hill,Total population by age groups,,40 to 44 years,,,,x,x,x,,,6001047
+2011,Keno Hill,Total population by age groups,,45 to 49 years,,,,x,x,x,,,6001052
+2011,Keno Hill,Total population by age groups,,50 to 54 years,,,,x,x,x,,,6001052
+2011,Keno Hill,Total population by age groups,,55 to 59 years,,,,x,x,x,,,6001052
+2011,Keno Hill,Total population by age groups,,60 to 64 years,,,,x,x,x,,,6001052
+2011,Keno Hill,Total population by age groups,,65 to 69 years,,,,x,x,x,,,6001052
+2011,Keno Hill,Total population by age groups,,70 to 74 years,,,,x,x,x,,,6001052
+2011,Keno Hill,Total population by age groups,,75 to 79 years,,,,x,x,x,,,6001052
+2011,Keno Hill,Total population by age groups,,80 to 84 years,,,,x,x,x,,,6001052
+2011,Keno Hill,Total population by age groups,,85 years and over,,,,x,x,x,,,6001052
+2011,Keno Hill,,,Median age of the population,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001052
+2011,Keno Hill,,,% of the population aged 15 and over,,,,x,x,x,,,6001052
+2011,Kloo Lake,,,Total population by age groups,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001052
+2011,Kloo Lake,Total population by age groups,,0 to 4 years,,,,x,x,x,,,6001052
+2011,Kloo Lake,Total population by age groups,,5 to 9 years,,,,x,x,x,,,6001052
+2011,Kloo Lake,Total population by age groups,,10 to 14 years,,,,x,x,x,,,6001052
+2011,Kloo Lake,Total population by age groups,,15 to 19 years,,,,x,x,x,,,6001052
+2011,Kloo Lake,Total population by age groups,15 to 19 years,15 years,,,,x,x,x,,,6001052
+2011,Kloo Lake,Total population by age groups,15 to 19 years,16 years,,,,x,x,x,,,6001052
+2011,Kloo Lake,Total population by age groups,15 to 19 years,17 years,,,,x,x,x,,,6001052
+2011,Kloo Lake,Total population by age groups,15 to 19 years,18 years,,,,x,x,x,,,6001052
+2011,Kloo Lake,Total population by age groups,15 to 19 years,19 years,,,,x,x,x,,,6001052
+2011,Kloo Lake,Total population by age groups,,20 to 24 years,,,,x,x,x,,,6001052
+2011,Kloo Lake,Total population by age groups,,25 to 29 years,,,,x,x,x,,,6001052
+2011,Kloo Lake,Total population by age groups,,30 to 34 years,,,,x,x,x,,,6001052
+2011,Kloo Lake,Total population by age groups,,35 to 39 years,,,,x,x,x,,,6001052
+2011,Kloo Lake,Total population by age groups,,40 to 44 years,,,,x,x,x,,,6001052
+2011,Kloo Lake,Total population by age groups,,45 to 49 years,,,,x,x,x,,,6001052
+2011,Kloo Lake,Total population by age groups,,50 to 54 years,,,,x,x,x,,,6001052
+2011,Kloo Lake,Total population by age groups,,55 to 59 years,,,,x,x,x,,,6001052
+2011,Kloo Lake,Total population by age groups,,60 to 64 years,,,,x,x,x,,,6001052
+2011,Kloo Lake,Total population by age groups,,65 to 69 years,,,,x,x,x,,,6001052
+2011,Kloo Lake,Total population by age groups,,70 to 74 years,,,,x,x,x,,,6001052
+2011,Kloo Lake,Total population by age groups,,75 to 79 years,,,,x,x,x,,,6001052
+2011,Kloo Lake,Total population by age groups,,80 to 84 years,,,,x,x,x,,,6001052
+2011,Kloo Lake,Total population by age groups,,85 years and over,,,,x,x,x,,,6001052
+2011,Kloo Lake,,,Median age of the population,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001052
+2011,Kloo Lake,,,% of the population aged 15 and over,,,,x,x,x,,,6001052
+2011,Klukshu,,,Total population by age groups,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001019
+2011,Klukshu,Total population by age groups,,0 to 4 years,,,,x,x,x,,,6001019
+2011,Klukshu,Total population by age groups,,5 to 9 years,,,,x,x,x,,,6001019
+2011,Klukshu,Total population by age groups,,10 to 14 years,,,,x,x,x,,,6001019
+2011,Klukshu,Total population by age groups,,15 to 19 years,,,,x,x,x,,,6001019
+2011,Klukshu,Total population by age groups,15 to 19 years,15 years,,,,x,x,x,,,6001019
+2011,Klukshu,Total population by age groups,15 to 19 years,16 years,,,,x,x,x,,,6001019
+2011,Klukshu,Total population by age groups,15 to 19 years,17 years,,,,x,x,x,,,6001019
+2011,Klukshu,Total population by age groups,15 to 19 years,18 years,,,,x,x,x,,,6001019
+2011,Klukshu,Total population by age groups,15 to 19 years,19 years,,,,x,x,x,,,6001019
+2011,Klukshu,Total population by age groups,,20 to 24 years,,,,x,x,x,,,6001019
+2011,Klukshu,Total population by age groups,,25 to 29 years,,,,x,x,x,,,6001019
+2011,Klukshu,Total population by age groups,,30 to 34 years,,,,x,x,x,,,6001019
+2011,Klukshu,Total population by age groups,,35 to 39 years,,,,x,x,x,,,6001019
+2011,Klukshu,Total population by age groups,,40 to 44 years,,,,x,x,x,,,6001019
+2011,Klukshu,Total population by age groups,,45 to 49 years,,,,x,x,x,,,6001019
+2011,Klukshu,Total population by age groups,,50 to 54 years,,,,x,x,x,,,6001019
+2011,Klukshu,Total population by age groups,,55 to 59 years,,,,x,x,x,,,6001019
+2011,Klukshu,Total population by age groups,,60 to 64 years,,,,x,x,x,,,6001019
+2011,Klukshu,Total population by age groups,,65 to 69 years,,,,x,x,x,,,6001019
+2011,Klukshu,Total population by age groups,,70 to 74 years,,,,x,x,x,,,6001019
+2011,Klukshu,Total population by age groups,,75 to 79 years,,,,x,x,x,,,6001019
+2011,Klukshu,Total population by age groups,,80 to 84 years,,,,x,x,x,,,6001019
+2011,Klukshu,Total population by age groups,,85 years and over,,,,x,x,x,,,6001019
+2011,Klukshu,,,Median age of the population,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001019
+2011,Klukshu,,,% of the population aged 15 and over,,,,x,x,x,,,6001019
+2011,Lake Laberge 1,,,Total population by age groups,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001010
+2011,Lake Laberge 1,Total population by age groups,,0 to 4 years,,,,x,x,x,,,6001010
+2011,Lake Laberge 1,Total population by age groups,,5 to 9 years,,,,x,x,x,,,6001010
+2011,Lake Laberge 1,Total population by age groups,,10 to 14 years,,,,x,x,x,,,6001010
+2011,Lake Laberge 1,Total population by age groups,,15 to 19 years,,,,x,x,x,,,6001010
+2011,Lake Laberge 1,Total population by age groups,15 to 19 years,15 years,,,,x,x,x,,,6001010
+2011,Lake Laberge 1,Total population by age groups,15 to 19 years,16 years,,,,x,x,x,,,6001010
+2011,Lake Laberge 1,Total population by age groups,15 to 19 years,17 years,,,,x,x,x,,,6001010
+2011,Lake Laberge 1,Total population by age groups,15 to 19 years,18 years,,,,x,x,x,,,6001010
+2011,Lake Laberge 1,Total population by age groups,15 to 19 years,19 years,,,,x,x,x,,,6001010
+2011,Lake Laberge 1,Total population by age groups,,20 to 24 years,,,,x,x,x,,,6001010
+2011,Lake Laberge 1,Total population by age groups,,25 to 29 years,,,,x,x,x,,,6001016
+2011,Lake Laberge 1,Total population by age groups,,30 to 34 years,,,,x,x,x,,,6001010
+2011,Lake Laberge 1,Total population by age groups,,35 to 39 years,,,,x,x,x,,,6001010
+2011,Lake Laberge 1,Total population by age groups,,40 to 44 years,,,,x,x,x,,,6001010
+2011,Lake Laberge 1,Total population by age groups,,45 to 49 years,,,,x,x,x,,,6001010
+2011,Lake Laberge 1,Total population by age groups,,50 to 54 years,,,,x,x,x,,,6001010
+2011,Lake Laberge 1,Total population by age groups,,55 to 59 years,,,,x,x,x,,,6001010
+2011,Lake Laberge 1,Total population by age groups,,60 to 64 years,,,,x,x,x,,,6001010
+2011,Lake Laberge 1,Total population by age groups,,65 to 69 years,,,,x,x,x,,,6001010
+2011,Lake Laberge 1,Total population by age groups,,70 to 74 years,,,,x,x,x,,,6001010
+2011,Lake Laberge 1,Total population by age groups,,75 to 79 years,,,,x,x,x,,,6001010
+2011,Lake Laberge 1,Total population by age groups,,80 to 84 years,,,,x,x,x,,,6001010
+2011,Lake Laberge 1,Total population by age groups,,85 years and over,,,,x,x,x,,,6001010
+2011,Lake Laberge 1,,,Median age of the population,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001010
+2011,Lake Laberge 1,,,% of the population aged 15 and over,,,,x,x,x,,,6001010
+2011,Macpherson-Grizzly Valley,,,Total population by age groups,1070,555,520,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001059
+2011,Macpherson-Grizzly Valley,Total population by age groups,,0 to 4 years,35,20,20,,,,,,6001059
+2011,Macpherson-Grizzly Valley,Total population by age groups,,5 to 9 years,60,30,30,,,,,,6001059
+2011,Macpherson-Grizzly Valley,Total population by age groups,,10 to 14 years,50,30,20,,,,,,6001059
+2011,Macpherson-Grizzly Valley,Total population by age groups,,15 to 19 years,60,30,30,,,,,,6001059
+2011,Macpherson-Grizzly Valley,Total population by age groups,15 to 19 years,15 years,20,15,10,,,,,,6001059
+2011,Macpherson-Grizzly Valley,Total population by age groups,15 to 19 years,16 years,10,0,0,,,,,,6001059
+2011,Macpherson-Grizzly Valley,Total population by age groups,15 to 19 years,17 years,10,0,5,,,,,,6001059
+2011,Macpherson-Grizzly Valley,Total population by age groups,15 to 19 years,18 years,15,5,10,,,,,,6001059
+2011,Macpherson-Grizzly Valley,Total population by age groups,15 to 19 years,19 years,10,5,5,,,,,,6001059
+2011,Macpherson-Grizzly Valley,Total population by age groups,,20 to 24 years,60,25,30,,,,,,6001059
+2011,Macpherson-Grizzly Valley,Total population by age groups,,25 to 29 years,65,40,30,,,,,,6001059
+2011,Macpherson-Grizzly Valley,Total population by age groups,,30 to 34 years,60,30,30,,,,,,6001059
+2011,Macpherson-Grizzly Valley,Total population by age groups,,35 to 39 years,70,30,40,,,,,,6001059
+2011,Macpherson-Grizzly Valley,Total population by age groups,,40 to 44 years,60,35,25,,,,,,6001059
+2011,Macpherson-Grizzly Valley,Total population by age groups,,45 to 49 years,105,40,65,,,,,,6001059
+2011,Macpherson-Grizzly Valley,Total population by age groups,,50 to 54 years,120,60,60,,,,,,6001059
+2011,Macpherson-Grizzly Valley,Total population by age groups,,55 to 59 years,135,70,65,,,,,,6001059
+2011,Macpherson-Grizzly Valley,Total population by age groups,,60 to 64 years,80,40,40,,,,,,6001059
+2011,Macpherson-Grizzly Valley,Total population by age groups,,65 to 69 years,55,40,20,,,,,,6001059
+2011,Macpherson-Grizzly Valley,Total population by age groups,,70 to 74 years,30,20,10,,,,,,6001059
+2011,Macpherson-Grizzly Valley,Total population by age groups,,75 to 79 years,15,5,5,,,,,,6001059
+2011,Macpherson-Grizzly Valley,Total population by age groups,,80 to 84 years,5,5,0,,,,,,6001059
+2011,Macpherson-Grizzly Valley,Total population by age groups,,85 years and over,10,5,5,,,,,,6001059
+2011,Macpherson-Grizzly Valley,,,Median age of the population,45.6,45.8,45.5,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001059
+2011,Macpherson-Grizzly Valley,,,% of the population aged 15 and over,85.9,85,87.6,,,,,,6001059
+2011,Marsh Lake,,,Total population by age groups,620,330,290,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001059
+2011,Marsh Lake,Total population by age groups,,0 to 4 years,20,10,10,,,,,,6001059
+2011,Marsh Lake,Total population by age groups,,5 to 9 years,20,15,10,,,,,,6001059
+2011,Marsh Lake,Total population by age groups,,10 to 14 years,25,15,5,,,,,,6001059
+2011,Marsh Lake,Total population by age groups,,15 to 19 years,25,10,15,,,,,,6001059
+2011,Marsh Lake,Total population by age groups,15 to 19 years,15 years,0,0,0,,,,,,6001059
+2011,Marsh Lake,Total population by age groups,15 to 19 years,16 years,5,5,5,,,,,,6001059
+2011,Marsh Lake,Total population by age groups,15 to 19 years,17 years,5,0,0,,,,,,6001058
+2011,Marsh Lake,Total population by age groups,15 to 19 years,18 years,10,5,5,,,,,,6001058
+2011,Marsh Lake,Total population by age groups,15 to 19 years,19 years,5,0,0,,,,,,6001058
+2011,Marsh Lake,Total population by age groups,,20 to 24 years,15,10,5,,,,,,6001058
+2011,Marsh Lake,Total population by age groups,,25 to 29 years,30,20,10,,,,,,6001058
+2011,Marsh Lake,Total population by age groups,,30 to 34 years,20,5,10,,,,,,6001059
+2011,Marsh Lake,Total population by age groups,,35 to 39 years,35,20,15,,,,,,6001058
+2011,Marsh Lake,Total population by age groups,,40 to 44 years,25,15,10,,,,,,6001058
+2011,Marsh Lake,Total population by age groups,,45 to 49 years,45,20,25,,,,,,6001058
+2011,Marsh Lake,Total population by age groups,,50 to 54 years,90,35,55,,,,,,6001059
+2011,Marsh Lake,Total population by age groups,,55 to 59 years,70,40,30,,,,,,6001058
+2011,Marsh Lake,Total population by age groups,,60 to 64 years,85,55,35,,,,,,6001058
+2011,Marsh Lake,Total population by age groups,,65 to 69 years,55,30,20,,,,,,6001059
+2011,Marsh Lake,Total population by age groups,,70 to 74 years,30,15,15,,,,,,6001058
+2011,Marsh Lake,Total population by age groups,,75 to 79 years,25,15,10,,,,,,6001058
+2011,Marsh Lake,Total population by age groups,,80 to 84 years,5,0,5,,,,,,6001058
+2011,Marsh Lake,Total population by age groups,,85 years and over,0,0,0,,,,,,6001059
+2011,Marsh Lake,,,Median age of the population,52.7,53.4,52.2,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001058
+2011,Marsh Lake,,,% of the population aged 15 and over,89.8,88.1,91.8,,,,,,6001058
+2011,Mayo,,,Total population by age groups,225,110,115,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001022
+2011,Mayo,Total population by age groups,,0 to 4 years,5,0,0,,,,,,6001022
+2011,Mayo,Total population by age groups,,5 to 9 years,10,5,5,,,,,,6001022
+2011,Mayo,Total population by age groups,,10 to 14 years,20,15,10,,,,,,6001022
+2011,Mayo,Total population by age groups,,15 to 19 years,20,5,15,,,,,,6001022
+2011,Mayo,Total population by age groups,15 to 19 years,15 years,5,0,5,,,,,,6001022
+2011,Mayo,Total population by age groups,15 to 19 years,16 years,5,5,0,,,,,,6001022
+2011,Mayo,Total population by age groups,15 to 19 years,17 years,5,0,0,,,,,,6001022
+2011,Mayo,Total population by age groups,15 to 19 years,18 years,10,5,5,,,,,,6001022
+2011,Mayo,Total population by age groups,15 to 19 years,19 years,0,0,0,,,,,,6001022
+2011,Mayo,Total population by age groups,,20 to 24 years,15,10,10,,,,,,6001022
+2011,Mayo,Total population by age groups,,25 to 29 years,10,0,10,,,,,,6001022
+2011,Mayo,Total population by age groups,,30 to 34 years,5,0,5,,,,,,6001022
+2011,Mayo,Total population by age groups,,35 to 39 years,15,5,10,,,,,,6001022
+2011,Mayo,Total population by age groups,,40 to 44 years,15,5,15,,,,,,6001022
+2011,Mayo,Total population by age groups,,45 to 49 years,30,15,15,,,,,,6001022
+2011,Mayo,Total population by age groups,,50 to 54 years,25,15,10,,,,,,6001022
+2011,Mayo,Total population by age groups,,55 to 59 years,15,15,0,,,,,,6001022
+2011,Mayo,Total population by age groups,,60 to 64 years,15,5,10,,,,,,6001022
+2011,Mayo,Total population by age groups,,65 to 69 years,5,0,5,,,,,,6001022
+2011,Mayo,Total population by age groups,,70 to 74 years,5,5,0,,,,,,6001058
+2011,Mayo,Total population by age groups,,75 to 79 years,5,5,5,,,,,,6001022
+2011,Mayo,Total population by age groups,,80 to 84 years,10,0,5,,,,,,6001058
+2011,Mayo,Total population by age groups,,85 years and over,0,0,0,,,,,,6001022
+2011,Mayo,,,Median age of the population,45.1,45.9,42.4,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001058
+2011,Mayo,,,% of the population aged 15 and over,84.5,82.7,90,,,,,,6001058
+2011,Moosehide Creek 2,,,Total population by age groups,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001022
+2011,Moosehide Creek 2,Total population by age groups,,0 to 4 years,,,,x,x,x,,,6001022
+2011,Moosehide Creek 2,Total population by age groups,,5 to 9 years,,,,x,x,x,,,6001022
+2011,Moosehide Creek 2,Total population by age groups,,10 to 14 years,,,,x,x,x,,,6001022
+2011,Moosehide Creek 2,Total population by age groups,,15 to 19 years,,,,x,x,x,,,6001022
+2011,Moosehide Creek 2,Total population by age groups,15 to 19 years,15 years,,,,x,x,x,,,6001022
+2011,Moosehide Creek 2,Total population by age groups,15 to 19 years,16 years,,,,x,x,x,,,6001022
+2011,Moosehide Creek 2,Total population by age groups,15 to 19 years,17 years,,,,x,x,x,,,6001022
+2011,Moosehide Creek 2,Total population by age groups,15 to 19 years,18 years,,,,x,x,x,,,6001022
+2011,Moosehide Creek 2,Total population by age groups,15 to 19 years,19 years,,,,x,x,x,,,6001022
+2011,Moosehide Creek 2,Total population by age groups,,20 to 24 years,,,,x,x,x,,,6001022
+2011,Moosehide Creek 2,Total population by age groups,,25 to 29 years,,,,x,x,x,,,6001031
+2011,Moosehide Creek 2,Total population by age groups,,30 to 34 years,,,,x,x,x,,,6001022
+2011,Moosehide Creek 2,Total population by age groups,,35 to 39 years,,,,x,x,x,,,6001022
+2011,Moosehide Creek 2,Total population by age groups,,40 to 44 years,,,,x,x,x,,,6001022
+2011,Moosehide Creek 2,Total population by age groups,,45 to 49 years,,,,x,x,x,,,6001022
+2011,Moosehide Creek 2,Total population by age groups,,50 to 54 years,,,,x,x,x,,,6001022
+2011,Moosehide Creek 2,Total population by age groups,,55 to 59 years,,,,x,x,x,,,6001022
+2011,Moosehide Creek 2,Total population by age groups,,60 to 64 years,,,,x,x,x,,,6001022
+2011,Moosehide Creek 2,Total population by age groups,,65 to 69 years,,,,x,x,x,,,6001022
+2011,Moosehide Creek 2,Total population by age groups,,70 to 74 years,,,,x,x,x,,,6001022
+2011,Moosehide Creek 2,Total population by age groups,,75 to 79 years,,,,x,x,x,,,6001022
+2011,Moosehide Creek 2,Total population by age groups,,80 to 84 years,,,,x,x,x,,,6001022
+2011,Moosehide Creek 2,Total population by age groups,,85 years and over,,,,x,x,x,,,6001022
+2011,Moosehide Creek 2,,,Median age of the population,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001022
+2011,Moosehide Creek 2,,,% of the population aged 15 and over,,,,x,x,x,,,6001022
+2011,Mt. Lorne,,,Total population by age groups,410,215,190,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001031
+2011,Mt. Lorne,Total population by age groups,,0 to 4 years,25,10,15,,,,,,6001031
+2011,Mt. Lorne,Total population by age groups,,5 to 9 years,25,10,10,,,,,,6001031
+2011,Mt. Lorne,Total population by age groups,,10 to 14 years,20,20,5,,,,,,6001031
+2011,Mt. Lorne,Total population by age groups,,15 to 19 years,15,5,10,,,,,,6001031
+2011,Mt. Lorne,Total population by age groups,15 to 19 years,15 years,0,0,5,,,,,,6001031
+2011,Mt. Lorne,Total population by age groups,15 to 19 years,16 years,0,5,0,,,,,,6001031
+2011,Mt. Lorne,Total population by age groups,15 to 19 years,17 years,10,0,0,,,,,,6001031
+2011,Mt. Lorne,Total population by age groups,15 to 19 years,18 years,0,0,5,,,,,,6001031
+2011,Mt. Lorne,Total population by age groups,15 to 19 years,19 years,0,0,0,,,,,,6001031
+2011,Mt. Lorne,Total population by age groups,,20 to 24 years,10,5,5,,,,,,6001031
+2011,Mt. Lorne,Total population by age groups,,25 to 29 years,25,15,10,,,,,,6001031
+2011,Mt. Lorne,Total population by age groups,,30 to 34 years,15,10,5,,,,,,6001031
+2011,Mt. Lorne,Total population by age groups,,35 to 39 years,40,15,20,,,,,,6001031
+2011,Mt. Lorne,Total population by age groups,,40 to 44 years,25,5,15,,,,,,6001031
+2011,Mt. Lorne,Total population by age groups,,45 to 49 years,45,20,25,,,,,,6001031
+2011,Mt. Lorne,Total population by age groups,,50 to 54 years,45,30,20,,,,,,6001031
+2011,Mt. Lorne,Total population by age groups,,55 to 59 years,50,30,25,,,,,,6001044
+2011,Mt. Lorne,Total population by age groups,,60 to 64 years,40,25,15,,,,,,6001044
+2011,Mt. Lorne,Total population by age groups,,65 to 69 years,15,5,5,,,,,,6001044
+2011,Mt. Lorne,Total population by age groups,,70 to 74 years,5,10,5,,,,,,6001044
+2011,Mt. Lorne,Total population by age groups,,75 to 79 years,0,0,0,,,,,,6001044
+2011,Mt. Lorne,Total population by age groups,,80 to 84 years,0,0,0,,,,,,6001044
+2011,Mt. Lorne,Total population by age groups,,85 years and over,0,5,0,,,,,,6001044
+2011,Mt. Lorne,,,Median age of the population,45.8,46,44.8,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001044
+2011,Mt. Lorne,,,% of the population aged 15 and over,84.1,80.1,86.6,,,,,,6001044
+2011,Old Crow,,,Total population by age groups,245,130,115,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001043
+2011,Old Crow,Total population by age groups,,0 to 4 years,20,15,5,,,,,,6001043
+2011,Old Crow,Total population by age groups,,5 to 9 years,15,10,10,,,,,,6001043
+2011,Old Crow,Total population by age groups,,10 to 14 years,20,10,10,,,,,,6001043
+2011,Old Crow,Total population by age groups,,15 to 19 years,15,10,5,,,,,,6001043
+2011,Old Crow,Total population by age groups,15 to 19 years,15 years,5,0,0,,,,,,6001043
+2011,Old Crow,Total population by age groups,15 to 19 years,16 years,0,5,0,,,,,,6001043
+2011,Old Crow,Total population by age groups,15 to 19 years,17 years,5,5,0,,,,,,6001043
+2011,Old Crow,Total population by age groups,15 to 19 years,18 years,5,0,0,,,,,,6001043
+2011,Old Crow,Total population by age groups,15 to 19 years,19 years,10,5,0,,,,,,6001043
+2011,Old Crow,Total population by age groups,,20 to 24 years,15,5,10,,,,,,6001043
+2011,Old Crow,Total population by age groups,,25 to 29 years,20,10,10,,,,,,6001043
+2011,Old Crow,Total population by age groups,,30 to 34 years,15,5,5,,,,,,6001043
+2011,Old Crow,Total population by age groups,,35 to 39 years,20,10,5,,,,,,6001043
+2011,Old Crow,Total population by age groups,,40 to 44 years,10,5,5,,,,,,6001043
+2011,Old Crow,Total population by age groups,,45 to 49 years,20,5,15,,,,,,6001043
+2011,Old Crow,Total population by age groups,,50 to 54 years,20,15,10,,,,,,6001043
+2011,Old Crow,Total population by age groups,,55 to 59 years,20,10,10,,,,,,6001043
+2011,Old Crow,Total population by age groups,,60 to 64 years,15,5,10,,,,,,6001043
+2011,Old Crow,Total population by age groups,,65 to 69 years,10,5,5,,,,,,6001043
+2011,Old Crow,Total population by age groups,,70 to 74 years,5,0,0,,,,,,6001043
+2011,Old Crow,Total population by age groups,,75 to 79 years,5,5,5,,,,,,6001043
+2011,Old Crow,Total population by age groups,,80 to 84 years,0,0,0,,,,,,6001043
+2011,Old Crow,Total population by age groups,,85 years and over,5,0,5,,,,,,6001043
+2011,Old Crow,,,Median age of the population,35.1,35.5,35,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001043
+2011,Old Crow,,,% of the population aged 15 and over,78,76.7,82.8,,,,,,6001043
+2011,Pelly Crossing,,,Total population by age groups,335,180,160,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001041
+2011,Pelly Crossing,Total population by age groups,,0 to 4 years,30,15,15,,,,,,6001041
+2011,Pelly Crossing,Total population by age groups,,5 to 9 years,10,10,5,,,,,,6001041
+2011,Pelly Crossing,Total population by age groups,,10 to 14 years,20,15,10,,,,,,6001041
+2011,Pelly Crossing,Total population by age groups,,15 to 19 years,30,10,20,,,,,,6001041
+2011,Pelly Crossing,Total population by age groups,15 to 19 years,15 years,5,0,5,,,,,,6001041
+2011,Pelly Crossing,Total population by age groups,15 to 19 years,16 years,10,0,10,,,,,,6001041
+2011,Pelly Crossing,Total population by age groups,15 to 19 years,17 years,5,5,0,,,,,,6001041
+2011,Pelly Crossing,Total population by age groups,15 to 19 years,18 years,5,0,5,,,,,,6001041
+2011,Pelly Crossing,Total population by age groups,15 to 19 years,19 years,5,0,0,,,,,,6001041
+2011,Pelly Crossing,Total population by age groups,,20 to 24 years,25,10,15,,,,,,6001041
+2011,Pelly Crossing,Total population by age groups,,25 to 29 years,25,10,15,,,,,,6001041
+2011,Pelly Crossing,Total population by age groups,,30 to 34 years,15,10,5,,,,,,6001041
+2011,Pelly Crossing,Total population by age groups,,35 to 39 years,25,15,10,,,,,,6001041
+2011,Pelly Crossing,Total population by age groups,,40 to 44 years,30,20,10,,,,,,6001041
+2011,Pelly Crossing,Total population by age groups,,45 to 49 years,40,20,20,,,,,,6001041
+2011,Pelly Crossing,Total population by age groups,,50 to 54 years,20,15,10,,,,,,6001041
+2011,Pelly Crossing,Total population by age groups,,55 to 59 years,20,10,5,,,,,,6001041
+2011,Pelly Crossing,Total population by age groups,,60 to 64 years,15,5,5,,,,,,6001041
+2011,Pelly Crossing,Total population by age groups,,65 to 69 years,15,10,5,,,,,,6001041
+2011,Pelly Crossing,Total population by age groups,,70 to 74 years,5,5,5,,,,,,6001041
+2011,Pelly Crossing,Total population by age groups,,75 to 79 years,10,5,5,,,,,,6001041
+2011,Pelly Crossing,Total population by age groups,,80 to 84 years,5,0,0,,,,,,6001041
+2011,Pelly Crossing,Total population by age groups,,85 years and over,5,5,0,,,,,,6001041
+2011,Pelly Crossing,,,Median age of the population,38.3,39.2,36.2,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001041
+2011,Pelly Crossing,,,% of the population aged 15 and over,81.5,82.2,83.4,,,,,,6001041
+2011,Ross River,,,Total population by age groups,,,,..,..,..,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001041
+2011,Ross River,Total population by age groups,,0 to 4 years,,,,..,..,..,,,6001041
+2011,Ross River,Total population by age groups,,5 to 9 years,,,,..,..,..,,,6001041
+2011,Ross River,Total population by age groups,,10 to 14 years,,,,..,..,..,,,6001041
+2011,Ross River,Total population by age groups,,15 to 19 years,,,,..,..,..,,,6001041
+2011,Ross River,Total population by age groups,15 to 19 years,15 years,,,,..,..,..,,,6001041
+2011,Ross River,Total population by age groups,15 to 19 years,16 years,,,,..,..,..,,,6001037
+2011,Ross River,Total population by age groups,15 to 19 years,17 years,,,,..,..,..,,,6001041
+2011,Ross River,Total population by age groups,15 to 19 years,18 years,,,,..,..,..,,,6001041
+2011,Ross River,Total population by age groups,15 to 19 years,19 years,,,,..,..,..,,,6001041
+2011,Ross River,Total population by age groups,,20 to 24 years,,,,..,..,..,,,6001041
+2011,Ross River,Total population by age groups,,25 to 29 years,,,,..,..,..,,,6001041
+2011,Ross River,Total population by age groups,,30 to 34 years,,,,..,..,..,,,6001041
+2011,Ross River,Total population by age groups,,35 to 39 years,,,,..,..,..,,,6001041
+2011,Ross River,Total population by age groups,,40 to 44 years,,,,..,..,..,,,6001041
+2011,Ross River,Total population by age groups,,45 to 49 years,,,,..,..,..,,,6001041
+2011,Ross River,Total population by age groups,,50 to 54 years,,,,..,..,..,,,6001041
+2011,Ross River,Total population by age groups,,55 to 59 years,,,,..,..,..,,,6001041
+2011,Ross River,Total population by age groups,,60 to 64 years,,,,..,..,..,,,6001037
+2011,Ross River,Total population by age groups,,65 to 69 years,,,,..,..,..,,,6001041
+2011,Ross River,Total population by age groups,,70 to 74 years,,,,..,..,..,,,6001037
+2011,Ross River,Total population by age groups,,75 to 79 years,,,,..,..,..,,,6001037
+2011,Ross River,Total population by age groups,,80 to 84 years,,,,..,..,..,,,6001041
+2011,Ross River,Total population by age groups,,85 years and over,,,,..,..,..,,,6001037
+2011,Ross River,,,Median age of the population,,,,..,..,..,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001041
+2011,Ross River,,,% of the population aged 15 and over,,,,..,..,..,,,6001037
+2011,Stewart Crossing,,,Total population by age groups,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001037
+2011,Stewart Crossing,Total population by age groups,,0 to 4 years,,,,x,x,x,,,6001037
+2011,Stewart Crossing,Total population by age groups,,5 to 9 years,,,,x,x,x,,,6001037
+2011,Stewart Crossing,Total population by age groups,,10 to 14 years,,,,x,x,x,,,6001037
+2011,Stewart Crossing,Total population by age groups,,15 to 19 years,,,,x,x,x,,,6001050
+2011,Stewart Crossing,Total population by age groups,15 to 19 years,15 years,,,,x,x,x,,,6001037
+2011,Stewart Crossing,Total population by age groups,15 to 19 years,16 years,,,,x,x,x,,,6001037
+2011,Stewart Crossing,Total population by age groups,15 to 19 years,17 years,,,,x,x,x,,,6001037
+2011,Stewart Crossing,Total population by age groups,15 to 19 years,18 years,,,,x,x,x,,,6001037
+2011,Stewart Crossing,Total population by age groups,15 to 19 years,19 years,,,,x,x,x,,,6001037
+2011,Stewart Crossing,Total population by age groups,,20 to 24 years,,,,x,x,x,,,6001037
+2011,Stewart Crossing,Total population by age groups,,25 to 29 years,,,,x,x,x,,,6001037
+2011,Stewart Crossing,Total population by age groups,,30 to 34 years,,,,x,x,x,,,6001037
+2011,Stewart Crossing,Total population by age groups,,35 to 39 years,,,,x,x,x,,,6001037
+2011,Stewart Crossing,Total population by age groups,,40 to 44 years,,,,x,x,x,,,6001037
+2011,Stewart Crossing,Total population by age groups,,45 to 49 years,,,,x,x,x,,,6001037
+2011,Stewart Crossing,Total population by age groups,,50 to 54 years,,,,x,x,x,,,6001037
+2011,Stewart Crossing,Total population by age groups,,55 to 59 years,,,,x,x,x,,,6001037
+2011,Stewart Crossing,Total population by age groups,,60 to 64 years,,,,x,x,x,,,6001037
+2011,Stewart Crossing,Total population by age groups,,65 to 69 years,,,,x,x,x,,,6001037
+2011,Stewart Crossing,Total population by age groups,,70 to 74 years,,,,x,x,x,,,6001037
+2011,Stewart Crossing,Total population by age groups,,75 to 79 years,,,,x,x,x,,,6001050
+2011,Stewart Crossing,Total population by age groups,,80 to 84 years,,,,x,x,x,,,6001050
+2011,Stewart Crossing,Total population by age groups,,85 years and over,,,,x,x,x,,,6001037
+2011,Stewart Crossing,,,Median age of the population,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001037
+2011,Stewart Crossing,,,% of the population aged 15 and over,,,,x,x,x,,,6001037
+2011,Swift River,,,Total population by age groups,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001046
+2011,Swift River,Total population by age groups,,0 to 4 years,,,,x,x,x,,,6001046
+2011,Swift River,Total population by age groups,,5 to 9 years,,,,x,x,x,,,6001046
+2011,Swift River,Total population by age groups,,10 to 14 years,,,,x,x,x,,,6001046
+2011,Swift River,Total population by age groups,,15 to 19 years,,,,x,x,x,,,6001046
+2011,Swift River,Total population by age groups,15 to 19 years,15 years,,,,x,x,x,,,6001046
+2011,Swift River,Total population by age groups,15 to 19 years,16 years,,,,x,x,x,,,6001050
+2011,Swift River,Total population by age groups,15 to 19 years,17 years,,,,x,x,x,,,6001046
+2011,Swift River,Total population by age groups,15 to 19 years,18 years,,,,x,x,x,,,6001046
+2011,Swift River,Total population by age groups,15 to 19 years,19 years,,,,x,x,x,,,6001046
+2011,Swift River,Total population by age groups,,20 to 24 years,,,,x,x,x,,,6001046
+2011,Swift River,Total population by age groups,,25 to 29 years,,,,x,x,x,,,6001046
+2011,Swift River,Total population by age groups,,30 to 34 years,,,,x,x,x,,,6001046
+2011,Swift River,Total population by age groups,,35 to 39 years,,,,x,x,x,,,6001046
+2011,Swift River,Total population by age groups,,40 to 44 years,,,,x,x,x,,,6001046
+2011,Swift River,Total population by age groups,,45 to 49 years,,,,x,x,x,,,6001046
+2011,Swift River,Total population by age groups,,50 to 54 years,,,,x,x,x,,,6001046
+2011,Swift River,Total population by age groups,,55 to 59 years,,,,x,x,x,,,6001046
+2011,Swift River,Total population by age groups,,60 to 64 years,,,,x,x,x,,,6001046
+2011,Swift River,Total population by age groups,,65 to 69 years,,,,x,x,x,,,6001046
+2011,Swift River,Total population by age groups,,70 to 74 years,,,,x,x,x,,,6001046
+2011,Swift River,Total population by age groups,,75 to 79 years,,,,x,x,x,,,6001046
+2011,Swift River,Total population by age groups,,80 to 84 years,,,,x,x,x,,,6001046
+2011,Swift River,Total population by age groups,,85 years and over,,,,x,x,x,,,6001046
+2011,Swift River,,,Median age of the population,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001046
+2011,Swift River,,,% of the population aged 15 and over,,,,x,x,x,,,6001046
+2011,Tagish,,,Total population by age groups,390,195,195,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001046
+2011,Tagish,Total population by age groups,,0 to 4 years,15,10,0,,,,,,6001046
+2011,Tagish,Total population by age groups,,5 to 9 years,5,5,0,,,,,,6001046
+2011,Tagish,Total population by age groups,,10 to 14 years,25,10,10,,,,,,6001046
+2011,Tagish,Total population by age groups,,15 to 19 years,10,5,5,,,,,,6001046
+2011,Tagish,Total population by age groups,15 to 19 years,15 years,0,0,0,,,,,,6001046
+2011,Tagish,Total population by age groups,15 to 19 years,16 years,5,0,0,,,,,,6001046
+2011,Tagish,Total population by age groups,15 to 19 years,17 years,5,5,0,,,,,,6001046
+2011,Tagish,Total population by age groups,15 to 19 years,18 years,0,0,0,,,,,,6001046
+2011,Tagish,Total population by age groups,15 to 19 years,19 years,5,0,0,,,,,,6001046
+2011,Tagish,Total population by age groups,,20 to 24 years,5,0,5,,,,,,6001046
+2011,Tagish,Total population by age groups,,25 to 29 years,10,0,10,,,,,,6001046
+2011,Tagish,Total population by age groups,,30 to 34 years,20,10,10,,,,,,6001046
+2011,Tagish,Total population by age groups,,35 to 39 years,5,5,10,,,,,,6001046
+2011,Tagish,Total population by age groups,,40 to 44 years,10,5,5,,,,,,6001046
+2011,Tagish,Total population by age groups,,45 to 49 years,45,15,30,,,,,,6001046
+2011,Tagish,Total population by age groups,,50 to 54 years,50,25,20,,,,,,6001046
+2011,Tagish,Total population by age groups,,55 to 59 years,45,20,25,,,,,,6001046
+2011,Tagish,Total population by age groups,,60 to 64 years,45,30,20,,,,,,6001046
+2011,Tagish,Total population by age groups,,65 to 69 years,40,25,15,,,,,,6001046
+2011,Tagish,Total population by age groups,,70 to 74 years,20,10,15,,,,,,6001046
+2011,Tagish,Total population by age groups,,75 to 79 years,15,10,10,,,,,,6001046
+2011,Tagish,Total population by age groups,,80 to 84 years,5,5,5,,,,,,6001046
+2011,Tagish,Total population by age groups,,85 years and over,5,0,0,,,,,,6001046
+2011,Tagish,,,Median age of the population,53.6,54.5,52.8,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001046
+2011,Tagish,,,% of the population aged 15 and over,89.3,84.6,91.8,,,,,,6001046
+2011,Teslin,,,Total population by age groups,120,65,60,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001036
+2011,Teslin,Total population by age groups,,0 to 4 years,15,5,5,,,,,,6001036
+2011,Teslin,Total population by age groups,,5 to 9 years,10,5,5,,,,,,6001006
+2011,Teslin,Total population by age groups,,10 to 14 years,5,5,0,,,,,,6001036
+2011,Teslin,Total population by age groups,,15 to 19 years,5,5,0,,,,,,6001036
+2011,Teslin,Total population by age groups,15 to 19 years,15 years,0,0,0,,,,,,6001036
+2011,Teslin,Total population by age groups,15 to 19 years,16 years,0,5,0,,,,,,6001036
+2011,Teslin,Total population by age groups,15 to 19 years,17 years,0,0,0,,,,,,6001036
+2011,Teslin,Total population by age groups,15 to 19 years,18 years,0,0,0,,,,,,6001036
+2011,Teslin,Total population by age groups,15 to 19 years,19 years,0,0,0,,,,,,6001036
+2011,Teslin,Total population by age groups,,20 to 24 years,5,5,0,,,,,,6001036
+2011,Teslin,Total population by age groups,,25 to 29 years,10,5,5,,,,,,6001036
+2011,Teslin,Total population by age groups,,30 to 34 years,10,5,5,,,,,,6001036
+2011,Teslin,Total population by age groups,,35 to 39 years,5,10,5,,,,,,6001036
+2011,Teslin,Total population by age groups,,40 to 44 years,5,0,0,,,,,,6001036
+2011,Teslin,Total population by age groups,,45 to 49 years,5,0,5,,,,,,6001036
+2011,Teslin,Total population by age groups,,50 to 54 years,10,5,5,,,,,,6001036
+2011,Teslin,Total population by age groups,,55 to 59 years,5,5,5,,,,,,6001036
+2011,Teslin,Total population by age groups,,60 to 64 years,5,5,0,,,,,,6001006
+2011,Teslin,Total population by age groups,,65 to 69 years,0,0,5,,,,,,6001006
+2011,Teslin,Total population by age groups,,70 to 74 years,0,0,5,,,,,,6001006
+2011,Teslin,Total population by age groups,,75 to 79 years,5,5,0,,,,,,6001006
+2011,Teslin,Total population by age groups,,80 to 84 years,5,0,5,,,,,,6001006
+2011,Teslin,Total population by age groups,,85 years and over,0,0,0,,,,,,6001006
+2011,Teslin,,,Median age of the population,31.8,36.5,30.4,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001006
+2011,Teslin,,,% of the population aged 15 and over,76.2,81,71.2,,,,,,6001006
+2011,Teslin Land,,,Total population by age groups,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,YBS006057007
+2011,Teslin Land,Total population by age groups,,0 to 4 years,,,,x,x,x,,,6001057
+2011,Teslin Land,Total population by age groups,,5 to 9 years,,,,x,x,x,,,6001057
+2011,Teslin Land,Total population by age groups,,10 to 14 years,,,,x,x,x,,,6001057
+2011,Teslin Land,Total population by age groups,,15 to 19 years,,,,x,x,x,,,YBS006057007
+2011,Teslin Land,Total population by age groups,15 to 19 years,15 years,,,,x,x,x,,,6001057
+2011,Teslin Land,Total population by age groups,15 to 19 years,16 years,,,,x,x,x,,,YBS006057007
+2011,Teslin Land,Total population by age groups,15 to 19 years,17 years,,,,x,x,x,,,6001057
+2011,Teslin Land,Total population by age groups,15 to 19 years,18 years,,,,x,x,x,,,YBS006057007
+2011,Teslin Land,Total population by age groups,15 to 19 years,19 years,,,,x,x,x,,,6001057
+2011,Teslin Land,Total population by age groups,,20 to 24 years,,,,x,x,x,,,6001057
+2011,Teslin Land,Total population by age groups,,25 to 29 years,,,,x,x,x,,,6001057
+2011,Teslin Land,Total population by age groups,,30 to 34 years,,,,x,x,x,,,6001057
+2011,Teslin Land,Total population by age groups,,35 to 39 years,,,,x,x,x,,,YBS006057007
+2011,Teslin Land,Total population by age groups,,40 to 44 years,,,,x,x,x,,,6001057
+2011,Teslin Land,Total population by age groups,,45 to 49 years,,,,x,x,x,,,YBS006057007
+2011,Teslin Land,Total population by age groups,,50 to 54 years,,,,x,x,x,,,6001057
+2011,Teslin Land,Total population by age groups,,55 to 59 years,,,,x,x,x,,,6001057
+2011,Teslin Land,Total population by age groups,,60 to 64 years,,,,x,x,x,,,YBS006057007
+2011,Teslin Land,Total population by age groups,,65 to 69 years,,,,x,x,x,,,YBS006057007
+2011,Teslin Land,Total population by age groups,,70 to 74 years,,,,x,x,x,,,YBS006057007
+2011,Teslin Land,Total population by age groups,,75 to 79 years,,,,x,x,x,,,YBS006057007
+2011,Teslin Land,Total population by age groups,,80 to 84 years,,,,x,x,x,,,YBS006057007
+2011,Teslin Land,Total population by age groups,,85 years and over,,,,x,x,x,,,6001057
+2011,Teslin Land,,,Median age of the population,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001057
+2011,Teslin Land,,,% of the population aged 15 and over,,,,x,x,x,,,YBS006057007
+2011,Teslin Post 13,,,Total population by age groups,140,65,75,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001057
+2011,Teslin Post 13,Total population by age groups,,0 to 4 years,5,5,5,,,,,,6001057
+2011,Teslin Post 13,Total population by age groups,,5 to 9 years,10,5,5,,,,,,6001057
+2011,Teslin Post 13,Total population by age groups,,10 to 14 years,15,5,5,,,,,,6001057
+2011,Teslin Post 13,Total population by age groups,,15 to 19 years,10,5,5,,,,,,6001057
+2011,Teslin Post 13,Total population by age groups,15 to 19 years,15 years,0,0,0,,,,,,6001057
+2011,Teslin Post 13,Total population by age groups,15 to 19 years,16 years,0,0,5,,,,,,6001057
+2011,Teslin Post 13,Total population by age groups,15 to 19 years,17 years,0,0,0,,,,,,6001057
+2011,Teslin Post 13,Total population by age groups,15 to 19 years,18 years,5,5,0,,,,,,6001057
+2011,Teslin Post 13,Total population by age groups,15 to 19 years,19 years,0,0,0,,,,,,6001057
+2011,Teslin Post 13,Total population by age groups,,20 to 24 years,5,5,5,,,,,,6001057
+2011,Teslin Post 13,Total population by age groups,,25 to 29 years,10,0,5,,,,,,6001057
+2011,Teslin Post 13,Total population by age groups,,30 to 34 years,10,5,5,,,,,,6001057
+2011,Teslin Post 13,Total population by age groups,,35 to 39 years,10,0,5,,,,,,6001057
+2011,Teslin Post 13,Total population by age groups,,40 to 44 years,20,10,10,,,,,,6001057
+2011,Teslin Post 13,Total population by age groups,,45 to 49 years,10,5,0,,,,,,6001057
+2011,Teslin Post 13,Total population by age groups,,50 to 54 years,10,5,5,,,,,,6001057
+2011,Teslin Post 13,Total population by age groups,,55 to 59 years,5,5,10,,,,,,6001057
+2011,Teslin Post 13,Total population by age groups,,60 to 64 years,10,5,5,,,,,,6001057
+2011,Teslin Post 13,Total population by age groups,,65 to 69 years,5,0,0,,,,,,6001057
+2011,Teslin Post 13,Total population by age groups,,70 to 74 years,5,0,5,,,,,,6001057
+2011,Teslin Post 13,Total population by age groups,,75 to 79 years,10,5,0,,,,,,6001057
+2011,Teslin Post 13,Total population by age groups,,80 to 84 years,0,0,5,,,,,,6001057
+2011,Teslin Post 13,Total population by age groups,,85 years and over,0,0,5,,,,,,6001057
+2011,Teslin Post 13,,,Median age of the population,41,38.8,43.2,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001057
+2011,Teslin Post 13,,,% of the population aged 15 and over,79,76.6,81.1,,,,,,6001057
+2011,Two and One-Half Mile Village,,,Total population by age groups,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001007
+2011,Two and One-Half Mile Village,Total population by age groups,,0 to 4 years,,,,x,x,x,,,6001034
+2011,Two and One-Half Mile Village,Total population by age groups,,5 to 9 years,,,,x,x,x,,,6001007
+2011,Two and One-Half Mile Village,Total population by age groups,,10 to 14 years,,,,x,x,x,,,6001034
+2011,Two and One-Half Mile Village,Total population by age groups,,15 to 19 years,,,,x,x,x,,,6001007
+2011,Two and One-Half Mile Village,Total population by age groups,15 to 19 years,15 years,,,,x,x,x,,,6001034
+2011,Two and One-Half Mile Village,Total population by age groups,15 to 19 years,16 years,,,,x,x,x,,,6001007
+2011,Two and One-Half Mile Village,Total population by age groups,15 to 19 years,17 years,,,,x,x,x,,,6001034
+2011,Two and One-Half Mile Village,Total population by age groups,15 to 19 years,18 years,,,,x,x,x,,,6001007
+2011,Two and One-Half Mile Village,Total population by age groups,15 to 19 years,19 years,,,,x,x,x,,,6001034
+2011,Two and One-Half Mile Village,Total population by age groups,,20 to 24 years,,,,x,x,x,,,6001034
+2011,Two and One-Half Mile Village,Total population by age groups,,25 to 29 years,,,,x,x,x,,,6001034
+2011,Two and One-Half Mile Village,Total population by age groups,,30 to 34 years,,,,x,x,x,,,6001034
+2011,Two and One-Half Mile Village,Total population by age groups,,35 to 39 years,,,,x,x,x,,,6001034
+2011,Two and One-Half Mile Village,Total population by age groups,,40 to 44 years,,,,x,x,x,,,6001034
+2011,Two and One-Half Mile Village,Total population by age groups,,45 to 49 years,,,,x,x,x,,,6001034
+2011,Two and One-Half Mile Village,Total population by age groups,,50 to 54 years,,,,x,x,x,,,6001034
+2011,Two and One-Half Mile Village,Total population by age groups,,55 to 59 years,,,,x,x,x,,,6001034
+2011,Two and One-Half Mile Village,Total population by age groups,,60 to 64 years,,,,x,x,x,,,6001034
+2011,Two and One-Half Mile Village,Total population by age groups,,65 to 69 years,,,,x,x,x,,,6001034
+2011,Two and One-Half Mile Village,Total population by age groups,,70 to 74 years,,,,x,x,x,,,6001034
+2011,Two and One-Half Mile Village,Total population by age groups,,75 to 79 years,,,,x,x,x,,,6001034
+2011,Two and One-Half Mile Village,Total population by age groups,,80 to 84 years,,,,x,x,x,,,6001034
+2011,Two and One-Half Mile Village,Total population by age groups,,85 years and over,,,,x,x,x,,,6001034
+2011,Two and One-Half Mile Village,,,Median age of the population,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001034
+2011,Two and One-Half Mile Village,,,% of the population aged 15 and over,,,,x,x,x,,,6001034
+2011,Two Mile Village,,,Total population by age groups,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001034
+2011,Two Mile Village,Total population by age groups,,0 to 4 years,,,,x,x,x,,,6001033
+2011,Two Mile Village,Total population by age groups,,5 to 9 years,,,,x,x,x,,,6001033
+2011,Two Mile Village,Total population by age groups,,10 to 14 years,,,,x,x,x,,,6001034
+2011,Two Mile Village,Total population by age groups,,15 to 19 years,,,,x,x,x,,,6001034
+2011,Two Mile Village,Total population by age groups,15 to 19 years,15 years,,,,x,x,x,,,6001033
+2011,Two Mile Village,Total population by age groups,15 to 19 years,16 years,,,,x,x,x,,,6001033
+2011,Two Mile Village,Total population by age groups,15 to 19 years,17 years,,,,x,x,x,,,6001033
+2011,Two Mile Village,Total population by age groups,15 to 19 years,18 years,,,,x,x,x,,,6001034
+2011,Two Mile Village,Total population by age groups,15 to 19 years,19 years,,,,x,x,x,,,6001034
+2011,Two Mile Village,Total population by age groups,,20 to 24 years,,,,x,x,x,,,6001033
+2011,Two Mile Village,Total population by age groups,,25 to 29 years,,,,x,x,x,,,6001034
+2011,Two Mile Village,Total population by age groups,,30 to 34 years,,,,x,x,x,,,6001034
+2011,Two Mile Village,Total population by age groups,,35 to 39 years,,,,x,x,x,,,6001033
+2011,Two Mile Village,Total population by age groups,,40 to 44 years,,,,x,x,x,,,6001034
+2011,Two Mile Village,Total population by age groups,,45 to 49 years,,,,x,x,x,,,6001033
+2011,Two Mile Village,Total population by age groups,,50 to 54 years,,,,x,x,x,,,6001034
+2011,Two Mile Village,Total population by age groups,,55 to 59 years,,,,x,x,x,,,6001034
+2011,Two Mile Village,Total population by age groups,,60 to 64 years,,,,x,x,x,,,6001034
+2011,Two Mile Village,Total population by age groups,,65 to 69 years,,,,x,x,x,,,6001034
+2011,Two Mile Village,Total population by age groups,,70 to 74 years,,,,x,x,x,,,6001034
+2011,Two Mile Village,Total population by age groups,,75 to 79 years,,,,x,x,x,,,6001034
+2011,Two Mile Village,Total population by age groups,,80 to 84 years,,,,x,x,x,,,6001034
+2011,Two Mile Village,Total population by age groups,,85 years and over,,,,x,x,x,,,6001034
+2011,Two Mile Village,,,Median age of the population,,,,x,x,x,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001034
+2011,Two Mile Village,,,% of the population aged 15 and over,,,,x,x,x,,,6001034
+2011,Upper Liard,,,Total population by age groups,130,80,50,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001032
+2011,Upper Liard,Total population by age groups,,0 to 4 years,5,0,5,,,,,,6001032
+2011,Upper Liard,Total population by age groups,,5 to 9 years,5,0,0,,,,,,6001032
+2011,Upper Liard,Total population by age groups,,10 to 14 years,10,5,5,,,,,,6001032
+2011,Upper Liard,Total population by age groups,,15 to 19 years,5,10,0,,,,,,6001032
+2011,Upper Liard,Total population by age groups,15 to 19 years,15 years,0,0,0,,,,,,6001032
+2011,Upper Liard,Total population by age groups,15 to 19 years,16 years,0,0,0,,,,,,6001032
+2011,Upper Liard,Total population by age groups,15 to 19 years,17 years,0,0,0,,,,,,6001032
+2011,Upper Liard,Total population by age groups,15 to 19 years,18 years,0,0,0,,,,,,6001032
+2011,Upper Liard,Total population by age groups,15 to 19 years,19 years,5,0,0,,,,,,6001032
+2011,Upper Liard,Total population by age groups,,20 to 24 years,5,5,5,,,,,,6001032
+2011,Upper Liard,Total population by age groups,,25 to 29 years,0,0,0,,,,,,6001032
+2011,Upper Liard,Total population by age groups,,30 to 34 years,0,0,0,,,,,,6001032
+2011,Upper Liard,Total population by age groups,,35 to 39 years,10,5,5,,,,,,6001032
+2011,Upper Liard,Total population by age groups,,40 to 44 years,10,5,10,,,,,,6001032
+2011,Upper Liard,Total population by age groups,,45 to 49 years,20,10,10,,,,,,6001032
+2011,Upper Liard,Total population by age groups,,50 to 54 years,20,15,5,,,,,,6001032
+2011,Upper Liard,Total population by age groups,,55 to 59 years,10,5,5,,,,,,6001032
+2011,Upper Liard,Total population by age groups,,60 to 64 years,5,5,5,,,,,,6001033
+2011,Upper Liard,Total population by age groups,,65 to 69 years,10,5,5,,,,,,6001033
+2011,Upper Liard,Total population by age groups,,70 to 74 years,5,5,0,,,,,,6001032
+2011,Upper Liard,Total population by age groups,,75 to 79 years,0,0,0,,,,,,6001033
+2011,Upper Liard,Total population by age groups,,80 to 84 years,5,5,0,,,,,,6001033
+2011,Upper Liard,Total population by age groups,,85 years and over,0,0,0,,,,,,6001032
+2011,Upper Liard,,,Median age of the population,47.5,47.5,47.5,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001033
+2011,Upper Liard,,,% of the population aged 15 and over,87.9,88.6,78.9,,,,,,6001033
+2011,Watson Lake,,,Total population by age groups,800,405,395,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001003
+2011,Watson Lake,Total population by age groups,,0 to 4 years,50,25,25,,,,,,6001003
+2011,Watson Lake,Total population by age groups,,5 to 9 years,45,25,20,,,,,,6001003
+2011,Watson Lake,Total population by age groups,,10 to 14 years,40,20,20,,,,,,6001003
+2011,Watson Lake,Total population by age groups,,15 to 19 years,50,20,25,,,,,,6001003
+2011,Watson Lake,Total population by age groups,15 to 19 years,15 years,10,10,5,,,,,,6001003
+2011,Watson Lake,Total population by age groups,15 to 19 years,16 years,10,5,5,,,,,,6001003
+2011,Watson Lake,Total population by age groups,15 to 19 years,17 years,10,5,5,,,,,,6001003
+2011,Watson Lake,Total population by age groups,15 to 19 years,18 years,10,10,5,,,,,,6001003
+2011,Watson Lake,Total population by age groups,15 to 19 years,19 years,0,0,0,,,,,,6001003
+2011,Watson Lake,Total population by age groups,,20 to 24 years,50,25,30,,,,,,6001003
+2011,Watson Lake,Total population by age groups,,25 to 29 years,35,15,20,,,,,,6001003
+2011,Watson Lake,Total population by age groups,,30 to 34 years,50,30,20,,,,,,6001003
+2011,Watson Lake,Total population by age groups,,35 to 39 years,50,20,30,,,,,,6001003
+2011,Watson Lake,Total population by age groups,,40 to 44 years,50,15,35,,,,,,6001003
+2011,Watson Lake,Total population by age groups,,45 to 49 years,75,35,35,,,,,,6001003
+2011,Watson Lake,Total population by age groups,,50 to 54 years,65,35,35,,,,,,6001003
+2011,Watson Lake,Total population by age groups,,55 to 59 years,80,40,40,,,,,,6001003
+2011,Watson Lake,Total population by age groups,,60 to 64 years,65,40,25,,,,,,6001003
+2011,Watson Lake,Total population by age groups,,65 to 69 years,50,25,25,,,,,,6001003
+2011,Watson Lake,Total population by age groups,,70 to 74 years,20,15,5,,,,,,6001003
+2011,Watson Lake,Total population by age groups,,75 to 79 years,10,5,5,,,,,,6001003
+2011,Watson Lake,Total population by age groups,,80 to 84 years,10,5,5,,,,,,6001003
+2011,Watson Lake,Total population by age groups,,85 years and over,5,0,5,,,,,,6001003
+2011,Watson Lake,,,Median age of the population,42.5,44.4,41.8,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001003
+2011,Watson Lake,,,% of the population aged 15 and over,82.3,81.8,82.8,,,,,,6001003
+2011,Whitehorse; Unorganized,,,Total population by age groups,285,140,145,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001060
+2011,Whitehorse; Unorganized,Total population by age groups,,0 to 4 years,20,5,10,,,,,,6001060
+2011,Whitehorse; Unorganized,Total population by age groups,,5 to 9 years,15,10,5,,,,,,6001060
+2011,Whitehorse; Unorganized,Total population by age groups,,10 to 14 years,15,10,10,,,,,,6001060
+2011,Whitehorse; Unorganized,Total population by age groups,,15 to 19 years,10,10,5,,,,,,6001060
+2011,Whitehorse; Unorganized,Total population by age groups,15 to 19 years,15 years,0,0,0,,,,,,6001060
+2011,Whitehorse; Unorganized,Total population by age groups,15 to 19 years,16 years,0,0,5,,,,,,6001060
+2011,Whitehorse; Unorganized,Total population by age groups,15 to 19 years,17 years,0,0,0,,,,,,6001060
+2011,Whitehorse; Unorganized,Total population by age groups,15 to 19 years,18 years,5,0,0,,,,,,6001060
+2011,Whitehorse; Unorganized,Total population by age groups,15 to 19 years,19 years,5,5,0,,,,,,6001060
+2011,Whitehorse; Unorganized,Total population by age groups,,20 to 24 years,15,10,10,,,,,,6001060
+2011,Whitehorse; Unorganized,Total population by age groups,,25 to 29 years,15,5,10,,,,,,6001060
+2011,Whitehorse; Unorganized,Total population by age groups,,30 to 34 years,15,5,10,,,,,,6001060
+2011,Whitehorse; Unorganized,Total population by age groups,,35 to 39 years,15,10,5,,,,,,6001060
+2011,Whitehorse; Unorganized,Total population by age groups,,40 to 44 years,35,15,20,,,,,,6001060
+2011,Whitehorse; Unorganized,Total population by age groups,,45 to 49 years,20,10,10,,,,,,6001060
+2011,Whitehorse; Unorganized,Total population by age groups,,50 to 54 years,45,20,30,,,,,,6001060
+2011,Whitehorse; Unorganized,Total population by age groups,,55 to 59 years,35,20,15,,,,,,6001060
+2011,Whitehorse; Unorganized,Total population by age groups,,60 to 64 years,20,15,5,,,,,,6001060
+2011,Whitehorse; Unorganized,Total population by age groups,,65 to 69 years,5,5,0,,,,,,6001060
+2011,Whitehorse; Unorganized,Total population by age groups,,70 to 74 years,0,0,0,,,,,,6001060
+2011,Whitehorse; Unorganized,Total population by age groups,,75 to 79 years,0,0,5,,,,,,6001060
+2011,Whitehorse; Unorganized,Total population by age groups,,80 to 84 years,5,0,5,,,,,,6001060
+2011,Whitehorse; Unorganized,Total population by age groups,,85 years and over,0,0,0,,,,,,6001060
+2011,Whitehorse; Unorganized,,,Median age of the population,43.3,44.9,42.2,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001060
+2011,Whitehorse; Unorganized,,,% of the population aged 15 and over,84.7,84.4,85,,,,,,6001060
+2011,Yukon; Unorganized,,,Total population by age groups,1690,925,765,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census4'>4</a>,6001060
+2011,Yukon; Unorganized,Total population by age groups,,0 to 4 years,80,35,50,,,,,,6001060
+2011,Yukon; Unorganized,Total population by age groups,,5 to 9 years,75,35,40,,,,,,6001060
+2011,Yukon; Unorganized,Total population by age groups,,10 to 14 years,75,40,35,,,,,,6001060
+2011,Yukon; Unorganized,Total population by age groups,,15 to 19 years,110,65,45,,,,,,6001060
+2011,Yukon; Unorganized,Total population by age groups,15 to 19 years,15 years,20,10,10,,,,,,6001060
+2011,Yukon; Unorganized,Total population by age groups,15 to 19 years,16 years,25,15,10,,,,,,6001060
+2011,Yukon; Unorganized,Total population by age groups,15 to 19 years,17 years,30,20,10,,,,,,6001060
+2011,Yukon; Unorganized,Total population by age groups,15 to 19 years,18 years,25,15,10,,,,,,6001060
+2011,Yukon; Unorganized,Total population by age groups,15 to 19 years,19 years,10,5,5,,,,,,6001045
+2011,Yukon; Unorganized,Total population by age groups,,20 to 24 years,95,55,40,,,,,,6001045
+2011,Yukon; Unorganized,Total population by age groups,,25 to 29 years,75,45,30,,,,,,6001045
+2011,Yukon; Unorganized,Total population by age groups,,30 to 34 years,105,55,45,,,,,,6001045
+2011,Yukon; Unorganized,Total population by age groups,,35 to 39 years,100,45,55,,,,,,6001045
+2011,Yukon; Unorganized,Total population by age groups,,40 to 44 years,110,65,45,,,,,,6001045
+2011,Yukon; Unorganized,Total population by age groups,,45 to 49 years,155,75,80,,,,,,6001045
+2011,Yukon; Unorganized,Total population by age groups,,50 to 54 years,200,115,85,,,,,,6001045
+2011,Yukon; Unorganized,Total population by age groups,,55 to 59 years,215,110,105,,,,,,6001045
+2011,Yukon; Unorganized,Total population by age groups,,60 to 64 years,120,70,50,,,,,,6001045
+2011,Yukon; Unorganized,Total population by age groups,,65 to 69 years,75,55,25,,,,,,6001045
+2011,Yukon; Unorganized,Total population by age groups,,70 to 74 years,45,25,25,,,,,,6001045
+2011,Yukon; Unorganized,Total population by age groups,,75 to 79 years,25,15,5,,,,,,6001045
+2011,Yukon; Unorganized,Total population by age groups,,80 to 84 years,15,5,10,,,,,,6001045
+2011,Yukon; Unorganized,Total population by age groups,,85 years and over,10,5,5,,,,,,6001045
+2011,Yukon; Unorganized,,,Median age of the population,45.7,45.9,45.2,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#census5'>5</a>,6001045
+2011,Yukon; Unorganized,,,% of the population aged 15 and over,86.5,88.8,84.3,,,,,,6001045

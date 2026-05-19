@@ -1,0 +1,106 @@
+census_year,geo_name,category,subcategory,variable_name,total,male,female,flag_total,flag_male,flag_female,geo_location,data_notes,geo_code
+2011,Yukon,,,Total population in private households by citizenship,33320,16790,16535,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs1'>1</a>,6001
+2011,Yukon,Total population in private households by citizenship,,Canadian citizens,31620,15900,15725,,,,,,6001
+2011,Yukon,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged under 18,6850,3500,3355,,,,,,6001
+2011,Yukon,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged 18 and over,24770,12400,12370,,,,,,6001
+2011,Yukon,Total population in private households by citizenship,,Not Canadian citizens,1700,885,810,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs2'>2</a>,6001
+2011,Whitehorse - City,,,Total population in private households by citizenship,22815,11345,11465,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs1'>1</a>,6001009
+2011,Whitehorse - City,Total population in private households by citizenship,,Canadian citizens,21470,10615,10855,,,,,,6001009
+2011,Whitehorse - City,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged under 18,4815,2445,2365,,,,,,6001009
+2011,Whitehorse - City,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged 18 and over,16655,8165,8490,,,,,,6001009
+2011,Whitehorse - City,Total population in private households by citizenship,,Not Canadian citizens,1340,730,605,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs2'>2</a>,6001009
+2011,Alaska Highway North Region,,,Total population in private households by citizenship,845,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by citizenship,,Canadian citizens,805,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged under 18,160,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged 18 and over,640,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by citizenship,,Not Canadian citizens,40,,,,,,,,YBS042039049018
+2011,Beaver Creek,,,Total population in private households by citizenship,100,55,45,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs1'>1</a>,6001042
+2011,Beaver Creek,Total population in private households by citizenship,,Canadian citizens,95,50,40,,,,,,6001042
+2011,Beaver Creek,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged under 18,10,10,0,,,,,,6001042
+2011,Beaver Creek,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged 18 and over,80,45,40,,,,,,6001042
+2011,Beaver Creek,Total population in private households by citizenship,,Not Canadian citizens,10,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs2'>2</a>,6001042
+2011,Burwash Landing,,,Total population in private households by citizenship,95,45,50,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs1'>1</a>,6001039
+2011,Burwash Landing,Total population in private households by citizenship,,Canadian citizens,90,45,45,,,,,,6001039
+2011,Burwash Landing,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged under 18,20,10,10,,,,,,6001039
+2011,Burwash Landing,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged 18 and over,75,40,35,,,,,,6001039
+2011,Burwash Landing,Total population in private households by citizenship,,Not Canadian citizens,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs2'>2</a>,6001039
+2011,Carcross,,,Total population in private households by citizenship,285,170,120,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs1'>1</a>,6001048
+2011,Carcross,Total population in private households by citizenship,,Canadian citizens,285,165,120,,,,,,6001048
+2011,Carcross,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged under 18,45,30,20,,,,,,6001048
+2011,Carcross,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged 18 and over,240,135,105,,,,,,6001048
+2011,Carcross,Total population in private households by citizenship,,Not Canadian citizens,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs2'>2</a>,6001048
+2011,Carcross Region,,,Total population in private households by citizenship,340,,,,,,,,6001048
+2011,Carcross Region,Total population in private households by citizenship,,Canadian citizens,335,,,,,,,,6001048
+2011,Carcross Region,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged under 18,60,,,,,,,,6001048
+2011,Carcross Region,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged 18 and over,280,,,,,,,,6001048
+2011,Carcross Region,Total population in private households by citizenship,,Not Canadian citizens,0,,,,,,,,6001048
+2011,Carcross 4,,,Total population in private households by citizenship,55,25,25,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs1'>1</a>,6001008
+2011,Carcross 4,Total population in private households by citizenship,,Canadian citizens,55,25,25,,,,,,6001008
+2011,Carcross 4,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged under 18,15,10,0,,,,,,6001008
+2011,Carcross 4,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged 18 and over,40,25,20,,,,,,6001008
+2011,Carcross 4,Total population in private households by citizenship,,Not Canadian citizens,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs2'>2</a>,6001008
+2011,Carcross-Tagish Region,,,Total population in private households by citizenship,735,,,,,,,,6001008
+2011,Carcross-Tagish Region,Total population in private households by citizenship,,Canadian citizens,710,,,,,,,,6001008
+2011,Carcross-Tagish Region,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged under 18,100,,,,,,,,6001008
+2011,Carcross-Tagish Region,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged 18 and over,615,,,,,,,,6001008
+2011,Carcross-Tagish Region,Total population in private households by citizenship,,Not Canadian citizens,20,,,,,,,,6001008
+2011,Dawson,,,Total population in private households by citizenship,1295,635,660,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs1'>1</a>,6001029
+2011,Dawson,Total population in private households by citizenship,,Canadian citizens,1225,585,645,,,,,,6001029
+2011,Dawson,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged under 18,165,80,85,,,,,,6001029
+2011,Dawson,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged 18 and over,1060,505,560,,,,,,6001029
+2011,Dawson,Total population in private households by citizenship,,Not Canadian citizens,65,55,15,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs2'>2</a>,6001029
+2011,Faro,,,Total population in private households by citizenship,345,180,160,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs1'>1</a>,6001004
+2011,Faro,Total population in private households by citizenship,,Canadian citizens,335,175,155,,,,,,6001004
+2011,Faro,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged under 18,55,30,30,,,,,,6001004
+2011,Faro,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged 18 and over,280,150,125,,,,,,6001004
+2011,Faro,Total population in private households by citizenship,,Not Canadian citizens,10,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs2'>2</a>,6001004
+2011,Haines Junction,,,Total population in private households by citizenship,625,295,325,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs1'>1</a>,6001018
+2011,Haines Junction,Total population in private households by citizenship,,Canadian citizens,590,280,315,,,,,,6001018
+2011,Haines Junction,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged under 18,130,55,75,,,,,,6001018
+2011,Haines Junction,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged 18 and over,465,225,240,,,,,,6001018
+2011,Haines Junction,Total population in private households by citizenship,,Not Canadian citizens,30,15,15,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs2'>2</a>,6001018
+2011,Mt. Lorne,,,Total population in private households by citizenship,410,220,185,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs1'>1</a>,6001044
+2011,Mt. Lorne,Total population in private households by citizenship,,Canadian citizens,375,215,165,,,,,,6001044
+2011,Mt. Lorne,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged under 18,120,75,45,,,,,,6001044
+2011,Mt. Lorne,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged 18 and over,260,135,125,,,,,,6001044
+2011,Mt. Lorne,Total population in private households by citizenship,,Not Canadian citizens,35,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs2'>2</a>,6001044
+2011,Old Crow,,,Total population in private households by citizenship,240,125,115,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs1'>1</a>,6001043
+2011,Old Crow,Total population in private households by citizenship,,Canadian citizens,240,130,115,,,,,,6001043
+2011,Old Crow,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged under 18,50,30,25,,,,,,6001043
+2011,Old Crow,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged 18 and over,185,95,85,,,,,,6001043
+2011,Old Crow,Total population in private households by citizenship,,Not Canadian citizens,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs2'>2</a>,6001043
+2011,Pelly Crossing,,,Total population in private households by citizenship,335,185,145,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs1'>1</a>,6001041
+2011,Pelly Crossing,Total population in private households by citizenship,,Canadian citizens,335,185,150,,,,,,6001041
+2011,Pelly Crossing,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged under 18,60,25,35,,,,,,6001041
+2011,Pelly Crossing,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged 18 and over,275,155,115,,,,,,6001041
+2011,Pelly Crossing,Total population in private households by citizenship,,Not Canadian citizens,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs2'>2</a>,6001041
+2011,Ross River,,,Total population in private households by citizenship,350,190,155,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs1'>1</a>,6001037
+2011,Ross River,Total population in private households by citizenship,,Canadian citizens,350,195,155,,,,,,6001037
+2011,Ross River,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged under 18,85,50,30,,,,,,6001037
+2011,Ross River,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged 18 and over,265,140,125,,,,,,6001037
+2011,Ross River,Total population in private households by citizenship,,Not Canadian citizens,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs2'>2</a>,6001037
+2011,Teslin Region,,,Total population in private households by citizenship,255,,,,,,,,6001006
+2011,Teslin Region,Total population in private households by citizenship,,Canadian citizens,245,,,,,,,,6001006
+2011,Teslin Region,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged under 18,70,,,,,,,,6001006
+2011,Teslin Region,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged 18 and over,185,,,,,,,,6001006
+2011,Teslin Region,Total population in private households by citizenship,,Not Canadian citizens,0,,,,,,,,6001006
+2011,Teslin Post 13,,,Total population in private households by citizenship,140,65,70,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs1'>1</a>,6001007
+2011,Teslin Post 13,Total population in private households by citizenship,,Canadian citizens,140,65,75,,,,,,6001007
+2011,Teslin Post 13,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged under 18,30,15,15,,,,,,6001007
+2011,Teslin Post 13,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged 18 and over,110,50,55,,,,,,6001007
+2011,Teslin Post 13,Total population in private households by citizenship,,Not Canadian citizens,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs2'>2</a>,6001007
+2011,Upper Liard,,,Total population in private households by citizenship,135,85,55,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs1'>1</a>,6001032
+2011,Upper Liard,Total population in private households by citizenship,,Canadian citizens,130,85,50,,,,,,6001032
+2011,Upper Liard,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged under 18,20,15,0,,,,,,6001032
+2011,Upper Liard,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged 18 and over,115,65,45,,,,,,6001032
+2011,Upper Liard,Total population in private households by citizenship,,Not Canadian citizens,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs2'>2</a>,6001032
+2011,Watson Lake,,,Total population in private households by citizenship,800,405,395,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs1'>1</a>,6001003
+2011,Watson Lake,Total population in private households by citizenship,,Canadian citizens,780,405,375,,,,,,6001003
+2011,Watson Lake,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged under 18,160,70,95,,,,,,6001003
+2011,Watson Lake,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged 18 and over,620,335,285,,,,,,6001003
+2011,Watson Lake,Total population in private households by citizenship,,Not Canadian citizens,20,0,15,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs2'>2</a>,6001003
+2011,Watson Lake Region,,,Total population in private households by citizenship,1070,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by citizenship,,Canadian citizens,1045,,,,,,,,6001003
+2011,Watson Lake Region,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged under 18,235,,,,,,,,6001003
+2011,Watson Lake Region,Total population in private households by citizenship,Canadian citizens,Canadian citizens aged 18 and over,815,,,,,,,,6001003
+2011,Watson Lake Region,Total population in private households by citizenship,,Not Canadian citizens,20,,,,,,,,6001003

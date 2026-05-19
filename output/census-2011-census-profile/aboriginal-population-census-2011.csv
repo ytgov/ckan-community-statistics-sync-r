@@ -1,0 +1,358 @@
+census_year,geo_name,category,subcategory,variable_name,total,male,female,flag_total,flag_male,flag_female,geo_location,data_notes,geo_code
+2011,Yukon,,,Total population in private households by Aboriginal identity,33320,16785,16535,,,,,,6001
+2011,Yukon,Total population in private households by Aboriginal identity,,Aboriginal identity,7705,3655,4055,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs56'>56</a>,6001
+2011,Yukon,Total population in private households by Aboriginal identity,Aboriginal identity,First Nations (North American Indian) single identity,6585,3140,3450,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001
+2011,Yukon,Total population in private households by Aboriginal identity,Aboriginal identity,Métis single identity,845,395,450,,,,,,6001
+2011,Yukon,Total population in private households by Aboriginal identity,Aboriginal identity,Inuk (Inuit) single identity,175,70,105,,,,,,6001
+2011,Yukon,Total population in private households by Aboriginal identity,Aboriginal identity,Multiple Aboriginal identities,25,20,10,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs58'>58</a>,6001
+2011,Yukon,Total population in private households by Aboriginal identity,Aboriginal identity,Aboriginal identities not included elsewhere,70,30,40,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs59'>59</a>,6001
+2011,Yukon,Total population in private households by Aboriginal identity,,Non-Aboriginal identity,25615,13135,12480,,,,,,6001
+2011,Yukon,,,Total population in private households by Registered or Treaty Indian status,33320,16790,16530,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001
+2011,Yukon,Total population in private households by Registered or Treaty Indian status,,Registered or Treaty Indian,5970,2840,3130,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs60'>60</a>,6001
+2011,Yukon,Total population in private households by Registered or Treaty Indian status,,Not a Registered or Treaty Indian,27350,13945,13400,,,,,,6001
+2011,Yukon,,,Total population in private households by Aboriginal ancestry,33320,16785,16535,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs61'>61</a>,6001
+2011,Yukon,Total population in private households by Aboriginal ancestry,,Aboriginal ancestry,8050,3730,4320,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs62'>62</a>,6001
+2011,Yukon,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,First Nations (North American Indian) Aboriginal ancestry,7285,3380,3905,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001
+2011,Yukon,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Métis ancestry,840,370,470,,,,,,6001
+2011,Yukon,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Inuit ancestry,280,115,160,,,,,,6001
+2011,Yukon,Total population in private households by Aboriginal ancestry,,Non-Aboriginal ancestry only,25270,13060,12215,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs63'>63</a>,6001
+2011,Whitehorse - City,,,Total population in private households by Aboriginal identity,22815,11345,11465,,,,,,6001009
+2011,Whitehorse - City,Total population in private households by Aboriginal identity,,Aboriginal identity,3770,1720,2055,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs56'>56</a>,6001009
+2011,Whitehorse - City,Total population in private households by Aboriginal identity,Aboriginal identity,First Nations (North American Indian) single identity,3075,1380,1695,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001009
+2011,Whitehorse - City,Total population in private households by Aboriginal identity,Aboriginal identity,Métis single identity,495,250,250,,,,,,6001009
+2011,Whitehorse - City,Total population in private households by Aboriginal identity,Aboriginal identity,Inuk (Inuit) single identity,145,65,85,,,,,,6001009
+2011,Whitehorse - City,Total population in private households by Aboriginal identity,Aboriginal identity,Multiple Aboriginal identities,25,10,10,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs58'>58</a>,6001009
+2011,Whitehorse - City,Total population in private households by Aboriginal identity,Aboriginal identity,Aboriginal identities not included elsewhere,25,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs59'>59</a>,6001009
+2011,Whitehorse - City,Total population in private households by Aboriginal identity,,Non-Aboriginal identity,19040,9630,9415,,,,,,6001009
+2011,Whitehorse - City,,,Total population in private households by Registered or Treaty Indian status,22815,11345,11465,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001009
+2011,Whitehorse - City,Total population in private households by Registered or Treaty Indian status,,Registered or Treaty Indian,2595,1125,1470,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs60'>60</a>,6001009
+2011,Whitehorse - City,Total population in private households by Registered or Treaty Indian status,,Not a Registered or Treaty Indian,20215,10220,9995,,,,,,6001009
+2011,Whitehorse - City,,,Total population in private households by Aboriginal ancestry,22810,11345,11465,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs61'>61</a>,6001009
+2011,Whitehorse - City,Total population in private households by Aboriginal ancestry,,Aboriginal ancestry,3985,1735,2250,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs62'>62</a>,6001009
+2011,Whitehorse - City,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,First Nations (North American Indian) Aboriginal ancestry,3485,1490,1995,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001009
+2011,Whitehorse - City,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Métis ancestry,545,260,280,,,,,,6001009
+2011,Whitehorse - City,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Inuit ancestry,200,90,110,,,,,,6001009
+2011,Whitehorse - City,Total population in private households by Aboriginal ancestry,,Non-Aboriginal ancestry only,18830,9610,9215,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs63'>63</a>,6001009
+2011,Alaska Highway North Region,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Métis ancestry,35,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Inuit ancestry,10,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by Aboriginal ancestry,,Non-Aboriginal ancestry only,410,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,,,Total population in private households by Aboriginal identity,840,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by Aboriginal identity,,Aboriginal identity,405,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by Aboriginal identity,Aboriginal identity,First Nations (North American Indian) single identity,375,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by Aboriginal identity,Aboriginal identity,Métis single identity,20,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by Aboriginal identity,Aboriginal identity,Inuk (Inuit) single identity,0,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by Aboriginal identity,Aboriginal identity,Multiple Aboriginal identities,0,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by Aboriginal identity,Aboriginal identity,Aboriginal identities not included elsewhere,0,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by Aboriginal identity,,Non-Aboriginal identity,440,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,,,Total population in private households by Registered or Treaty Indian status,845,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by Registered or Treaty Indian status,,Registered or Treaty Indian,360,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by Registered or Treaty Indian status,,Not a Registered or Treaty Indian,480,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,,,Total population in private households by Aboriginal ancestry,845,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by Aboriginal ancestry,,Aboriginal ancestry,435,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,First Nations (North American Indian) Aboriginal ancestry,410,,,,,,,,YBS042039049018
+2011,Beaver Creek,,,Total population in private households by Aboriginal identity,100,55,50,,,,,,6001042
+2011,Beaver Creek,Total population in private households by Aboriginal identity,,Aboriginal identity,50,25,25,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs56'>56</a>,6001042
+2011,Beaver Creek,Total population in private households by Aboriginal identity,Aboriginal identity,First Nations (North American Indian) single identity,45,25,20,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001042
+2011,Beaver Creek,Total population in private households by Aboriginal identity,Aboriginal identity,Métis single identity,0,0,0,,,,,,6001042
+2011,Beaver Creek,Total population in private households by Aboriginal identity,Aboriginal identity,Inuk (Inuit) single identity,0,0,0,,,,,,6001042
+2011,Beaver Creek,Total population in private households by Aboriginal identity,Aboriginal identity,Multiple Aboriginal identities,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs58'>58</a>,6001042
+2011,Beaver Creek,Total population in private households by Aboriginal identity,Aboriginal identity,Aboriginal identities not included elsewhere,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs59'>59</a>,6001042
+2011,Beaver Creek,Total population in private households by Aboriginal identity,,Non-Aboriginal identity,55,25,25,,,,,,6001042
+2011,Beaver Creek,,,Total population in private households by Registered or Treaty Indian status,100,55,45,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001042
+2011,Beaver Creek,Total population in private households by Registered or Treaty Indian status,,Registered or Treaty Indian,35,20,15,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs60'>60</a>,6001042
+2011,Beaver Creek,Total population in private households by Registered or Treaty Indian status,,Not a Registered or Treaty Indian,65,35,30,,,,,,6001042
+2011,Beaver Creek,,,Total population in private households by Aboriginal ancestry,100,55,45,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs61'>61</a>,6001042
+2011,Beaver Creek,Total population in private households by Aboriginal ancestry,,Aboriginal ancestry,55,30,20,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs62'>62</a>,6001042
+2011,Beaver Creek,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,First Nations (North American Indian) Aboriginal ancestry,50,25,20,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001042
+2011,Beaver Creek,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Métis ancestry,0,0,0,,,,,,6001042
+2011,Beaver Creek,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Inuit ancestry,0,0,0,,,,,,6001042
+2011,Beaver Creek,Total population in private households by Aboriginal ancestry,,Non-Aboriginal ancestry only,50,25,25,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs63'>63</a>,6001042
+2011,Burwash Landing,,,Total population in private households by Aboriginal identity,95,45,50,,,,,,6001039
+2011,Burwash Landing,Total population in private households by Aboriginal identity,,Aboriginal identity,80,30,45,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs56'>56</a>,6001039
+2011,Burwash Landing,Total population in private households by Aboriginal identity,Aboriginal identity,First Nations (North American Indian) single identity,75,30,45,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001039
+2011,Burwash Landing,Total population in private households by Aboriginal identity,Aboriginal identity,Métis single identity,0,0,0,,,,,,6001039
+2011,Burwash Landing,Total population in private households by Aboriginal identity,Aboriginal identity,Inuk (Inuit) single identity,0,0,0,,,,,,6001039
+2011,Burwash Landing,Total population in private households by Aboriginal identity,Aboriginal identity,Multiple Aboriginal identities,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs58'>58</a>,6001039
+2011,Burwash Landing,Total population in private households by Aboriginal identity,Aboriginal identity,Aboriginal identities not included elsewhere,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs59'>59</a>,6001039
+2011,Burwash Landing,Total population in private households by Aboriginal identity,,Non-Aboriginal identity,15,15,0,,,,,,6001039
+2011,Burwash Landing,,,Total population in private households by Registered or Treaty Indian status,95,45,45,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001039
+2011,Burwash Landing,Total population in private households by Registered or Treaty Indian status,,Registered or Treaty Indian,70,30,45,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs60'>60</a>,6001039
+2011,Burwash Landing,Total population in private households by Registered or Treaty Indian status,,Not a Registered or Treaty Indian,20,15,10,,,,,,6001039
+2011,Burwash Landing,,,Total population in private households by Aboriginal ancestry,95,50,50,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs61'>61</a>,6001039
+2011,Burwash Landing,Total population in private households by Aboriginal ancestry,,Aboriginal ancestry,85,40,40,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs62'>62</a>,6001039
+2011,Burwash Landing,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,First Nations (North American Indian) Aboriginal ancestry,75,30,45,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001039
+2011,Burwash Landing,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Métis ancestry,0,10,0,,,,,,6001039
+2011,Burwash Landing,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Inuit ancestry,0,0,0,,,,,,6001039
+2011,Burwash Landing,Total population in private households by Aboriginal ancestry,,Non-Aboriginal ancestry only,10,10,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs63'>63</a>,6001039
+2011,Carcross,,,Total population in private households by Aboriginal identity,285,170,120,,,,,,6001048
+2011,Carcross,Total population in private households by Aboriginal identity,,Aboriginal identity,175,95,75,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs56'>56</a>,6001048
+2011,Carcross,Total population in private households by Aboriginal identity,Aboriginal identity,First Nations (North American Indian) single identity,160,95,65,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001048
+2011,Carcross,Total population in private households by Aboriginal identity,Aboriginal identity,Métis single identity,0,0,0,,,,,,6001048
+2011,Carcross,Total population in private households by Aboriginal identity,Aboriginal identity,Inuk (Inuit) single identity,0,0,0,,,,,,6001048
+2011,Carcross,Total population in private households by Aboriginal identity,Aboriginal identity,Multiple Aboriginal identities,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs58'>58</a>,6001048
+2011,Carcross,Total population in private households by Aboriginal identity,Aboriginal identity,Aboriginal identities not included elsewhere,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs59'>59</a>,6001048
+2011,Carcross,Total population in private households by Aboriginal identity,,Non-Aboriginal identity,110,65,45,,,,,,6001048
+2011,Carcross,,,Total population in private households by Registered or Treaty Indian status,285,165,120,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001048
+2011,Carcross,Total population in private households by Registered or Treaty Indian status,,Registered or Treaty Indian,155,90,70,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs60'>60</a>,6001048
+2011,Carcross,Total population in private households by Registered or Treaty Indian status,,Not a Registered or Treaty Indian,125,75,50,,,,,,6001048
+2011,Carcross,,,Total population in private households by Aboriginal ancestry,285,165,120,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs61'>61</a>,6001048
+2011,Carcross,Total population in private households by Aboriginal ancestry,,Aboriginal ancestry,170,100,75,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs62'>62</a>,6001048
+2011,Carcross,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,First Nations (North American Indian) Aboriginal ancestry,165,95,75,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001048
+2011,Carcross,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Métis ancestry,10,0,10,,,,,,6001048
+2011,Carcross,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Inuit ancestry,0,0,0,,,,,,6001048
+2011,Carcross,Total population in private households by Aboriginal ancestry,,Non-Aboriginal ancestry only,115,70,45,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs63'>63</a>,6001048
+2011,Carcross Region,,,Total population in private households by Registered or Treaty Indian status,340,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by Registered or Treaty Indian status,,Registered or Treaty Indian,205,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by Registered or Treaty Indian status,,Not a Registered or Treaty Indian,135,,,,,,,,YBS048008
+2011,Carcross Region,,,Total population in private households by Aboriginal ancestry,340,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by Aboriginal ancestry,,Aboriginal ancestry,220,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,First Nations (North American Indian) Aboriginal ancestry,215,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Métis ancestry,10,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Inuit ancestry,0,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by Aboriginal ancestry,,Non-Aboriginal ancestry only,115,,,,,,,,YBS048008
+2011,Carcross Region,,,Total population in private households by Aboriginal identity,340,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by Aboriginal identity,,Aboriginal identity,220,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by Aboriginal identity,Aboriginal identity,First Nations (North American Indian) single identity,210,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by Aboriginal identity,Aboriginal identity,Métis single identity,10,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by Aboriginal identity,Aboriginal identity,Inuk (Inuit) single identity,0,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by Aboriginal identity,Aboriginal identity,Multiple Aboriginal identities,0,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by Aboriginal identity,Aboriginal identity,Aboriginal identities not included elsewhere,0,,,,,,,,YBS048008
+2011,Carcross Region,Total population in private households by Aboriginal identity,,Non-Aboriginal identity,120,,,,,,,,YBS048008
+2011,Carcross 4,,,Total population in private households by Aboriginal identity,55,30,25,,,,,,6001008
+2011,Carcross 4,Total population in private households by Aboriginal identity,,Aboriginal identity,55,25,25,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs56'>56</a>,6001008
+2011,Carcross 4,Total population in private households by Aboriginal identity,Aboriginal identity,First Nations (North American Indian) single identity,50,25,25,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001008
+2011,Carcross 4,Total population in private households by Aboriginal identity,Aboriginal identity,Métis single identity,0,0,0,,,,,,6001008
+2011,Carcross 4,Total population in private households by Aboriginal identity,Aboriginal identity,Inuk (Inuit) single identity,0,0,0,,,,,,6001008
+2011,Carcross 4,Total population in private households by Aboriginal identity,Aboriginal identity,Multiple Aboriginal identities,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs58'>58</a>,6001008
+2011,Carcross 4,Total population in private households by Aboriginal identity,Aboriginal identity,Aboriginal identities not included elsewhere,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs59'>59</a>,6001008
+2011,Carcross 4,Total population in private households by Aboriginal identity,,Non-Aboriginal identity,0,0,0,,,,,,6001008
+2011,Carcross 4,,,Total population in private households by Registered or Treaty Indian status,55,30,25,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001008
+2011,Carcross 4,Total population in private households by Registered or Treaty Indian status,,Registered or Treaty Indian,45,25,20,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs60'>60</a>,6001008
+2011,Carcross 4,Total population in private households by Registered or Treaty Indian status,,Not a Registered or Treaty Indian,10,10,10,,,,,,6001008
+2011,Carcross 4,,,Total population in private households by Aboriginal ancestry,50,25,30,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs61'>61</a>,6001008
+2011,Carcross 4,Total population in private households by Aboriginal ancestry,,Aboriginal ancestry,50,25,25,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs62'>62</a>,6001008
+2011,Carcross 4,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,First Nations (North American Indian) Aboriginal ancestry,50,25,25,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001008
+2011,Carcross 4,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Métis ancestry,0,0,0,,,,,,6001008
+2011,Carcross 4,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Inuit ancestry,0,0,0,,,,,,6001008
+2011,Carcross 4,Total population in private households by Aboriginal ancestry,,Non-Aboriginal ancestry only,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs63'>63</a>,6001008
+2011,Carcross-Tagish Region,Total population in private households by Aboriginal ancestry,,Non-Aboriginal ancestry only,430,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,,,Total population in private households by Aboriginal identity,730,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by Aboriginal identity,,Aboriginal identity,290,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by Aboriginal identity,Aboriginal identity,First Nations (North American Indian) single identity,270,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by Aboriginal identity,Aboriginal identity,Métis single identity,15,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by Aboriginal identity,Aboriginal identity,Inuk (Inuit) single identity,0,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by Aboriginal identity,Aboriginal identity,Multiple Aboriginal identities,0,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by Aboriginal identity,Aboriginal identity,Aboriginal identities not included elsewhere,0,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by Aboriginal identity,,Non-Aboriginal identity,435,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,,,Total population in private households by Registered or Treaty Indian status,730,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by Registered or Treaty Indian status,,Registered or Treaty Indian,260,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by Registered or Treaty Indian status,,Not a Registered or Treaty Indian,470,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,,,Total population in private households by Aboriginal ancestry,730,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by Aboriginal ancestry,,Aboriginal ancestry,300,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,First Nations (North American Indian) Aboriginal ancestry,295,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Métis ancestry,10,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Inuit ancestry,0,,,,,,,,YBS048008036
+2011,Dawson,,,Total population in private households by Aboriginal identity,1295,635,665,,,,,,6001029
+2011,Dawson,Total population in private households by Aboriginal identity,,Aboriginal identity,435,180,250,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs56'>56</a>,6001029
+2011,Dawson,Total population in private households by Aboriginal identity,Aboriginal identity,First Nations (North American Indian) single identity,380,175,205,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001029
+2011,Dawson,Total population in private households by Aboriginal identity,Aboriginal identity,Métis single identity,40,0,35,,,,,,6001029
+2011,Dawson,Total population in private households by Aboriginal identity,Aboriginal identity,Inuk (Inuit) single identity,0,0,0,,,,,,6001029
+2011,Dawson,Total population in private households by Aboriginal identity,Aboriginal identity,Multiple Aboriginal identities,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs58'>58</a>,6001029
+2011,Dawson,Total population in private households by Aboriginal identity,Aboriginal identity,Aboriginal identities not included elsewhere,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs59'>59</a>,6001029
+2011,Dawson,Total population in private households by Aboriginal identity,,Non-Aboriginal identity,865,450,410,,,,,,6001029
+2011,Dawson,,,Total population in private households by Registered or Treaty Indian status,1295,635,660,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001029
+2011,Dawson,Total population in private households by Registered or Treaty Indian status,,Registered or Treaty Indian,330,165,165,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs60'>60</a>,6001029
+2011,Dawson,Total population in private households by Registered or Treaty Indian status,,Not a Registered or Treaty Indian,965,465,495,,,,,,6001029
+2011,Dawson,,,Total population in private households by Aboriginal ancestry,1295,630,660,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs61'>61</a>,6001029
+2011,Dawson,Total population in private households by Aboriginal ancestry,,Aboriginal ancestry,420,165,255,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs62'>62</a>,6001029
+2011,Dawson,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,First Nations (North American Indian) Aboriginal ancestry,365,150,215,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001029
+2011,Dawson,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Métis ancestry,55,20,35,,,,,,6001029
+2011,Dawson,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Inuit ancestry,0,0,0,,,,,,6001029
+2011,Dawson,Total population in private households by Aboriginal ancestry,,Non-Aboriginal ancestry only,875,470,405,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs63'>63</a>,6001029
+2011,Faro,,,Total population in private households by Aboriginal identity,345,185,160,,,,,,6001004
+2011,Faro,Total population in private households by Aboriginal identity,,Aboriginal identity,55,20,35,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs56'>56</a>,6001004
+2011,Faro,Total population in private households by Aboriginal identity,Aboriginal identity,First Nations (North American Indian) single identity,35,15,15,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001004
+2011,Faro,Total population in private households by Aboriginal identity,Aboriginal identity,Métis single identity,20,10,10,,,,,,6001004
+2011,Faro,Total population in private households by Aboriginal identity,Aboriginal identity,Inuk (Inuit) single identity,0,0,0,,,,,,6001004
+2011,Faro,Total population in private households by Aboriginal identity,Aboriginal identity,Multiple Aboriginal identities,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs58'>58</a>,6001004
+2011,Faro,Total population in private households by Aboriginal identity,Aboriginal identity,Aboriginal identities not included elsewhere,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs59'>59</a>,6001004
+2011,Faro,Total population in private households by Aboriginal identity,,Non-Aboriginal identity,290,165,130,,,,,,6001004
+2011,Faro,,,Total population in private households by Registered or Treaty Indian status,345,185,160,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001004
+2011,Faro,Total population in private households by Registered or Treaty Indian status,,Registered or Treaty Indian,35,15,20,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs60'>60</a>,6001004
+2011,Faro,Total population in private households by Registered or Treaty Indian status,,Not a Registered or Treaty Indian,310,170,140,,,,,,6001004
+2011,Faro,,,Total population in private households by Aboriginal ancestry,340,185,160,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs61'>61</a>,6001004
+2011,Faro,Total population in private households by Aboriginal ancestry,,Aboriginal ancestry,50,25,25,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs62'>62</a>,6001004
+2011,Faro,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,First Nations (North American Indian) Aboriginal ancestry,25,10,20,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001004
+2011,Faro,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Métis ancestry,15,0,10,,,,,,6001004
+2011,Faro,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Inuit ancestry,0,0,0,,,,,,6001004
+2011,Faro,Total population in private households by Aboriginal ancestry,,Non-Aboriginal ancestry only,295,160,135,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs63'>63</a>,6001004
+2011,Haines Junction,,,Total population in private households by Aboriginal identity,620,295,325,,,,,,6001018
+2011,Haines Junction,Total population in private households by Aboriginal identity,,Aboriginal identity,270,115,155,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs56'>56</a>,6001018
+2011,Haines Junction,Total population in private households by Aboriginal identity,Aboriginal identity,First Nations (North American Indian) single identity,250,110,140,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001018
+2011,Haines Junction,Total population in private households by Aboriginal identity,Aboriginal identity,Métis single identity,20,10,10,,,,,,6001018
+2011,Haines Junction,Total population in private households by Aboriginal identity,Aboriginal identity,Inuk (Inuit) single identity,0,0,0,,,,,,6001018
+2011,Haines Junction,Total population in private households by Aboriginal identity,Aboriginal identity,Multiple Aboriginal identities,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs58'>58</a>,6001018
+2011,Haines Junction,Total population in private households by Aboriginal identity,Aboriginal identity,Aboriginal identities not included elsewhere,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs59'>59</a>,6001018
+2011,Haines Junction,Total population in private households by Aboriginal identity,,Non-Aboriginal identity,350,180,175,,,,,,6001018
+2011,Haines Junction,,,Total population in private households by Registered or Treaty Indian status,620,300,325,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001018
+2011,Haines Junction,Total population in private households by Registered or Treaty Indian status,,Registered or Treaty Indian,250,105,140,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs60'>60</a>,6001018
+2011,Haines Junction,Total population in private households by Registered or Treaty Indian status,,Not a Registered or Treaty Indian,380,185,190,,,,,,6001018
+2011,Haines Junction,,,Total population in private households by Aboriginal ancestry,625,295,330,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs61'>61</a>,6001018
+2011,Haines Junction,Total population in private households by Aboriginal ancestry,,Aboriginal ancestry,290,125,165,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs62'>62</a>,6001018
+2011,Haines Junction,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,First Nations (North American Indian) Aboriginal ancestry,275,120,155,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001018
+2011,Haines Junction,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Métis ancestry,20,10,15,,,,,,6001018
+2011,Haines Junction,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Inuit ancestry,0,0,0,,,,,,6001018
+2011,Haines Junction,Total population in private households by Aboriginal ancestry,,Non-Aboriginal ancestry only,335,175,160,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs63'>63</a>,6001018
+2011,Mt. Lorne,Total population in private households by Aboriginal identity,Aboriginal identity,First Nations (North American Indian) single identity,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001044
+2011,Mt. Lorne,Total population in private households by Aboriginal identity,Aboriginal identity,Métis single identity,20,0,0,,,,,,6001044
+2011,Mt. Lorne,Total population in private households by Aboriginal identity,Aboriginal identity,Inuk (Inuit) single identity,0,0,0,,,,,,6001044
+2011,Mt. Lorne,Total population in private households by Aboriginal identity,Aboriginal identity,Multiple Aboriginal identities,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs58'>58</a>,6001044
+2011,Mt. Lorne,Total population in private households by Aboriginal identity,Aboriginal identity,Aboriginal identities not included elsewhere,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs59'>59</a>,6001044
+2011,Mt. Lorne,Total population in private households by Aboriginal identity,,Non-Aboriginal identity,380,215,170,,,,,,6001044
+2011,Mt. Lorne,,,Total population in private households by Registered or Treaty Indian status,405,225,185,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001044
+2011,Mt. Lorne,Total population in private households by Registered or Treaty Indian status,,Registered or Treaty Indian,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs60'>60</a>,6001044
+2011,Mt. Lorne,Total population in private households by Registered or Treaty Indian status,,Not a Registered or Treaty Indian,395,220,175,,,,,,6001044
+2011,Mt. Lorne,,,Total population in private households by Aboriginal identity,410,225,185,,,,,,6001044
+2011,Mt. Lorne,Total population in private households by Aboriginal identity,,Aboriginal identity,30,0,20,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs56'>56</a>,6001044
+2011,Mt. Lorne,,,Total population in private households by Aboriginal ancestry,405,220,185,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs61'>61</a>,6001044
+2011,Mt. Lorne,Total population in private households by Aboriginal ancestry,,Aboriginal ancestry,20,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs62'>62</a>,6001044
+2011,Mt. Lorne,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,First Nations (North American Indian) Aboriginal ancestry,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001044
+2011,Mt. Lorne,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Métis ancestry,0,0,0,,,,,,6001044
+2011,Mt. Lorne,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Inuit ancestry,0,0,0,,,,,,6001044
+2011,Mt. Lorne,Total population in private households by Aboriginal ancestry,,Non-Aboriginal ancestry only,385,210,175,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs63'>63</a>,6001044
+2011,Old Crow,,,Total population in private households by Aboriginal identity,240,125,115,,,,,,6001043
+2011,Old Crow,Total population in private households by Aboriginal identity,,Aboriginal identity,215,110,100,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs56'>56</a>,6001043
+2011,Old Crow,Total population in private households by Aboriginal identity,Aboriginal identity,First Nations (North American Indian) single identity,210,110,100,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001043
+2011,Old Crow,Total population in private households by Aboriginal identity,Aboriginal identity,Métis single identity,0,0,0,,,,,,6001043
+2011,Old Crow,Total population in private households by Aboriginal identity,Aboriginal identity,Inuk (Inuit) single identity,0,0,0,,,,,,6001043
+2011,Old Crow,Total population in private households by Aboriginal identity,Aboriginal identity,Multiple Aboriginal identities,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs58'>58</a>,6001043
+2011,Old Crow,Total population in private households by Aboriginal identity,Aboriginal identity,Aboriginal identities not included elsewhere,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs59'>59</a>,6001043
+2011,Old Crow,Total population in private households by Aboriginal identity,,Non-Aboriginal identity,25,15,15,,,,,,6001043
+2011,Old Crow,,,Total population in private households by Registered or Treaty Indian status,240,125,115,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001043
+2011,Old Crow,Total population in private households by Registered or Treaty Indian status,,Registered or Treaty Indian,205,115,100,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs60'>60</a>,6001043
+2011,Old Crow,Total population in private households by Registered or Treaty Indian status,,Not a Registered or Treaty Indian,35,15,20,,,,,,6001043
+2011,Old Crow,,,Total population in private households by Aboriginal ancestry,245,125,115,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs61'>61</a>,6001043
+2011,Old Crow,Total population in private households by Aboriginal ancestry,,Aboriginal ancestry,205,105,100,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs62'>62</a>,6001043
+2011,Old Crow,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,First Nations (North American Indian) Aboriginal ancestry,195,100,90,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001043
+2011,Old Crow,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Métis ancestry,0,0,0,,,,,,6001043
+2011,Old Crow,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Inuit ancestry,15,10,10,,,,,,6001043
+2011,Old Crow,Total population in private households by Aboriginal ancestry,,Non-Aboriginal ancestry only,40,20,15,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs63'>63</a>,6001043
+2011,Pelly Crossing,,,Total population in private households by Aboriginal identity,335,185,150,,,,,,6001041
+2011,Pelly Crossing,Total population in private households by Aboriginal identity,,Aboriginal identity,305,170,140,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs56'>56</a>,6001041
+2011,Pelly Crossing,Total population in private households by Aboriginal identity,Aboriginal identity,First Nations (North American Indian) single identity,305,165,135,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001041
+2011,Pelly Crossing,Total population in private households by Aboriginal identity,Aboriginal identity,Métis single identity,0,0,0,,,,,,6001041
+2011,Pelly Crossing,Total population in private households by Aboriginal identity,Aboriginal identity,Inuk (Inuit) single identity,0,0,0,,,,,,6001041
+2011,Pelly Crossing,Total population in private households by Aboriginal identity,Aboriginal identity,Multiple Aboriginal identities,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs58'>58</a>,6001041
+2011,Pelly Crossing,Total population in private households by Aboriginal identity,Aboriginal identity,Aboriginal identities not included elsewhere,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs59'>59</a>,6001041
+2011,Pelly Crossing,Total population in private households by Aboriginal identity,,Non-Aboriginal identity,30,20,10,,,,,,6001041
+2011,Pelly Crossing,,,Total population in private households by Registered or Treaty Indian status,335,190,150,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001041
+2011,Pelly Crossing,Total population in private households by Registered or Treaty Indian status,,Registered or Treaty Indian,305,170,140,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs60'>60</a>,6001041
+2011,Pelly Crossing,Total population in private households by Registered or Treaty Indian status,,Not a Registered or Treaty Indian,30,20,10,,,,,,6001041
+2011,Pelly Crossing,,,Total population in private households by Aboriginal ancestry,335,190,150,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs61'>61</a>,6001041
+2011,Pelly Crossing,Total population in private households by Aboriginal ancestry,,Aboriginal ancestry,305,165,140,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs62'>62</a>,6001041
+2011,Pelly Crossing,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,First Nations (North American Indian) Aboriginal ancestry,300,165,135,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001041
+2011,Pelly Crossing,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Métis ancestry,0,0,0,,,,,,6001041
+2011,Pelly Crossing,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Inuit ancestry,0,0,0,,,,,,6001041
+2011,Pelly Crossing,Total population in private households by Aboriginal ancestry,,Non-Aboriginal ancestry only,30,15,15,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs63'>63</a>,6001041
+2011,Ross River,,,Total population in private households by Aboriginal identity,355,195,155,,,,,,6001037
+2011,Ross River,Total population in private households by Aboriginal identity,,Aboriginal identity,290,160,130,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs56'>56</a>,6001037
+2011,Ross River,Total population in private households by Aboriginal identity,Aboriginal identity,First Nations (North American Indian) single identity,280,155,125,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001037
+2011,Ross River,Total population in private households by Aboriginal identity,Aboriginal identity,Métis single identity,0,10,0,,,,,,6001037
+2011,Ross River,Total population in private households by Aboriginal identity,Aboriginal identity,Inuk (Inuit) single identity,0,0,0,,,,,,6001037
+2011,Ross River,Total population in private households by Aboriginal identity,Aboriginal identity,Multiple Aboriginal identities,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs58'>58</a>,6001037
+2011,Ross River,Total population in private households by Aboriginal identity,Aboriginal identity,Aboriginal identities not included elsewhere,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs59'>59</a>,6001037
+2011,Ross River,Total population in private households by Aboriginal identity,,Non-Aboriginal identity,65,35,30,,,,,,6001037
+2011,Ross River,,,Total population in private households by Registered or Treaty Indian status,355,195,160,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001037
+2011,Ross River,Total population in private households by Registered or Treaty Indian status,,Registered or Treaty Indian,275,150,130,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs60'>60</a>,6001037
+2011,Ross River,Total population in private households by Registered or Treaty Indian status,,Not a Registered or Treaty Indian,75,40,35,,,,,,6001037
+2011,Ross River,,,Total population in private households by Aboriginal ancestry,350,195,160,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs61'>61</a>,6001037
+2011,Ross River,Total population in private households by Aboriginal ancestry,,Aboriginal ancestry,285,160,130,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs62'>62</a>,6001037
+2011,Ross River,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,First Nations (North American Indian) Aboriginal ancestry,285,155,125,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001037
+2011,Ross River,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Métis ancestry,0,0,0,,,,,,6001037
+2011,Ross River,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Inuit ancestry,0,0,0,,,,,,6001037
+2011,Ross River,Total population in private households by Aboriginal ancestry,,Non-Aboriginal ancestry only,70,35,30,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs63'>63</a>,6001037
+2011,Teslin Region,,,Total population in private households by Registered or Treaty Indian status,260,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by Registered or Treaty Indian status,,Registered or Treaty Indian,140,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by Registered or Treaty Indian status,,Not a Registered or Treaty Indian,115,,,,,,,,YBS006057007
+2011,Teslin Region,,,Total population in private households by Aboriginal ancestry,255,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by Aboriginal ancestry,,Aboriginal ancestry,160,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,First Nations (North American Indian) Aboriginal ancestry,155,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Métis ancestry,0,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Inuit ancestry,0,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by Aboriginal ancestry,,Non-Aboriginal ancestry only,100,,,,,,,,YBS006057007
+2011,Teslin Region,,,Total population in private households by Aboriginal identity,260,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by Aboriginal identity,,Aboriginal identity,160,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by Aboriginal identity,Aboriginal identity,First Nations (North American Indian) single identity,155,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by Aboriginal identity,Aboriginal identity,Métis single identity,0,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by Aboriginal identity,Aboriginal identity,Inuk (Inuit) single identity,0,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by Aboriginal identity,Aboriginal identity,Multiple Aboriginal identities,0,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by Aboriginal identity,Aboriginal identity,Aboriginal identities not included elsewhere,0,,,,,,,,YBS006057007
+2011,Teslin Region,Total population in private households by Aboriginal identity,,Non-Aboriginal identity,100,,,,,,,,YBS006057007
+2011,Teslin Post 13,Total population in private households by Aboriginal identity,Aboriginal identity,Inuk (Inuit) single identity,0,0,0,,,,,,6001007
+2011,Teslin Post 13,Total population in private households by Aboriginal identity,Aboriginal identity,Multiple Aboriginal identities,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs58'>58</a>,6001007
+2011,Teslin Post 13,Total population in private households by Aboriginal identity,Aboriginal identity,Aboriginal identities not included elsewhere,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs59'>59</a>,6001007
+2011,Teslin Post 13,Total population in private households by Aboriginal identity,,Non-Aboriginal identity,15,0,10,,,,,,6001007
+2011,Teslin Post 13,,,Total population in private households by Registered or Treaty Indian status,135,65,75,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001007
+2011,Teslin Post 13,Total population in private households by Registered or Treaty Indian status,,Registered or Treaty Indian,125,60,65,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs60'>60</a>,6001007
+2011,Teslin Post 13,Total population in private households by Registered or Treaty Indian status,,Not a Registered or Treaty Indian,15,10,10,,,,,,6001007
+2011,Teslin Post 13,,,Total population in private households by Aboriginal ancestry,140,65,70,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs61'>61</a>,6001007
+2011,Teslin Post 13,Total population in private households by Aboriginal ancestry,,Aboriginal ancestry,130,60,70,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs62'>62</a>,6001007
+2011,Teslin Post 13,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,First Nations (North American Indian) Aboriginal ancestry,125,55,70,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001007
+2011,Teslin Post 13,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Métis ancestry,0,0,0,,,,,,6001007
+2011,Teslin Post 13,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Inuit ancestry,0,0,0,,,,,,6001007
+2011,Teslin Post 13,Total population in private households by Aboriginal ancestry,,Non-Aboriginal ancestry only,15,10,10,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs63'>63</a>,6001007
+2011,Teslin Post 13,,,Total population in private households by Aboriginal identity,140,65,75,,,,,,6001007
+2011,Teslin Post 13,Total population in private households by Aboriginal identity,,Aboriginal identity,125,60,70,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs56'>56</a>,6001007
+2011,Teslin Post 13,Total population in private households by Aboriginal identity,Aboriginal identity,First Nations (North American Indian) single identity,125,60,70,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001007
+2011,Teslin Post 13,Total population in private households by Aboriginal identity,Aboriginal identity,Métis single identity,0,0,0,,,,,,6001007
+2011,Upper Liard,,,Total population in private households by Aboriginal identity,130,80,50,,,,,,6001032
+2011,Upper Liard,Total population in private households by Aboriginal identity,,Aboriginal identity,120,70,45,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs56'>56</a>,6001032
+2011,Upper Liard,Total population in private households by Aboriginal identity,Aboriginal identity,First Nations (North American Indian) single identity,115,75,45,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001032
+2011,Upper Liard,Total population in private households by Aboriginal identity,Aboriginal identity,Métis single identity,0,0,0,,,,,,6001032
+2011,Upper Liard,Total population in private households by Aboriginal identity,Aboriginal identity,Inuk (Inuit) single identity,0,0,0,,,,,,6001032
+2011,Upper Liard,Total population in private households by Aboriginal identity,Aboriginal identity,Multiple Aboriginal identities,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs58'>58</a>,6001032
+2011,Upper Liard,Total population in private households by Aboriginal identity,Aboriginal identity,Aboriginal identities not included elsewhere,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs59'>59</a>,6001032
+2011,Upper Liard,Total population in private households by Aboriginal identity,,Non-Aboriginal identity,15,10,0,,,,,,6001032
+2011,Upper Liard,,,Total population in private households by Registered or Treaty Indian status,130,80,50,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001032
+2011,Upper Liard,Total population in private households by Registered or Treaty Indian status,,Registered or Treaty Indian,120,70,45,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs60'>60</a>,6001032
+2011,Upper Liard,Total population in private households by Registered or Treaty Indian status,,Not a Registered or Treaty Indian,15,10,10,,,,,,6001032
+2011,Upper Liard,,,Total population in private households by Aboriginal ancestry,130,80,50,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs61'>61</a>,6001032
+2011,Upper Liard,Total population in private households by Aboriginal ancestry,,Aboriginal ancestry,120,75,50,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs62'>62</a>,6001032
+2011,Upper Liard,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,First Nations (North American Indian) Aboriginal ancestry,115,75,45,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001032
+2011,Upper Liard,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Métis ancestry,0,0,0,,,,,,6001032
+2011,Upper Liard,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Inuit ancestry,0,0,0,,,,,,6001032
+2011,Upper Liard,Total population in private households by Aboriginal ancestry,,Non-Aboriginal ancestry only,15,10,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs63'>63</a>,6001032
+2011,Watson Lake,,,Total population in private households by Aboriginal identity,795,405,390,,,,,,6001003
+2011,Watson Lake,Total population in private households by Aboriginal identity,,Aboriginal identity,205,85,115,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs56'>56</a>,6001003
+2011,Watson Lake,Total population in private households by Aboriginal identity,Aboriginal identity,First Nations (North American Indian) single identity,180,75,100,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001003
+2011,Watson Lake,Total population in private households by Aboriginal identity,Aboriginal identity,Métis single identity,25,10,15,,,,,,6001003
+2011,Watson Lake,Total population in private households by Aboriginal identity,Aboriginal identity,Inuk (Inuit) single identity,0,0,0,,,,,,6001003
+2011,Watson Lake,Total population in private households by Aboriginal identity,Aboriginal identity,Multiple Aboriginal identities,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs58'>58</a>,6001003
+2011,Watson Lake,Total population in private households by Aboriginal identity,Aboriginal identity,Aboriginal identities not included elsewhere,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs59'>59</a>,6001003
+2011,Watson Lake,Total population in private households by Aboriginal identity,,Non-Aboriginal identity,595,325,270,,,,,,6001003
+2011,Watson Lake,,,Total population in private households by Registered or Treaty Indian status,800,410,390,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001003
+2011,Watson Lake,Total population in private households by Registered or Treaty Indian status,,Registered or Treaty Indian,160,70,90,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs60'>60</a>,6001003
+2011,Watson Lake,Total population in private households by Registered or Treaty Indian status,,Not a Registered or Treaty Indian,635,340,300,,,,,,6001003
+2011,Watson Lake,,,Total population in private households by Aboriginal ancestry,800,405,390,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs61'>61</a>,6001003
+2011,Watson Lake,Total population in private households by Aboriginal ancestry,,Aboriginal ancestry,210,85,120,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs62'>62</a>,6001003
+2011,Watson Lake,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,First Nations (North American Indian) Aboriginal ancestry,200,85,115,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs57'>57</a>,6001003
+2011,Watson Lake,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Métis ancestry,15,0,10,,,,,,6001003
+2011,Watson Lake,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Inuit ancestry,0,0,0,,,,,,6001003
+2011,Watson Lake,Total population in private households by Aboriginal ancestry,,Non-Aboriginal ancestry only,585,320,270,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs63'>63</a>,6001003
+2011,Watson Lake Region,,,Total population in private households by Aboriginal identity,1070,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by Aboriginal identity,,Aboriginal identity,450,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by Aboriginal identity,Aboriginal identity,First Nations (North American Indian) single identity,425,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by Aboriginal identity,Aboriginal identity,Métis single identity,25,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by Aboriginal identity,Aboriginal identity,Inuk (Inuit) single identity,0,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by Aboriginal identity,Aboriginal identity,Multiple Aboriginal identities,0,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by Aboriginal identity,Aboriginal identity,Aboriginal identities not included elsewhere,0,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by Aboriginal identity,,Non-Aboriginal identity,620,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,,,Total population in private households by Registered or Treaty Indian status,1070,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by Registered or Treaty Indian status,,Registered or Treaty Indian,410,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by Registered or Treaty Indian status,,Not a Registered or Treaty Indian,660,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,,,Total population in private households by Aboriginal ancestry,1070,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by Aboriginal ancestry,,Aboriginal ancestry,465,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,First Nations (North American Indian) Aboriginal ancestry,455,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Métis ancestry,15,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by Aboriginal ancestry,Aboriginal ancestry,Inuit ancestry,0,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total population in private households by Aboriginal ancestry,,Non-Aboriginal ancestry only,605,,,,,,,,YBS003032033034035

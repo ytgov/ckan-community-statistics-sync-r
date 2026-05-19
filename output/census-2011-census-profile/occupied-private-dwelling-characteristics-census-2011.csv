@@ -1,0 +1,463 @@
+census_year,geo_name,category,subcategory,variable_name,total,male,female,flag_total,flag_male,flag_female,geo_location,data_notes,geo_code
+2011,Yukon,,,Total number of occupied private dwellings by condition of dwelling,14115,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs98'>98</a>,6001
+2011,Yukon,Total number of occupied private dwellings by condition of dwelling,,Only regular maintenance or minor repairs needed,11835,,,,...,...,,,6001
+2011,Yukon,Total number of occupied private dwellings by condition of dwelling,,Major repairs needed,2285,,,,...,...,,,6001
+2011,Yukon,,,Total number of occupied private dwellings by period of construction,14120,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs99'>99</a>,6001
+2011,Yukon,Total number of occupied private dwellings by period of construction,,1960 or before,1710,,,,...,...,,,6001
+2011,Yukon,Total number of occupied private dwellings by period of construction,,1961 to 1980,4635,,,,...,...,,,6001
+2011,Yukon,Total number of occupied private dwellings by period of construction,,1981 to 1990,2640,,,,...,...,,,6001
+2011,Yukon,Total number of occupied private dwellings by period of construction,,1991 to 2000,2640,,,,...,...,,,6001
+2011,Yukon,Total number of occupied private dwellings by period of construction,,2001 to 2005,900,,,,...,...,,,6001
+2011,Yukon,Total number of occupied private dwellings by period of construction,,2006 to 2011,1590,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs100'>100</a>,6001
+2011,Yukon,,,Total number of occupied private dwellings by number of rooms,14120,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs101'>101</a>,6001
+2011,Yukon,Total number of occupied private dwellings by number of rooms,,1 to 4 rooms,4630,,,,...,...,,,6001
+2011,Yukon,Total number of occupied private dwellings by number of rooms,,5 rooms,2295,,,,...,...,,,6001
+2011,Yukon,Total number of occupied private dwellings by number of rooms,,6 rooms,2340,,,,...,...,,,6001
+2011,Yukon,Total number of occupied private dwellings by number of rooms,,7 rooms,1560,,,,...,...,,,6001
+2011,Yukon,Total number of occupied private dwellings by number of rooms,,8 or more rooms,3290,,,,...,...,,,6001
+2011,Yukon,,,Average number of rooms per dwelling,5.8,,,,...,...,,,6001
+2011,Yukon,,,Total number of occupied private dwellings by number of bedrooms,14115,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs102'>102</a>,6001
+2011,Yukon,Total number of occupied private dwellings by number of bedrooms,,0 to 1 bedroom,2400,,,,...,...,,,6001
+2011,Yukon,Total number of occupied private dwellings by number of bedrooms,,2 bedrooms,3920,,,,...,...,,,6001
+2011,Yukon,Total number of occupied private dwellings by number of bedrooms,,3 bedrooms,5050,,,,...,...,,,6001
+2011,Yukon,Total number of occupied private dwellings by number of bedrooms,,4 or more bedrooms,2745,,,,...,...,,,6001
+2011,Whitehorse - City,,,Total number of occupied private dwellings by condition of dwelling,9310,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs98'>98</a>,6001009
+2011,Whitehorse - City,Total number of occupied private dwellings by condition of dwelling,,Only regular maintenance or minor repairs needed,8240,,,,...,...,,,6001009
+2011,Whitehorse - City,Total number of occupied private dwellings by condition of dwelling,,Major repairs needed,1070,,,,...,...,,,6001009
+2011,Whitehorse - City,,,Total number of occupied private dwellings by period of construction,9315,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs99'>99</a>,6001009
+2011,Whitehorse - City,Total number of occupied private dwellings by period of construction,,1960 or before,1160,,,,...,...,,,6001009
+2011,Whitehorse - City,Total number of occupied private dwellings by period of construction,,1961 to 1980,3305,,,,...,...,,,6001009
+2011,Whitehorse - City,Total number of occupied private dwellings by period of construction,,1981 to 1990,1500,,,,...,...,,,6001009
+2011,Whitehorse - City,Total number of occupied private dwellings by period of construction,,1991 to 2000,1670,,,,...,...,,,6001009
+2011,Whitehorse - City,Total number of occupied private dwellings by period of construction,,2001 to 2005,630,,,,...,...,,,6001009
+2011,Whitehorse - City,Total number of occupied private dwellings by period of construction,,2006 to 2011,1045,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs100'>100</a>,6001009
+2011,Whitehorse - City,,,Total number of occupied private dwellings by number of rooms,9310,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs101'>101</a>,6001009
+2011,Whitehorse - City,Total number of occupied private dwellings by number of rooms,,1 to 4 rooms,2660,,,,...,...,,,6001009
+2011,Whitehorse - City,Total number of occupied private dwellings by number of rooms,,5 rooms,1385,,,,...,...,,,6001009
+2011,Whitehorse - City,Total number of occupied private dwellings by number of rooms,,6 rooms,1550,,,,...,...,,,6001009
+2011,Whitehorse - City,Total number of occupied private dwellings by number of rooms,,7 rooms,1085,,,,...,...,,,6001009
+2011,Whitehorse - City,Total number of occupied private dwellings by number of rooms,,8 or more rooms,2630,,,,...,...,,,6001009
+2011,Whitehorse - City,,,Average number of rooms per dwelling,6.1,,,,...,...,,,6001009
+2011,Whitehorse - City,,,Total number of occupied private dwellings by number of bedrooms,9315,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs102'>102</a>,6001009
+2011,Whitehorse - City,Total number of occupied private dwellings by number of bedrooms,,0 to 1 bedroom,1275,,,,...,...,,,6001009
+2011,Whitehorse - City,Total number of occupied private dwellings by number of bedrooms,,2 bedrooms,2400,,,,...,...,,,6001009
+2011,Whitehorse - City,Total number of occupied private dwellings by number of bedrooms,,3 bedrooms,3575,,,,...,...,,,6001009
+2011,Whitehorse - City,Total number of occupied private dwellings by number of bedrooms,,4 or more bedrooms,2060,,,,...,...,,,6001009
+2011,Alaska Highway North Region,,,Total number of occupied private dwellings by condition of dwelling,375,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total number of occupied private dwellings by condition of dwelling,,Only regular maintenance or minor repairs needed,285,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total number of occupied private dwellings by condition of dwelling,,Major repairs needed,90,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,,,Total number of occupied private dwellings by period of construction,375,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total number of occupied private dwellings by period of construction,,1960 or before,20,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total number of occupied private dwellings by period of construction,,1961 to 1980,120,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total number of occupied private dwellings by period of construction,,1981 to 1990,80,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total number of occupied private dwellings by period of construction,,1991 to 2000,95,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total number of occupied private dwellings by period of construction,,2001 to 2005,25,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total number of occupied private dwellings by period of construction,,2006 to 2011,35,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,,,Total number of occupied private dwellings by number of rooms,375,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total number of occupied private dwellings by number of rooms,,1 to 4 rooms,125,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total number of occupied private dwellings by number of rooms,,5 rooms,95,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total number of occupied private dwellings by number of rooms,,6 rooms,55,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total number of occupied private dwellings by number of rooms,,7 rooms,45,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total number of occupied private dwellings by number of rooms,,8 or more rooms,55,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,,,Average number of rooms per dwelling,5,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,,,Total number of occupied private dwellings by number of bedrooms,375,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total number of occupied private dwellings by number of bedrooms,,0 to 1 bedroom,60,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total number of occupied private dwellings by number of bedrooms,,2 bedrooms,120,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total number of occupied private dwellings by number of bedrooms,,3 bedrooms,140,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total number of occupied private dwellings by number of bedrooms,,4 or more bedrooms,60,,,,,,,,YBS042039049018
+2011,Beaver Creek,,,Total number of occupied private dwellings by condition of dwelling,50,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs98'>98</a>,6001042
+2011,Beaver Creek,Total number of occupied private dwellings by condition of dwelling,,Only regular maintenance or minor repairs needed,40,,,,...,...,,,6001042
+2011,Beaver Creek,Total number of occupied private dwellings by condition of dwelling,,Major repairs needed,15,,,,...,...,,,6001042
+2011,Beaver Creek,,,Total number of occupied private dwellings by period of construction,50,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs99'>99</a>,6001042
+2011,Beaver Creek,Total number of occupied private dwellings by period of construction,,1960 or before,10,,,,...,...,,,6001042
+2011,Beaver Creek,Total number of occupied private dwellings by period of construction,,1961 to 1980,15,,,,...,...,,,6001042
+2011,Beaver Creek,Total number of occupied private dwellings by period of construction,,1981 to 1990,10,,,,...,...,,,6001042
+2011,Beaver Creek,Total number of occupied private dwellings by period of construction,,1991 to 2000,15,,,,...,...,,,6001042
+2011,Beaver Creek,Total number of occupied private dwellings by period of construction,,2001 to 2005,0,,,,...,...,,,6001042
+2011,Beaver Creek,Total number of occupied private dwellings by period of construction,,2006 to 2011,0,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs100'>100</a>,6001042
+2011,Beaver Creek,,,Total number of occupied private dwellings by number of rooms,50,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs101'>101</a>,6001042
+2011,Beaver Creek,Total number of occupied private dwellings by number of rooms,,1 to 4 rooms,25,,,,...,...,,,6001042
+2011,Beaver Creek,Total number of occupied private dwellings by number of rooms,,5 rooms,15,,,,...,...,,,6001042
+2011,Beaver Creek,Total number of occupied private dwellings by number of rooms,,6 rooms,10,,,,...,...,,,6001042
+2011,Beaver Creek,Total number of occupied private dwellings by number of rooms,,7 rooms,10,,,,...,...,,,6001042
+2011,Beaver Creek,Total number of occupied private dwellings by number of rooms,,8 or more rooms,0,,,,...,...,,,6001042
+2011,Beaver Creek,,,Average number of rooms per dwelling,4.9,,,,...,...,,,6001042
+2011,Beaver Creek,,,Total number of occupied private dwellings by number of bedrooms,55,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs102'>102</a>,6001042
+2011,Beaver Creek,Total number of occupied private dwellings by number of bedrooms,,0 to 1 bedroom,10,,,,...,...,,,6001042
+2011,Beaver Creek,Total number of occupied private dwellings by number of bedrooms,,2 bedrooms,20,,,,...,...,,,6001042
+2011,Beaver Creek,Total number of occupied private dwellings by number of bedrooms,,3 bedrooms,20,,,,...,...,,,6001042
+2011,Beaver Creek,Total number of occupied private dwellings by number of bedrooms,,4 or more bedrooms,10,,,,...,...,,,6001042
+2011,Burwash Landing,,,Total number of occupied private dwellings by condition of dwelling,50,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs98'>98</a>,6001039
+2011,Burwash Landing,Total number of occupied private dwellings by condition of dwelling,,Only regular maintenance or minor repairs needed,35,,,,...,...,,,6001039
+2011,Burwash Landing,Total number of occupied private dwellings by condition of dwelling,,Major repairs needed,15,,,,...,...,,,6001039
+2011,Burwash Landing,,,Total number of occupied private dwellings by period of construction,50,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs99'>99</a>,6001039
+2011,Burwash Landing,Total number of occupied private dwellings by period of construction,,1960 or before,0,,,,...,...,,,6001039
+2011,Burwash Landing,Total number of occupied private dwellings by period of construction,,1961 to 1980,10,,,,...,...,,,6001039
+2011,Burwash Landing,Total number of occupied private dwellings by period of construction,,1981 to 1990,10,,,,...,...,,,6001039
+2011,Burwash Landing,Total number of occupied private dwellings by period of construction,,1991 to 2000,15,,,,...,...,,,6001039
+2011,Burwash Landing,Total number of occupied private dwellings by period of construction,,2001 to 2005,0,,,,...,...,,,6001039
+2011,Burwash Landing,Total number of occupied private dwellings by period of construction,,2006 to 2011,0,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs100'>100</a>,6001039
+2011,Burwash Landing,,,Total number of occupied private dwellings by number of rooms,50,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs101'>101</a>,6001039
+2011,Burwash Landing,Total number of occupied private dwellings by number of rooms,,1 to 4 rooms,15,,,,...,...,,,6001039
+2011,Burwash Landing,Total number of occupied private dwellings by number of rooms,,5 rooms,25,,,,...,...,,,6001039
+2011,Burwash Landing,Total number of occupied private dwellings by number of rooms,,6 rooms,10,,,,...,...,,,6001039
+2011,Burwash Landing,Total number of occupied private dwellings by number of rooms,,7 rooms,0,,,,...,...,,,6001039
+2011,Burwash Landing,Total number of occupied private dwellings by number of rooms,,8 or more rooms,0,,,,...,...,,,6001039
+2011,Burwash Landing,,,Average number of rooms per dwelling,4.8,,,,...,...,,,6001039
+2011,Burwash Landing,,,Total number of occupied private dwellings by number of bedrooms,50,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs102'>102</a>,6001039
+2011,Burwash Landing,Total number of occupied private dwellings by number of bedrooms,,0 to 1 bedroom,10,,,,...,...,,,6001039
+2011,Burwash Landing,Total number of occupied private dwellings by number of bedrooms,,2 bedrooms,30,,,,...,...,,,6001039
+2011,Burwash Landing,Total number of occupied private dwellings by number of bedrooms,,3 bedrooms,15,,,,...,...,,,6001039
+2011,Burwash Landing,Total number of occupied private dwellings by number of bedrooms,,4 or more bedrooms,0,,,,...,...,,,6001039
+2011,Carcross,,,Total number of occupied private dwellings by condition of dwelling,140,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs98'>98</a>,6001048
+2011,Carcross,Total number of occupied private dwellings by condition of dwelling,,Only regular maintenance or minor repairs needed,105,,,,...,...,,,6001048
+2011,Carcross,Total number of occupied private dwellings by condition of dwelling,,Major repairs needed,35,,,,...,...,,,6001048
+2011,Carcross,,,Total number of occupied private dwellings by period of construction,145,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs99'>99</a>,6001048
+2011,Carcross,Total number of occupied private dwellings by period of construction,,1960 or before,15,,,,...,...,,,6001048
+2011,Carcross,Total number of occupied private dwellings by period of construction,,1961 to 1980,35,,,,...,...,,,6001048
+2011,Carcross,Total number of occupied private dwellings by period of construction,,1981 to 1990,20,,,,...,...,,,6001048
+2011,Carcross,Total number of occupied private dwellings by period of construction,,1991 to 2000,35,,,,...,...,,,6001048
+2011,Carcross,Total number of occupied private dwellings by period of construction,,2001 to 2005,25,,,,...,...,,,6001048
+2011,Carcross,Total number of occupied private dwellings by period of construction,,2006 to 2011,10,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs100'>100</a>,6001048
+2011,Carcross,,,Total number of occupied private dwellings by number of rooms,145,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs101'>101</a>,6001048
+2011,Carcross,Total number of occupied private dwellings by number of rooms,,1 to 4 rooms,70,,,,...,...,,,6001048
+2011,Carcross,Total number of occupied private dwellings by number of rooms,,5 rooms,25,,,,...,...,,,6001048
+2011,Carcross,Total number of occupied private dwellings by number of rooms,,6 rooms,20,,,,...,...,,,6001048
+2011,Carcross,Total number of occupied private dwellings by number of rooms,,7 rooms,10,,,,...,...,,,6001048
+2011,Carcross,Total number of occupied private dwellings by number of rooms,,8 or more rooms,15,,,,...,...,,,6001048
+2011,Carcross,,,Average number of rooms per dwelling,4.7,,,,...,...,,,6001048
+2011,Carcross,,,Total number of occupied private dwellings by number of bedrooms,140,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs102'>102</a>,6001048
+2011,Carcross,Total number of occupied private dwellings by number of bedrooms,,0 to 1 bedroom,35,,,,...,...,,,6001048
+2011,Carcross,Total number of occupied private dwellings by number of bedrooms,,2 bedrooms,60,,,,...,...,,,6001048
+2011,Carcross,Total number of occupied private dwellings by number of bedrooms,,3 bedrooms,40,,,,...,...,,,6001048
+2011,Carcross,Total number of occupied private dwellings by number of bedrooms,,4 or more bedrooms,10,,,,...,...,,,6001048
+2011,Carcross Region,,,Total number of occupied private dwellings by condition of dwelling,160,,,,,,,,YBS048008
+2011,Carcross Region,Total number of occupied private dwellings by condition of dwelling,,Only regular maintenance or minor repairs needed,115,,,,,,,,YBS048008
+2011,Carcross Region,Total number of occupied private dwellings by condition of dwelling,,Major repairs needed,40,,,,,,,,YBS048008
+2011,Carcross Region,,,Total number of occupied private dwellings by period of construction,165,,,,,,,,YBS048008
+2011,Carcross Region,Total number of occupied private dwellings by period of construction,,1960 or before,15,,,,,,,,YBS048008
+2011,Carcross Region,Total number of occupied private dwellings by period of construction,,1961 to 1980,35,,,,,,,,YBS048008
+2011,Carcross Region,Total number of occupied private dwellings by period of construction,,1981 to 1990,30,,,,,,,,YBS048008
+2011,Carcross Region,Total number of occupied private dwellings by period of construction,,1991 to 2000,50,,,,,,,,YBS048008
+2011,Carcross Region,Total number of occupied private dwellings by period of construction,,2001 to 2005,30,,,,,,,,YBS048008
+2011,Carcross Region,Total number of occupied private dwellings by period of construction,,2006 to 2011,0,,,,,,,,YBS048008
+2011,Carcross Region,,,Total number of occupied private dwellings by number of rooms,160,,,,,,,,YBS048008
+2011,Carcross Region,Total number of occupied private dwellings by number of rooms,,1 to 4 rooms,80,,,,,,,,YBS048008
+2011,Carcross Region,Total number of occupied private dwellings by number of rooms,,5 rooms,30,,,,,,,,YBS048008
+2011,Carcross Region,Total number of occupied private dwellings by number of rooms,,6 rooms,25,,,,,,,,YBS048008
+2011,Carcross Region,Total number of occupied private dwellings by number of rooms,,7 rooms,15,,,,,,,,YBS048008
+2011,Carcross Region,Total number of occupied private dwellings by number of rooms,,8 or more rooms,10,,,,,,,,YBS048008
+2011,Carcross Region,,,Average number of rooms per dwelling,5,,,,,,,,YBS048008
+2011,Carcross Region,,,Total number of occupied private dwellings by number of bedrooms,165,,,,,,,,YBS048008
+2011,Carcross Region,Total number of occupied private dwellings by number of bedrooms,,0 to 1 bedroom,35,,,,,,,,YBS048008
+2011,Carcross Region,Total number of occupied private dwellings by number of bedrooms,,2 bedrooms,70,,,,,,,,YBS048008
+2011,Carcross Region,Total number of occupied private dwellings by number of bedrooms,,3 bedrooms,45,,,,,,,,YBS048008
+2011,Carcross Region,Total number of occupied private dwellings by number of bedrooms,,4 or more bedrooms,15,,,,,,,,YBS048008
+2011,Carcross 4,,,Total number of occupied private dwellings by condition of dwelling,20,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs98'>98</a>,6001008
+2011,Carcross 4,Total number of occupied private dwellings by condition of dwelling,,Only regular maintenance or minor repairs needed,10,,,,...,...,,,6001008
+2011,Carcross 4,Total number of occupied private dwellings by condition of dwelling,,Major repairs needed,10,,,,...,...,,,6001008
+2011,Carcross 4,,,Total number of occupied private dwellings by period of construction,20,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs99'>99</a>,6001008
+2011,Carcross 4,Total number of occupied private dwellings by period of construction,,1960 or before,0,,,,...,...,,,6001008
+2011,Carcross 4,Total number of occupied private dwellings by period of construction,,1961 to 1980,0,,,,...,...,,,6001008
+2011,Carcross 4,Total number of occupied private dwellings by period of construction,,1981 to 1990,10,,,,...,...,,,6001008
+2011,Carcross 4,Total number of occupied private dwellings by period of construction,,1991 to 2000,10,,,,...,...,,,6001008
+2011,Carcross 4,Total number of occupied private dwellings by period of construction,,2001 to 2005,0,,,,...,...,,,6001008
+2011,Carcross 4,Total number of occupied private dwellings by period of construction,,2006 to 2011,0,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs100'>100</a>,6001008
+2011,Carcross 4,,,Total number of occupied private dwellings by number of rooms,20,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs101'>101</a>,6001008
+2011,Carcross 4,Total number of occupied private dwellings by number of rooms,,1 to 4 rooms,10,,,,...,...,,,6001008
+2011,Carcross 4,Total number of occupied private dwellings by number of rooms,,5 rooms,0,,,,...,...,,,6001008
+2011,Carcross 4,Total number of occupied private dwellings by number of rooms,,6 rooms,0,,,,...,...,,,6001008
+2011,Carcross 4,Total number of occupied private dwellings by number of rooms,,7 rooms,0,,,,...,...,,,6001008
+2011,Carcross 4,Total number of occupied private dwellings by number of rooms,,8 or more rooms,0,,,,...,...,,,6001008
+2011,Carcross 4,,,Average number of rooms per dwelling,4.8,,,,...,...,,,6001008
+2011,Carcross 4,,,Total number of occupied private dwellings by number of bedrooms,20,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs102'>102</a>,6001008
+2011,Carcross 4,Total number of occupied private dwellings by number of bedrooms,,0 to 1 bedroom,0,,,,...,...,,,6001008
+2011,Carcross 4,Total number of occupied private dwellings by number of bedrooms,,2 bedrooms,10,,,,...,...,,,6001008
+2011,Carcross 4,Total number of occupied private dwellings by number of bedrooms,,3 bedrooms,10,,,,...,...,,,6001008
+2011,Carcross 4,Total number of occupied private dwellings by number of bedrooms,,4 or more bedrooms,0,,,,...,...,,,6001008
+2011,Carcross-Tagish Region,,,Total number of occupied private dwellings by condition of dwelling,370,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total number of occupied private dwellings by condition of dwelling,,Only regular maintenance or minor repairs needed,275,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total number of occupied private dwellings by condition of dwelling,,Major repairs needed,95,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,,,Total number of occupied private dwellings by period of construction,370,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total number of occupied private dwellings by period of construction,,1960 or before,15,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total number of occupied private dwellings by period of construction,,1961 to 1980,85,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total number of occupied private dwellings by period of construction,,1981 to 1990,100,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total number of occupied private dwellings by period of construction,,1991 to 2000,105,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total number of occupied private dwellings by period of construction,,2001 to 2005,40,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total number of occupied private dwellings by period of construction,,2006 to 2011,20,,,,,,,,6001012
+2011,Carcross-Tagish Region,,,Total number of occupied private dwellings by number of rooms,370,,,,,,,,6001012
+2011,Carcross-Tagish Region,Total number of occupied private dwellings by number of rooms,,1 to 4 rooms,200,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total number of occupied private dwellings by number of rooms,,5 rooms,70,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total number of occupied private dwellings by number of rooms,,6 rooms,40,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total number of occupied private dwellings by number of rooms,,7 rooms,20,,,,,,,,6001012
+2011,Carcross-Tagish Region,Total number of occupied private dwellings by number of rooms,,8 or more rooms,35,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,,,Average number of rooms per dwelling,5,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,,,Total number of occupied private dwellings by number of bedrooms,370,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total number of occupied private dwellings by number of bedrooms,,0 to 1 bedroom,125,,,,,,,,6001012
+2011,Carcross-Tagish Region,Total number of occupied private dwellings by number of bedrooms,,2 bedrooms,145,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total number of occupied private dwellings by number of bedrooms,,3 bedrooms,75,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total number of occupied private dwellings by number of bedrooms,,4 or more bedrooms,25,,,,,,,,YBS048008036
+2011,Dawson,,,Total number of occupied private dwellings by condition of dwelling,680,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs98'>98</a>,6001049
+2011,Dawson,Total number of occupied private dwellings by condition of dwelling,,Only regular maintenance or minor repairs needed,495,,,,...,...,,,6001049
+2011,Dawson,Total number of occupied private dwellings by condition of dwelling,,Major repairs needed,185,,,,...,...,,,6001049
+2011,Dawson,,,Total number of occupied private dwellings by period of construction,680,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs99'>99</a>,6001049
+2011,Dawson,Total number of occupied private dwellings by period of construction,,1960 or before,245,,,,...,...,,,6001049
+2011,Dawson,Total number of occupied private dwellings by period of construction,,1961 to 1980,125,,,,...,...,,,6001049
+2011,Dawson,Total number of occupied private dwellings by period of construction,,1981 to 1990,125,,,,...,...,,,6001049
+2011,Dawson,Total number of occupied private dwellings by period of construction,,1991 to 2000,115,,,,...,...,,,6001049
+2011,Dawson,Total number of occupied private dwellings by period of construction,,2001 to 2005,35,,,,...,...,,,6001049
+2011,Dawson,Total number of occupied private dwellings by period of construction,,2006 to 2011,35,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs100'>100</a>,6001049
+2011,Dawson,,,Total number of occupied private dwellings by number of rooms,680,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs101'>101</a>,6001049
+2011,Dawson,Total number of occupied private dwellings by number of rooms,,1 to 4 rooms,315,,,,...,...,,,6001049
+2011,Dawson,Total number of occupied private dwellings by number of rooms,,5 rooms,145,,,,...,...,,,6001029
+2011,Dawson,Total number of occupied private dwellings by number of rooms,,6 rooms,100,,,,...,...,,,6001029
+2011,Dawson,Total number of occupied private dwellings by number of rooms,,7 rooms,90,,,,...,...,,,6001029
+2011,Dawson,Total number of occupied private dwellings by number of rooms,,8 or more rooms,35,,,,...,...,,,6001029
+2011,Dawson,,,Average number of rooms per dwelling,4.8,,,,...,...,,,6001029
+2011,Dawson,,,Total number of occupied private dwellings by number of bedrooms,680,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs102'>102</a>,6001029
+2011,Dawson,Total number of occupied private dwellings by number of bedrooms,,0 to 1 bedroom,170,,,,...,...,,,6001029
+2011,Dawson,Total number of occupied private dwellings by number of bedrooms,,2 bedrooms,230,,,,...,...,,,6001029
+2011,Dawson,Total number of occupied private dwellings by number of bedrooms,,3 bedrooms,170,,,,...,...,,,6001029
+2011,Dawson,Total number of occupied private dwellings by number of bedrooms,,4 or more bedrooms,105,,,,...,...,,,6001029
+2011,Faro,,,Total number of occupied private dwellings by condition of dwelling,170,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs98'>98</a>,6001004
+2011,Faro,Total number of occupied private dwellings by condition of dwelling,,Only regular maintenance or minor repairs needed,125,,,,...,...,,,6001004
+2011,Faro,Total number of occupied private dwellings by condition of dwelling,,Major repairs needed,40,,,,...,...,,,6001018
+2011,Faro,,,Total number of occupied private dwellings by period of construction,170,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs99'>99</a>,6001018
+2011,Faro,Total number of occupied private dwellings by period of construction,,1960 or before,0,,,,...,...,,,6001018
+2011,Faro,Total number of occupied private dwellings by period of construction,,1961 to 1980,105,,,,...,...,,,6001018
+2011,Faro,Total number of occupied private dwellings by period of construction,,1981 to 1990,55,,,,...,...,,,6001018
+2011,Faro,Total number of occupied private dwellings by period of construction,,1991 to 2000,0,,,,...,...,,,6001018
+2011,Faro,Total number of occupied private dwellings by period of construction,,2001 to 2005,0,,,,...,...,,,6001018
+2011,Faro,Total number of occupied private dwellings by period of construction,,2006 to 2011,0,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs100'>100</a>,6001018
+2011,Faro,,,Total number of occupied private dwellings by number of rooms,165,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs101'>101</a>,6001018
+2011,Faro,Total number of occupied private dwellings by number of rooms,,1 to 4 rooms,10,,,,...,...,,,6001018
+2011,Faro,Total number of occupied private dwellings by number of rooms,,5 rooms,15,,,,...,...,,,6001018
+2011,Faro,Total number of occupied private dwellings by number of rooms,,6 rooms,40,,,,...,...,,,6001018
+2011,Faro,Total number of occupied private dwellings by number of rooms,,7 rooms,25,,,,...,...,,,6001018
+2011,Faro,Total number of occupied private dwellings by number of rooms,,8 or more rooms,70,,,,...,...,,,6001018
+2011,Faro,,,Average number of rooms per dwelling,7.4,,,,...,...,,,6001018
+2011,Faro,,,Total number of occupied private dwellings by number of bedrooms,165,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs102'>102</a>,6001018
+2011,Faro,Total number of occupied private dwellings by number of bedrooms,,0 to 1 bedroom,10,,,,...,...,,,6001018
+2011,Faro,Total number of occupied private dwellings by number of bedrooms,,2 bedrooms,20,,,,...,...,,,6001018
+2011,Faro,Total number of occupied private dwellings by number of bedrooms,,3 bedrooms,95,,,,...,...,,,6001018
+2011,Faro,Total number of occupied private dwellings by number of bedrooms,,4 or more bedrooms,45,,,,...,...,,,6001018
+2011,Haines Junction,,,Total number of occupied private dwellings by condition of dwelling,260,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs98'>98</a>,6001018
+2011,Haines Junction,Total number of occupied private dwellings by condition of dwelling,,Only regular maintenance or minor repairs needed,200,,,,...,...,,,6001018
+2011,Haines Junction,Total number of occupied private dwellings by condition of dwelling,,Major repairs needed,60,,,,...,...,,,6001018
+2011,Haines Junction,,,Total number of occupied private dwellings by period of construction,260,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs99'>99</a>,6001018
+2011,Haines Junction,Total number of occupied private dwellings by period of construction,,1960 or before,15,,,,...,...,,,6001018
+2011,Haines Junction,Total number of occupied private dwellings by period of construction,,1961 to 1980,85,,,,...,...,,,6001018
+2011,Haines Junction,Total number of occupied private dwellings by period of construction,,1981 to 1990,60,,,,...,...,,,6001018
+2011,Haines Junction,Total number of occupied private dwellings by period of construction,,1991 to 2000,60,,,,...,...,,,6001018
+2011,Haines Junction,Total number of occupied private dwellings by period of construction,,2001 to 2005,15,,,,...,...,,,6001018
+2011,Haines Junction,Total number of occupied private dwellings by period of construction,,2006 to 2011,30,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs100'>100</a>,6001018
+2011,Haines Junction,,,Total number of occupied private dwellings by number of rooms,260,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs101'>101</a>,6001018
+2011,Haines Junction,Total number of occupied private dwellings by number of rooms,,1 to 4 rooms,85,,,,...,...,,,6001018
+2011,Haines Junction,Total number of occupied private dwellings by number of rooms,,5 rooms,55,,,,...,...,,,6001018
+2011,Haines Junction,Total number of occupied private dwellings by number of rooms,,6 rooms,40,,,,...,...,,,6001018
+2011,Haines Junction,Total number of occupied private dwellings by number of rooms,,7 rooms,35,,,,...,...,,,6001018
+2011,Haines Junction,Total number of occupied private dwellings by number of rooms,,8 or more rooms,45,,,,...,...,,,6001018
+2011,Haines Junction,,,Average number of rooms per dwelling,5.6,,,,...,...,,,6001018
+2011,Haines Junction,,,Total number of occupied private dwellings by number of bedrooms,260,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs102'>102</a>,6001018
+2011,Haines Junction,Total number of occupied private dwellings by number of bedrooms,,0 to 1 bedroom,35,,,,...,...,,,6001018
+2011,Haines Junction,Total number of occupied private dwellings by number of bedrooms,,2 bedrooms,70,,,,...,...,,,6001018
+2011,Haines Junction,Total number of occupied private dwellings by number of bedrooms,,3 bedrooms,100,,,,...,...,,,6001018
+2011,Haines Junction,Total number of occupied private dwellings by number of bedrooms,,4 or more bedrooms,50,,,,...,...,,,6001018
+2011,Mt. Lorne,,,Total number of occupied private dwellings by condition of dwelling,170,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs98'>98</a>,6001044
+2011,Mt. Lorne,Total number of occupied private dwellings by condition of dwelling,,Only regular maintenance or minor repairs needed,165,,,,...,...,,,6001044
+2011,Mt. Lorne,Total number of occupied private dwellings by condition of dwelling,,Major repairs needed,0,,,,...,...,,,6001044
+2011,Mt. Lorne,,,Total number of occupied private dwellings by period of construction,170,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs99'>99</a>,6001044
+2011,Mt. Lorne,Total number of occupied private dwellings by period of construction,,1960 or before,0,,,,...,...,,,6001044
+2011,Mt. Lorne,Total number of occupied private dwellings by period of construction,,1961 to 1980,25,,,,...,...,,,6001044
+2011,Mt. Lorne,Total number of occupied private dwellings by period of construction,,1981 to 1990,50,,,,...,...,,,6001044
+2011,Mt. Lorne,Total number of occupied private dwellings by period of construction,,1991 to 2000,50,,,,...,...,,,6001044
+2011,Mt. Lorne,Total number of occupied private dwellings by period of construction,,2001 to 2005,0,,,,...,...,,,6001044
+2011,Mt. Lorne,Total number of occupied private dwellings by period of construction,,2006 to 2011,0,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs100'>100</a>,6001044
+2011,Mt. Lorne,,,Total number of occupied private dwellings by number of rooms,170,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs101'>101</a>,6001044
+2011,Mt. Lorne,Total number of occupied private dwellings by number of rooms,,1 to 4 rooms,95,,,,...,...,,,6001044
+2011,Mt. Lorne,Total number of occupied private dwellings by number of rooms,,5 rooms,15,,,,...,...,,,6001044
+2011,Mt. Lorne,Total number of occupied private dwellings by number of rooms,,6 rooms,0,,,,...,...,,,6001044
+2011,Mt. Lorne,Total number of occupied private dwellings by number of rooms,,7 rooms,25,,,,...,...,,,6001044
+2011,Mt. Lorne,Total number of occupied private dwellings by number of rooms,,8 or more rooms,35,,,,...,...,,,6001044
+2011,Mt. Lorne,,,Average number of rooms per dwelling,4.8,,,,...,...,,,6001044
+2011,Mt. Lorne,,,Total number of occupied private dwellings by number of bedrooms,170,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs102'>102</a>,6001044
+2011,Mt. Lorne,Total number of occupied private dwellings by number of bedrooms,,0 to 1 bedroom,85,,,,...,...,,,6001044
+2011,Mt. Lorne,Total number of occupied private dwellings by number of bedrooms,,2 bedrooms,25,,,,...,...,,,6001044
+2011,Mt. Lorne,Total number of occupied private dwellings by number of bedrooms,,3 bedrooms,30,,,,...,...,,,6001044
+2011,Mt. Lorne,Total number of occupied private dwellings by number of bedrooms,,4 or more bedrooms,30,,,,...,...,,,6001044
+2011,Old Crow,,,Total number of occupied private dwellings by condition of dwelling,110,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs98'>98</a>,6001043
+2011,Old Crow,Total number of occupied private dwellings by condition of dwelling,,Only regular maintenance or minor repairs needed,80,,,,...,...,,,6001043
+2011,Old Crow,Total number of occupied private dwellings by condition of dwelling,,Major repairs needed,30,,,,...,...,,,6001043
+2011,Old Crow,,,Total number of occupied private dwellings by period of construction,110,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs99'>99</a>,6001043
+2011,Old Crow,Total number of occupied private dwellings by period of construction,,1960 or before,0,,,,...,...,,,6001043
+2011,Old Crow,Total number of occupied private dwellings by period of construction,,1961 to 1980,25,,,,...,...,,,6001043
+2011,Old Crow,Total number of occupied private dwellings by period of construction,,1981 to 1990,30,,,,...,...,,,6001043
+2011,Old Crow,Total number of occupied private dwellings by period of construction,,1991 to 2000,25,,,,...,...,,,6001043
+2011,Old Crow,Total number of occupied private dwellings by period of construction,,2001 to 2005,10,,,,...,...,,,6001043
+2011,Old Crow,Total number of occupied private dwellings by period of construction,,2006 to 2011,20,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs100'>100</a>,6001043
+2011,Old Crow,,,Total number of occupied private dwellings by number of rooms,110,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs101'>101</a>,6001043
+2011,Old Crow,Total number of occupied private dwellings by number of rooms,,1 to 4 rooms,75,,,,...,...,,,6001043
+2011,Old Crow,Total number of occupied private dwellings by number of rooms,,5 rooms,15,,,,...,...,,,6001043
+2011,Old Crow,Total number of occupied private dwellings by number of rooms,,6 rooms,10,,,,...,...,,,6001043
+2011,Old Crow,Total number of occupied private dwellings by number of rooms,,7 rooms,0,,,,...,...,,,6001043
+2011,Old Crow,Total number of occupied private dwellings by number of rooms,,8 or more rooms,0,,,,...,...,,,6001043
+2011,Old Crow,,,Average number of rooms per dwelling,4,,,,...,...,,,6001043
+2011,Old Crow,,,Total number of occupied private dwellings by number of bedrooms,110,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs102'>102</a>,6001043
+2011,Old Crow,Total number of occupied private dwellings by number of bedrooms,,0 to 1 bedroom,20,,,,...,...,,,6001043
+2011,Old Crow,Total number of occupied private dwellings by number of bedrooms,,2 bedrooms,50,,,,...,...,,,6001043
+2011,Old Crow,Total number of occupied private dwellings by number of bedrooms,,3 bedrooms,35,,,,...,...,,,6001043
+2011,Old Crow,Total number of occupied private dwellings by number of bedrooms,,4 or more bedrooms,10,,,,...,...,,,6001043
+2011,Pelly Crossing,,,Total number of occupied private dwellings by condition of dwelling,130,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs98'>98</a>,6001041
+2011,Pelly Crossing,Total number of occupied private dwellings by condition of dwelling,,Only regular maintenance or minor repairs needed,70,,,,...,...,,,6001041
+2011,Pelly Crossing,Total number of occupied private dwellings by condition of dwelling,,Major repairs needed,60,,,,...,...,,,6001041
+2011,Pelly Crossing,,,Total number of occupied private dwellings by period of construction,130,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs99'>99</a>,6001041
+2011,Pelly Crossing,Total number of occupied private dwellings by period of construction,,1960 or before,0,,,,...,...,,,6001041
+2011,Pelly Crossing,Total number of occupied private dwellings by period of construction,,1961 to 1980,40,,,,...,...,,,6001041
+2011,Pelly Crossing,Total number of occupied private dwellings by period of construction,,1981 to 1990,40,,,,...,...,,,6001041
+2011,Pelly Crossing,Total number of occupied private dwellings by period of construction,,1991 to 2000,25,,,,...,...,,,6001041
+2011,Pelly Crossing,Total number of occupied private dwellings by period of construction,,2001 to 2005,10,,,,...,...,,,6001041
+2011,Pelly Crossing,Total number of occupied private dwellings by period of construction,,2006 to 2011,20,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs100'>100</a>,6001041
+2011,Pelly Crossing,,,Total number of occupied private dwellings by number of rooms,135,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs101'>101</a>,6001041
+2011,Pelly Crossing,Total number of occupied private dwellings by number of rooms,,1 to 4 rooms,65,,,,...,...,,,6001041
+2011,Pelly Crossing,Total number of occupied private dwellings by number of rooms,,5 rooms,35,,,,...,...,,,6001041
+2011,Pelly Crossing,Total number of occupied private dwellings by number of rooms,,6 rooms,20,,,,...,...,,,6001041
+2011,Pelly Crossing,Total number of occupied private dwellings by number of rooms,,7 rooms,10,,,,...,...,,,6001041
+2011,Pelly Crossing,Total number of occupied private dwellings by number of rooms,,8 or more rooms,0,,,,...,...,,,6001041
+2011,Pelly Crossing,,,Average number of rooms per dwelling,4.6,,,,...,...,,,6001041
+2011,Pelly Crossing,,,Total number of occupied private dwellings by number of bedrooms,135,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs102'>102</a>,6001041
+2011,Pelly Crossing,Total number of occupied private dwellings by number of bedrooms,,0 to 1 bedroom,25,,,,...,...,,,6001041
+2011,Pelly Crossing,Total number of occupied private dwellings by number of bedrooms,,2 bedrooms,45,,,,...,...,,,6001041
+2011,Pelly Crossing,Total number of occupied private dwellings by number of bedrooms,,3 bedrooms,45,,,,...,...,,,6001041
+2011,Pelly Crossing,Total number of occupied private dwellings by number of bedrooms,,4 or more bedrooms,10,,,,...,...,,,6001041
+2011,Ross River,,,Total number of occupied private dwellings by condition of dwelling,150,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs98'>98</a>,6001037
+2011,Ross River,Total number of occupied private dwellings by condition of dwelling,,Only regular maintenance or minor repairs needed,90,,,,...,...,,,6001037
+2011,Ross River,Total number of occupied private dwellings by condition of dwelling,,Major repairs needed,60,,,,...,...,,,6001037
+2011,Ross River,,,Total number of occupied private dwellings by period of construction,150,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs99'>99</a>,6001037
+2011,Ross River,Total number of occupied private dwellings by period of construction,,1960 or before,10,,,,...,...,,,6001037
+2011,Ross River,Total number of occupied private dwellings by period of construction,,1961 to 1980,60,,,,...,...,,,6001037
+2011,Ross River,Total number of occupied private dwellings by period of construction,,1981 to 1990,50,,,,...,...,,,6001037
+2011,Ross River,Total number of occupied private dwellings by period of construction,,1991 to 2000,15,,,,...,...,,,6001037
+2011,Ross River,Total number of occupied private dwellings by period of construction,,2001 to 2005,10,,,,...,...,,,6001037
+2011,Ross River,Total number of occupied private dwellings by period of construction,,2006 to 2011,10,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs100'>100</a>,6001037
+2011,Ross River,,,Total number of occupied private dwellings by number of rooms,150,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs101'>101</a>,6001037
+2011,Ross River,Total number of occupied private dwellings by number of rooms,,1 to 4 rooms,95,,,,...,...,,,6001037
+2011,Ross River,Total number of occupied private dwellings by number of rooms,,5 rooms,25,,,,...,...,,,6001037
+2011,Ross River,Total number of occupied private dwellings by number of rooms,,6 rooms,15,,,,...,...,,,6001037
+2011,Ross River,Total number of occupied private dwellings by number of rooms,,7 rooms,10,,,,...,...,,,6001037
+2011,Ross River,Total number of occupied private dwellings by number of rooms,,8 or more rooms,10,,,,...,...,,,6001037
+2011,Ross River,,,Average number of rooms per dwelling,4.4,,,,...,...,,,6001037
+2011,Ross River,,,Total number of occupied private dwellings by number of bedrooms,150,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs102'>102</a>,6001037
+2011,Ross River,Total number of occupied private dwellings by number of bedrooms,,0 to 1 bedroom,15,,,,...,...,,,6001037
+2011,Ross River,Total number of occupied private dwellings by number of bedrooms,,2 bedrooms,50,,,,...,...,,,6001037
+2011,Ross River,Total number of occupied private dwellings by number of bedrooms,,3 bedrooms,70,,,,...,...,,,6001037
+2011,Ross River,Total number of occupied private dwellings by number of bedrooms,,4 or more bedrooms,10,,,,...,...,,,6001037
+2011,Teslin Region,,,Total number of occupied private dwellings by condition of dwelling,110,,,,,,,,YBS006057007
+2011,Teslin Region,Total number of occupied private dwellings by condition of dwelling,,Only regular maintenance or minor repairs needed,80,,,,,,,,6001057
+2011,Teslin Region,Total number of occupied private dwellings by condition of dwelling,,Major repairs needed,30,,,,,,,,YBS006057007
+2011,Teslin Region,,,Total number of occupied private dwellings by period of construction,110,,,,,,,,YBS006057007
+2011,Teslin Region,Total number of occupied private dwellings by period of construction,,1960 or before,0,,,,,,,,YBS006057007
+2011,Teslin Region,Total number of occupied private dwellings by period of construction,,1961 to 1980,30,,,,,,,,YBS006057007
+2011,Teslin Region,Total number of occupied private dwellings by period of construction,,1981 to 1990,30,,,,,,,,YBS006057007
+2011,Teslin Region,Total number of occupied private dwellings by period of construction,,1991 to 2000,25,,,,,,,,YBS006057007
+2011,Teslin Region,Total number of occupied private dwellings by period of construction,,2001 to 2005,15,,,,,,,,YBS006057007
+2011,Teslin Region,Total number of occupied private dwellings by period of construction,,2006 to 2011,10,,,,,,,,YBS006057007
+2011,Teslin Region,,,Total number of occupied private dwellings by number of rooms,110,,,,,,,,YBS006057007
+2011,Teslin Region,Total number of occupied private dwellings by number of rooms,,1 to 4 rooms,60,,,,,,,,YBS006057007
+2011,Teslin Region,Total number of occupied private dwellings by number of rooms,,5 rooms,25,,,,,,,,YBS006057007
+2011,Teslin Region,Total number of occupied private dwellings by number of rooms,,6 rooms,15,,,,,,,,YBS006057007
+2011,Teslin Region,Total number of occupied private dwellings by number of rooms,,7 rooms,10,,,,,,,,YBS006057007
+2011,Teslin Region,Total number of occupied private dwellings by number of rooms,,8 or more rooms,10,,,,,,,,YBS006057007
+2011,Teslin Region,,,Average number of rooms per dwelling,5,,,,,,,,YBS006057007
+2011,Teslin Region,,,Total number of occupied private dwellings by number of bedrooms,110,,,,,,,,YBS006057007
+2011,Teslin Region,Total number of occupied private dwellings by number of bedrooms,,0 to 1 bedroom,25,,,,,,,,YBS006057007
+2011,Teslin Region,Total number of occupied private dwellings by number of bedrooms,,2 bedrooms,40,,,,,,,,YBS006057007
+2011,Teslin Region,Total number of occupied private dwellings by number of bedrooms,,3 bedrooms,40,,,,,,,,YBS006057007
+2011,Teslin Region,Total number of occupied private dwellings by number of bedrooms,,4 or more bedrooms,0,,,,,,,,YBS006057007
+2011,Teslin Post 13,,,Total number of occupied private dwellings by condition of dwelling,65,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs98'>98</a>,6001007
+2011,Teslin Post 13,Total number of occupied private dwellings by condition of dwelling,,Only regular maintenance or minor repairs needed,45,,,,...,...,,,6001007
+2011,Teslin Post 13,Total number of occupied private dwellings by condition of dwelling,,Major repairs needed,20,,,,...,...,,,6001007
+2011,Teslin Post 13,,,Total number of occupied private dwellings by period of construction,65,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs99'>99</a>,6001007
+2011,Teslin Post 13,Total number of occupied private dwellings by period of construction,,1960 or before,0,,,,...,...,,,6001007
+2011,Teslin Post 13,Total number of occupied private dwellings by period of construction,,1961 to 1980,15,,,,...,...,,,6001007
+2011,Teslin Post 13,Total number of occupied private dwellings by period of construction,,1981 to 1990,15,,,,...,...,,,6001007
+2011,Teslin Post 13,Total number of occupied private dwellings by period of construction,,1991 to 2000,15,,,,...,...,,,6001007
+2011,Teslin Post 13,Total number of occupied private dwellings by period of construction,,2001 to 2005,10,,,,...,...,,,6001007
+2011,Teslin Post 13,Total number of occupied private dwellings by period of construction,,2006 to 2011,0,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs100'>100</a>,6001007
+2011,Teslin Post 13,,,Total number of occupied private dwellings by number of rooms,65,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs101'>101</a>,6001007
+2011,Teslin Post 13,Total number of occupied private dwellings by number of rooms,,1 to 4 rooms,30,,,,...,...,,,6001007
+2011,Teslin Post 13,Total number of occupied private dwellings by number of rooms,,5 rooms,20,,,,...,...,,,6001007
+2011,Teslin Post 13,Total number of occupied private dwellings by number of rooms,,6 rooms,10,,,,...,...,,,6001007
+2011,Teslin Post 13,Total number of occupied private dwellings by number of rooms,,7 rooms,0,,,,...,...,,,6001007
+2011,Teslin Post 13,Total number of occupied private dwellings by number of rooms,,8 or more rooms,0,,,,...,...,,,6001007
+2011,Teslin Post 13,,,Average number of rooms per dwelling,4.5,,,,...,...,,,6001007
+2011,Teslin Post 13,,,Total number of occupied private dwellings by number of bedrooms,65,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs102'>102</a>,6001007
+2011,Teslin Post 13,Total number of occupied private dwellings by number of bedrooms,,0 to 1 bedroom,20,,,,...,...,,,6001007
+2011,Teslin Post 13,Total number of occupied private dwellings by number of bedrooms,,2 bedrooms,30,,,,...,...,,,6001007
+2011,Teslin Post 13,Total number of occupied private dwellings by number of bedrooms,,3 bedrooms,20,,,,...,...,,,6001007
+2011,Teslin Post 13,Total number of occupied private dwellings by number of bedrooms,,4 or more bedrooms,0,,,,...,...,,,6001007
+2011,Upper Liard,,,Total number of occupied private dwellings by condition of dwelling,65,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs98'>98</a>,6001032
+2011,Upper Liard,Total number of occupied private dwellings by condition of dwelling,,Only regular maintenance or minor repairs needed,35,,,,...,...,,,6001032
+2011,Upper Liard,Total number of occupied private dwellings by condition of dwelling,,Major repairs needed,35,,,,...,...,,,6001032
+2011,Upper Liard,,,Total number of occupied private dwellings by period of construction,65,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs99'>99</a>,6001032
+2011,Upper Liard,Total number of occupied private dwellings by period of construction,,1960 or before,10,,,,...,...,,,6001032
+2011,Upper Liard,Total number of occupied private dwellings by period of construction,,1961 to 1980,30,,,,...,...,,,6001032
+2011,Upper Liard,Total number of occupied private dwellings by period of construction,,1981 to 1990,15,,,,...,...,,,6001032
+2011,Upper Liard,Total number of occupied private dwellings by period of construction,,1991 to 2000,15,,,,...,...,,,6001032
+2011,Upper Liard,Total number of occupied private dwellings by period of construction,,2001 to 2005,0,,,,...,...,,,6001032
+2011,Upper Liard,Total number of occupied private dwellings by period of construction,,2006 to 2011,0,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs100'>100</a>,6001032
+2011,Upper Liard,,,Total number of occupied private dwellings by number of rooms,65,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs101'>101</a>,6001032
+2011,Upper Liard,Total number of occupied private dwellings by number of rooms,,1 to 4 rooms,40,,,,...,...,,,6001032
+2011,Upper Liard,Total number of occupied private dwellings by number of rooms,,5 rooms,20,,,,...,...,,,6001032
+2011,Upper Liard,Total number of occupied private dwellings by number of rooms,,6 rooms,10,,,,...,...,,,6001032
+2011,Upper Liard,Total number of occupied private dwellings by number of rooms,,7 rooms,0,,,,...,...,,,6001032
+2011,Upper Liard,Total number of occupied private dwellings by number of rooms,,8 or more rooms,0,,,,...,...,,,6001032
+2011,Upper Liard,,,Average number of rooms per dwelling,4.2,,,,...,...,,,6001032
+2011,Upper Liard,,,Total number of occupied private dwellings by number of bedrooms,65,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs102'>102</a>,6001032
+2011,Upper Liard,Total number of occupied private dwellings by number of bedrooms,,0 to 1 bedroom,10,,,,...,...,,,6001032
+2011,Upper Liard,Total number of occupied private dwellings by number of bedrooms,,2 bedrooms,35,,,,...,...,,,6001032
+2011,Upper Liard,Total number of occupied private dwellings by number of bedrooms,,3 bedrooms,20,,,,...,...,,,6001032
+2011,Upper Liard,Total number of occupied private dwellings by number of bedrooms,,4 or more bedrooms,0,,,,...,...,,,6001032
+2011,Watson Lake,,,Total number of occupied private dwellings by condition of dwelling,350,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs98'>98</a>,6001003
+2011,Watson Lake,Total number of occupied private dwellings by condition of dwelling,,Only regular maintenance or minor repairs needed,290,,,,...,...,,,6001003
+2011,Watson Lake,Total number of occupied private dwellings by condition of dwelling,,Major repairs needed,60,,,,...,...,,,6001003
+2011,Watson Lake,,,Total number of occupied private dwellings by period of construction,350,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs99'>99</a>,6001003
+2011,Watson Lake,Total number of occupied private dwellings by period of construction,,1960 or before,25,,,,...,...,,,YBS003032033034035
+2011,Watson Lake,Total number of occupied private dwellings by period of construction,,1961 to 1980,185,,,,...,...,,,YBS003032033034035
+2011,Watson Lake,Total number of occupied private dwellings by period of construction,,1981 to 1990,90,,,,...,...,,,YBS003032033034035
+2011,Watson Lake,Total number of occupied private dwellings by period of construction,,1991 to 2000,40,,,,...,...,,,YBS003032033034035
+2011,Watson Lake,Total number of occupied private dwellings by period of construction,,2001 to 2005,0,,,,...,...,,,YBS003032033034035
+2011,Watson Lake,Total number of occupied private dwellings by period of construction,,2006 to 2011,10,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs100'>100</a>,YBS003032033034035
+2011,Watson Lake,,,Total number of occupied private dwellings by number of rooms,350,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs101'>101</a>,YBS003032033034035
+2011,Watson Lake,Total number of occupied private dwellings by number of rooms,,1 to 4 rooms,80,,,,...,...,,,YBS003032033034035
+2011,Watson Lake,Total number of occupied private dwellings by number of rooms,,5 rooms,50,,,,...,...,,,YBS003032033034035
+2011,Watson Lake,Total number of occupied private dwellings by number of rooms,,6 rooms,70,,,,...,...,,,YBS003032033034035
+2011,Watson Lake,Total number of occupied private dwellings by number of rooms,,7 rooms,55,,,,...,...,,,YBS003032033034035
+2011,Watson Lake,Total number of occupied private dwellings by number of rooms,,8 or more rooms,95,,,,...,...,,,YBS003032033034035
+2011,Watson Lake,,,Average number of rooms per dwelling,6.3,,,,...,...,,,YBS003032033034035
+2011,Watson Lake,,,Total number of occupied private dwellings by number of bedrooms,350,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs102'>102</a>,YBS003032033034035
+2011,Watson Lake,Total number of occupied private dwellings by number of bedrooms,,0 to 1 bedroom,40,,,,...,...,,,YBS003032033034035
+2011,Watson Lake,Total number of occupied private dwellings by number of bedrooms,,2 bedrooms,95,,,,...,...,,,YBS003032033034035
+2011,Watson Lake,Total number of occupied private dwellings by number of bedrooms,,3 bedrooms,130,,,,...,...,,,YBS003032033034035
+2011,Watson Lake,Total number of occupied private dwellings by number of bedrooms,,4 or more bedrooms,85,,,,...,...,,,YBS003032033034035
+2011,Watson Lake Region,,,Total number of occupied private dwellings by condition of dwelling,460,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total number of occupied private dwellings by condition of dwelling,,Only regular maintenance or minor repairs needed,355,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total number of occupied private dwellings by condition of dwelling,,Major repairs needed,105,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,,,Total number of occupied private dwellings by period of construction,460,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total number of occupied private dwellings by period of construction,,1960 or before,30,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total number of occupied private dwellings by period of construction,,1961 to 1980,210,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total number of occupied private dwellings by period of construction,,1981 to 1990,120,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total number of occupied private dwellings by period of construction,,1991 to 2000,65,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total number of occupied private dwellings by period of construction,,2001 to 2005,10,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total number of occupied private dwellings by period of construction,,2006 to 2011,25,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,,,Total number of occupied private dwellings by number of rooms,460,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total number of occupied private dwellings by number of rooms,,1 to 4 rooms,140,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total number of occupied private dwellings by number of rooms,,5 rooms,80,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total number of occupied private dwellings by number of rooms,,6 rooms,85,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total number of occupied private dwellings by number of rooms,,7 rooms,55,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total number of occupied private dwellings by number of rooms,,8 or more rooms,100,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,,,Average number of rooms per dwelling,6,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,,,Total number of occupied private dwellings by number of bedrooms,460,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total number of occupied private dwellings by number of bedrooms,,0 to 1 bedroom,60,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total number of occupied private dwellings by number of bedrooms,,2 bedrooms,150,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total number of occupied private dwellings by number of bedrooms,,3 bedrooms,160,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total number of occupied private dwellings by number of bedrooms,,4 or more bedrooms,95,,,,,,,,YBS003032033034035

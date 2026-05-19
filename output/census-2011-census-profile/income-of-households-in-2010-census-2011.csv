@@ -1,0 +1,904 @@
+census_year,geo_name,category,subcategory,variable_name,total,male,female,flag_total,flag_male,flag_female,geo_location,data_notes,geo_code
+2011,Yukon,,,Household total income in 2010 of private households,14120,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs149'>149</a>,6001
+2011,Yukon,Household total income in 2010 of private households,,Under $5;000,300,,,,...,...,,,6001
+2011,Yukon,Household total income in 2010 of private households,,$5;000 to $9;999,245,,,,...,...,,,6001
+2011,Yukon,Household total income in 2010 of private households,,$10;000 to $14;999,220,,,,...,...,,,6001
+2011,Yukon,Household total income in 2010 of private households,,$15;000 to $19;999,520,,,,...,...,,,6001
+2011,Yukon,Household total income in 2010 of private households,,$20;000 to $29;999,1000,,,,...,...,,,6001
+2011,Yukon,Household total income in 2010 of private households,,$30;000 to $39;999,1285,,,,...,...,,,6001
+2011,Yukon,Household total income in 2010 of private households,,$40;000 to $49;999,905,,,,...,...,,,6001
+2011,Yukon,Household total income in 2010 of private households,,$50;000 to $59;999,995,,,,...,...,,,6001
+2011,Yukon,Household total income in 2010 of private households,,$60;000 to $79;999,2025,,,,...,...,,,6001
+2011,Yukon,Household total income in 2010 of private households,,$80;000 to $99;999,1750,,,,...,...,,,6001
+2011,Yukon,Household total income in 2010 of private households,,$100;000 to $124;999,1520,,,,...,...,,,6001
+2011,Yukon,Household total income in 2010 of private households,,$125;000 to $149;999,1260,,,,...,...,,,6001
+2011,Yukon,Household total income in 2010 of private households,,$150;000 and over,2100,,,,...,...,,,6001
+2011,Yukon,,,After-tax income of households in 2010 of private households,14120,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs150'>150</a>,6001
+2011,Yukon,After-tax income of households in 2010 of private households,,Under $5;000,300,,,,...,...,,,6001
+2011,Yukon,After-tax income of households in 2010 of private households,,$5;000 to $9;999,245,,,,...,...,,,6001
+2011,Yukon,After-tax income of households in 2010 of private households,,$10;000 to $14;999,230,,,,...,...,,,6001
+2011,Yukon,After-tax income of households in 2010 of private households,,$15;000 to $19;999,565,,,,...,...,,,6001
+2011,Yukon,After-tax income of households in 2010 of private households,,$20;000 to $29;999,1190,,,,...,...,,,6001
+2011,Yukon,After-tax income of households in 2010 of private households,,$30;000 to $39;999,1215,,,,...,...,,,6001
+2011,Yukon,After-tax income of households in 2010 of private households,,$40;000 to $49;999,1220,,,,...,...,,,6001
+2011,Yukon,After-tax income of households in 2010 of private households,,$50;000 to $59;999,1235,,,,...,...,,,6001
+2011,Yukon,After-tax income of households in 2010 of private households,,$60;000 to $79;999,2415,,,,...,...,,,6001
+2011,Yukon,After-tax income of households in 2010 of private households,,$80;000 to $99;999,1685,,,,...,...,,,990
+2011,Yukon,After-tax income of households in 2010 of private households,,$100;000 and over,3820,,,,...,...,,,6001
+2011,Yukon,After-tax income of households in 2010 of private households,$100;000 and over,$100;000 to $124;999,1630,,,,...,...,,,6001
+2011,Yukon,After-tax income of households in 2010 of private households,$100;000 and over,$125;000 and over,2195,,,,...,...,,,6001
+2011,Yukon,,,Household income in 2010 of private households,14120,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs151'>151</a>,6001
+2011,Yukon,Household income in 2010 of private households,,Median household total income ($),75944,,,,...,...,,,6001
+2011,Yukon,Household income in 2010 of private households,,Average household total income ($),88526,,,,...,...,,,6001
+2011,Yukon,Household income in 2010 of private households,,Median after-tax household income ($),67381,,,,...,...,,,6001
+2011,Yukon,Household income in 2010 of private households,,Average after-tax household income ($),76214,,,,...,...,,,6001
+2011,Yukon,Household income in 2010 of private households,,One-person private households,4335,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,6001
+2011,Yukon,Household income in 2010 of private households,One-person private households,Median household total income ($),38719,,,,...,...,,,6001
+2011,Yukon,Household income in 2010 of private households,One-person private households,Average household total income ($),45994,,,,...,...,,,6001
+2011,Yukon,Household income in 2010 of private households,One-person private households,Median after-tax household income ($),35486,,,,...,...,,,6001
+2011,Yukon,Household income in 2010 of private households,One-person private households,Average after-tax household income ($),39963,,,,...,...,,,6001
+2011,Yukon,Household income in 2010 of private households,,Two-or-more-persons private households,9780,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,6001
+2011,Yukon,Household income in 2010 of private households,Two-or-more-persons private households,Median household total income ($),96404,,,,...,...,,,6001
+2011,Yukon,Household income in 2010 of private households,Two-or-more-persons private households,Average household total income ($),107394,,,,...,...,,,6001
+2011,Yukon,Household income in 2010 of private households,Two-or-more-persons private households,Median after-tax household income ($),83710,,,,...,...,,,6001
+2011,Yukon,Household income in 2010 of private households,Two-or-more-persons private households,Average after-tax household income ($),92295,,,,...,...,,,6001
+2011,Whitehorse - City,,,Household total income in 2010 of private households,9310,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs149'>149</a>,YBS042039049018
+2011,Whitehorse - City,Household total income in 2010 of private households,,Under $5;000,215,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,Household total income in 2010 of private households,,$5;000 to $9;999,140,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,Household total income in 2010 of private households,,$10;000 to $14;999,105,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,Household total income in 2010 of private households,,$15;000 to $19;999,305,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,Household total income in 2010 of private households,,$20;000 to $29;999,550,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,Household total income in 2010 of private households,,$30;000 to $39;999,695,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,Household total income in 2010 of private households,,$40;000 to $49;999,515,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,Household total income in 2010 of private households,,$50;000 to $59;999,630,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,Household total income in 2010 of private households,,$60;000 to $79;999,1275,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,Household total income in 2010 of private households,,$80;000 to $99;999,1235,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,Household total income in 2010 of private households,,$100;000 to $124;999,1095,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,Household total income in 2010 of private households,,$125;000 to $149;999,885,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,Household total income in 2010 of private households,,$150;000 and over,1670,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,,,After-tax income of households in 2010 of private households,9310,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs150'>150</a>,YBS042039049018
+2011,Whitehorse - City,After-tax income of households in 2010 of private households,,Under $5;000,220,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,After-tax income of households in 2010 of private households,,$5;000 to $9;999,135,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,After-tax income of households in 2010 of private households,,$10;000 to $14;999,110,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,After-tax income of households in 2010 of private households,,$15;000 to $19;999,310,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,After-tax income of households in 2010 of private households,,$20;000 to $29;999,670,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,After-tax income of households in 2010 of private households,,$30;000 to $39;999,650,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,After-tax income of households in 2010 of private households,,$40;000 to $49;999,760,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,After-tax income of households in 2010 of private households,,$50;000 to $59;999,700,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,After-tax income of households in 2010 of private households,,$60;000 to $79;999,1650,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,After-tax income of households in 2010 of private households,,$80;000 to $99;999,1225,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,After-tax income of households in 2010 of private households,,$100;000 and over,2885,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,After-tax income of households in 2010 of private households,$100;000 and over,$100;000 to $124;999,1155,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,After-tax income of households in 2010 of private households,$100;000 and over,$125;000 and over,1730,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,,,Household income in 2010 of private households,9310,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs151'>151</a>,YBS042039049018
+2011,Whitehorse - City,Household income in 2010 of private households,,Median household total income ($),83226,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,Household income in 2010 of private households,,Average household total income ($),95352,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,Household income in 2010 of private households,,Median after-tax household income ($),73109,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,Household income in 2010 of private households,,Average after-tax household income ($),81757,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,Household income in 2010 of private households,,One-person private households,2680,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,YBS042039049018
+2011,Whitehorse - City,Household income in 2010 of private households,One-person private households,Median household total income ($),43870,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,Household income in 2010 of private households,One-person private households,Average household total income ($),48847,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,Household income in 2010 of private households,One-person private households,Median after-tax household income ($),39366,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,Household income in 2010 of private households,One-person private households,Average after-tax household income ($),42278,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,Household income in 2010 of private households,,Two-or-more-persons private households,6630,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,YBS042039049018
+2011,Whitehorse - City,Household income in 2010 of private households,Two-or-more-persons private households,Median household total income ($),102965,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,Household income in 2010 of private households,Two-or-more-persons private households,Average household total income ($),114151,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,Household income in 2010 of private households,Two-or-more-persons private households,Median after-tax household income ($),89235,,,,...,...,,,YBS042039049018
+2011,Whitehorse - City,Household income in 2010 of private households,Two-or-more-persons private households,Average after-tax household income ($),97716,,,,...,...,,,YBS042039049018
+2011,Alaska Highway North Region,,,Household total income in 2010 of private households,375,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Household total income in 2010 of private households,,Under $5;000,0,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Household total income in 2010 of private households,,$5;000 to $9;999,10,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Household total income in 2010 of private households,,$10;000 to $14;999,10,,,,,,,,6001042
+2011,Alaska Highway North Region,Household total income in 2010 of private households,,$15;000 to $19;999,25,,,,,,,,6001042
+2011,Alaska Highway North Region,Household total income in 2010 of private households,,$20;000 to $29;999,30,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Household total income in 2010 of private households,,$30;000 to $39;999,30,,,,,,,,6001042
+2011,Alaska Highway North Region,Household total income in 2010 of private households,,$40;000 to $49;999,25,,,,,,,,6001042
+2011,Alaska Highway North Region,Household total income in 2010 of private households,,$50;000 to $59;999,35,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Household total income in 2010 of private households,,$60;000 to $79;999,45,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Household total income in 2010 of private households,,$80;000 to $99;999,50,,,,,,,,6001042
+2011,Alaska Highway North Region,Household total income in 2010 of private households,,$100;000 to $124;999,35,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Household total income in 2010 of private households,,$125;000 to $149;999,45,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Household total income in 2010 of private households,,$150;000 and over,35,,,,,,,,6001042
+2011,Alaska Highway North Region,,,After-tax income of households in 2010 of private households,375,,,,,,,,6001042
+2011,Alaska Highway North Region,After-tax income of households in 2010 of private households,,Under $5;000,0,,,,,,,,6001042
+2011,Alaska Highway North Region,After-tax income of households in 2010 of private households,,$5;000 to $9;999,10,,,,,,,,6001042
+2011,Alaska Highway North Region,After-tax income of households in 2010 of private households,,$10;000 to $14;999,0,,,,,,,,6001042
+2011,Alaska Highway North Region,After-tax income of households in 2010 of private households,,$15;000 to $19;999,25,,,,,,,,6001042
+2011,Alaska Highway North Region,After-tax income of households in 2010 of private households,,$20;000 to $29;999,35,,,,,,,,6001042
+2011,Alaska Highway North Region,After-tax income of households in 2010 of private households,,$30;000 to $39;999,40,,,,,,,,6001042
+2011,Alaska Highway North Region,After-tax income of households in 2010 of private households,,$40;000 to $49;999,30,,,,,,,,6001042
+2011,Alaska Highway North Region,After-tax income of households in 2010 of private households,,$50;000 to $59;999,40,,,,,,,,6001042
+2011,Alaska Highway North Region,After-tax income of households in 2010 of private households,,$60;000 to $79;999,50,,,,,,,,6001042
+2011,Alaska Highway North Region,After-tax income of households in 2010 of private households,,$80;000 to $99;999,45,,,,,,,,6001042
+2011,Alaska Highway North Region,After-tax income of households in 2010 of private households,,$100;000 and over,90,,,,,,,,6001042
+2011,Alaska Highway North Region,After-tax income of households in 2010 of private households,$100;000 and over,$100;000 to $124;999,55,,,,,,,,6001042
+2011,Alaska Highway North Region,After-tax income of households in 2010 of private households,$100;000 and over,$125;000 and over,35,,,,,,,,6001042
+2011,Alaska Highway North Region,,,Household income in 2010 of private households,375,,,,,,,,6001042
+2011,Alaska Highway North Region,Household income in 2010 of private households,,Median household total income $,66757,,,,,,,,6001042
+2011,Alaska Highway North Region,Household income in 2010 of private households,,Average household total income $,76632,,,,,,,,6001042
+2011,Alaska Highway North Region,Household income in 2010 of private households,,Median after-tax household income $,58886,,,,,,,,6001042
+2011,Alaska Highway North Region,Household income in 2010 of private households,,Average after-tax household income $,66944,,,,,,,,6001042
+2011,Alaska Highway North Region,Household income in 2010 of private households,,One-person private households,135,,,,,,,,6001042
+2011,Alaska Highway North Region,Household income in 2010 of private households,One-person private households,Median household total income $,33577,,,,,,,,6001042
+2011,Alaska Highway North Region,Household income in 2010 of private households,One-person private households,Average household total income $,40725,,,,,,,,6001042
+2011,Alaska Highway North Region,Household income in 2010 of private households,One-person private households,Median after-tax household income $,30501,,,,,,,,6001042
+2011,Alaska Highway North Region,Household income in 2010 of private households,One-person private households,Average after-tax household income $,35601,,,,,,,,6001042
+2011,Alaska Highway North Region,Household income in 2010 of private households,,Two-or-more-persons private households,240,,,,,,,,6001042
+2011,Alaska Highway North Region,Household income in 2010 of private households,Two-or-more-persons private households,Median household total income $,95070,,,,,,,,6001042
+2011,Alaska Highway North Region,Household income in 2010 of private households,Two-or-more-persons private households,Average household total income $,96763,,,,,,,,6001042
+2011,Alaska Highway North Region,Household income in 2010 of private households,Two-or-more-persons private households,Median after-tax household income $,83793,,,,,,,,6001042
+2011,Alaska Highway North Region,Household income in 2010 of private households,Two-or-more-persons private households,Average after-tax household income $,84516,,,,,,,,6001042
+2011,Beaver Creek,,,Household total income in 2010 of private households,,,,x,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs149'>149</a>,6001042
+2011,Beaver Creek,Household total income in 2010 of private households,,Under $5;000,,,,x,...,...,,,6001042
+2011,Beaver Creek,Household total income in 2010 of private households,,$5;000 to $9;999,,,,x,...,...,,,6001042
+2011,Beaver Creek,Household total income in 2010 of private households,,$10;000 to $14;999,,,,x,...,...,,,6001042
+2011,Beaver Creek,Household total income in 2010 of private households,,$15;000 to $19;999,,,,x,...,...,,,6001042
+2011,Beaver Creek,Household total income in 2010 of private households,,$20;000 to $29;999,,,,x,...,...,,,6001042
+2011,Beaver Creek,Household total income in 2010 of private households,,$30;000 to $39;999,,,,x,...,...,,,6001042
+2011,Beaver Creek,Household total income in 2010 of private households,,$40;000 to $49;999,,,,x,...,...,,,6001042
+2011,Beaver Creek,Household total income in 2010 of private households,,$50;000 to $59;999,,,,x,...,...,,,6001042
+2011,Beaver Creek,Household total income in 2010 of private households,,$60;000 to $79;999,,,,x,...,...,,,6001042
+2011,Beaver Creek,Household total income in 2010 of private households,,$80;000 to $99;999,,,,x,...,...,,,6001042
+2011,Beaver Creek,Household total income in 2010 of private households,,$100;000 to $124;999,,,,x,...,...,,,6001042
+2011,Beaver Creek,Household total income in 2010 of private households,,$125;000 to $149;999,,,,x,...,...,,,6001042
+2011,Beaver Creek,Household total income in 2010 of private households,,$150;000 and over,,,,x,...,...,,,6001042
+2011,Beaver Creek,,,After-tax income of households in 2010 of private households,,,,x,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs150'>150</a>,6001042
+2011,Beaver Creek,After-tax income of households in 2010 of private households,,Under $5;000,,,,x,...,...,,,6001042
+2011,Beaver Creek,After-tax income of households in 2010 of private households,,$5;000 to $9;999,,,,x,...,...,,,6001042
+2011,Beaver Creek,After-tax income of households in 2010 of private households,,$10;000 to $14;999,,,,x,...,...,,,6001042
+2011,Beaver Creek,After-tax income of households in 2010 of private households,,$15;000 to $19;999,,,,x,...,...,,,6001042
+2011,Beaver Creek,After-tax income of households in 2010 of private households,,$20;000 to $29;999,,,,x,...,...,,,6001042
+2011,Beaver Creek,After-tax income of households in 2010 of private households,,$30;000 to $39;999,,,,x,...,...,,,6001042
+2011,Beaver Creek,After-tax income of households in 2010 of private households,,$40;000 to $49;999,,,,x,...,...,,,6001042
+2011,Beaver Creek,After-tax income of households in 2010 of private households,,$50;000 to $59;999,,,,x,...,...,,,6001042
+2011,Beaver Creek,After-tax income of households in 2010 of private households,,$60;000 to $79;999,,,,x,...,...,,,6001042
+2011,Beaver Creek,After-tax income of households in 2010 of private households,,$80;000 to $99;999,,,,x,...,...,,,6001042
+2011,Beaver Creek,After-tax income of households in 2010 of private households,,$100;000 and over,,,,x,...,...,,,6001042
+2011,Beaver Creek,After-tax income of households in 2010 of private households,$100;000 and over,$100;000 to $124;999,,,,x,...,...,,,6001042
+2011,Beaver Creek,After-tax income of households in 2010 of private households,$100;000 and over,$125;000 and over,,,,x,...,...,,,6001042
+2011,Beaver Creek,,,Household income in 2010 of private households,,,,x,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs151'>151</a>,6001042
+2011,Beaver Creek,Household income in 2010 of private households,,Median household total income ($),,,,x,...,...,,,6001042
+2011,Beaver Creek,Household income in 2010 of private households,,Average household total income ($),,,,x,...,...,,,6001042
+2011,Beaver Creek,Household income in 2010 of private households,,Median after-tax household income ($),,,,x,...,...,,,6001042
+2011,Beaver Creek,Household income in 2010 of private households,,Average after-tax household income ($),,,,x,...,...,,,6001039
+2011,Beaver Creek,Household income in 2010 of private households,,One-person private households,,,,x,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,6001039
+2011,Beaver Creek,Household income in 2010 of private households,One-person private households,Median household total income ($),,,,x,...,...,,,6001039
+2011,Beaver Creek,Household income in 2010 of private households,One-person private households,Average household total income ($),,,,x,...,...,,,6001039
+2011,Beaver Creek,Household income in 2010 of private households,One-person private households,Median after-tax household income ($),,,,x,...,...,,,6001039
+2011,Beaver Creek,Household income in 2010 of private households,One-person private households,Average after-tax household income ($),,,,x,...,...,,,6001042
+2011,Beaver Creek,Household income in 2010 of private households,,Two-or-more-persons private households,,,,x,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,6001042
+2011,Beaver Creek,Household income in 2010 of private households,Two-or-more-persons private households,Median household total income ($),,,,x,...,...,,,6001042
+2011,Beaver Creek,Household income in 2010 of private households,Two-or-more-persons private households,Average household total income ($),,,,x,...,...,,,6001042
+2011,Beaver Creek,Household income in 2010 of private households,Two-or-more-persons private households,Median after-tax household income ($),,,,x,...,...,,,6001042
+2011,Beaver Creek,Household income in 2010 of private households,Two-or-more-persons private households,Average after-tax household income ($),,,,x,...,...,,,6001042
+2011,Burwash Landing,,,Household total income in 2010 of private households,,,,x,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs149'>149</a>,6001039
+2011,Burwash Landing,Household total income in 2010 of private households,,Under $5;000,,,,x,...,...,,,6001039
+2011,Burwash Landing,Household total income in 2010 of private households,,$5;000 to $9;999,,,,x,...,...,,,6001039
+2011,Burwash Landing,Household total income in 2010 of private households,,$10;000 to $14;999,,,,x,...,...,,,6001039
+2011,Burwash Landing,Household total income in 2010 of private households,,$15;000 to $19;999,,,,x,...,...,,,6001039
+2011,Burwash Landing,Household total income in 2010 of private households,,$20;000 to $29;999,,,,x,...,...,,,6001039
+2011,Burwash Landing,Household total income in 2010 of private households,,$30;000 to $39;999,,,,x,...,...,,,6001039
+2011,Burwash Landing,Household total income in 2010 of private households,,$40;000 to $49;999,,,,x,...,...,,,6001039
+2011,Burwash Landing,Household total income in 2010 of private households,,$50;000 to $59;999,,,,x,...,...,,,6001039
+2011,Burwash Landing,Household total income in 2010 of private households,,$60;000 to $79;999,,,,x,...,...,,,6001039
+2011,Burwash Landing,Household total income in 2010 of private households,,$80;000 to $99;999,,,,x,...,...,,,6001039
+2011,Burwash Landing,Household total income in 2010 of private households,,$100;000 to $124;999,,,,x,...,...,,,6001039
+2011,Burwash Landing,Household total income in 2010 of private households,,$125;000 to $149;999,,,,x,...,...,,,6001039
+2011,Burwash Landing,Household total income in 2010 of private households,,$150;000 and over,,,,x,...,...,,,6001039
+2011,Burwash Landing,,,After-tax income of households in 2010 of private households,,,,x,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs150'>150</a>,6001039
+2011,Burwash Landing,After-tax income of households in 2010 of private households,,Under $5;000,,,,x,...,...,,,6001039
+2011,Burwash Landing,After-tax income of households in 2010 of private households,,$5;000 to $9;999,,,,x,...,...,,,6001039
+2011,Burwash Landing,After-tax income of households in 2010 of private households,,$10;000 to $14;999,,,,x,...,...,,,6001039
+2011,Burwash Landing,After-tax income of households in 2010 of private households,,$15;000 to $19;999,,,,x,...,...,,,6001039
+2011,Burwash Landing,After-tax income of households in 2010 of private households,,$20;000 to $29;999,,,,x,...,...,,,6001039
+2011,Burwash Landing,After-tax income of households in 2010 of private households,,$30;000 to $39;999,,,,x,...,...,,,6001039
+2011,Burwash Landing,After-tax income of households in 2010 of private households,,$40;000 to $49;999,,,,x,...,...,,,6001039
+2011,Burwash Landing,After-tax income of households in 2010 of private households,,$50;000 to $59;999,,,,x,...,...,,,6001039
+2011,Burwash Landing,After-tax income of households in 2010 of private households,,$60;000 to $79;999,,,,x,...,...,,,6001039
+2011,Burwash Landing,After-tax income of households in 2010 of private households,,$80;000 to $99;999,,,,x,...,...,,,6001039
+2011,Burwash Landing,After-tax income of households in 2010 of private households,,$100;000 and over,,,,x,...,...,,,6001039
+2011,Burwash Landing,After-tax income of households in 2010 of private households,$100;000 and over,$100;000 to $124;999,,,,x,...,...,,,6001039
+2011,Burwash Landing,After-tax income of households in 2010 of private households,$100;000 and over,$125;000 and over,,,,x,...,...,,,6001039
+2011,Burwash Landing,,,Household income in 2010 of private households,,,,x,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs151'>151</a>,6001039
+2011,Burwash Landing,Household income in 2010 of private households,,Median household total income ($),,,,x,...,...,,,6001039
+2011,Burwash Landing,Household income in 2010 of private households,,Average household total income ($),,,,x,...,...,,,6001039
+2011,Burwash Landing,Household income in 2010 of private households,,Median after-tax household income ($),,,,x,...,...,,,6001039
+2011,Burwash Landing,Household income in 2010 of private households,,Average after-tax household income ($),,,,x,...,...,,,6001039
+2011,Burwash Landing,Household income in 2010 of private households,,One-person private households,,,,x,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,6001039
+2011,Burwash Landing,Household income in 2010 of private households,One-person private households,Median household total income ($),,,,x,...,...,,,6001039
+2011,Burwash Landing,Household income in 2010 of private households,One-person private households,Average household total income ($),,,,x,...,...,,,6001039
+2011,Burwash Landing,Household income in 2010 of private households,One-person private households,Median after-tax household income ($),,,,x,...,...,,,6001039
+2011,Burwash Landing,Household income in 2010 of private households,One-person private households,Average after-tax household income ($),,,,x,...,...,,,6001039
+2011,Burwash Landing,Household income in 2010 of private households,,Two-or-more-persons private households,,,,x,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,6001039
+2011,Burwash Landing,Household income in 2010 of private households,Two-or-more-persons private households,Median household total income ($),,,,x,...,...,,,6001039
+2011,Burwash Landing,Household income in 2010 of private households,Two-or-more-persons private households,Average household total income ($),,,,x,...,...,,,6001039
+2011,Burwash Landing,Household income in 2010 of private households,Two-or-more-persons private households,Median after-tax household income ($),,,,x,...,...,,,6001039
+2011,Burwash Landing,Household income in 2010 of private households,Two-or-more-persons private households,Average after-tax household income ($),,,,x,...,...,,,6001039
+2011,Carcross,,,Household total income in 2010 of private households,140,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs149'>149</a>,6001048
+2011,Carcross,Household total income in 2010 of private households,,Under $5;000,,,,x,...,...,,,6001048
+2011,Carcross,Household total income in 2010 of private households,,$5;000 to $9;999,,,,x,...,...,,,6001048
+2011,Carcross,Household total income in 2010 of private households,,$10;000 to $14;999,,,,x,...,...,,,YBS048008
+2011,Carcross,Household total income in 2010 of private households,,$15;000 to $19;999,,,,x,...,...,,,6001048
+2011,Carcross,Household total income in 2010 of private households,,$20;000 to $29;999,,,,x,...,...,,,6001048
+2011,Carcross,Household total income in 2010 of private households,,$30;000 to $39;999,,,,x,...,...,,,6001048
+2011,Carcross,Household total income in 2010 of private households,,$40;000 to $49;999,,,,x,...,...,,,6001048
+2011,Carcross,Household total income in 2010 of private households,,$50;000 to $59;999,10,,,,...,...,,,6001048
+2011,Carcross,Household total income in 2010 of private households,,$60;000 to $79;999,,,,x,...,...,,,6001048
+2011,Carcross,Household total income in 2010 of private households,,$80;000 to $99;999,,,,x,...,...,,,6001048
+2011,Carcross,Household total income in 2010 of private households,,$100;000 to $124;999,,,,x,...,...,,,6001048
+2011,Carcross,Household total income in 2010 of private households,,$125;000 to $149;999,,,,x,...,...,,,6001048
+2011,Carcross,Household total income in 2010 of private households,,$150;000 and over,,,,x,...,...,,,6001048
+2011,Carcross,,,After-tax income of households in 2010 of private households,140,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs150'>150</a>,6001048
+2011,Carcross,After-tax income of households in 2010 of private households,,Under $5;000,,,,x,...,...,,,6001048
+2011,Carcross,After-tax income of households in 2010 of private households,,$5;000 to $9;999,,,,x,...,...,,,6001048
+2011,Carcross,After-tax income of households in 2010 of private households,,$10;000 to $14;999,,,,x,...,...,,,6001048
+2011,Carcross,After-tax income of households in 2010 of private households,,$15;000 to $19;999,,,,x,...,...,,,6001048
+2011,Carcross,After-tax income of households in 2010 of private households,,$20;000 to $29;999,,,,x,...,...,,,6001048
+2011,Carcross,After-tax income of households in 2010 of private households,,$30;000 to $39;999,,,,x,...,...,,,6001048
+2011,Carcross,After-tax income of households in 2010 of private households,,$40;000 to $49;999,,,,x,...,...,,,6001048
+2011,Carcross,After-tax income of households in 2010 of private households,,$50;000 to $59;999,,,,x,...,...,,,6001048
+2011,Carcross,After-tax income of households in 2010 of private households,,$60;000 to $79;999,,,,x,...,...,,,6001048
+2011,Carcross,After-tax income of households in 2010 of private households,,$80;000 to $99;999,,,,x,...,...,,,6001048
+2011,Carcross,After-tax income of households in 2010 of private households,,$100;000 and over,,,,x,...,...,,,6001048
+2011,Carcross,After-tax income of households in 2010 of private households,$100;000 and over,$100;000 to $124;999,,,,x,...,...,,,6001048
+2011,Carcross,After-tax income of households in 2010 of private households,$100;000 and over,$125;000 and over,,,,x,...,...,,,6001048
+2011,Carcross,,,Household income in 2010 of private households,140,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs151'>151</a>,6001048
+2011,Carcross,Household income in 2010 of private households,,Median household total income ($),41373,,,,...,...,,,6001048
+2011,Carcross,Household income in 2010 of private households,,Average household total income ($),59539,,,,...,...,,,6001048
+2011,Carcross,Household income in 2010 of private households,,Median after-tax household income ($),39322,,,,...,...,,,6001048
+2011,Carcross,Household income in 2010 of private households,,Average after-tax household income ($),52856,,,,...,...,,,6001048
+2011,Carcross,Household income in 2010 of private households,,One-person private households,60,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,6001048
+2011,Carcross,Household income in 2010 of private households,One-person private households,Median household total income ($),26594,,,,...,...,,,6001048
+2011,Carcross,Household income in 2010 of private households,One-person private households,Average household total income ($),34069,,,,...,...,,,YBS048008
+2011,Carcross,Household income in 2010 of private households,One-person private households,Median after-tax household income ($),23289,,,,...,...,,,6001048
+2011,Carcross,Household income in 2010 of private households,One-person private households,Average after-tax household income ($),30357,,,,...,...,,,6001048
+2011,Carcross,Household income in 2010 of private households,,Two-or-more-persons private households,85,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,6001048
+2011,Carcross,Household income in 2010 of private households,Two-or-more-persons private households,Median household total income ($),60762,,,,...,...,,,6001048
+2011,Carcross,Household income in 2010 of private households,Two-or-more-persons private households,Average household total income ($),77278,,,,...,...,,,6001048
+2011,Carcross,Household income in 2010 of private households,Two-or-more-persons private households,Median after-tax household income ($),58413,,,,...,...,,,6001048
+2011,Carcross,Household income in 2010 of private households,Two-or-more-persons private households,Average after-tax household income ($),68527,,,,...,...,,,6001048
+2011,Carcross Region,,,Household total income in 2010 of private households,160,,,,,,,,YBS048008
+2011,Carcross Region,Household total income in 2010 of private households,,Under $5;000,10,,,,,,,,YBS048008
+2011,Carcross Region,Household total income in 2010 of private households,,$5;000 to $9;999,10,,,,,,,,YBS048008
+2011,Carcross Region,Household total income in 2010 of private households,,$10;000 to $14;999,10,,,,,,,,YBS048008
+2011,Carcross Region,Household total income in 2010 of private households,,$15;000 to $19;999,10,,,,,,,,YBS048008
+2011,Carcross Region,Household total income in 2010 of private households,,$20;000 to $29;999,20,,,,,,,,YBS048008
+2011,Carcross Region,Household total income in 2010 of private households,,$30;000 to $39;999,25,,,,,,,,YBS048008
+2011,Carcross Region,Household total income in 2010 of private households,,$40;000 to $49;999,15,,,,,,,,YBS048008
+2011,Carcross Region,Household total income in 2010 of private households,,$50;000 to $59;999,10,,,,,,,,YBS048008
+2011,Carcross Region,Household total income in 2010 of private households,,$60;000 to $79;999,15,,,,,,,,YBS048008
+2011,Carcross Region,Household total income in 2010 of private households,,$80;000 to $99;999,20,,,,,,,,YBS048008
+2011,Carcross Region,Household total income in 2010 of private households,,$100;000 to $124;999,0,,,,,,,,YBS048008
+2011,Carcross Region,Household total income in 2010 of private households,,$125;000 to $149;999,15,,,,,,,,YBS048008
+2011,Carcross Region,Household total income in 2010 of private households,,$150;000 and over,10,,,,,,,,YBS048008
+2011,Carcross Region,,,After-tax income of households in 2010 of private households,165,,,,,,,,YBS048008
+2011,Carcross Region,After-tax income of households in 2010 of private households,,Under $5;000,10,,,,,,,,YBS048008
+2011,Carcross Region,After-tax income of households in 2010 of private households,,$5;000 to $9;999,0,,,,,,,,YBS048008
+2011,Carcross Region,After-tax income of households in 2010 of private households,,$10;000 to $14;999,10,,,,,,,,YBS048008
+2011,Carcross Region,After-tax income of households in 2010 of private households,,$15;000 to $19;999,15,,,,,,,,YBS048008
+2011,Carcross Region,After-tax income of households in 2010 of private households,,$20;000 to $29;999,20,,,,,,,,YBS048008
+2011,Carcross Region,After-tax income of households in 2010 of private households,,$30;000 to $39;999,30,,,,,,,,YBS048008
+2011,Carcross Region,After-tax income of households in 2010 of private households,,$40;000 to $49;999,20,,,,,,,,YBS048008
+2011,Carcross Region,After-tax income of households in 2010 of private households,,$50;000 to $59;999,10,,,,,,,,YBS048008
+2011,Carcross Region,After-tax income of households in 2010 of private households,,$60;000 to $79;999,20,,,,,,,,YBS048008
+2011,Carcross Region,After-tax income of households in 2010 of private households,,$80;000 to $99;999,10,,,,,,,,YBS048008
+2011,Carcross Region,After-tax income of households in 2010 of private households,,$100;000 and over,25,,,,,,,,YBS048008
+2011,Carcross Region,After-tax income of households in 2010 of private households,$100;000 and over,$100;000 to $124;999,15,,,,,,,,YBS048008
+2011,Carcross Region,After-tax income of households in 2010 of private households,$100;000 and over,$125;000 and over,10,,,,,,,,YBS048008
+2011,Carcross Region,,,Household income in 2010 of private households,160,,,,,,,,YBS048008
+2011,Carcross Region,Household income in 2010 of private households,,Median household total income $,45727,,,,,,,,YBS048008
+2011,Carcross Region,Household income in 2010 of private households,,Average household total income $,61095,,,,,,,,YBS048008
+2011,Carcross Region,Household income in 2010 of private households,,Median after-tax household income $,42121,,,,,,,,YBS048008
+2011,Carcross Region,Household income in 2010 of private households,,Average after-tax household income $,54090,,,,,,,,YBS048008
+2011,Carcross Region,Household income in 2010 of private households,,One-person private households,60,,,,,,,,YBS048008
+2011,Carcross Region,Household income in 2010 of private households,One-person private households,Median household total income $,23785,,,,,,,,YBS048008
+2011,Carcross Region,Household income in 2010 of private households,One-person private households,Average household total income $,32831,,,,,,,,YBS048008
+2011,Carcross Region,Household income in 2010 of private households,One-person private households,Median after-tax household income $,22761,,,,,,,,YBS048008
+2011,Carcross Region,Household income in 2010 of private households,One-person private households,Average after-tax household income $,29256,,,,,,,,YBS048008
+2011,Carcross Region,Household income in 2010 of private households,,Two-or-more-persons private households,100,,,,,,,,YBS048008
+2011,Carcross Region,Household income in 2010 of private households,Two-or-more-persons private households,Median household total income $,64659,,,,,,,,YBS048008
+2011,Carcross Region,Household income in 2010 of private households,Two-or-more-persons private households,Average household total income $,78210,,,,,,,,YBS048008
+2011,Carcross Region,Household income in 2010 of private households,Two-or-more-persons private households,Median after-tax household income $,58569,,,,,,,,YBS048008
+2011,Carcross Region,Household income in 2010 of private households,Two-or-more-persons private households,Average after-tax household income $,69127,,,,,,,,YBS048008
+2011,Carcross 4,,,Household total income in 2010 of private households,,,,x,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs149'>149</a>,YBS048008036
+2011,Carcross 4,Household total income in 2010 of private households,,Under $5;000,,,,x,...,...,,,YBS048008036
+2011,Carcross 4,Household total income in 2010 of private households,,$5;000 to $9;999,,,,x,...,...,,,YBS048008036
+2011,Carcross 4,Household total income in 2010 of private households,,$10;000 to $14;999,,,,x,...,...,,,YBS048008036
+2011,Carcross 4,Household total income in 2010 of private households,,$15;000 to $19;999,,,,x,...,...,,,YBS048008036
+2011,Carcross 4,Household total income in 2010 of private households,,$20;000 to $29;999,,,,x,...,...,,,YBS048008036
+2011,Carcross 4,Household total income in 2010 of private households,,$30;000 to $39;999,,,,x,...,...,,,YBS048008036
+2011,Carcross 4,Household total income in 2010 of private households,,$40;000 to $49;999,,,,x,...,...,,,YBS048008036
+2011,Carcross 4,Household total income in 2010 of private households,,$50;000 to $59;999,,,,x,...,...,,,YBS048008036
+2011,Carcross 4,Household total income in 2010 of private households,,$60;000 to $79;999,,,,x,...,...,,,YBS048008036
+2011,Carcross 4,Household total income in 2010 of private households,,$80;000 to $99;999,,,,x,...,...,,,YBS048008036
+2011,Carcross 4,Household total income in 2010 of private households,,$100;000 to $124;999,,,,x,...,...,,,YBS048008036
+2011,Carcross 4,Household total income in 2010 of private households,,$125;000 to $149;999,,,,x,...,...,,,YBS048008036
+2011,Carcross 4,Household total income in 2010 of private households,,$150;000 and over,,,,x,...,...,,,YBS048008036
+2011,Carcross 4,,,After-tax income of households in 2010 of private households,,,,x,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs150'>150</a>,YBS048008036
+2011,Carcross 4,After-tax income of households in 2010 of private households,,Under $5;000,,,,x,...,...,,,YBS048008036
+2011,Carcross 4,After-tax income of households in 2010 of private households,,$5;000 to $9;999,,,,x,...,...,,,YBS048008036
+2011,Carcross 4,After-tax income of households in 2010 of private households,,$10;000 to $14;999,,,,x,...,...,,,YBS048008036
+2011,Carcross 4,After-tax income of households in 2010 of private households,,$15;000 to $19;999,,,,x,...,...,,,YBS048008036
+2011,Carcross 4,After-tax income of households in 2010 of private households,,$20;000 to $29;999,,,,x,...,...,,,YBS048008036
+2011,Carcross 4,After-tax income of households in 2010 of private households,,$30;000 to $39;999,,,,x,...,...,,,YBS048008036
+2011,Carcross 4,After-tax income of households in 2010 of private households,,$40;000 to $49;999,,,,x,...,...,,,YBS048008036
+2011,Carcross 4,After-tax income of households in 2010 of private households,,$50;000 to $59;999,,,,x,...,...,,,YBS048008036
+2011,Carcross 4,After-tax income of households in 2010 of private households,,$60;000 to $79;999,,,,x,...,...,,,YBS048008036
+2011,Carcross 4,After-tax income of households in 2010 of private households,,$80;000 to $99;999,,,,x,...,...,,,YBS048008036
+2011,Carcross 4,After-tax income of households in 2010 of private households,,$100;000 and over,,,,x,...,...,,,YBS048008036
+2011,Carcross 4,After-tax income of households in 2010 of private households,$100;000 and over,$100;000 to $124;999,,,,x,...,...,,,YBS048008036
+2011,Carcross 4,After-tax income of households in 2010 of private households,$100;000 and over,$125;000 and over,,,,x,...,...,,,YBS048008036
+2011,Carcross 4,,,Household income in 2010 of private households,,,,x,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs151'>151</a>,YBS048008036
+2011,Carcross 4,Household income in 2010 of private households,,Median household total income ($),,,,x,...,...,,,YBS048008036
+2011,Carcross 4,Household income in 2010 of private households,,Average household total income ($),,,,x,...,...,,,YBS048008036
+2011,Carcross 4,Household income in 2010 of private households,,Median after-tax household income ($),,,,x,...,...,,,YBS048008036
+2011,Carcross 4,Household income in 2010 of private households,,Average after-tax household income ($),,,,x,...,...,,,YBS048008036
+2011,Carcross 4,Household income in 2010 of private households,,One-person private households,,,,x,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,6001008
+2011,Carcross 4,Household income in 2010 of private households,One-person private households,Median household total income ($),,,,x,...,...,,,6001008
+2011,Carcross 4,Household income in 2010 of private households,One-person private households,Average household total income ($),,,,x,...,...,,,6001008
+2011,Carcross 4,Household income in 2010 of private households,One-person private households,Median after-tax household income ($),,,,x,...,...,,,6001008
+2011,Carcross 4,Household income in 2010 of private households,One-person private households,Average after-tax household income ($),,,,x,...,...,,,6001008
+2011,Carcross 4,Household income in 2010 of private households,,Two-or-more-persons private households,,,,x,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,6001008
+2011,Carcross 4,Household income in 2010 of private households,Two-or-more-persons private households,Median household total income ($),,,,x,...,...,,,6001008
+2011,Carcross 4,Household income in 2010 of private households,Two-or-more-persons private households,Average household total income ($),,,,x,...,...,,,6001008
+2011,Carcross 4,Household income in 2010 of private households,Two-or-more-persons private households,Median after-tax household income ($),,,,x,...,...,,,6001008
+2011,Carcross 4,Household income in 2010 of private households,Two-or-more-persons private households,Average after-tax household income ($),,,,x,...,...,,,6001008
+2011,Carcross-Tagish Region,,,Household total income in 2010 of private households,365,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Household total income in 2010 of private households,,Under $5;000,15,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Household total income in 2010 of private households,,$5;000 to $9;999,10,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Household total income in 2010 of private households,,$10;000 to $14;999,10,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Household total income in 2010 of private households,,$15;000 to $19;999,25,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Household total income in 2010 of private households,,$20;000 to $29;999,50,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Household total income in 2010 of private households,,$30;000 to $39;999,55,,,,,,,,6001012
+2011,Carcross-Tagish Region,Household total income in 2010 of private households,,$40;000 to $49;999,25,,,,,,,,6001012
+2011,Carcross-Tagish Region,Household total income in 2010 of private households,,$50;000 to $59;999,25,,,,,,,,6001012
+2011,Carcross-Tagish Region,Household total income in 2010 of private households,,$60;000 to $79;999,40,,,,,,,,6001012
+2011,Carcross-Tagish Region,Household total income in 2010 of private households,,$80;000 to $99;999,45,,,,,,,,6001012
+2011,Carcross-Tagish Region,Household total income in 2010 of private households,,$100;000 to $124;999,25,,,,,,,,6001012
+2011,Carcross-Tagish Region,Household total income in 2010 of private households,,$125;000 to $149;999,30,,,,,,,,6001012
+2011,Carcross-Tagish Region,Household total income in 2010 of private households,,$150;000 and over,15,,,,,,,,6001012
+2011,Carcross-Tagish Region,,,After-tax income of households in 2010 of private households,370,,,,,,,,6001012
+2011,Carcross-Tagish Region,After-tax income of households in 2010 of private households,,Under $5;000,15,,,,,,,,6001012
+2011,Carcross-Tagish Region,After-tax income of households in 2010 of private households,,$5;000 to $9;999,0,,,,,,,,6001012
+2011,Carcross-Tagish Region,After-tax income of households in 2010 of private households,,$10;000 to $14;999,10,,,,,,,,6001012
+2011,Carcross-Tagish Region,After-tax income of households in 2010 of private households,,$15;000 to $19;999,30,,,,,,,,6001012
+2011,Carcross-Tagish Region,After-tax income of households in 2010 of private households,,$20;000 to $29;999,50,,,,,,,,6001012
+2011,Carcross-Tagish Region,After-tax income of households in 2010 of private households,,$30;000 to $39;999,60,,,,,,,,6001012
+2011,Carcross-Tagish Region,After-tax income of households in 2010 of private households,,$40;000 to $49;999,40,,,,,,,,6001012
+2011,Carcross-Tagish Region,After-tax income of households in 2010 of private households,,$50;000 to $59;999,25,,,,,,,,6001012
+2011,Carcross-Tagish Region,After-tax income of households in 2010 of private households,,$60;000 to $79;999,55,,,,,,,,6001012
+2011,Carcross-Tagish Region,After-tax income of households in 2010 of private households,,$80;000 to $99;999,35,,,,,,,,6001012
+2011,Carcross-Tagish Region,After-tax income of households in 2010 of private households,,$100;000 and over,50,,,,,,,,6001012
+2011,Carcross-Tagish Region,After-tax income of households in 2010 of private households,$100;000 and over,$100;000 to $124;999,40,,,,,,,,6001012
+2011,Carcross-Tagish Region,After-tax income of households in 2010 of private households,$100;000 and over,$125;000 and over,10,,,,,,,,6001012
+2011,Carcross-Tagish Region,,,Household income in 2010 of private households,365,,,,,,,,6001012
+2011,Carcross-Tagish Region,Household income in 2010 of private households,,Median household total income $,48978,,,,,,,,6001012
+2011,Carcross-Tagish Region,Household income in 2010 of private households,,Average household total income $,61679,,,,,,,,6001012
+2011,Carcross-Tagish Region,Household income in 2010 of private households,,Median after-tax household income $,45793,,,,,,,,6001012
+2011,Carcross-Tagish Region,Household income in 2010 of private households,,Average after-tax household income $,55042,,,,,,,,6001012
+2011,Carcross-Tagish Region,Household income in 2010 of private households,,One-person private households,135,,,,,,,,6001012
+2011,Carcross-Tagish Region,Household income in 2010 of private households,One-person private households,Median household total income $,25799,,,,,,,,6001012
+2011,Carcross-Tagish Region,Household income in 2010 of private households,One-person private households,Average household total income $,34787,,,,,,,,6001012
+2011,Carcross-Tagish Region,Household income in 2010 of private households,One-person private households,Median after-tax household income $,25741,,,,,,,,6001012
+2011,Carcross-Tagish Region,Household income in 2010 of private households,One-person private households,Average after-tax household income $,31228,,,,,,,,6001012
+2011,Carcross-Tagish Region,Household income in 2010 of private households,,Two-or-more-persons private households,235,,,,,,,,6001012
+2011,Carcross-Tagish Region,Household income in 2010 of private households,Two-or-more-persons private households,Median household total income $,68365,,,,,,,,6001012
+2011,Carcross-Tagish Region,Household income in 2010 of private households,Two-or-more-persons private households,Average household total income $,77339,,,,,,,,6001012
+2011,Carcross-Tagish Region,Household income in 2010 of private households,Two-or-more-persons private households,Median after-tax household income $,62642,,,,,,,,6001012
+2011,Carcross-Tagish Region,Household income in 2010 of private households,Two-or-more-persons private households,Average after-tax household income $,68910,,,,,,,,6001012
+2011,Dawson,,,Household total income in 2010 of private households,680,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs149'>149</a>,6001029
+2011,Dawson,Household total income in 2010 of private households,,Under $5;000,0,,,,...,...,,,6001029
+2011,Dawson,Household total income in 2010 of private households,,$5;000 to $9;999,15,,,,...,...,,,6001029
+2011,Dawson,Household total income in 2010 of private households,,$10;000 to $14;999,0,,,,...,...,,,6001029
+2011,Dawson,Household total income in 2010 of private households,,$15;000 to $19;999,15,,,,...,...,,,6001029
+2011,Dawson,Household total income in 2010 of private households,,$20;000 to $29;999,30,,,,...,...,,,6001029
+2011,Dawson,Household total income in 2010 of private households,,$30;000 to $39;999,170,,,,...,...,,,6001029
+2011,Dawson,Household total income in 2010 of private households,,$40;000 to $49;999,35,,,,...,...,,,6001029
+2011,Dawson,Household total income in 2010 of private households,,$50;000 to $59;999,55,,,,...,...,,,6001029
+2011,Dawson,Household total income in 2010 of private households,,$60;000 to $79;999,95,,,,...,...,,,6001029
+2011,Dawson,Household total income in 2010 of private households,,$80;000 to $99;999,90,,,,...,...,,,6001029
+2011,Dawson,Household total income in 2010 of private households,,$100;000 to $124;999,75,,,,...,...,,,6001029
+2011,Dawson,Household total income in 2010 of private households,,$125;000 to $149;999,30,,,,...,...,,,6001029
+2011,Dawson,Household total income in 2010 of private households,,$150;000 and over,45,,,,...,...,,,6001029
+2011,Dawson,,,After-tax income of households in 2010 of private households,680,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs150'>150</a>,6001029
+2011,Dawson,After-tax income of households in 2010 of private households,,Under $5;000,0,,,,...,...,,,6001029
+2011,Dawson,After-tax income of households in 2010 of private households,,$5;000 to $9;999,20,,,,...,...,,,6001029
+2011,Dawson,After-tax income of households in 2010 of private households,,$10;000 to $14;999,0,,,,...,...,,,6001029
+2011,Dawson,After-tax income of households in 2010 of private households,,$15;000 to $19;999,20,,,,...,...,,,6001029
+2011,Dawson,After-tax income of households in 2010 of private households,,$20;000 to $29;999,100,,,,...,...,,,6001029
+2011,Dawson,After-tax income of households in 2010 of private households,,$30;000 to $39;999,105,,,,...,...,,,6001029
+2011,Dawson,After-tax income of households in 2010 of private households,,$40;000 to $49;999,55,,,,...,...,,,6001029
+2011,Dawson,After-tax income of households in 2010 of private households,,$50;000 to $59;999,70,,,,...,...,,,6001029
+2011,Dawson,After-tax income of households in 2010 of private households,,$60;000 to $79;999,110,,,,...,...,,,6001029
+2011,Dawson,After-tax income of households in 2010 of private households,,$80;000 to $99;999,115,,,,...,...,,,6001029
+2011,Dawson,After-tax income of households in 2010 of private households,,$100;000 and over,75,,,,...,...,,,6001029
+2011,Dawson,After-tax income of households in 2010 of private households,$100;000 and over,$100;000 to $124;999,30,,,,...,...,,,6001029
+2011,Dawson,After-tax income of households in 2010 of private households,$100;000 and over,$125;000 and over,45,,,,...,...,,,6001029
+2011,Dawson,,,Household income in 2010 of private households,680,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs151'>151</a>,6001029
+2011,Dawson,Household income in 2010 of private households,,Median household total income ($),60072,,,,...,...,,,6001029
+2011,Dawson,Household income in 2010 of private households,,Average household total income ($),67626,,,,...,...,,,6001029
+2011,Dawson,Household income in 2010 of private households,,Median after-tax household income ($),51162,,,,...,...,,,6001029
+2011,Dawson,Household income in 2010 of private households,,Average after-tax household income ($),59029,,,,...,...,,,6001029
+2011,Dawson,Household income in 2010 of private households,,One-person private households,320,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,6001029
+2011,Dawson,Household income in 2010 of private households,One-person private households,Median household total income ($),38941,,,,...,...,,,6001029
+2011,Dawson,Household income in 2010 of private households,One-person private households,Average household total income ($),42983,,,,...,...,,,6001029
+2011,Dawson,Household income in 2010 of private households,One-person private households,Median after-tax household income ($),36131,,,,...,...,,,6001029
+2011,Dawson,Household income in 2010 of private households,One-person private households,Average after-tax household income ($),38080,,,,...,...,,,6001029
+2011,Dawson,Household income in 2010 of private households,,Two-or-more-persons private households,360,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,6001029
+2011,Dawson,Household income in 2010 of private households,Two-or-more-persons private households,Median household total income ($),88554,,,,...,...,,,6001029
+2011,Dawson,Household income in 2010 of private households,Two-or-more-persons private households,Average household total income ($),89699,,,,...,...,,,6001029
+2011,Dawson,Household income in 2010 of private households,Two-or-more-persons private households,Median after-tax household income ($),78014,,,,...,...,,,6001029
+2011,Dawson,Household income in 2010 of private households,Two-or-more-persons private households,Average after-tax household income ($),77794,,,,...,...,,,6001029
+2011,Faro,,,Household total income in 2010 of private households,165,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs149'>149</a>,6001004
+2011,Faro,Household total income in 2010 of private households,,Under $5;000,,,,x,...,...,,,6001004
+2011,Faro,Household total income in 2010 of private households,,$5;000 to $9;999,,,,x,...,...,,,6001004
+2011,Faro,Household total income in 2010 of private households,,$10;000 to $14;999,,,,x,...,...,,,6001018
+2011,Faro,Household total income in 2010 of private households,,$15;000 to $19;999,,,,x,...,...,,,6001004
+2011,Faro,Household total income in 2010 of private households,,$20;000 to $29;999,,,,x,...,...,,,6001004
+2011,Faro,Household total income in 2010 of private households,,$30;000 to $39;999,,,,x,...,...,,,6001004
+2011,Faro,Household total income in 2010 of private households,,$40;000 to $49;999,,,,x,...,...,,,6001018
+2011,Faro,Household total income in 2010 of private households,,$50;000 to $59;999,15,,,,...,...,,,6001004
+2011,Faro,Household total income in 2010 of private households,,$60;000 to $79;999,,,,x,...,...,,,6001004
+2011,Faro,Household total income in 2010 of private households,,$80;000 to $99;999,,,,x,...,...,,,6001004
+2011,Faro,Household total income in 2010 of private households,,$100;000 to $124;999,,,,x,...,...,,,6001004
+2011,Faro,Household total income in 2010 of private households,,$125;000 to $149;999,,,,x,...,...,,,6001004
+2011,Faro,Household total income in 2010 of private households,,$150;000 and over,,,,x,...,...,,,6001004
+2011,Faro,,,After-tax income of households in 2010 of private households,165,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs150'>150</a>,6001018
+2011,Faro,After-tax income of households in 2010 of private households,,Under $5;000,,,,x,...,...,,,6001018
+2011,Faro,After-tax income of households in 2010 of private households,,$5;000 to $9;999,,,,x,...,...,,,6001018
+2011,Faro,After-tax income of households in 2010 of private households,,$10;000 to $14;999,,,,x,...,...,,,6001018
+2011,Faro,After-tax income of households in 2010 of private households,,$15;000 to $19;999,,,,x,...,...,,,6001018
+2011,Faro,After-tax income of households in 2010 of private households,,$20;000 to $29;999,,,,x,...,...,,,6001018
+2011,Faro,After-tax income of households in 2010 of private households,,$30;000 to $39;999,,,,x,...,...,,,6001018
+2011,Faro,After-tax income of households in 2010 of private households,,$40;000 to $49;999,,,,x,...,...,,,6001018
+2011,Faro,After-tax income of households in 2010 of private households,,$50;000 to $59;999,,,,x,...,...,,,6001018
+2011,Faro,After-tax income of households in 2010 of private households,,$60;000 to $79;999,,,,x,...,...,,,6001018
+2011,Faro,After-tax income of households in 2010 of private households,,$80;000 to $99;999,,,,x,...,...,,,6001018
+2011,Faro,After-tax income of households in 2010 of private households,,$100;000 and over,,,,x,...,...,,,6001018
+2011,Faro,After-tax income of households in 2010 of private households,$100;000 and over,$100;000 to $124;999,,,,x,...,...,,,6001018
+2011,Faro,After-tax income of households in 2010 of private households,$100;000 and over,$125;000 and over,,,,x,...,...,,,6001018
+2011,Faro,,,Household income in 2010 of private households,165,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs151'>151</a>,6001018
+2011,Faro,Household income in 2010 of private households,,Median household total income ($),66506,,,,...,...,,,6001018
+2011,Faro,Household income in 2010 of private households,,Average household total income ($),70868,,,,...,...,,,6001018
+2011,Faro,Household income in 2010 of private households,,Median after-tax household income ($),59416,,,,...,...,,,6001018
+2011,Faro,Household income in 2010 of private households,,Average after-tax household income ($),61827,,,,...,...,,,6001018
+2011,Faro,Household income in 2010 of private households,,One-person private households,65,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,6001018
+2011,Faro,Household income in 2010 of private households,One-person private households,Median household total income ($),29933,,,,...,...,,,6001018
+2011,Faro,Household income in 2010 of private households,One-person private households,Average household total income ($),38514,,,,...,...,,,6001018
+2011,Faro,Household income in 2010 of private households,One-person private households,Median after-tax household income ($),27250,,,,...,...,,,6001018
+2011,Faro,Household income in 2010 of private households,One-person private households,Average after-tax household income ($),33460,,,,...,...,,,6001018
+2011,Faro,Household income in 2010 of private households,,Two-or-more-persons private households,105,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,6001018
+2011,Faro,Household income in 2010 of private households,Two-or-more-persons private households,Median household total income ($),83669,,,,...,...,,,6001018
+2011,Faro,Household income in 2010 of private households,Two-or-more-persons private households,Average household total income ($),89652,,,,...,...,,,6001004
+2011,Faro,Household income in 2010 of private households,Two-or-more-persons private households,Median after-tax household income ($),74022,,,,...,...,,,6001018
+2011,Faro,Household income in 2010 of private households,Two-or-more-persons private households,Average after-tax household income ($),78297,,,,...,...,,,6001018
+2011,Haines Junction,,,Household total income in 2010 of private households,260,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs149'>149</a>,6001018
+2011,Haines Junction,Household total income in 2010 of private households,,Under $5;000,0,,,,...,...,,,6001018
+2011,Haines Junction,Household total income in 2010 of private households,,$5;000 to $9;999,0,,,,...,...,,,6001055
+2011,Haines Junction,Household total income in 2010 of private households,,$10;000 to $14;999,0,,,,...,...,,,6001055
+2011,Haines Junction,Household total income in 2010 of private households,,$15;000 to $19;999,20,,,,...,...,,,6001055
+2011,Haines Junction,Household total income in 2010 of private households,,$20;000 to $29;999,15,,,,...,...,,,6001055
+2011,Haines Junction,Household total income in 2010 of private households,,$30;000 to $39;999,25,,,,...,...,,,6001055
+2011,Haines Junction,Household total income in 2010 of private households,,$40;000 to $49;999,15,,,,...,...,,,6001055
+2011,Haines Junction,Household total income in 2010 of private households,,$50;000 to $59;999,20,,,,...,...,,,6001055
+2011,Haines Junction,Household total income in 2010 of private households,,$60;000 to $79;999,45,,,,...,...,,,6001055
+2011,Haines Junction,Household total income in 2010 of private households,,$80;000 to $99;999,30,,,,...,...,,,6001055
+2011,Haines Junction,Household total income in 2010 of private households,,$100;000 to $124;999,25,,,,...,...,,,6001055
+2011,Haines Junction,Household total income in 2010 of private households,,$125;000 to $149;999,35,,,,...,...,,,6001055
+2011,Haines Junction,Household total income in 2010 of private households,,$150;000 and over,25,,,,...,...,,,6001055
+2011,Haines Junction,,,After-tax income of households in 2010 of private households,260,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs150'>150</a>,6001055
+2011,Haines Junction,After-tax income of households in 2010 of private households,,Under $5;000,0,,,,...,...,,,6001055
+2011,Haines Junction,After-tax income of households in 2010 of private households,,$5;000 to $9;999,0,,,,...,...,,,6001055
+2011,Haines Junction,After-tax income of households in 2010 of private households,,$10;000 to $14;999,0,,,,...,...,,,6001055
+2011,Haines Junction,After-tax income of households in 2010 of private households,,$15;000 to $19;999,15,,,,...,...,,,6001055
+2011,Haines Junction,After-tax income of households in 2010 of private households,,$20;000 to $29;999,20,,,,...,...,,,6001055
+2011,Haines Junction,After-tax income of households in 2010 of private households,,$30;000 to $39;999,25,,,,...,...,,,6001055
+2011,Haines Junction,After-tax income of households in 2010 of private households,,$40;000 to $49;999,15,,,,...,...,,,6001055
+2011,Haines Junction,After-tax income of households in 2010 of private households,,$50;000 to $59;999,30,,,,...,...,,,6001055
+2011,Haines Junction,After-tax income of households in 2010 of private households,,$60;000 to $79;999,40,,,,...,...,,,6001055
+2011,Haines Junction,After-tax income of households in 2010 of private households,,$80;000 to $99;999,25,,,,...,...,,,6001055
+2011,Haines Junction,After-tax income of households in 2010 of private households,,$100;000 and over,75,,,,...,...,,,6001055
+2011,Haines Junction,After-tax income of households in 2010 of private households,$100;000 and over,$100;000 to $124;999,45,,,,...,...,,,6001055
+2011,Haines Junction,After-tax income of households in 2010 of private households,$100;000 and over,$125;000 and over,30,,,,...,...,,,6001055
+2011,Haines Junction,,,Household income in 2010 of private households,260,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs151'>151</a>,6001055
+2011,Haines Junction,Household income in 2010 of private households,,Median household total income ($),74826,,,,...,...,,,6001055
+2011,Haines Junction,Household income in 2010 of private households,,Average household total income ($),83470,,,,...,...,,,6001055
+2011,Haines Junction,Household income in 2010 of private households,,Median after-tax household income ($),66716,,,,...,...,,,6001055
+2011,Haines Junction,Household income in 2010 of private households,,Average after-tax household income ($),72624,,,,...,...,,,6001055
+2011,Haines Junction,Household income in 2010 of private households,,One-person private households,70,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,6001055
+2011,Haines Junction,Household income in 2010 of private households,One-person private households,Median household total income ($),31457,,,,...,...,,,6001055
+2011,Haines Junction,Household income in 2010 of private households,One-person private households,Average household total income ($),42693,,,,...,...,,,6001055
+2011,Haines Junction,Household income in 2010 of private households,One-person private households,Median after-tax household income ($),29025,,,,...,...,,,6001055
+2011,Haines Junction,Household income in 2010 of private households,One-person private households,Average after-tax household income ($),37086,,,,...,...,,,6001055
+2011,Haines Junction,Household income in 2010 of private households,,Two-or-more-persons private households,185,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,6001055
+2011,Haines Junction,Household income in 2010 of private households,Two-or-more-persons private households,Median household total income ($),96294,,,,...,...,,,6001055
+2011,Haines Junction,Household income in 2010 of private households,Two-or-more-persons private households,Average household total income ($),99680,,,,...,...,,,6001055
+2011,Haines Junction,Household income in 2010 of private households,Two-or-more-persons private households,Median after-tax household income ($),85249,,,,...,...,,,6001055
+2011,Haines Junction,Household income in 2010 of private households,Two-or-more-persons private households,Average after-tax household income ($),86751,,,,...,...,,,6001055
+2011,Mt. Lorne,,,Household total income in 2010 of private households,170,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs149'>149</a>,6001043
+2011,Mt. Lorne,Household total income in 2010 of private households,,Under $5;000,,,,x,...,...,,,6001043
+2011,Mt. Lorne,Household total income in 2010 of private households,,$5;000 to $9;999,,,,x,...,...,,,6001043
+2011,Mt. Lorne,Household total income in 2010 of private households,,$10;000 to $14;999,,,,x,...,...,,,6001043
+2011,Mt. Lorne,Household total income in 2010 of private households,,$15;000 to $19;999,,,,x,...,...,,,6001043
+2011,Mt. Lorne,Household total income in 2010 of private households,,$20;000 to $29;999,,,,x,...,...,,,6001043
+2011,Mt. Lorne,Household total income in 2010 of private households,,$30;000 to $39;999,,,,x,...,...,,,6001043
+2011,Mt. Lorne,Household total income in 2010 of private households,,$40;000 to $49;999,,,,x,...,...,,,6001043
+2011,Mt. Lorne,Household total income in 2010 of private households,,$50;000 to $59;999,0,,,,...,...,,,6001043
+2011,Mt. Lorne,Household total income in 2010 of private households,,$60;000 to $79;999,,,,x,...,...,,,6001043
+2011,Mt. Lorne,Household total income in 2010 of private households,,$80;000 to $99;999,,,,x,...,...,,,6001043
+2011,Mt. Lorne,Household total income in 2010 of private households,,$100;000 to $124;999,,,,x,...,...,,,6001043
+2011,Mt. Lorne,Household total income in 2010 of private households,,$125;000 to $149;999,,,,x,...,...,,,6001043
+2011,Mt. Lorne,Household total income in 2010 of private households,,$150;000 and over,,,,x,...,...,,,6001043
+2011,Mt. Lorne,,,After-tax income of households in 2010 of private households,170,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs150'>150</a>,6001043
+2011,Mt. Lorne,After-tax income of households in 2010 of private households,,Under $5;000,,,,x,...,...,,,6001043
+2011,Mt. Lorne,After-tax income of households in 2010 of private households,,$5;000 to $9;999,,,,x,...,...,,,6001043
+2011,Mt. Lorne,After-tax income of households in 2010 of private households,,$10;000 to $14;999,,,,x,...,...,,,6001043
+2011,Mt. Lorne,After-tax income of households in 2010 of private households,,$15;000 to $19;999,,,,x,...,...,,,6001043
+2011,Mt. Lorne,After-tax income of households in 2010 of private households,,$20;000 to $29;999,,,,x,...,...,,,6001043
+2011,Mt. Lorne,After-tax income of households in 2010 of private households,,$30;000 to $39;999,,,,x,...,...,,,6001043
+2011,Mt. Lorne,After-tax income of households in 2010 of private households,,$40;000 to $49;999,,,,x,...,...,,,6001043
+2011,Mt. Lorne,After-tax income of households in 2010 of private households,,$50;000 to $59;999,,,,x,...,...,,,6001043
+2011,Mt. Lorne,After-tax income of households in 2010 of private households,,$60;000 to $79;999,,,,x,...,...,,,6001043
+2011,Mt. Lorne,After-tax income of households in 2010 of private households,,$80;000 to $99;999,,,,x,...,...,,,6001043
+2011,Mt. Lorne,After-tax income of households in 2010 of private households,,$100;000 and over,,,,x,...,...,,,6001043
+2011,Mt. Lorne,After-tax income of households in 2010 of private households,$100;000 and over,$100;000 to $124;999,,,,x,...,...,,,6001043
+2011,Mt. Lorne,After-tax income of households in 2010 of private households,$100;000 and over,$125;000 and over,,,,x,...,...,,,6001043
+2011,Mt. Lorne,,,Household income in 2010 of private households,170,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs151'>151</a>,6001043
+2011,Mt. Lorne,Household income in 2010 of private households,,Median household total income ($),76053,,,,...,...,,,6001043
+2011,Mt. Lorne,Household income in 2010 of private households,,Average household total income ($),124609,,,,...,...,,,6001043
+2011,Mt. Lorne,Household income in 2010 of private households,,Median after-tax household income ($),68756,,,,...,...,,,6001043
+2011,Mt. Lorne,Household income in 2010 of private households,,Average after-tax household income ($),102885,,,,...,...,,,6001043
+2011,Mt. Lorne,Household income in 2010 of private households,,One-person private households,55,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,6001043
+2011,Mt. Lorne,Household income in 2010 of private households,One-person private households,Median household total income ($),55939,,,,...,...,,,6001043
+2011,Mt. Lorne,Household income in 2010 of private households,One-person private households,Average household total income ($),56669,,,,...,...,,,6001043
+2011,Mt. Lorne,Household income in 2010 of private households,One-person private households,Median after-tax household income ($),49283,,,,...,...,,,6001043
+2011,Mt. Lorne,Household income in 2010 of private households,One-person private households,Average after-tax household income ($),47666,,,,...,...,,,6001043
+2011,Mt. Lorne,Household income in 2010 of private households,,Two-or-more-persons private households,110,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,6001043
+2011,Mt. Lorne,Household income in 2010 of private households,Two-or-more-persons private households,Median household total income ($),112717,,,,...,...,,,6001043
+2011,Mt. Lorne,Household income in 2010 of private households,Two-or-more-persons private households,Average household total income ($),157528,,,,...,...,,,6001043
+2011,Mt. Lorne,Household income in 2010 of private households,Two-or-more-persons private households,Median after-tax household income ($),93275,,,,...,...,,,6001043
+2011,Mt. Lorne,Household income in 2010 of private households,Two-or-more-persons private households,Average after-tax household income ($),129640,,,,...,...,,,6001043
+2011,Old Crow,,,Household total income in 2010 of private households,,,,x,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs149'>149</a>,6001043
+2011,Old Crow,Household total income in 2010 of private households,,Under $5;000,,,,x,...,...,,,6001043
+2011,Old Crow,Household total income in 2010 of private households,,$5;000 to $9;999,,,,x,...,...,,,6001043
+2011,Old Crow,Household total income in 2010 of private households,,$10;000 to $14;999,,,,x,...,...,,,6001043
+2011,Old Crow,Household total income in 2010 of private households,,$15;000 to $19;999,,,,x,...,...,,,6001043
+2011,Old Crow,Household total income in 2010 of private households,,$20;000 to $29;999,,,,x,...,...,,,6001043
+2011,Old Crow,Household total income in 2010 of private households,,$30;000 to $39;999,,,,x,...,...,,,6001043
+2011,Old Crow,Household total income in 2010 of private households,,$40;000 to $49;999,,,,x,...,...,,,6001043
+2011,Old Crow,Household total income in 2010 of private households,,$50;000 to $59;999,,,,x,...,...,,,6001043
+2011,Old Crow,Household total income in 2010 of private households,,$60;000 to $79;999,,,,x,...,...,,,6001043
+2011,Old Crow,Household total income in 2010 of private households,,$80;000 to $99;999,,,,x,...,...,,,6001043
+2011,Old Crow,Household total income in 2010 of private households,,$100;000 to $124;999,,,,x,...,...,,,6001043
+2011,Old Crow,Household total income in 2010 of private households,,$125;000 to $149;999,,,,x,...,...,,,6001043
+2011,Old Crow,Household total income in 2010 of private households,,$150;000 and over,,,,x,...,...,,,6001043
+2011,Old Crow,,,After-tax income of households in 2010 of private households,,,,x,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs150'>150</a>,6001043
+2011,Old Crow,After-tax income of households in 2010 of private households,,Under $5;000,,,,x,...,...,,,6001043
+2011,Old Crow,After-tax income of households in 2010 of private households,,$5;000 to $9;999,,,,x,...,...,,,6001043
+2011,Old Crow,After-tax income of households in 2010 of private households,,$10;000 to $14;999,,,,x,...,...,,,6001043
+2011,Old Crow,After-tax income of households in 2010 of private households,,$15;000 to $19;999,,,,x,...,...,,,6001041
+2011,Old Crow,After-tax income of households in 2010 of private households,,$20;000 to $29;999,,,,x,...,...,,,6001041
+2011,Old Crow,After-tax income of households in 2010 of private households,,$30;000 to $39;999,,,,x,...,...,,,6001041
+2011,Old Crow,After-tax income of households in 2010 of private households,,$40;000 to $49;999,,,,x,...,...,,,6001041
+2011,Old Crow,After-tax income of households in 2010 of private households,,$50;000 to $59;999,,,,x,...,...,,,6001041
+2011,Old Crow,After-tax income of households in 2010 of private households,,$60;000 to $79;999,,,,x,...,...,,,6001041
+2011,Old Crow,After-tax income of households in 2010 of private households,,$80;000 to $99;999,,,,x,...,...,,,6001041
+2011,Old Crow,After-tax income of households in 2010 of private households,,$100;000 and over,,,,x,...,...,,,6001041
+2011,Old Crow,After-tax income of households in 2010 of private households,$100;000 and over,$100;000 to $124;999,,,,x,...,...,,,6001041
+2011,Old Crow,After-tax income of households in 2010 of private households,$100;000 and over,$125;000 and over,,,,x,...,...,,,6001041
+2011,Old Crow,,,Household income in 2010 of private households,,,,x,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs151'>151</a>,6001041
+2011,Old Crow,Household income in 2010 of private households,,Median household total income ($),,,,x,...,...,,,6001041
+2011,Old Crow,Household income in 2010 of private households,,Average household total income ($),,,,x,...,...,,,6001041
+2011,Old Crow,Household income in 2010 of private households,,Median after-tax household income ($),,,,x,...,...,,,6001041
+2011,Old Crow,Household income in 2010 of private households,,Average after-tax household income ($),,,,x,...,...,,,6001041
+2011,Old Crow,Household income in 2010 of private households,,One-person private households,,,,x,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,6001041
+2011,Old Crow,Household income in 2010 of private households,One-person private households,Median household total income ($),,,,x,...,...,,,6001041
+2011,Old Crow,Household income in 2010 of private households,One-person private households,Average household total income ($),,,,x,...,...,,,6001041
+2011,Old Crow,Household income in 2010 of private households,One-person private households,Median after-tax household income ($),,,,x,...,...,,,6001041
+2011,Old Crow,Household income in 2010 of private households,One-person private households,Average after-tax household income ($),,,,x,...,...,,,6001041
+2011,Old Crow,Household income in 2010 of private households,,Two-or-more-persons private households,,,,x,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,6001041
+2011,Old Crow,Household income in 2010 of private households,Two-or-more-persons private households,Median household total income ($),,,,x,...,...,,,6001041
+2011,Old Crow,Household income in 2010 of private households,Two-or-more-persons private households,Average household total income ($),,,,x,...,...,,,6001041
+2011,Old Crow,Household income in 2010 of private households,Two-or-more-persons private households,Median after-tax household income ($),,,,x,...,...,,,6001041
+2011,Old Crow,Household income in 2010 of private households,Two-or-more-persons private households,Average after-tax household income ($),,,,x,...,...,,,6001041
+2011,Pelly Crossing,,,Household total income in 2010 of private households,130,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs149'>149</a>,6001041
+2011,Pelly Crossing,Household total income in 2010 of private households,,Under $5;000,,,,x,...,...,,,6001041
+2011,Pelly Crossing,Household total income in 2010 of private households,,$5;000 to $9;999,,,,x,...,...,,,6001041
+2011,Pelly Crossing,Household total income in 2010 of private households,,$10;000 to $14;999,,,,x,...,...,,,6001037
+2011,Pelly Crossing,Household total income in 2010 of private households,,$15;000 to $19;999,,,,x,...,...,,,6001041
+2011,Pelly Crossing,Household total income in 2010 of private households,,$20;000 to $29;999,,,,x,...,...,,,6001041
+2011,Pelly Crossing,Household total income in 2010 of private households,,$30;000 to $39;999,,,,x,...,...,,,6001041
+2011,Pelly Crossing,Household total income in 2010 of private households,,$40;000 to $49;999,,,,x,...,...,,,6001037
+2011,Pelly Crossing,Household total income in 2010 of private households,,$50;000 to $59;999,20,,,,...,...,,,6001041
+2011,Pelly Crossing,Household total income in 2010 of private households,,$60;000 to $79;999,,,,x,...,...,,,6001041
+2011,Pelly Crossing,Household total income in 2010 of private households,,$80;000 to $99;999,,,,x,...,...,,,6001041
+2011,Pelly Crossing,Household total income in 2010 of private households,,$100;000 to $124;999,,,,x,...,...,,,6001041
+2011,Pelly Crossing,Household total income in 2010 of private households,,$125;000 to $149;999,,,,x,...,...,,,6001041
+2011,Pelly Crossing,Household total income in 2010 of private households,,$150;000 and over,,,,x,...,...,,,6001041
+2011,Pelly Crossing,,,After-tax income of households in 2010 of private households,130,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs150'>150</a>,6001041
+2011,Pelly Crossing,After-tax income of households in 2010 of private households,,Under $5;000,,,,x,...,...,,,6001041
+2011,Pelly Crossing,After-tax income of households in 2010 of private households,,$5;000 to $9;999,,,,x,...,...,,,6001041
+2011,Pelly Crossing,After-tax income of households in 2010 of private households,,$10;000 to $14;999,,,,x,...,...,,,6001041
+2011,Pelly Crossing,After-tax income of households in 2010 of private households,,$15;000 to $19;999,,,,x,...,...,,,6001041
+2011,Pelly Crossing,After-tax income of households in 2010 of private households,,$20;000 to $29;999,,,,x,...,...,,,6001041
+2011,Pelly Crossing,After-tax income of households in 2010 of private households,,$30;000 to $39;999,,,,x,...,...,,,6001041
+2011,Pelly Crossing,After-tax income of households in 2010 of private households,,$40;000 to $49;999,,,,x,...,...,,,6001041
+2011,Pelly Crossing,After-tax income of households in 2010 of private households,,$50;000 to $59;999,,,,x,...,...,,,6001041
+2011,Pelly Crossing,After-tax income of households in 2010 of private households,,$60;000 to $79;999,,,,x,...,...,,,6001041
+2011,Pelly Crossing,After-tax income of households in 2010 of private households,,$80;000 to $99;999,,,,x,...,...,,,6001041
+2011,Pelly Crossing,After-tax income of households in 2010 of private households,,$100;000 and over,,,,x,...,...,,,6001041
+2011,Pelly Crossing,After-tax income of households in 2010 of private households,$100;000 and over,$100;000 to $124;999,,,,x,...,...,,,6001041
+2011,Pelly Crossing,After-tax income of households in 2010 of private households,$100;000 and over,$125;000 and over,,,,x,...,...,,,6001041
+2011,Pelly Crossing,,,Household income in 2010 of private households,130,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs151'>151</a>,6001041
+2011,Pelly Crossing,Household income in 2010 of private households,,Median household total income ($),50829,,,,...,...,,,6001041
+2011,Pelly Crossing,Household income in 2010 of private households,,Average household total income ($),56836,,,,...,...,,,6001041
+2011,Pelly Crossing,Household income in 2010 of private households,,Median after-tax household income ($),46314,,,,...,...,,,6001041
+2011,Pelly Crossing,Household income in 2010 of private households,,Average after-tax household income ($),51146,,,,...,...,,,6001041
+2011,Pelly Crossing,Household income in 2010 of private households,,One-person private households,40,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,6001041
+2011,Pelly Crossing,Household income in 2010 of private households,One-person private households,Median household total income ($),21652,,,,...,...,,,6001041
+2011,Pelly Crossing,Household income in 2010 of private households,One-person private households,Average household total income ($),35335,,,,...,...,,,6001041
+2011,Pelly Crossing,Household income in 2010 of private households,One-person private households,Median after-tax household income ($),21652,,,,...,...,,,6001041
+2011,Pelly Crossing,Household income in 2010 of private households,One-person private households,Average after-tax household income ($),31015,,,,...,...,,,6001041
+2011,Pelly Crossing,Household income in 2010 of private households,,Two-or-more-persons private households,90,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,6001041
+2011,Pelly Crossing,Household income in 2010 of private households,Two-or-more-persons private households,Median household total income ($),60727,,,,...,...,,,6001041
+2011,Pelly Crossing,Household income in 2010 of private households,Two-or-more-persons private households,Average household total income ($),66178,,,,...,...,,,6001041
+2011,Pelly Crossing,Household income in 2010 of private households,Two-or-more-persons private households,Median after-tax household income ($),58166,,,,...,...,,,6001041
+2011,Pelly Crossing,Household income in 2010 of private households,Two-or-more-persons private households,Average after-tax household income ($),59894,,,,...,...,,,6001041
+2011,Ross River,,,Household total income in 2010 of private households,150,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs149'>149</a>,6001037
+2011,Ross River,Household total income in 2010 of private households,,Under $5;000,,,,x,...,...,,,6001037
+2011,Ross River,Household total income in 2010 of private households,,$5;000 to $9;999,,,,x,...,...,,,6001037
+2011,Ross River,Household total income in 2010 of private households,,$10;000 to $14;999,,,,x,...,...,,,6001037
+2011,Ross River,Household total income in 2010 of private households,,$15;000 to $19;999,,,,x,...,...,,,6001037
+2011,Ross River,Household total income in 2010 of private households,,$20;000 to $29;999,,,,x,...,...,,,6001037
+2011,Ross River,Household total income in 2010 of private households,,$30;000 to $39;999,,,,x,...,...,,,6001037
+2011,Ross River,Household total income in 2010 of private households,,$40;000 to $49;999,,,,x,...,...,,,6001037
+2011,Ross River,Household total income in 2010 of private households,,$50;000 to $59;999,10,,,,...,...,,,6001050
+2011,Ross River,Household total income in 2010 of private households,,$60;000 to $79;999,,,,x,...,...,,,6001050
+2011,Ross River,Household total income in 2010 of private households,,$80;000 to $99;999,,,,x,...,...,,,6001050
+2011,Ross River,Household total income in 2010 of private households,,$100;000 to $124;999,,,,x,...,...,,,6001050
+2011,Ross River,Household total income in 2010 of private households,,$125;000 to $149;999,,,,x,...,...,,,6001050
+2011,Ross River,Household total income in 2010 of private households,,$150;000 and over,,,,x,...,...,,,6001050
+2011,Ross River,,,After-tax income of households in 2010 of private households,150,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs150'>150</a>,6001050
+2011,Ross River,After-tax income of households in 2010 of private households,,Under $5;000,,,,x,...,...,,,6001050
+2011,Ross River,After-tax income of households in 2010 of private households,,$5;000 to $9;999,,,,x,...,...,,,6001050
+2011,Ross River,After-tax income of households in 2010 of private households,,$10;000 to $14;999,,,,x,...,...,,,6001050
+2011,Ross River,After-tax income of households in 2010 of private households,,$15;000 to $19;999,,,,x,...,...,,,6001050
+2011,Ross River,After-tax income of households in 2010 of private households,,$20;000 to $29;999,,,,x,...,...,,,6001050
+2011,Ross River,After-tax income of households in 2010 of private households,,$30;000 to $39;999,,,,x,...,...,,,6001050
+2011,Ross River,After-tax income of households in 2010 of private households,,$40;000 to $49;999,,,,x,...,...,,,6001050
+2011,Ross River,After-tax income of households in 2010 of private households,,$50;000 to $59;999,,,,x,...,...,,,6001050
+2011,Ross River,After-tax income of households in 2010 of private households,,$60;000 to $79;999,,,,x,...,...,,,6001050
+2011,Ross River,After-tax income of households in 2010 of private households,,$80;000 to $99;999,,,,x,...,...,,,6001050
+2011,Ross River,After-tax income of households in 2010 of private households,,$100;000 and over,,,,x,...,...,,,6001050
+2011,Ross River,After-tax income of households in 2010 of private households,$100;000 and over,$100;000 to $124;999,,,,x,...,...,,,6001050
+2011,Ross River,After-tax income of households in 2010 of private households,$100;000 and over,$125;000 and over,,,,x,...,...,,,6001050
+2011,Ross River,,,Household income in 2010 of private households,150,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs151'>151</a>,6001050
+2011,Ross River,Household income in 2010 of private households,,Median household total income ($),39911,,,,...,...,,,6001050
+2011,Ross River,Household income in 2010 of private households,,Average household total income ($),55918,,,,...,...,,,6001037
+2011,Ross River,Household income in 2010 of private households,,Median after-tax household income ($),37582,,,,...,...,,,6001050
+2011,Ross River,Household income in 2010 of private households,,Average after-tax household income ($),50148,,,,...,...,,,6001050
+2011,Ross River,Household income in 2010 of private households,,One-person private households,50,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,6001050
+2011,Ross River,Household income in 2010 of private households,One-person private households,Median household total income ($),30105,,,,...,...,,,6001050
+2011,Ross River,Household income in 2010 of private households,One-person private households,Average household total income ($),33543,,,,...,...,,,6001050
+2011,Ross River,Household income in 2010 of private households,One-person private households,Median after-tax household income ($),28045,,,,...,...,,,6001050
+2011,Ross River,Household income in 2010 of private households,One-person private households,Average after-tax household income ($),30129,,,,...,...,,,6001050
+2011,Ross River,Household income in 2010 of private households,,Two-or-more-persons private households,100,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,6001050
+2011,Ross River,Household income in 2010 of private households,Two-or-more-persons private households,Median household total income ($),56235,,,,...,...,,,6001050
+2011,Ross River,Household income in 2010 of private households,Two-or-more-persons private households,Average household total income ($),67221,,,,...,...,,,6001050
+2011,Ross River,Household income in 2010 of private households,Two-or-more-persons private households,Median after-tax household income ($),54187,,,,...,...,,,6001050
+2011,Ross River,Household income in 2010 of private households,Two-or-more-persons private households,Average after-tax household income ($),60260,,,,...,...,,,6001050
+2011,Teslin Region,,,Household total income in 2010 of private households,115,,,,,,,,YBS006057007
+2011,Teslin Region,Household total income in 2010 of private households,,Under $5;000,0,,,,,,,,6001057
+2011,Teslin Region,Household total income in 2010 of private households,,$5;000 to $9;999,0,,,,,,,,YBS006057007
+2011,Teslin Region,Household total income in 2010 of private households,,$10;000 to $14;999,0,,,,,,,,6001057
+2011,Teslin Region,Household total income in 2010 of private households,,$15;000 to $19;999,10,,,,,,,,6001057
+2011,Teslin Region,Household total income in 2010 of private households,,$20;000 to $29;999,10,,,,,,,,6001057
+2011,Teslin Region,Household total income in 2010 of private households,,$30;000 to $39;999,15,,,,,,,,6001057
+2011,Teslin Region,Household total income in 2010 of private households,,$40;000 to $49;999,10,,,,,,,,YBS006057007
+2011,Teslin Region,Household total income in 2010 of private households,,$50;000 to $59;999,10,,,,,,,,YBS006057007
+2011,Teslin Region,Household total income in 2010 of private households,,$60;000 to $79;999,10,,,,,,,,6001057
+2011,Teslin Region,Household total income in 2010 of private households,,$80;000 to $99;999,15,,,,,,,,6001057
+2011,Teslin Region,Household total income in 2010 of private households,,$100;000 to $124;999,15,,,,,,,,6001057
+2011,Teslin Region,Household total income in 2010 of private households,,$125;000 to $149;999,0,,,,,,,,6001057
+2011,Teslin Region,Household total income in 2010 of private households,,$150;000 and over,0,,,,,,,,6001057
+2011,Teslin Region,,,After-tax income of households in 2010 of private households,110,,,,,,,,YBS006057007
+2011,Teslin Region,After-tax income of households in 2010 of private households,,Under $5;000,0,,,,,,,,YBS006057007
+2011,Teslin Region,After-tax income of households in 2010 of private households,,$5;000 to $9;999,0,,,,,,,,6001057
+2011,Teslin Region,After-tax income of households in 2010 of private households,,$10;000 to $14;999,0,,,,,,,,6001057
+2011,Teslin Region,After-tax income of households in 2010 of private households,,$15;000 to $19;999,15,,,,,,,,6001057
+2011,Teslin Region,After-tax income of households in 2010 of private households,,$20;000 to $29;999,15,,,,,,,,6001057
+2011,Teslin Region,After-tax income of households in 2010 of private households,,$30;000 to $39;999,15,,,,,,,,6001057
+2011,Teslin Region,After-tax income of households in 2010 of private households,,$40;000 to $49;999,15,,,,,,,,6001057
+2011,Teslin Region,After-tax income of households in 2010 of private households,,$50;000 to $59;999,0,,,,,,,,6001057
+2011,Teslin Region,After-tax income of households in 2010 of private households,,$60;000 to $79;999,15,,,,,,,,6001057
+2011,Teslin Region,After-tax income of households in 2010 of private households,,$80;000 to $99;999,15,,,,,,,,6001057
+2011,Teslin Region,After-tax income of households in 2010 of private households,,$100;000 and over,10,,,,,,,,6001057
+2011,Teslin Region,After-tax income of households in 2010 of private households,$100;000 and over,$100;000 to $124;999,10,,,,,,,,6001057
+2011,Teslin Region,After-tax income of households in 2010 of private households,$100;000 and over,$125;000 and over,0,,,,,,,,6001057
+2011,Teslin Region,,,Household income in 2010 of private households,110,,,,,,,,6001057
+2011,Teslin Region,Household income in 2010 of private households,,Median household total income $,46164,,,,,,,,6001057
+2011,Teslin Region,Household income in 2010 of private households,,Average household total income $,55230,,,,,,,,6001057
+2011,Teslin Region,Household income in 2010 of private households,,Median after-tax household income $,44443,,,,,,,,6001057
+2011,Teslin Region,Household income in 2010 of private households,,Average after-tax household income $,48993,,,,,,,,6001057
+2011,Teslin Region,Household income in 2010 of private households,,One-person private households,50,,,,,,,,6001057
+2011,Teslin Region,Household income in 2010 of private households,One-person private households,Median household total income $,22325,,,,,,,,6001057
+2011,Teslin Region,Household income in 2010 of private households,One-person private households,Average household total income $,37183,,,,,,,,6001057
+2011,Teslin Region,Household income in 2010 of private households,One-person private households,Median after-tax household income $,22325,,,,,,,,6001057
+2011,Teslin Region,Household income in 2010 of private households,One-person private households,Average after-tax household income $,31991,,,,,,,,6001057
+2011,Teslin Region,Household income in 2010 of private households,,Two-or-more-persons private households,60,,,,,,,,6001057
+2011,Teslin Region,Household income in 2010 of private households,Two-or-more-persons private households,Median household total income $,67710,,,,,,,,6001057
+2011,Teslin Region,Household income in 2010 of private households,Two-or-more-persons private households,Average household total income $,70641,,,,,,,,6001057
+2011,Teslin Region,Household income in 2010 of private households,Two-or-more-persons private households,Median after-tax household income $,61729,,,,,,,,6001057
+2011,Teslin Region,Household income in 2010 of private households,Two-or-more-persons private households,Average after-tax household income $,63512,,,,,,,,6001057
+2011,Teslin Post 13,,,Household total income in 2010 of private households,,,,x,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs149'>149</a>,6001007
+2011,Teslin Post 13,Household total income in 2010 of private households,,Under $5;000,,,,x,...,...,,,6001007
+2011,Teslin Post 13,Household total income in 2010 of private households,,$5;000 to $9;999,,,,x,...,...,,,6001034
+2011,Teslin Post 13,Household total income in 2010 of private households,,$10;000 to $14;999,,,,x,...,...,,,6001034
+2011,Teslin Post 13,Household total income in 2010 of private households,,$15;000 to $19;999,,,,x,...,...,,,6001034
+2011,Teslin Post 13,Household total income in 2010 of private households,,$20;000 to $29;999,,,,x,...,...,,,6001007
+2011,Teslin Post 13,Household total income in 2010 of private households,,$30;000 to $39;999,,,,x,...,...,,,6001034
+2011,Teslin Post 13,Household total income in 2010 of private households,,$40;000 to $49;999,,,,x,...,...,,,6001034
+2011,Teslin Post 13,Household total income in 2010 of private households,,$50;000 to $59;999,,,,x,...,...,,,6001034
+2011,Teslin Post 13,Household total income in 2010 of private households,,$60;000 to $79;999,,,,x,...,...,,,6001034
+2011,Teslin Post 13,Household total income in 2010 of private households,,$80;000 to $99;999,,,,x,...,...,,,6001034
+2011,Teslin Post 13,Household total income in 2010 of private households,,$100;000 to $124;999,,,,x,...,...,,,6001034
+2011,Teslin Post 13,Household total income in 2010 of private households,,$125;000 to $149;999,,,,x,...,...,,,6001034
+2011,Teslin Post 13,Household total income in 2010 of private households,,$150;000 and over,,,,x,...,...,,,6001034
+2011,Teslin Post 13,,,After-tax income of households in 2010 of private households,,,,x,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs150'>150</a>,6001034
+2011,Teslin Post 13,After-tax income of households in 2010 of private households,,Under $5;000,,,,x,...,...,,,6001034
+2011,Teslin Post 13,After-tax income of households in 2010 of private households,,$5;000 to $9;999,,,,x,...,...,,,6001034
+2011,Teslin Post 13,After-tax income of households in 2010 of private households,,$10;000 to $14;999,,,,x,...,...,,,6001034
+2011,Teslin Post 13,After-tax income of households in 2010 of private households,,$15;000 to $19;999,,,,x,...,...,,,6001034
+2011,Teslin Post 13,After-tax income of households in 2010 of private households,,$20;000 to $29;999,,,,x,...,...,,,6001034
+2011,Teslin Post 13,After-tax income of households in 2010 of private households,,$30;000 to $39;999,,,,x,...,...,,,6001034
+2011,Teslin Post 13,After-tax income of households in 2010 of private households,,$40;000 to $49;999,,,,x,...,...,,,6001034
+2011,Teslin Post 13,After-tax income of households in 2010 of private households,,$50;000 to $59;999,,,,x,...,...,,,6001034
+2011,Teslin Post 13,After-tax income of households in 2010 of private households,,$60;000 to $79;999,,,,x,...,...,,,6001034
+2011,Teslin Post 13,After-tax income of households in 2010 of private households,,$80;000 to $99;999,,,,x,...,...,,,6001034
+2011,Teslin Post 13,After-tax income of households in 2010 of private households,,$100;000 and over,,,,x,...,...,,,6001034
+2011,Teslin Post 13,After-tax income of households in 2010 of private households,$100;000 and over,$100;000 to $124;999,,,,x,...,...,,,6001034
+2011,Teslin Post 13,After-tax income of households in 2010 of private households,$100;000 and over,$125;000 and over,,,,x,...,...,,,6001034
+2011,Teslin Post 13,,,Household income in 2010 of private households,,,,x,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs151'>151</a>,6001034
+2011,Teslin Post 13,Household income in 2010 of private households,,Median household total income ($),,,,x,...,...,,,6001034
+2011,Teslin Post 13,Household income in 2010 of private households,,Average household total income ($),,,,x,...,...,,,6001034
+2011,Teslin Post 13,Household income in 2010 of private households,,Median after-tax household income ($),,,,x,...,...,,,6001034
+2011,Teslin Post 13,Household income in 2010 of private households,,Average after-tax household income ($),,,,x,...,...,,,6001034
+2011,Teslin Post 13,Household income in 2010 of private households,,One-person private households,,,,x,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,6001034
+2011,Teslin Post 13,Household income in 2010 of private households,One-person private households,Median household total income ($),,,,x,...,...,,,6001034
+2011,Teslin Post 13,Household income in 2010 of private households,One-person private households,Average household total income ($),,,,x,...,...,,,6001034
+2011,Teslin Post 13,Household income in 2010 of private households,One-person private households,Median after-tax household income ($),,,,x,...,...,,,6001034
+2011,Teslin Post 13,Household income in 2010 of private households,One-person private households,Average after-tax household income ($),,,,x,...,...,,,6001034
+2011,Teslin Post 13,Household income in 2010 of private households,,Two-or-more-persons private households,,,,x,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,6001034
+2011,Teslin Post 13,Household income in 2010 of private households,Two-or-more-persons private households,Median household total income ($),,,,x,...,...,,,6001034
+2011,Teslin Post 13,Household income in 2010 of private households,Two-or-more-persons private households,Average household total income ($),,,,x,...,...,,,6001034
+2011,Teslin Post 13,Household income in 2010 of private households,Two-or-more-persons private households,Median after-tax household income ($),,,,x,...,...,,,6001034
+2011,Teslin Post 13,Household income in 2010 of private households,Two-or-more-persons private households,Average after-tax household income ($),,,,x,...,...,,,6001034
+2011,Upper Liard,,,Household total income in 2010 of private households,,,,x,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs149'>149</a>,6001032
+2011,Upper Liard,Household total income in 2010 of private households,,Under $5;000,,,,x,...,...,,,6001032
+2011,Upper Liard,Household total income in 2010 of private households,,$5;000 to $9;999,,,,x,...,...,,,6001032
+2011,Upper Liard,Household total income in 2010 of private households,,$10;000 to $14;999,,,,x,...,...,,,6001032
+2011,Upper Liard,Household total income in 2010 of private households,,$15;000 to $19;999,,,,x,...,...,,,6001032
+2011,Upper Liard,Household total income in 2010 of private households,,$20;000 to $29;999,,,,x,...,...,,,6001032
+2011,Upper Liard,Household total income in 2010 of private households,,$30;000 to $39;999,,,,x,...,...,,,6001032
+2011,Upper Liard,Household total income in 2010 of private households,,$40;000 to $49;999,,,,x,...,...,,,6001032
+2011,Upper Liard,Household total income in 2010 of private households,,$50;000 to $59;999,,,,x,...,...,,,6001032
+2011,Upper Liard,Household total income in 2010 of private households,,$60;000 to $79;999,,,,x,...,...,,,6001032
+2011,Upper Liard,Household total income in 2010 of private households,,$80;000 to $99;999,,,,x,...,...,,,6001032
+2011,Upper Liard,Household total income in 2010 of private households,,$100;000 to $124;999,,,,x,...,...,,,6001032
+2011,Upper Liard,Household total income in 2010 of private households,,$125;000 to $149;999,,,,x,...,...,,,6001032
+2011,Upper Liard,Household total income in 2010 of private households,,$150;000 and over,,,,x,...,...,,,6001032
+2011,Upper Liard,,,After-tax income of households in 2010 of private households,,,,x,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs150'>150</a>,6001032
+2011,Upper Liard,After-tax income of households in 2010 of private households,,Under $5;000,,,,x,...,...,,,6001032
+2011,Upper Liard,After-tax income of households in 2010 of private households,,$5;000 to $9;999,,,,x,...,...,,,6001032
+2011,Upper Liard,After-tax income of households in 2010 of private households,,$10;000 to $14;999,,,,x,...,...,,,6001032
+2011,Upper Liard,After-tax income of households in 2010 of private households,,$15;000 to $19;999,,,,x,...,...,,,6001032
+2011,Upper Liard,After-tax income of households in 2010 of private households,,$20;000 to $29;999,,,,x,...,...,,,6001032
+2011,Upper Liard,After-tax income of households in 2010 of private households,,$30;000 to $39;999,,,,x,...,...,,,6001032
+2011,Upper Liard,After-tax income of households in 2010 of private households,,$40;000 to $49;999,,,,x,...,...,,,6001032
+2011,Upper Liard,After-tax income of households in 2010 of private households,,$50;000 to $59;999,,,,x,...,...,,,6001032
+2011,Upper Liard,After-tax income of households in 2010 of private households,,$60;000 to $79;999,,,,x,...,...,,,6001032
+2011,Upper Liard,After-tax income of households in 2010 of private households,,$80;000 to $99;999,,,,x,...,...,,,6001032
+2011,Upper Liard,After-tax income of households in 2010 of private households,,$100;000 and over,,,,x,...,...,,,6001032
+2011,Upper Liard,After-tax income of households in 2010 of private households,$100;000 and over,$100;000 to $124;999,,,,x,...,...,,,6001003
+2011,Upper Liard,After-tax income of households in 2010 of private households,$100;000 and over,$125;000 and over,,,,x,...,...,,,6001003
+2011,Upper Liard,,,Household income in 2010 of private households,,,,x,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs151'>151</a>,6001003
+2011,Upper Liard,Household income in 2010 of private households,,Median household total income ($),,,,x,...,...,,,6001003
+2011,Upper Liard,Household income in 2010 of private households,,Average household total income ($),,,,x,...,...,,,6001003
+2011,Upper Liard,Household income in 2010 of private households,,Median after-tax household income ($),,,,x,...,...,,,6001003
+2011,Upper Liard,Household income in 2010 of private households,,Average after-tax household income ($),,,,x,...,...,,,6001003
+2011,Upper Liard,Household income in 2010 of private households,,One-person private households,,,,x,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,6001003
+2011,Upper Liard,Household income in 2010 of private households,One-person private households,Median household total income ($),,,,x,...,...,,,6001003
+2011,Upper Liard,Household income in 2010 of private households,One-person private households,Average household total income ($),,,,x,...,...,,,6001003
+2011,Upper Liard,Household income in 2010 of private households,One-person private households,Median after-tax household income ($),,,,x,...,...,,,6001003
+2011,Upper Liard,Household income in 2010 of private households,One-person private households,Average after-tax household income ($),,,,x,...,...,,,6001003
+2011,Upper Liard,Household income in 2010 of private households,,Two-or-more-persons private households,,,,x,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,6001003
+2011,Upper Liard,Household income in 2010 of private households,Two-or-more-persons private households,Median household total income ($),,,,x,...,...,,,6001003
+2011,Upper Liard,Household income in 2010 of private households,Two-or-more-persons private households,Average household total income ($),,,,x,...,...,,,6001003
+2011,Upper Liard,Household income in 2010 of private households,Two-or-more-persons private households,Median after-tax household income ($),,,,x,...,...,,,6001003
+2011,Upper Liard,Household income in 2010 of private households,Two-or-more-persons private households,Average after-tax household income ($),,,,x,...,...,,,6001003
+2011,Watson Lake,,,Household total income in 2010 of private households,350,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs149'>149</a>,6001003
+2011,Watson Lake,Household total income in 2010 of private households,,Under $5;000,10,,,,...,...,,,6001003
+2011,Watson Lake,Household total income in 2010 of private households,,$5;000 to $9;999,0,,,,...,...,,,6001003
+2011,Watson Lake,Household total income in 2010 of private households,,$10;000 to $14;999,10,,,,...,...,,,6001003
+2011,Watson Lake,Household total income in 2010 of private households,,$15;000 to $19;999,10,,,,...,...,,,6001003
+2011,Watson Lake,Household total income in 2010 of private households,,$20;000 to $29;999,20,,,,...,...,,,6001003
+2011,Watson Lake,Household total income in 2010 of private households,,$30;000 to $39;999,25,,,,...,...,,,6001003
+2011,Watson Lake,Household total income in 2010 of private households,,$40;000 to $49;999,40,,,,...,...,,,6001003
+2011,Watson Lake,Household total income in 2010 of private households,,$50;000 to $59;999,30,,,,...,...,,,6001003
+2011,Watson Lake,Household total income in 2010 of private households,,$60;000 to $79;999,55,,,,...,...,,,6001003
+2011,Watson Lake,Household total income in 2010 of private households,,$80;000 to $99;999,45,,,,...,...,,,6001003
+2011,Watson Lake,Household total income in 2010 of private households,,$100;000 to $124;999,30,,,,...,...,,,6001003
+2011,Watson Lake,Household total income in 2010 of private households,,$125;000 to $149;999,30,,,,...,...,,,6001003
+2011,Watson Lake,Household total income in 2010 of private households,,$150;000 and over,40,,,,...,...,,,6001003
+2011,Watson Lake,,,After-tax income of households in 2010 of private households,350,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs150'>150</a>,6001003
+2011,Watson Lake,After-tax income of households in 2010 of private households,,Under $5;000,0,,,,...,...,,,6001003
+2011,Watson Lake,After-tax income of households in 2010 of private households,,$5;000 to $9;999,0,,,,...,...,,,6001003
+2011,Watson Lake,After-tax income of households in 2010 of private households,,$10;000 to $14;999,10,,,,...,...,,,6001003
+2011,Watson Lake,After-tax income of households in 2010 of private households,,$15;000 to $19;999,10,,,,...,...,,,6001003
+2011,Watson Lake,After-tax income of households in 2010 of private households,,$20;000 to $29;999,20,,,,...,...,,,6001003
+2011,Watson Lake,After-tax income of households in 2010 of private households,,$30;000 to $39;999,30,,,,...,...,,,6001003
+2011,Watson Lake,After-tax income of households in 2010 of private households,,$40;000 to $49;999,40,,,,...,...,,,6001003
+2011,Watson Lake,After-tax income of households in 2010 of private households,,$50;000 to $59;999,40,,,,...,...,,,6001003
+2011,Watson Lake,After-tax income of households in 2010 of private households,,$60;000 to $79;999,65,,,,...,...,,,6001003
+2011,Watson Lake,After-tax income of households in 2010 of private households,,$80;000 to $99;999,45,,,,...,...,,,6001003
+2011,Watson Lake,After-tax income of households in 2010 of private households,,$100;000 and over,80,,,,...,...,,,6001003
+2011,Watson Lake,After-tax income of households in 2010 of private households,$100;000 and over,$100;000 to $124;999,40,,,,...,...,,,6001003
+2011,Watson Lake,After-tax income of households in 2010 of private households,$100;000 and over,$125;000 and over,40,,,,...,...,,,6001003
+2011,Watson Lake,,,Household income in 2010 of private households,350,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs151'>151</a>,6001003
+2011,Watson Lake,Household income in 2010 of private households,,Median household total income ($),70929,,,,...,...,,,6001003
+2011,Watson Lake,Household income in 2010 of private households,,Average household total income ($),81297,,,,...,...,,,6001003
+2011,Watson Lake,Household income in 2010 of private households,,Median after-tax household income ($),63091,,,,...,...,,,6001003
+2011,Watson Lake,Household income in 2010 of private households,,Average after-tax household income ($),70648,,,,...,...,,,6001003
+2011,Watson Lake,Household income in 2010 of private households,,One-person private households,95,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,6001003
+2011,Watson Lake,Household income in 2010 of private households,One-person private households,Median household total income ($),43242,,,,...,...,,,6001003
+2011,Watson Lake,Household income in 2010 of private households,One-person private households,Average household total income ($),46452,,,,...,...,,,6001003
+2011,Watson Lake,Household income in 2010 of private households,One-person private households,Median after-tax household income ($),38255,,,,...,...,,,6001003
+2011,Watson Lake,Household income in 2010 of private households,One-person private households,Average after-tax household income ($),40330,,,,...,...,,,6001003
+2011,Watson Lake,Household income in 2010 of private households,,Two-or-more-persons private households,255,,,,...,...,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs152'>152</a>,6001003
+2011,Watson Lake,Household income in 2010 of private households,Two-or-more-persons private households,Median household total income ($),86765,,,,...,...,,,6001003
+2011,Watson Lake,Household income in 2010 of private households,Two-or-more-persons private households,Average household total income ($),94409,,,,...,...,,,6001003
+2011,Watson Lake,Household income in 2010 of private households,Two-or-more-persons private households,Median after-tax household income ($),77494,,,,...,...,,,6001003
+2011,Watson Lake,Household income in 2010 of private households,Two-or-more-persons private households,Average after-tax household income ($),82056,,,,...,...,,,6001003
+2011,Watson Lake Region,,,Household total income in 2010 of private households,465,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Household total income in 2010 of private households,,Under $5;000,10,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Household total income in 2010 of private households,,$5;000 to $9;999,10,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Household total income in 2010 of private households,,$10;000 to $14;999,15,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Household total income in 2010 of private households,,$15;000 to $19;999,25,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Household total income in 2010 of private households,,$20;000 to $29;999,40,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Household total income in 2010 of private households,,$30;000 to $39;999,45,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Household total income in 2010 of private households,,$40;000 to $49;999,50,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Household total income in 2010 of private households,,$50;000 to $59;999,45,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Household total income in 2010 of private households,,$60;000 to $79;999,70,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Household total income in 2010 of private households,,$80;000 to $99;999,55,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Household total income in 2010 of private households,,$100;000 to $124;999,35,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Household total income in 2010 of private households,,$125;000 to $149;999,35,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Household total income in 2010 of private households,,$150;000 and over,45,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,,,After-tax income of households in 2010 of private households,460,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,After-tax income of households in 2010 of private households,,Under $5;000,0,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,After-tax income of households in 2010 of private households,,$5;000 to $9;999,10,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,After-tax income of households in 2010 of private households,,$10;000 to $14;999,15,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,After-tax income of households in 2010 of private households,,$15;000 to $19;999,25,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,After-tax income of households in 2010 of private households,,$20;000 to $29;999,40,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,After-tax income of households in 2010 of private households,,$30;000 to $39;999,50,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,After-tax income of households in 2010 of private households,,$40;000 to $49;999,55,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,After-tax income of households in 2010 of private households,,$50;000 to $59;999,55,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,After-tax income of households in 2010 of private households,,$60;000 to $79;999,70,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,After-tax income of households in 2010 of private households,,$80;000 to $99;999,50,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,After-tax income of households in 2010 of private households,,$100;000 and over,90,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,After-tax income of households in 2010 of private households,$100;000 and over,$100;000 to $124;999,45,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,After-tax income of households in 2010 of private households,$100;000 and over,$125;000 and over,40,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,,,Household income in 2010 of private households,460,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Household income in 2010 of private households,,Median household total income $,60271,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Household income in 2010 of private households,,Average household total income $,72715,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Household income in 2010 of private households,,Median after-tax household income $,55254,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Household income in 2010 of private households,,Average after-tax household income $,63842,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Household income in 2010 of private households,,One-person private households,135,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Household income in 2010 of private households,One-person private households,Median household total income $,30362,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Household income in 2010 of private households,One-person private households,Average household total income $,40030,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Household income in 2010 of private households,One-person private households,Median after-tax household income $,28023,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Household income in 2010 of private households,One-person private households,Average after-tax household income $,35283,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Household income in 2010 of private households,,Two-or-more-persons private households,330,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Household income in 2010 of private households,Two-or-more-persons private households,Median household total income $,73741,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Household income in 2010 of private households,Two-or-more-persons private households,Average household total income $,86255,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Household income in 2010 of private households,Two-or-more-persons private households,Median after-tax household income $,67659,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Household income in 2010 of private households,Two-or-more-persons private households,Average after-tax household income $,75672,,,,,,,,YBS003032033034035

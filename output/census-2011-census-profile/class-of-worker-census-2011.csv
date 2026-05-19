@@ -1,0 +1,106 @@
+census_year,geo_name,category,subcategory,variable_name,total,male,female,flag_total,flag_male,flag_female,geo_location,data_notes,geo_code
+2011,Yukon,,,Total labour force aged 15 years and over by class of worker,21250,10810,10435,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs84'>84</a>,6001
+2011,Yukon,Total labour force aged 15 years and over by class of worker,,Class of worker - not applicable,370,210,160,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs85'>85</a>,6001
+2011,Yukon,Total labour force aged 15 years and over by class of worker,,All classes of worker,20880,10600,10275,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs86'>86</a>,6001
+2011,Yukon,Total labour force aged 15 years and over by class of worker,All classes of worker,Employee,18435,9075,9370,,,,,,6001
+2011,Yukon,Total labour force aged 15 years and over by class of worker,All classes of worker,Self-employed,2440,1530,905,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs87'>87</a>,6001
+2011,Whitehorse - City,,,Total labour force aged 15 years and over by class of worker,14890,7490,7400,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs84'>84</a>,6001009
+2011,Whitehorse - City,Total labour force aged 15 years and over by class of worker,,Class of worker - not applicable,225,110,115,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs85'>85</a>,6001009
+2011,Whitehorse - City,Total labour force aged 15 years and over by class of worker,,All classes of worker,14665,7375,7285,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs86'>86</a>,6001009
+2011,Whitehorse - City,Total labour force aged 15 years and over by class of worker,All classes of worker,Employee,13035,6420,6615,,,,,,6001009
+2011,Whitehorse - City,Total labour force aged 15 years and over by class of worker,All classes of worker,Self-employed,1630,955,675,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs87'>87</a>,6001009
+2011,Alaska Highway North Region,,,Total labour force aged 15 years and over by class of worker,540,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total labour force aged 15 years and over by class of worker,,Class of worker - not applicable,0,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total labour force aged 15 years and over by class of worker,,All classes of worker,540,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total labour force aged 15 years and over by class of worker,All classes of worker,Employee,485,,,,,,,,YBS042039049018
+2011,Alaska Highway North Region,Total labour force aged 15 years and over by class of worker,All classes of worker,Self-employed,50,,,,,,,,YBS042039049018
+2011,Beaver Creek,,,Total labour force aged 15 years and over by class of worker,75,40,35,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs84'>84</a>,6001042
+2011,Beaver Creek,Total labour force aged 15 years and over by class of worker,,Class of worker - not applicable,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs85'>85</a>,6001042
+2011,Beaver Creek,Total labour force aged 15 years and over by class of worker,,All classes of worker,75,40,35,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs86'>86</a>,6001042
+2011,Beaver Creek,Total labour force aged 15 years and over by class of worker,All classes of worker,Employee,75,40,30,,,,,,6001042
+2011,Beaver Creek,Total labour force aged 15 years and over by class of worker,All classes of worker,Self-employed,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs87'>87</a>,6001042
+2011,Burwash Landing,,,Total labour force aged 15 years and over by class of worker,55,35,25,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs84'>84</a>,6001039
+2011,Burwash Landing,Total labour force aged 15 years and over by class of worker,,Class of worker - not applicable,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs85'>85</a>,6001039
+2011,Burwash Landing,Total labour force aged 15 years and over by class of worker,,All classes of worker,55,35,20,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs86'>86</a>,6001039
+2011,Burwash Landing,Total labour force aged 15 years and over by class of worker,All classes of worker,Employee,50,30,20,,,,,,6001039
+2011,Burwash Landing,Total labour force aged 15 years and over by class of worker,All classes of worker,Self-employed,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs87'>87</a>,6001039
+2011,Carcross,,,Total labour force aged 15 years and over by class of worker,170,100,70,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs84'>84</a>,6001048
+2011,Carcross,Total labour force aged 15 years and over by class of worker,,Class of worker - not applicable,15,10,10,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs85'>85</a>,6001048
+2011,Carcross,Total labour force aged 15 years and over by class of worker,,All classes of worker,150,90,70,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs86'>86</a>,6001048
+2011,Carcross,Total labour force aged 15 years and over by class of worker,All classes of worker,Employee,135,70,65,,,,,,6001048
+2011,Carcross,Total labour force aged 15 years and over by class of worker,All classes of worker,Self-employed,20,15,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs87'>87</a>,6001048
+2011,Carcross Region,,,Total labour force aged 15 years and over by class of worker,200,,,,,,,,YBS048008
+2011,Carcross Region,Total labour force aged 15 years and over by class of worker,,Class of worker - not applicable,15,,,,,,,,YBS048008
+2011,Carcross Region,Total labour force aged 15 years and over by class of worker,,All classes of worker,185,,,,,,,,YBS048008
+2011,Carcross Region,Total labour force aged 15 years and over by class of worker,All classes of worker,Employee,165,,,,,,,,YBS048008
+2011,Carcross Region,Total labour force aged 15 years and over by class of worker,All classes of worker,Self-employed,20,,,,,,,,YBS048008
+2011,Carcross 4,,,Total labour force aged 15 years and over by class of worker,30,20,15,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs84'>84</a>,6001008
+2011,Carcross 4,Total labour force aged 15 years and over by class of worker,,Class of worker - not applicable,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs85'>85</a>,6001008
+2011,Carcross 4,Total labour force aged 15 years and over by class of worker,,All classes of worker,30,15,15,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs86'>86</a>,6001008
+2011,Carcross 4,Total labour force aged 15 years and over by class of worker,All classes of worker,Employee,30,20,15,,,,,,6001008
+2011,Carcross 4,Total labour force aged 15 years and over by class of worker,All classes of worker,Self-employed,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs87'>87</a>,6001008
+2011,Carcross-Tagish Region,,,Total labour force aged 15 years and over by class of worker,395,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total labour force aged 15 years and over by class of worker,,Class of worker - not applicable,15,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total labour force aged 15 years and over by class of worker,,All classes of worker,380,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total labour force aged 15 years and over by class of worker,All classes of worker,Employee,330,,,,,,,,YBS048008036
+2011,Carcross-Tagish Region,Total labour force aged 15 years and over by class of worker,All classes of worker,Self-employed,50,,,,,,,,YBS048008036
+2011,Dawson,,,Total labour force aged 15 years and over by class of worker,960,485,475,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs84'>84</a>,6001029
+2011,Dawson,Total labour force aged 15 years and over by class of worker,,Class of worker - not applicable,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs85'>85</a>,6001029
+2011,Dawson,Total labour force aged 15 years and over by class of worker,,All classes of worker,955,480,475,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs86'>86</a>,6001029
+2011,Dawson,Total labour force aged 15 years and over by class of worker,All classes of worker,Employee,855,405,450,,,,,,6001029
+2011,Dawson,Total labour force aged 15 years and over by class of worker,All classes of worker,Self-employed,100,75,25,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs87'>87</a>,6001029
+2011,Faro,,,Total labour force aged 15 years and over by class of worker,195,115,85,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs84'>84</a>,6001004
+2011,Faro,Total labour force aged 15 years and over by class of worker,,Class of worker - not applicable,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs85'>85</a>,6001004
+2011,Faro,Total labour force aged 15 years and over by class of worker,,All classes of worker,200,110,85,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs86'>86</a>,6001004
+2011,Faro,Total labour force aged 15 years and over by class of worker,All classes of worker,Employee,185,105,80,,,,,,6001004
+2011,Faro,Total labour force aged 15 years and over by class of worker,All classes of worker,Self-employed,10,10,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs87'>87</a>,6001004
+2011,Haines Junction,,,Total labour force aged 15 years and over by class of worker,395,195,200,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs84'>84</a>,6001018
+2011,Haines Junction,Total labour force aged 15 years and over by class of worker,,Class of worker - not applicable,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs85'>85</a>,6001018
+2011,Haines Junction,Total labour force aged 15 years and over by class of worker,,All classes of worker,390,190,200,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs86'>86</a>,6001018
+2011,Haines Junction,Total labour force aged 15 years and over by class of worker,All classes of worker,Employee,350,165,185,,,,,,6001018
+2011,Haines Junction,Total labour force aged 15 years and over by class of worker,All classes of worker,Self-employed,45,25,20,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs87'>87</a>,6001018
+2011,Mt. Lorne,,,Total labour force aged 15 years and over by class of worker,255,140,115,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs84'>84</a>,6001044
+2011,Mt. Lorne,Total labour force aged 15 years and over by class of worker,,Class of worker - not applicable,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs85'>85</a>,6001044
+2011,Mt. Lorne,Total labour force aged 15 years and over by class of worker,,All classes of worker,255,135,120,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs86'>86</a>,6001044
+2011,Mt. Lorne,Total labour force aged 15 years and over by class of worker,All classes of worker,Employee,220,115,100,,,,,,6001044
+2011,Mt. Lorne,Total labour force aged 15 years and over by class of worker,All classes of worker,Self-employed,35,20,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs87'>87</a>,6001044
+2011,Old Crow,,,Total labour force aged 15 years and over by class of worker,135,80,60,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs84'>84</a>,6001043
+2011,Old Crow,Total labour force aged 15 years and over by class of worker,,Class of worker - not applicable,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs85'>85</a>,6001043
+2011,Old Crow,Total labour force aged 15 years and over by class of worker,,All classes of worker,135,80,60,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs86'>86</a>,6001043
+2011,Old Crow,Total labour force aged 15 years and over by class of worker,All classes of worker,Employee,135,75,55,,,,,,6001043
+2011,Old Crow,Total labour force aged 15 years and over by class of worker,All classes of worker,Self-employed,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs87'>87</a>,6001043
+2011,Pelly Crossing,,,Total labour force aged 15 years and over by class of worker,190,110,80,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs84'>84</a>,6001041
+2011,Pelly Crossing,Total labour force aged 15 years and over by class of worker,,Class of worker - not applicable,25,20,10,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs85'>85</a>,6001041
+2011,Pelly Crossing,Total labour force aged 15 years and over by class of worker,,All classes of worker,160,90,70,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs86'>86</a>,6001041
+2011,Pelly Crossing,Total labour force aged 15 years and over by class of worker,All classes of worker,Employee,160,95,70,,,,,,6001041
+2011,Pelly Crossing,Total labour force aged 15 years and over by class of worker,All classes of worker,Self-employed,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs87'>87</a>,6001041
+2011,Ross River,,,Total labour force aged 15 years and over by class of worker,210,115,100,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs84'>84</a>,6001037
+2011,Ross River,Total labour force aged 15 years and over by class of worker,,Class of worker - not applicable,20,20,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs85'>85</a>,6001037
+2011,Ross River,Total labour force aged 15 years and over by class of worker,,All classes of worker,190,95,90,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs86'>86</a>,6001037
+2011,Ross River,Total labour force aged 15 years and over by class of worker,All classes of worker,Employee,180,90,90,,,,,,6001037
+2011,Ross River,Total labour force aged 15 years and over by class of worker,All classes of worker,Self-employed,10,10,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs87'>87</a>,6001037
+2011,Teslin Region,,,Total labour force aged 15 years and over by class of worker,125,,,,,,,,YBS006057007
+2011,Teslin Region,Total labour force aged 15 years and over by class of worker,,Class of worker - not applicable,10,,,,,,,,YBS006057007
+2011,Teslin Region,Total labour force aged 15 years and over by class of worker,,All classes of worker,110,,,,,,,,YBS006057007
+2011,Teslin Region,Total labour force aged 15 years and over by class of worker,All classes of worker,Employee,95,,,,,,,,YBS006057007
+2011,Teslin Region,Total labour force aged 15 years and over by class of worker,All classes of worker,Self-employed,20,,,,,,,,YBS006057007
+2011,Teslin Post 13,,,Total labour force aged 15 years and over by class of worker,55,30,30,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs84'>84</a>,6001007
+2011,Teslin Post 13,Total labour force aged 15 years and over by class of worker,,Class of worker - not applicable,10,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs85'>85</a>,6001007
+2011,Teslin Post 13,Total labour force aged 15 years and over by class of worker,,All classes of worker,50,25,25,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs86'>86</a>,6001007
+2011,Teslin Post 13,Total labour force aged 15 years and over by class of worker,All classes of worker,Employee,45,25,25,,,,,,6001007
+2011,Teslin Post 13,Total labour force aged 15 years and over by class of worker,All classes of worker,Self-employed,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs87'>87</a>,6001007
+2011,Upper Liard,,,Total labour force aged 15 years and over by class of worker,75,45,25,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs84'>84</a>,6001032
+2011,Upper Liard,Total labour force aged 15 years and over by class of worker,,Class of worker - not applicable,20,15,10,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs85'>85</a>,6001032
+2011,Upper Liard,Total labour force aged 15 years and over by class of worker,,All classes of worker,50,30,15,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs86'>86</a>,6001032
+2011,Upper Liard,Total labour force aged 15 years and over by class of worker,All classes of worker,Employee,45,25,20,,,,,,6001032
+2011,Upper Liard,Total labour force aged 15 years and over by class of worker,All classes of worker,Self-employed,0,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs87'>87</a>,6001032
+2011,Watson Lake,,,Total labour force aged 15 years and over by class of worker,510,275,230,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs84'>84</a>,6001003
+2011,Watson Lake,Total labour force aged 15 years and over by class of worker,,Class of worker - not applicable,10,0,0,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs85'>85</a>,6001003
+2011,Watson Lake,Total labour force aged 15 years and over by class of worker,,All classes of worker,500,275,230,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs86'>86</a>,6001003
+2011,Watson Lake,Total labour force aged 15 years and over by class of worker,All classes of worker,Employee,440,230,215,,,,,,6001003
+2011,Watson Lake,Total labour force aged 15 years and over by class of worker,All classes of worker,Self-employed,60,50,15,,,,,<a target='_blank' href='https://community-statistics.service.yukon.ca/pages/census-2011-data-notes#nhs87'>87</a>,6001003
+2011,Watson Lake Region,,,Total labour force aged 15 years and over by class of worker,630,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total labour force aged 15 years and over by class of worker,,Class of worker - not applicable,35,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total labour force aged 15 years and over by class of worker,,All classes of worker,600,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total labour force aged 15 years and over by class of worker,All classes of worker,Employee,530,,,,,,,,YBS003032033034035
+2011,Watson Lake Region,Total labour force aged 15 years and over by class of worker,All classes of worker,Self-employed,65,,,,,,,,YBS003032033034035
