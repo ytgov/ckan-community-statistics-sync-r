@@ -2,6 +2,7 @@ library(tidyverse)
 library(jsonlite)
 library(janitor)
 library(fs)
+library(ckanr)
 
 # Logging helper ----------------------------------------------------------
 
@@ -33,19 +34,19 @@ add_log_entry(str_c("Start time was: ", run_start_time))
 
 # CKAN setup --------------------------------------------------------------
 
-# if(file_exists(".env")) {
-#   readRenviron(".env")
-#   
-#   ckan_url <- Sys.getenv("ckan_url")
-#   
-#   ckanr_setup(
-#     url = ckan_url, 
-#     key = Sys.getenv("ckan_api_token")
-#   )
-#   
-# } else {
-#   stop("No .env file found, create it before running this script.")
-# }
+if(file_exists(".env")) {
+  readRenviron(".env")
+
+  ckan_url <- Sys.getenv("ckan_url")
+
+  ckanr_setup(
+    url = ckan_url,
+    key = Sys.getenv("ckan_api_token")
+  )
+
+} else {
+  stop("No .env file found, create it before running this script.")
+}
 
 
 
@@ -144,4 +145,136 @@ download_and_save_arcgis_csv_file <- function(csv_download_url, destination_data
   
   write_csv(csv_data, str_c("output/", destination_dataset, "/", csv_file_name), na = "")
   
+}
+
+
+
+# Bulk resource upsert (resource create or update) functions ---------------------------------------------------
+
+
+upsert_package_resource <- function(package_name, resource_title, resource_description, csv_file_name, replace_existing_files = TRUE) {
+  
+  # This in-efficiently checks if a package exists per upload, rather than once and storing it
+  
+  # package_name <- "bulk-upload-testing-001"
+  package <- NULL;
+  
+  tryCatch({
+    package <- package_show(package_name, as = "table")
+  }, error = function(e) {
+    add_log_entry(e$message)
+    add_log_entry(str_c("No package with the name ", package_name, " found on ", ckan_url))
+  })
+  
+  # package |> View()
+  
+  if(is.null(package)) {
+    return(NULL);
+  }
+  
+  package_id <- package$id
+  
+  if(package$num_resources > 0) {
+    existing_package_resources <- package$resources |> pull(name)
+    existing_package_resources_data <- package$resources |> as_tibble()
+  }
+  else {
+    existing_package_resources <- NA_character_
+    existing_package_resources_data <- tibble()
+  }
+  
+  new_resource_name <- resource_title
+  csv_file_path <- path("output", package_name, csv_file_name)
+  
+  if(new_resource_name %in% existing_package_resources) {
+    
+    if(replace_existing_files == TRUE) {
+      
+      # Find matching resource ID
+      resource_id <- NA_character_
+      
+      resource_id <- existing_package_resources_data |> 
+        filter(name == new_resource_name) |> 
+        first() |> 
+        pull("id")
+      
+      if(! is.na(resource_id)) {
+        
+        add_log_entry(str_c("Replacing existing resource '", new_resource_name, "' with ", csv_file_path))
+        
+        resource_update(
+          id = resource_id,
+          name = new_resource_name,
+          path = csv_file_path,
+        )
+        
+        Sys.sleep(0.1)
+        
+        resource_patch(
+          list(
+            description = resource_description,
+            name = new_resource_name
+          ),
+          id = resource_id
+        )
+        
+        
+        Sys.sleep(0.4)
+        
+      }
+      else {
+        add_log_entry(str_c("Error when trying to replace existing resource '", new_resource_name, "' with ", csv_file_path))
+      }
+      
+      
+      
+      
+    }
+    else {
+      
+      add_log_entry(str_c("Did not upload ", csv_file_path, "; resource named '", new_resource_name, "' already exists."))
+      
+    }
+    
+  }
+  else {
+    
+    add_log_entry(str_c("Uploading ", csv_file_path))
+    
+    resource_create(
+      package_id = package_id,
+      upload = csv_file_path,
+      name = new_resource_name,
+      description = resource_description
+    )
+    
+    
+    Sys.sleep(0.4)
+  }
+  
+  
+}
+
+
+upsert_all_package_resources <- function(catalog, replace_existing_files = TRUE) {
+  
+  for (i in seq_along(catalog$id)) { 
+    
+    add_log_entry("Uploading ", catalog$title[i])
+    
+    tryCatch({
+      
+      upsert_package_resource(
+        catalog$destination_dataset[i],
+        catalog$title[i],
+        catalog$snippet[i],
+        catalog$csv_file_name[i]
+      )
+      
+    }, error = function(e) {
+      add_log_entry(e$message)
+      add_log_entry("Error uploading ", catalog$title[i], " to ", catalog$destination_dataset[i], " (", catalog$csv_file_name[i], ")")
+    })
+  
+  }
 }
