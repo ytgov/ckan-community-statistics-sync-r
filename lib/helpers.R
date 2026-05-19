@@ -1,5 +1,4 @@
 library(tidyverse)
-library(crul)
 library(jsonlite)
 library(janitor)
 library(fs)
@@ -81,15 +80,34 @@ post_process_cs_data <- function(df) {
   
   df <- df |> 
     relocate(
+      any_of("census_year"),
       any_of("year"),
       any_of("quarter"),
       any_of("month"),
       any_of("region"),
+      any_of("geo_name"),
+      
+      any_of("category"),
+      any_of("subcategory"),
+      any_of("sub_category"),
+      any_of("variable_name"),
+      any_of("topic"),
+      
+      any_of("total"),
+      any_of("male"),
+      any_of("female"),
+      any_of("flag_total"),
+      any_of("flag_male"),
+      any_of("flag_female"),
       # any_of("regionzz"),
       # everything(),
       !any_of("geographic_boundary"),
       any_of("geographic_boundary")
     )
+  
+  # Clear empty rows (resolves an issue with the Crime dataset)
+  df <- df |> 
+    drop_na(any_of("year"))
   
   # Unselect object_id
   df <- df |> 
@@ -106,7 +124,19 @@ download_and_save_arcgis_csv_file <- function(csv_download_url, destination_data
   
   add_log_entry("Downloading ", csv_download_url, " to ", destination_dataset, "/", csv_file_name)
   
-  csv_data <- read_csv(csv_download_url)
+  csv_data <- NULL;
+  
+  tryCatch({
+    csv_data <- read_csv(csv_download_url)
+  }, error = function(e) {
+    add_log_entry(e$message)
+    add_log_entry("Error: could not download ", csv_download_url)
+  })
+  
+  if(is.null(csv_data)) {
+    # Stop this function:
+    return(NULL)
+  }
   
   csv_data <- post_process_cs_data(csv_data)
   
